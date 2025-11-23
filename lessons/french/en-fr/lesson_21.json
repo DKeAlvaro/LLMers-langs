@@ -81,17 +81,16 @@
           "chatbot_message": "Bonjour."
         },
         {
-          "title": "Greet the pharmacist",
-          "chatbot_message": "Bonjour. Oui ?",
-          "user_goal": "Bonjour"
-        },
-        {
           "title": "State you are here for a prescription",
-          "chatbot_message": "D'accord. Pour {user_name}. Vous avez votre pièce d'identité ?",
+          "chatbot_message": "Bonjour. Oui ?",
           "user_goal": "Je viens chercher une ordonnance pour {user_name}",
           "extract_info": {
             "user_name": "Extract the user's name from their message"
           }
+        },
+        {
+          "title": "Ask for ID",
+          "chatbot_message": "D'accord. Pour {user_name}. Vous avez votre pièce d'identité ?"
         },
         {
           "title": "Hand over your ID",

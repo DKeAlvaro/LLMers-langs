@@ -100,15 +100,15 @@
           "chatbot_message": "Guten Tag!"
         },
         {
-          "title": "Say you want to pick up a prescription",
-          "chatbot_message": "Gerne. Wie ist Ihr Name?"
-        },
-        {
           "title": "State your name",
-          "chatbot_message": "Danke, {user_name}. Haben Sie das Rezept hier?",
+          "chatbot_message": "Gerne. Wie ist Ihr Name?",
           "extract_info": {
             "user_name": "Extract the user's name from their message"
           }
+        },
+        {
+          "title": "Ask for prescription",
+          "chatbot_message": "Danke, {user_name}. Haben Sie das Rezept hier?"
         },
         {
           "title": "Hand over the prescription",

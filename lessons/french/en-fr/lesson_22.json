@@ -181,14 +181,15 @@
       "setting": "The employee now needs your personal details for the delivery.",
       "conversation_flow": [
         {
-          "chatbot_message": "Parfait. Pour la livraison, quel est votre nom ?"
-        },
-        {
           "title": "State your name",
-          "chatbot_message": "Merci, {user_name}. Et quelle est votre adresse ?",
+          "chatbot_message": "Parfait. Pour la livraison, quel est votre nom ?",
           "extract_info": {
             "user_name": "Extract the user's name from their message"
           }
+        },
+        {
+          "title": "Give your address",
+          "chatbot_message": "Merci, {user_name}. Et quelle est votre adresse ?"
         },
         {
           "title": "Give your address",

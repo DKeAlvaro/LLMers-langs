@@ -58,15 +58,15 @@
       "setting": "You are sitting in the classroom. A classmate next to you, Alex, initiates a conversation.",
       "conversation_flow": [
         {
-          "title": "Initial greeting",
-          "chatbot_message": "Hallo! Ich heiße Alex. Wie heißt du?"
-        },
-        {
           "title": "State your name",
-          "chatbot_message": "Freut mich, {user_name}!",
+          "chatbot_message": "Hallo! Ich heiße Alex. Wie heißt du?",
           "extract_info": {
             "user_name": "Extract the user's name from their message"
           }
+        },
+        {
+          "title": "Say it's nice to meet them",
+          "chatbot_message": "Freut mich, {user_name}!"
         },
         {
           "title": "Say it's nice to meet them"
