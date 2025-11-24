@@ -62,26 +62,26 @@
     {
       "type": "interactive_scenario",
       "scenario_id": "L01_SP_S01",
-      "title": "Presentaciones iniciales",
-      "setting": "Estás en el aula esperando tu primera clase de español. Un compañero de al lado inicia una conversación.",
+      "title": "A Simple Introduction in Spanish",
+      "setting": "You've just met someone new, Lucas, and are introducing yourselves to each other.",
       "conversation_flow": [
         {
-          "title": "Tell the bot your name",
+          "title": "Tell Lucas your name",
           "chatbot_message": "Hola, ¿cómo te llamas?",
           "extract_info": {
-            "user_name": "..."
+            "name": "..."
           }
         },
         {
-          "title": "Ask for the bot's name",
-          "chatbot_message": "¡Hola, {user_name}! Mucho gusto."
+          "title": "Ask Lucas for his name",
+          "chatbot_message": "Mucho gusto, {name}."
         },
         {
           "title": "Tell Lucas you are also pleased to meet him",
-          "chatbot_message": "Me llamo Lucas. Encantado de conocerte."
+          "chatbot_message": "Me llamo Lucas."
         },
         {
-          "title": "Say goodbye",
+          "title": "Say goodbye to Lucas",
           "chatbot_message": "El gusto es mío."
         }
       ]
