@@ -66,7 +66,7 @@
       "setting": "Estás en el aula esperando tu primera clase de español. Un compañero de al lado inicia una conversación.",
       "conversation_flow": [
         {
-          "title": "Say your name",
+          "title": "Tell the bot your name",
           "chatbot_message": "Hola, ¿cómo te llamas?",
           "extract_info": {
             "user_name": "..."
@@ -77,12 +77,12 @@
           "chatbot_message": "¡Hola, {user_name}! Mucho gusto."
         },
         {
-          "title": "Say 'Likewise'",
+          "title": "Tell Lucas you are also pleased to meet him",
           "chatbot_message": "Me llamo Lucas. Encantado de conocerte."
         },
         {
           "title": "Say goodbye",
-          "chatbot_message": "¡Genial! ¿Necesitas algo más?"
+          "chatbot_message": "El gusto es mío."
         }
       ]
     },
