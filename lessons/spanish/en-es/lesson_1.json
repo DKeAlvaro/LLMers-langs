@@ -66,8 +66,8 @@
       "setting": "Estás en el aula esperando tu primera clase de español. Un compañero de al lado inicia una conversación.",
       "conversation_flow": [
         {
-          "title": "Classmate says hello",
-          "chatbot_message": "Hola.",
+          "title": "Introduce yourself and say your name",
+          "chatbot_message": "Hola, ¿cómo te llamas?",
           "user_response": {
             "goal_id": "L01_SP_S01_U01",
             "extract_info": {
@@ -76,22 +76,22 @@
           }
         },
         {
-          "title": "Classmate says hello to you by name",
-          "chatbot_message": "Hola, {user_name}.",
+          "title": "Ask for his name",
+          "chatbot_message": "¡Hola, {user_name}! Mucho gusto.",
           "user_response": {
             "goal_id": "L01_SP_S01_U02"
           }
         },
         {
-          "title": "Classmate introduces himself as Lucas",
-          "chatbot_message": "Me llamo Lucas.",
+          "title": "Say your name",
+          "chatbot_message": "¿Y tú, cómo te llamas?",
           "user_response": {
             "goal_id": "L01_SP_S01_U03"
           }
         },
         {
-          "title": "Classmate says 'Likewise'",
-          "chatbot_message": "Igualmente."
+          "title": "Say 'Likewise'",
+          "chatbot_message": "Me llamo Lucas. Encantado de conocerte."
         }
       ]
     },
