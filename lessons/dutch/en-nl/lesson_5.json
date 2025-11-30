@@ -4,19 +4,32 @@
   "content": [
     {
       "type": "tip",
-      "text": "You're at the self-checkout in a Dutch supermarket. The machine is beeping, and an employee has come to help. They ask you a question you don't understand."
+      "text": "You're at a self-checkout in an Albert Heijn supermarket. The machine is beeping, and an employee comes to help. They'll ask you a question you don't understand."
     },
     {
       "type": "expression",
       "item_id": "L05_E01",
       "data": {
-        "phrase": "Ik begrijp het niet",
-        "meaning": "I don't understand it"
+        "Ik begrijp het niet": "I don't understand"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L05_V01",
+      "data": {
+        "Ik spreek": "I speak"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L05_V02",
+      "data": {
+        "niet zo goed": "not so well"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L05_V03",
       "data": {
         "Nederlands": "Dutch"
       }
@@ -25,172 +38,156 @@
       "type": "expression",
       "item_id": "L05_E02",
       "data": {
-        "phrase": "Ik spreek",
-        "meaning": "I speak"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L05_V02",
-      "data": {
-        "niet zo goed": "not so good"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L05_E03",
-      "data": {
-        "phrase": "Ik spreek niet zo goed Nederlands",
-        "meaning": "I don't speak Dutch very well"
+        "Ik spreek niet zo goed Nederlands": "I don't speak Dutch very well"
       }
     },
     {
       "type": "pronunciation",
       "item_id": "L05_P01",
       "data": {
-        "word": "begrijp",
-        "phonetic": "/bəˈɣrɛip/",
-        "tip": "The Dutch 'g' is a soft, throaty sound, similar to the 'ch' in the Scottish 'loch'."
+        "word": "goed",
+        "phonetic": "/ɣut/",
+        "tip": "The Dutch 'g' is a soft, throaty sound, like the 'ch' in 'loch'. It's not a hard 'g' like in the English word 'go'."
       }
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L05_S01",
       "title": "Expressing Confusion",
-      "setting": "You are at the Albert Heijn self-checkout. An employee approaches you and says:",
+      "setting": "An Albert Heijn employee has approached your beeping self-checkout machine.",
       "conversation_flow": [
         {
-          "title": "Say you don't understand",
-          "chatbot_message": "Hallo. Heeft u een bonuskaart?"
+          "title": "State that you don't understand",
+          "chatbot_message": "Goedemiddag. Even kijken... Heeft u een bonuskaart?"
         },
         {
-          "title": "Explain you don't speak Dutch well",
-          "chatbot_message": "Oh, oké."
+          "title": "Explain that you don't speak Dutch very well",
+          "chatbot_message": "Oh, sorry. Ik zal het langzamer zeggen."
         }
       ]
     },
     {
       "type": "tip",
-      "text": "Great! The employee now understands the situation and will try to simplify their question."
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L05_V03",
-      "data": {
-        "De bonuskaart": "The loyalty card"
-      }
+      "text": "The employee now understands you're learning Dutch. They will try to simplify the question about the store's loyalty card, the 'Bonuskaart'."
     },
     {
       "type": "vocabulary",
       "item_id": "L05_V04",
       "data": {
-        "Ja": "Yes"
+        "Nee": "No"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L05_V05",
       "data": {
-        "Nee": "No"
+        "Ik heb": "I have"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L05_V06",
+      "data": {
+        "geen": "no / not a"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L05_V07",
+      "data": {
+        "Bonuskaart": "Bonus card (loyalty card)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L05_E03",
+      "data": {
+        "Ik heb geen bonuskaart": "I don't have a bonus card"
       }
     },
     {
       "type": "tip",
-      "text": "To negate a thing, use 'geen'. For example, to say you don't have 'a bonuskaart', you say 'geen bonuskaart'."
+      "text": "To say you don't have a noun (like a bonus card), use 'geen'. For example, 'Ik heb geen auto' (I don't have a car)."
+    },
+    {
+      "type": "interactive_scenario",
+      "scenario_id": "L05_S02",
+      "title": "Answering the Question",
+      "setting": "The employee is clarifying their question about the loyalty card.",
+      "conversation_flow": [
+        {
+          "title": "Answer 'no' and say you don't have a bonus card",
+          "chatbot_message": "Ah, geen probleem. De bonuskaart... de klantenkaart van Albert Heijn. Heeft u die?"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Perfect! The employee has fixed the machine. Now you just need to pay and thank them for their help."
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L05_V08",
+      "data": {
+        "Kan ik...?": "Can I...?"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L05_V09",
+      "data": {
+        "pinnen": "to pay by debit card"
+      }
+    },
+    {
+      "type": "tip",
+      "text": "In the Netherlands, 'pinnen' is the verb for paying with a debit card and PIN. It's the most common way to pay."
     },
     {
       "type": "expression",
       "item_id": "L05_E04",
       "data": {
-        "phrase": "Ik heb",
-        "meaning": "I have"
+        "Kan ik pinnen?": "Can I pay by card?"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L05_V10",
+      "data": {
+        "Dank u wel": "Thank you (formal)"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L05_V11",
+      "data": {
+        "voor de hulp": "for the help"
       }
     },
     {
       "type": "expression",
       "item_id": "L05_E05",
       "data": {
-        "phrase": "Ik heb geen bonuskaart",
-        "meaning": "I do not have a loyalty card"
-      }
-    },
-    {
-      "type": "interactive_scenario",
-      "scenario_id": "L05_S02",
-      "title": "Answering the Question",
-      "setting": "The employee tries again with a simpler question.",
-      "conversation_flow": [
-        {
-          "title": "Answer that you don't have a loyalty card",
-          "chatbot_message": "Oké. De bonuskaart. Ja of nee?"
-        }
-      ]
-    },
-    {
-      "type": "tip",
-      "text": "Excellent. The problem is solved. Now you just need to pay and thank them for their help."
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L05_V06",
-      "data": {
-        "Pinnen": "To pay with a debit card"
+        "Dank u wel voor de hulp": "Thank you for the help"
       }
     },
     {
       "type": "tip",
-      "text": "'Pinnen' is a very common verb used specifically for debit card payments in the Netherlands."
-    },
-    {
-      "type": "expression",
-      "item_id": "L05_E06",
-      "data": {
-        "phrase": "Kan ik...?",
-        "meaning": "Can I...?"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L05_E07",
-      "data": {
-        "phrase": "Kan ik pinnen?",
-        "meaning": "Can I pay with a card?"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L05_E08",
-      "data": {
-        "phrase": "Dank je wel",
-        "meaning": "Thank you very much"
-      }
-    },
-    {
-      "type": "pronunciation",
-      "item_id": "L05_P02",
-      "data": {
-        "word": "pinnen",
-        "phonetic": "/ˈpɪnə(n)/",
-        "tip": "The 'i' sound is short and sharp, like in the English word 'pin'."
-      }
+      "text": "Use 'Dank u wel' when speaking formally to people you don't know, like employees. Use 'Dank je wel' for friends and family."
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L05_S03",
-      "title": "Finishing the Transaction",
-      "setting": "The employee has cleared the error and is ready for you to pay.",
+      "title": "Finalizing the Transaction",
+      "setting": "The employee has cleared the error on the machine so you can pay.",
       "conversation_flow": [
         {
           "title": "Ask if you can pay by card",
-          "chatbot_message": "Oké. Geen probleem."
+          "chatbot_message": "Oké, geen bonuskaart. Dan druk ik hier. Zo, u kunt nu betalen."
         },
         {
-          "title": "Thank the employee",
-          "chatbot_message": "Ja, dat kan."
-        },
-        {
-          "title": "End of conversation",
-          "chatbot_message": "Graag gedaan. Fijne dag!"
+          "title": "Thank the employee for their help",
+          "chatbot_message": "Jazeker. U kunt uw pas invoeren."
         }
       ]
     }
