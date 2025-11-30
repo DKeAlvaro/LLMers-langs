@@ -1,10 +1,10 @@
 {
   "id": "L01",
-  "title": "Lesson 1: The First Koffie Verkeerd",
+  "title": "The First Koffie Verkeerd",
   "content": [
     {
       "type": "tip",
-      "text": "Welcome to your first Dutch lesson! You're in a cozy coffee shop ('koffietentje') in Utrecht. The goal is to order your first coffee. Let's start with how to greet the barista."
+      "text": "Welcome to your first Dutch lesson! Imagine you're in a cozy coffee shop ('koffietentje') in Utrecht. Your goal is to order your first coffee. Let's start with how to say hello and get the barista's attention."
     },
     {
       "type": "vocabulary",
@@ -17,140 +17,118 @@
       "type": "expression",
       "item_id": "L01_E01",
       "data": {
-        "phrase": "Ik wil graag...",
-        "meaning": "I would like..."
+        "phrase": "Ik zou graag iets willen bestellen.",
+        "meaning": "I would like to order something."
       }
     },
     {
       "type": "pronunciation",
       "item_id": "L01_P01",
       "data": {
-        "word": "Goedemorgen",
-        "phonetic": "/ˌɣudəˈmɔrɣə(n)/",
-        "tip": "The Dutch 'g' is a 'throaty' sound, made at the back of your throat. It's similar to the 'ch' in the Scottish word 'loch'."
+        "word": "graag",
+        "phonetic": "/ɣraːx/",
+        "tip": "The Dutch 'g' is a soft, throaty sound, similar to the 'ch' in the Scottish word 'loch'."
       }
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L01_S01",
       "title": "Greeting the Barista",
-      "setting": "You've reached the front of the line in a relaxed coffee shop. The barista smiles at you, ready to take your order.",
+      "setting": "You're at the counter of a cozy 'koffietentje' in Utrecht. The barista smiles at you.",
       "conversation_flow": [
         {
-          "title": "Greet the barista with 'Good morning'.",
-          "chatbot_message": "Goedemorgen! Zeg het maar."
+          "title": "Say good morning.",
+          "chatbot_message": "Goedemorgen! Zeg het maar. Wat kan ik voor je doen?"
         },
         {
-          "title": "Say that you would like something.",
-          "chatbot_message": "Goedemorgen! Wat mag het zijn voor jou?"
+          "title": "Say you would like to order something.",
+          "chatbot_message": "Natuurlijk. Wat mag het zijn?"
         }
       ]
     },
     {
       "type": "tip",
-      "text": "Great start! Now it's time to order the specific drink. A 'koffie verkeerd' is the Dutch version of a café au lait. It literally means 'wrong coffee' because it has more milk than coffee."
+      "text": "Great! Now for the main event: ordering the drink. A 'koffie verkeerd' (literally 'wrong coffee') is the Dutch version of a café au lait. It's a perfect, gentle first order."
     },
     {
       "type": "vocabulary",
       "item_id": "L01_V02",
       "data": {
-        "een": "one / a",
-        "koffie": "coffee",
-        "alsjeblieft": "please"
+        "de koffie verkeerd": "The 'wrong coffee' (café au lait)",
+        "één": "one"
       }
     },
     {
       "type": "expression",
       "item_id": "L01_E02",
       "data": {
-        "phrase": "Een koffie verkeerd, alsjeblieft.",
+        "phrase": "Eén koffie verkeerd, alsjeblieft.",
         "meaning": "One koffie verkeerd, please."
       }
     },
     {
-      "type": "expression",
-      "item_id": "L01_E03",
+      "type": "vocabulary",
+      "item_id": "L01_V03",
       "data": {
-        "phrase": "Hier opdrinken.",
-        "meaning": "To drink here."
-      }
-    },
-    {
-      "type": "pronunciation",
-      "item_id": "L01_P02",
-      "data": {
-        "word": "verkeerd",
-        "phonetic": "/vərˈkeːrt/",
-        "tip": "The stress is on the second syllable: 'ver-KEERD'. The 'ee' sounds like the 'a' in 'dare'."
+        "hier opdrinken": "to drink here",
+        "meenemen": "to take away / to go"
       }
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L01_S02",
       "title": "Placing Your Order",
-      "setting": "The barista has greeted you and is waiting for your order.",
+      "setting": "The barista is waiting for you to tell them what you want.",
       "conversation_flow": [
         {
           "title": "Order one 'koffie verkeerd'.",
-          "chatbot_message": "Oké, en wat wil je bestellen?"
+          "chatbot_message": "Natuurlijk. Wat mag het zijn?"
         },
         {
-          "title": "Say you want to drink it 'here'.",
-          "chatbot_message": "Prima, een koffie verkeerd. Is dat om hier op te drinken of om mee te nemen?"
+          "title": "Say you will drink it here.",
+          "chatbot_message": "Oké, één koffie verkeerd. Wil je die hier opdrinken of meenemen?"
         }
       ]
     },
     {
       "type": "tip",
-      "text": "Excellent! You've ordered your coffee. Now for the final step: payment. In the Netherlands, 'pinnen' is the extremely common verb for paying with a debit card."
+      "text": "Almost done! Time to pay. In the Netherlands, 'pinnen' is the extremely common verb for paying with a debit card. It's what you'll almost always do in a shop."
+    },
+    {
+      "type": "expression",
+      "item_id": "L01_E03",
+      "data": {
+        "phrase": "Wat kost dat?",
+        "meaning": "How much is that?"
+      }
     },
     {
       "type": "vocabulary",
-      "item_id": "L01_V03",
+      "item_id": "L01_V04",
       "data": {
-        "pinnen": "to pay with a debit card",
+        "pinnen": "to pay by card (with a PIN)",
         "dank je wel": "thank you",
-        "doei": "bye (informal)"
+        "tot ziens": "goodbye / see you"
       }
-    },
-    {
-      "type": "expression",
-      "item_id": "L01_E04",
-      "data": {
-        "phrase": "Hoeveel is het?",
-        "meaning": "How much is it?"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L01_E05",
-      "data": {
-        "phrase": "Ik wil graag pinnen.",
-        "meaning": "I would like to pay by card."
-      }
-    },
-    {
-      "type": "tip",
-      "text": "Notice how the barista uses 'alsjeblieft' when giving you the coffee. It means 'please', but also 'here you are'. Context is key!"
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L01_S03",
       "title": "Paying for Your Coffee",
-      "setting": "The barista finishes making your coffee and places it on the counter for you.",
+      "setting": "The barista gets your coffee ready and is about to tell you the price.",
       "conversation_flow": [
         {
           "title": "Ask how much it costs.",
-          "chatbot_message": "Komt voor elkaar. Zo, alsjeblieft, je koffie verkeerd."
+          "chatbot_message": "Komt eraan! Hier is je koffie alvast."
         },
         {
-          "title": "Say you would like to pay by card.",
-          "chatbot_message": "Dat is drie euro vijftig (€3,50), alsjeblieft."
+          "title": "Say you will pay by card ('pinnen').",
+          "chatbot_message": "Dat is dan drie euro en veertig cent (€3,40), alsjeblieft."
         },
         {
-          "title": "Say 'thank you' and 'goodbye'.",
-          "chatbot_message": "Natuurlijk. De betaling is gelukt. Geniet ervan!",
-          "final_message": "Graag gedaan! Fijne dag nog, doei!"
+          "title": "Say thank you and goodbye.",
+          "chatbot_message": "Prima. Het pinapparaat staat hier. Je kunt je kaart invoeren.",
+          "final_message": "Betaling is gelukt. Alsjeblieft! Geniet van je koffie en nog een fijne dag!"
         }
       ]
     }

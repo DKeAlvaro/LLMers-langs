@@ -4,7 +4,17 @@
   "content": [
     {
       "type": "tip",
-      "text": "You're at a 'borrel' (a casual drinks event) for internationals in Eindhoven. It's a great place to meet new people. A friendly local approaches you."
+      "text": "Welcome to your first Dutch conversation! You're at a 'borrel', a casual drinks event. It's the perfect place to meet people. A friendly local approaches you."
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L02_V01",
+      "data": {
+        "ik": "I",
+        "ben": "am",
+        "uit": "from",
+        "hoi": "hi"
+      }
     },
     {
       "type": "expression",
@@ -26,20 +36,20 @@
       "type": "pronunciation",
       "item_id": "L02_P01",
       "data": {
-        "word": "kom",
-        "phonetic": "/kɔm/",
-        "tip": "Sounds like the 'om' in 'stomp' or 'romp'."
+        "word": "ik",
+        "phonetic": "/ɪk/",
+        "tip": "This is a short, sharp sound, like the 'i' in 'sit', not the 'ee' in 'see'."
       }
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L02_S01",
-      "title": "First Impressions",
-      "setting": "A friendly Dutch person approaches you at the event.",
+      "title": "Introduce Yourself",
+      "setting": "You're at a networking event in Eindhoven. A friendly local named Lars approaches you.",
       "conversation_flow": [
         {
-          "title": "State your name is {user_name}.",
-          "chatbot_message": "Hoi! Goedenavond. Hoe heet jij?",
+          "title": "Tell him your name.",
+          "chatbot_message": "Hoi! Ik ben Lars. Hoe heet jij?",
           "extract_info": {
             "var_name": "user_name"
           }
@@ -52,23 +62,24 @@
     },
     {
       "type": "tip",
-      "text": "Cultural Tip: Dutch people are often quite direct. It's very common to ask about someone's job right after meeting them. It's a normal way to show interest."
+      "text": "Cultural Tip: Don't be surprised if a Dutch person asks about your job right away. It's not considered rude, just a common way to get to know someone."
     },
     {
       "type": "vocabulary",
-      "item_id": "L02_V01",
+      "item_id": "L02_V02",
       "data": {
         "werk": "work",
+        "als": "as",
         "woon": "live",
-        "nu": "now"
+        "in": "in"
       }
     },
     {
       "type": "expression",
       "item_id": "L02_E03",
       "data": {
-        "phrase": "Ik ben {beroep}",
-        "meaning": "I am a {profession}"
+        "phrase": "Ik werk als...",
+        "meaning": "I work as a..."
       }
     },
     {
@@ -80,37 +91,43 @@
       }
     },
     {
+      "type": "pronunciation",
+      "item_id": "L02_P02",
+      "data": {
+        "word": "werk",
+        "phonetic": "/ʋɛrk/",
+        "tip": "The 'w' is soft, like a 'v'. The 'r' is slightly rolled in the back of the throat, but a simple English 'r' sound is fine for now."
+      }
+    },
+    {
       "type": "interactive_scenario",
       "scenario_id": "L02_S02",
-      "title": "Talking About Your Life",
-      "setting": "The conversation continues. He's curious to know more about you.",
+      "title": "Talk About Your Life",
+      "setting": "The conversation with Lars continues. He's curious to learn more about you.",
       "conversation_flow": [
         {
-          "title": "State your profession is {user_job}.",
-          "chatbot_message": "Ah, interessant! En wat voor werk doe je?",
+          "title": "Tell him your profession.",
+          "chatbot_message": "Leuk! Wat voor werk doe je hier in Nederland?",
           "extract_info": {
             "var_name": "user_job"
           }
         },
         {
-          "title": "Tell him you live in {user_city}.",
-          "chatbot_message": "Leuk! Een {user_job}. En waar woon je nu?",
-          "extract_info": {
-            "var_name": "user_city"
-          }
+          "title": "Tell him which city you live in.",
+          "chatbot_message": "Interessant! Een {user_job}. En waar woon je?"
         }
       ]
     },
     {
       "type": "tip",
-      "text": "To return a question, you can repeat the same question with 'jij' (you), or for a quicker response, just say 'En jij?' (And you?)."
+      "text": "Grammar Tip: To ask a simple question, you often just swap the first two words. 'Jij bent...' (You are...) becomes 'Ben jij...?' (Are you...?)."
     },
     {
       "type": "expression",
       "item_id": "L02_E05",
       "data": {
-        "phrase": "Hoe heet jij?",
-        "meaning": "What is your name?"
+        "phrase": "En jij?",
+        "meaning": "And you?"
       }
     },
     {
@@ -122,28 +139,19 @@
       }
     },
     {
-      "type": "pronunciation",
-      "item_id": "L02_P02",
-      "data": {
-        "word": "jij",
-        "phonetic": "/jɛi/",
-        "tip": "The 'ij' sound is unique. It's similar to the 'ey' in the English word 'hey'."
-      }
-    },
-    {
       "type": "interactive_scenario",
       "scenario_id": "L02_S03",
-      "title": "Asking Questions Back",
-      "setting": "You've shared a lot about yourself. Now it's your turn to ask the questions.",
+      "title": "Ask About Him",
+      "setting": "You've shared a bit about yourself. Now it's your turn to ask Lars some questions.",
       "conversation_flow": [
         {
-          "title": "Ask him for his name.",
-          "chatbot_message": "Ah, {user_city}, leuke stad! Ik ben daar soms voor werk."
+          "title": "Ask him a question to keep the conversation going.",
+          "chatbot_message": "Ah, leuke stad! Ik ken het een beetje."
         },
         {
           "title": "Now ask him what he does for work.",
-          "chatbot_message": "Ik ben Bas. Aangenaam kennis te maken!",
-          "final_message": "Ik ben ingenieur bij Philips. Leuk je te ontmoeten, {user_name}! Geniet van de borrel."
+          "chatbot_message": "Goede vraag!",
+          "final_message": "Ik ben een software engineer bij Philips. Erg leuk je te ontmoeten, {user_name}!"
         }
       ]
     }
