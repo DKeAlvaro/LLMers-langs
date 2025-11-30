@@ -1,244 +1,164 @@
 {
   "id": "L1",
-  "title": "First Day at Language School",
+  "title": "The First Koffie Verkeerd",
   "content": [
     {
       "type": "tip",
-      "text": "Welcome! You're at your first Dutch class. Let's learn how to introduce yourself to a classmate."
+      "text": "Welcome! In this lesson, you'll learn how to order your first coffee in a Dutch coffee shop, or 'koffietentje'."
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L1_V01",
+      "data": {
+        "Het koffietentje": "The coffee shop"
+      }
     },
     {
       "type": "expression",
       "item_id": "L1_E01",
       "data": {
-        "phrase": "Hallo",
-        "meaning": "Hello"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L1_E02",
-      "data": {
-        "phrase": "Ik heet...",
-        "meaning": "My name is..."
+        "phrase": "Goedemorgen",
+        "meaning": "Good morning"
       }
     },
     {
       "type": "pronunciation",
       "item_id": "L1_P01",
       "data": {
-        "word": "heet",
-        "phonetic": "/heːt/",
-        "tip": "The 'ee' sound is a long 'ay' sound, like in the English word 'hay'."
+        "word": "goedemorgen",
+        "phonetic": "/ɣudəˈmɔrɣə(n)/",
+        "tip": "The Dutch 'g' is a soft, throaty sound, like clearing your throat gently. Practice by saying 'goedemorgen'."
       }
     },
     {
       "type": "expression",
-      "item_id": "L1_E03",
+      "item_id": "L1_E02",
       "data": {
-        "phrase": "Hoe heet jij?",
-        "meaning": "What is your name?"
+        "phrase": "Ik wil graag...",
+        "meaning": "I would like..."
       }
     },
     {
       "type": "tip",
-      "text": "In Dutch, 'jij' is the informal way to say 'you', perfect for talking with classmates."
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L1_V01",
-      "data": {
-        "Hoi": "Hi"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L1_E04",
-      "data": {
-        "phrase": "Aangenaam",
-        "meaning": "Nice to meet you"
-      }
+      "text": "Adding 'graag' (gladly) to 'ik wil' (I want) makes your request polite, similar to saying 'I would like...' instead of 'I want...'."
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L1_S01",
-      "title": "Initial Introductions",
-      "setting": "You are in the classroom. A classmate next to you says hello.",
+      "title": "Greeting the Barista",
+      "setting": "You've reached the counter at a cozy Dutch coffee shop. The barista greets you.",
       "conversation_flow": [
         {
-          "title": "Say hello and state your name",
-          "chatbot_message": "Hallo!",
-          "extract_info": {
-            "user_name": "Extract the user's name from their message"
-          }
+          "title": "Greet the barista back",
+          "chatbot_message": "Goedemorgen!"
         },
         {
-          "title": "Ask for their name",
-          "chatbot_message": "Hoi {user_name}."
-        },
-        {
-          "title": "Say it's nice to meet them",
-          "chatbot_message": "Ik heet Sofia."
+          "title": "Say that you would like something",
+          "chatbot_message": "Zeker. Wat wil je?"
         }
       ]
-    },
-    {
-      "type": "tip",
-      "text": "Great start! Now let's learn how to ask where someone is from."
-    },
-    {
-      "type": "expression",
-      "item_id": "L1_E05",
-      "data": {
-        "phrase": "Waar kom jij vandaan?",
-        "meaning": "Where do you come from?"
-      }
-    },
-    {
-      "type": "pronunciation",
-      "item_id": "L1_P02",
-      "data": {
-        "word": "Waar",
-        "phonetic": "/ʋaːr/",
-        "tip": "The 'aa' sound is long, like the 'a' in 'father'."
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L1_E06",
-      "data": {
-        "phrase": "Ik kom uit...",
-        "meaning": "I come from..."
-      }
     },
     {
       "type": "vocabulary",
       "item_id": "L1_V02",
       "data": {
-        "uit": "from"
-      }
-    },
-    {
-      "type": "pronunciation",
-      "item_id": "L1_P03",
-      "data": {
-        "word": "uit",
-        "phonetic": "/œyt/",
-        "tip": "The 'ui' sound is unique to Dutch. It sounds a bit like 'ow' in 'how', but starting with your lips puckered."
+        "Een": "One"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L1_V03",
       "data": {
-        "Spanje": "Spain"
+        "De koffie verkeerd": "The 'koffie verkeerd'"
       }
+    },
+    {
+      "type": "tip",
+      "text": "'Koffie verkeerd' literally means 'wrong coffee' because it has more milk than coffee. It's the Dutch version of a café au lait."
     },
     {
       "type": "vocabulary",
       "item_id": "L1_V04",
       "data": {
-        "en": "and"
+        "Hier": "Here"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L1_V05",
       "data": {
-        "Leuk": "Nice / Fun"
+        "Meenemen": "To take away"
       }
     },
     {
-      "type": "expression",
-      "item_id": "L1_E07",
-      "data": {
-        "phrase": "Ik woon in...",
-        "meaning": "I live in..."
-      }
+      "type": "tip",
+      "text": "Get ready! The barista will ask 'hier opdrinken of meenemen?' which means 'For here or to go?'."
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L1_S02",
-      "title": "Exchanging Origins",
-      "setting": "You continue the conversation with your new classmate, Sofia.",
+      "title": "Placing Your Order",
+      "setting": "The barista is waiting for your order.",
       "conversation_flow": [
         {
-          "title": "Ask where Sofia is from",
-          "chatbot_message": "Aangenaam."
+          "title": "Order one koffie verkeerd",
+          "chatbot_message": null
         },
         {
-          "title": "State which country you are from",
-          "chatbot_message": "Ik kom uit Spanje. En jij?"
-        },
-        {
-          "title": "Say which city you live in",
-          "chatbot_message": "Leuk! Ik woon in Amsterdam.",
-          "extract_info": {
-            "user_city": "Extract the user's city from their message"
-          }
+          "title": "Say you'll have it 'for here'",
+          "chatbot_message": "Een koffie verkeerd. Wil je die hier opdrinken of meenemen?"
         }
       ]
     },
     {
-      "type": "tip",
-      "text": "The conversation is going well! But it looks like the lesson is about to begin. Let's learn how to wrap up."
+      "type": "expression",
+      "item_id": "L1_E03",
+      "data": {
+        "phrase": "Wat kost dat?",
+        "meaning": "How much is that?"
+      }
     },
     {
       "type": "vocabulary",
       "item_id": "L1_V06",
       "data": {
-        "De les": "The lesson"
+        "Drie": "Three"
       }
     },
     {
-      "type": "expression",
-      "item_id": "L1_E08",
-      "data": {
-        "phrase": "De les begint",
-        "meaning": "The lesson is starting"
-      }
+      "type": "tip",
+      "text": "In the Netherlands, 'pinnen' is a very common verb that means 'to pay with a debit card'."
     },
     {
       "type": "expression",
-      "item_id": "L1_E09",
+      "item_id": "L1_E04",
       "data": {
-        "phrase": "Oh ja",
-        "meaning": "Oh yes"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L1_E10",
-      "data": {
-        "phrase": "Succes met de cursus",
-        "meaning": "Good luck with the course"
+        "phrase": "Ik kan pinnen",
+        "meaning": "I can pay by card"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L1_V07",
       "data": {
-        "Succes": "Good luck"
+        "Alsjeblieft": "Please / Here you go"
       }
     },
     {
+      "type": "tip",
+      "text": "The word 'alsjeblieft' is very useful. It means 'please' when you ask for something, and 'here you go' when you give or receive something."
+    },
+    {
       "type": "expression",
-      "item_id": "L1_E11",
+      "item_id": "L1_E05",
       "data": {
-        "phrase": "Dank je",
-        "meaning": "Thank you"
+        "phrase": "Dank je wel",
+        "meaning": "Thank you very much"
       }
     },
     {
       "type": "expression",
-      "item_id": "L1_E12",
-      "data": {
-        "phrase": "Jij ook",
-        "meaning": "You too"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L1_E13",
+      "item_id": "L1_E06",
       "data": {
         "phrase": "Tot ziens",
         "meaning": "Goodbye"
@@ -247,20 +167,24 @@
     {
       "type": "interactive_scenario",
       "scenario_id": "L1_S03",
-      "title": "Wrapping Up",
-      "setting": "The teacher is about to start. Time to end the chat with Sofia.",
+      "title": "Paying for Your Coffee",
+      "setting": "You've ordered your drink, now it's time to pay.",
       "conversation_flow": [
         {
-          "title": "Say the lesson is starting",
-          "chatbot_message": "Oké, {user_city}."
+          "title": "Ask how much it costs",
+          "chatbot_message": "Prima!"
         },
         {
-          "title": "Wish Sofia good luck",
-          "chatbot_message": "Oh ja."
+          "title": "Say you can pay by card",
+          "chatbot_message": "Dat is drie euro."
         },
         {
-          "title": "Say goodbye",
-          "chatbot_message": "Dank je! Jij ook."
+          "title": "Say thank you and goodbye",
+          "chatbot_message": "Oké. Alsjeblieft."
+        },
+        {
+          "title": "End conversation",
+          "chatbot_message": "Tot ziens!"
         }
       ]
     }

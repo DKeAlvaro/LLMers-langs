@@ -1,102 +1,155 @@
 {
   "id": "L03",
-  "title": "At the Supermarket",
+  "title": "Just One Stroopwafel",
   "content": [
     {
       "type": "tip",
-      "text": "In this lesson, you'll learn how to ask for help in a Dutch supermarket. Let's start with how to get someone's attention politely."
-    },
-    {
-      "type": "expression",
-      "item_id": "L03_E01",
-      "data": {
-        "phrase": "Pardon",
-        "meaning": "Excuse me"
-      }
+      "text": "Welcome to the Albert Cuypmarkt in Amsterdam! Today, you'll learn how to buy one of the most famous Dutch treats: a fresh, warm stroopwafel."
     },
     {
       "type": "vocabulary",
       "item_id": "L03_V01",
       "data": {
-        "De melk": "The milk"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L03_V02",
-      "data": {
-        "Het brood": "The bread"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L03_E02",
-      "data": {
-        "phrase": "Waar kan ik ... vinden?",
-        "meaning": "Where can I find...?"
+        "De stroopwafel": "The stroopwafel"
       }
     },
     {
       "type": "pronunciation",
       "item_id": "L03_P01",
       "data": {
-        "word": "Waar",
-        "phonetic": "/vaːr/",
-        "tip": "This sounds like the English word 'var'. The Dutch 'w' is softer than in English."
+        "word": "Stroopwafel",
+        "phonetic": "st-ROHP-wah-full",
+        "tip": "The 'oo' in 'stroop' is a long 'o' sound, like in the word 'hope'."
       }
+    },
+    {
+      "type": "expression",
+      "item_id": "L03_E01",
+      "data": {
+        "phrase": "Goedemorgen",
+        "meaning": "Good morning"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L03_V02",
+      "data": {
+        "Eén": "One"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L03_E02",
+      "data": {
+        "phrase": "Alstublieft",
+        "meaning": "Please"
+      }
+    },
+    {
+      "type": "tip",
+      "text": "'Alstublieft' is a magic word in Dutch. You use it when you ask for something, like 'please'."
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L03_S01",
-      "title": "Asking for Help",
-      "setting": "You are in the supermarket and see an employee. Get their attention and ask for help.",
+      "title": "Place Your Order",
+      "setting": "You are at a stroopwafel stall at the Albert Cuypmarkt. It's time to get the vendor's attention and order.",
       "conversation_flow": [
         {
-          "title": "Get the employee's attention",
-          "chatbot_message": null
+          "title": "Greet the vendor"
         },
         {
-          "title": "Ask where to find the milk",
-          "chatbot_message": "Hallo! Ja, zeg het maar."
+          "title": "Order one stroopwafel",
+          "chatbot_message": "Goedemorgen!"
         },
         {
-          "title": "Ask where to find the bread",
-          "chatbot_message": "De melk is in gangpad 3."
+          "title": "Wait for your order",
+          "chatbot_message": "Oké. Eén stroopwafel."
         }
       ]
     },
     {
-      "type": "tip",
-      "text": "Good job! Now let's learn how to ask for specific items and quantities."
+      "type": "expression",
+      "item_id": "L03_E03",
+      "data": {
+        "phrase": "Wat kost dat?",
+        "meaning": "What does that cost?"
+      }
     },
     {
       "type": "vocabulary",
       "item_id": "L03_V03",
       "data": {
-        "De druiven": "The grapes"
+        "Dat": "That"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L03_V04",
       "data": {
-        "De kaas": "The cheese"
+        "is": "is"
       }
     },
     {
-      "type": "expression",
-      "item_id": "L03_E03",
+      "type": "vocabulary",
+      "item_id": "L03_V05",
       "data": {
-        "phrase": "Ik wil graag ...",
-        "meaning": "I would like ..."
+        "Twee": "Two"
       }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L03_V06",
+      "data": {
+        "De euro": "The euro"
+      }
+    },
+    {
+      "type": "pronunciation",
+      "item_id": "L03_P02",
+      "data": {
+        "word": "euro",
+        "phonetic": "EU-roh",
+        "tip": "The 'eu' sound is unique to Dutch. It's similar to the 'ea' in 'earn' but with more rounded lips."
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L03_V07",
+      "data": {
+        "Contant": "Cash (payment)"
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Remember the magic word 'Alstublieft'? You also use it when you give something to someone. It means 'Here you are'."
+    },
+    {
+      "type": "interactive_scenario",
+      "scenario_id": "L03_S02",
+      "title": "Confirm and Pay",
+      "setting": "The vendor has prepared your warm stroopwafel and is holding it out for you.",
+      "conversation_flow": [
+        {
+          "title": "Ask for the price",
+          "chatbot_message": "Alstublieft."
+        },
+        {
+          "title": "Say you will pay with cash",
+          "chatbot_message": "Dat is twee euro."
+        },
+        {
+          "title": "Hand over the money and say 'please'",
+          "chatbot_message": "Prima."
+        }
+      ]
     },
     {
       "type": "expression",
       "item_id": "L03_E04",
       "data": {
-        "phrase": "Is ... in de aanbieding?",
-        "meaning": "Is ... on sale?"
+        "phrase": "Dank je",
+        "meaning": "Thank you"
       }
     },
     {
@@ -108,90 +161,51 @@
       }
     },
     {
-      "type": "pronunciation",
-      "item_id": "L03_P02",
-      "data": {
-        "word": "graag",
-        "phonetic": "/ɣraːx/",
-        "tip": "The 'g' sound at the beginning and end is a soft, throaty sound, typical in Dutch."
-      }
-    },
-    {
-      "type": "interactive_scenario",
-      "scenario_id": "L03_S02",
-      "title": "Asking About Products",
-      "setting": "The employee just told you where the bread is. Continue the conversation.",
-      "conversation_flow": [
-        {
-          "title": "Ask for 500 grams of grapes",
-          "chatbot_message": "Het brood is bij de bakkerij. Nog iets?"
-        },
-        {
-          "title": "Ask if the cheese is on sale",
-          "chatbot_message": "Oké, 500 gram druiven. Anders nog iets?"
-        },
-        {
-          "title": "Thank the employee",
-          "chatbot_message": "Ja, de kaas is in de aanbieding."
-        }
-      ]
-    },
-    {
       "type": "tip",
-      "text": "Great! You have all your items. Now it's time to pay at the checkout ('de kassa')."
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L03_V05",
-      "data": {
-        "Het tasje": "The (small) bag"
-      }
+      "text": "Both 'Dank je' and 'Dank je wel' mean 'thank you'. 'Dank je wel' is a bit stronger and more polite."
     },
     {
       "type": "expression",
       "item_id": "L03_E06",
       "data": {
-        "phrase": "Goedemiddag",
-        "meaning": "Good afternoon"
+        "phrase": "Eet smakelijk",
+        "meaning": "Enjoy your meal"
       }
     },
     {
       "type": "expression",
       "item_id": "L03_E07",
       "data": {
-        "phrase": "Mag ik een ...?",
-        "meaning": "May I have a...?"
+        "phrase": "Dag",
+        "meaning": "Bye"
       }
     },
     {
-      "type": "expression",
-      "item_id": "L03_E08",
+      "type": "pronunciation",
+      "item_id": "L03_P03",
       "data": {
-        "phrase": "Alstublieft",
-        "meaning": "Please / Here you go"
+        "word": "Dag",
+        "phonetic": "Dakh",
+        "tip": "The 'g' at the end of 'dag' is a soft, scraping sound made in the back of your throat. It is a typical Dutch sound."
       }
-    },
-    {
-      "type": "tip",
-      "text": "You can use 'Alstublieft' when you ask for something (please) and when you give something (here you go)."
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L03_S03",
-      "title": "At the Checkout",
-      "setting": "You are at the checkout with your items. The employee has finished their previous sentence with 'Fijne dag!'.",
+      "title": "Receive and Depart",
+      "setting": "You've paid and have your delicious stroopwafel. Time to thank the vendor and leave.",
       "conversation_flow": [
         {
-          "title": "Greet the cashier",
-          "chatbot_message": null
+          "title": "Say 'thank you very much'",
+          "chatbot_message": "Dank je."
         },
         {
-          "title": "Ask for a bag",
-          "chatbot_message": "Goedemiddag."
+          "title": "Say goodbye",
+          "chatbot_message": "Eet smakelijk!"
         },
         {
-          "title": "Respond and pay",
-          "chatbot_message": "Ja, natuurlijk. Dat is dan twaalf euro, alstublieft."
+          "title": "Enjoy your stroopwafel!",
+          "chatbot_message": "Dag!"
         }
       ]
     }

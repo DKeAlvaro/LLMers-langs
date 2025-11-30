@@ -1,26 +1,14 @@
 {
-  "id": "L02",
-  "title": "Ordering at a Café",
+  "id": "L2",
+  "title": "Who Are You?",
   "content": [
     {
       "type": "tip",
-      "text": "Welcome! In this lesson, you'll learn how to order a drink and a snack at a Dutch café ('het café')."
+      "text": "Welcome to a Dutch 'borrel' (a casual get-together with drinks). It's time to introduce yourself!"
     },
     {
       "type": "expression",
-      "item_id": "L02_E01",
-      "data": {
-        "phrase": "Pardon",
-        "meaning": "Excuse me"
-      }
-    },
-    {
-      "type": "tip",
-      "text": "In the Netherlands, it's common to say 'Pardon' to politely get a waiter's attention."
-    },
-    {
-      "type": "expression",
-      "item_id": "L02_E02",
+      "item_id": "L2_E01",
       "data": {
         "phrase": "Hallo",
         "meaning": "Hello"
@@ -28,244 +16,251 @@
     },
     {
       "type": "expression",
-      "item_id": "L02_E03",
+      "item_id": "L2_E02",
       "data": {
-        "phrase": "Ik wil graag...",
-        "meaning": "I would like..."
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L02_V01",
-      "data": {
-        "Een koffie": "A coffee"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L02_V02",
-      "data": {
-        "Een thee": "A tea"
+        "phrase": "Ik ben...",
+        "meaning": "I am..."
       }
     },
     {
       "type": "pronunciation",
-      "item_id": "L02_P01",
+      "item_id": "L2_P01",
       "data": {
-        "word": "graag",
-        "phonetic": "[ɣraːx]",
-        "tip": "The Dutch 'g' is a soft sound made in the back of your throat. It's not as harsh as the German 'ch'."
+        "word": "ik",
+        "phonetic": "[ɪk]",
+        "tip": "It's a short, sharp sound, like the 'i' in 'ink'."
       }
     },
     {
       "type": "expression",
-      "item_id": "L02_E04",
+      "item_id": "L2_E03",
       "data": {
-        "phrase": "Heeft u...?",
-        "meaning": "Do you have...?"
+        "phrase": "Aangenaam",
+        "meaning": "Nice to meet you"
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L02_V03",
+      "item_id": "L2_V01",
       "data": {
-        "De appeltaart": "The apple pie"
+        "uit": "from"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2_E04",
+      "data": {
+        "phrase": "Ik kom uit...",
+        "meaning": "I come from..."
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2_V02",
+      "data": {
+        "Nederland": "The Netherlands"
       }
     },
     {
       "type": "interactive_scenario",
-      "scenario_id": "L02_S01",
-      "title": "Getting Service and Drinks",
-      "setting": "You're at a café table and want to get the waiter's attention to order.",
+      "scenario_id": "L2_S01",
+      "title": "First Introduction",
+      "setting": "You are at a 'borrel' in Eindhoven. A friendly person, Lotte, starts a conversation.",
       "conversation_flow": [
         {
-          "title": "Get the waiter's attention",
-          "chatbot_message": ""
+          "chatbot_message": "Hallo. Ik ben Lotte."
         },
         {
-          "title": "Order a drink",
-          "chatbot_message": "Hallo! Ja?",
+          "title": "State your name",
           "extract_info": {
-            "user_drink": "Extract the drink the user orders (e.g., een koffie, een thee)"
+            "user_name": "Extract the user's name from their message"
           }
         },
         {
-          "title": "Ask if they have apple pie",
-          "chatbot_message": "Oké, {user_drink}."
+          "chatbot_message": "Aangenaam, {user_name}. Ik kom uit Nederland."
+        },
+        {
+          "title": "State where you are from"
+        },
+        {
+          "chatbot_message": "Leuk!"
         }
       ]
     },
     {
-      "type": "expression",
-      "item_id": "L02_E05",
-      "data": {
-        "phrase": "Wilt u...?",
-        "meaning": "Would you like...?"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L02_V04",
-      "data": {
-        "Een stuk": "A piece"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L02_E06",
-      "data": {
-        "phrase": "Ja, graag",
-        "meaning": "Yes, please"
-      }
-    },
-    {
       "type": "tip",
-      "text": "When the waiter asks if you want anything else ('Anders nog iets?'), you can say 'Dat is alles' to confirm your order is complete."
+      "text": "The Dutch are often direct. It's very common to ask about someone's job, using 'werk', right after meeting them."
     },
     {
-      "type": "expression",
-      "item_id": "L02_E07",
+      "type": "vocabulary",
+      "item_id": "L2_V03",
       "data": {
-        "phrase": "Anders nog iets?",
-        "meaning": "Anything else?"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L02_E08",
-      "data": {
-        "phrase": "Dat is alles",
-        "meaning": "That is all"
+        "Leuk": "Nice / Fun"
       }
     },
     {
       "type": "expression",
-      "item_id": "L02_E09",
+      "item_id": "L2_E05",
       "data": {
-        "phrase": "Waar is...?",
-        "meaning": "Where is...?"
+        "phrase": "Ik werk als...",
+        "meaning": "I work as..."
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L02_V05",
+      "item_id": "L2_V04",
       "data": {
-        "Het toilet": "The toilet"
+        "de lerares": "the (female) teacher"
       }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L02_V06",
-      "data": {
-        "Daar": "There"
-      }
-    },
-    {
-      "type": "interactive_scenario",
-      "scenario_id": "L02_S02",
-      "title": "Placing the Food Order",
-      "setting": "The waiter has confirmed they have apple pie. Now, complete your order.",
-      "conversation_flow": [
-        {
-          "title": "Order a piece of apple pie",
-          "chatbot_message": "Ja, wij hebben appeltaart. Wilt u een stuk?"
-        },
-        {
-          "title": "Confirm that is all you want",
-          "chatbot_message": "Oké. Anders nog iets?"
-        },
-        {
-          "title": "Ask where the toilet is",
-          "chatbot_message": "Prima!"
-        }
-      ]
     },
     {
       "type": "expression",
-      "item_id": "L02_E10",
+      "item_id": "L2_E06",
       "data": {
-        "phrase": "Mag ik betalen?",
-        "meaning": "May I pay?"
+        "phrase": "En jij?",
+        "meaning": "And you?"
       }
     },
     {
-      "type": "tip",
-      "text": "When you're ready to leave, you can get the waiter's attention again and say 'Mag ik betalen?' to ask for the bill."
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L02_V07",
+      "type": "expression",
+      "item_id": "L2_E07",
       "data": {
-        "De rekening": "The bill"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L02_V08",
-      "data": {
-        "Alstublieft": "Please / Here you are"
+        "phrase": "Ik woon in...",
+        "meaning": "I live in..."
       }
     },
     {
       "type": "pronunciation",
-      "item_id": "L02_P02",
+      "item_id": "L2_P02",
       "data": {
-        "word": "rekening",
-        "phonetic": "['reːkənɪŋ]",
-        "tip": "The stress is on the first syllable: 'RE-ke-ning'."
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L02_E11",
-      "data": {
-        "phrase": "Wat kost het?",
-        "meaning": "What does it cost?"
+        "word": "woon",
+        "phonetic": "[ʋoːn]",
+        "tip": "The 'oo' is a long sound, like the 'oa' in 'boat'."
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L02_V09",
+      "item_id": "L2_V05",
       "data": {
-        "Acht": "Eight"
+        "Eindhoven": "Eindhoven"
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L02_V10",
+      "item_id": "L2_V06",
       "data": {
-        "Euro": "Euro"
+        "Interessant": "Interesting"
       }
-    },
-    {
-      "type": "expression",
-      "item_id": "L02_E12",
-      "data": {
-        "phrase": "Kan ik pinnen?",
-        "meaning": "Can I pay by debit card?"
-      }
-    },
-    {
-      "type": "tip",
-      "text": "'Pinnen' is a very common verb in the Netherlands for paying with a debit card. It's an essential word!"
     },
     {
       "type": "interactive_scenario",
-      "scenario_id": "L02_S03",
-      "title": "Paying the Bill",
-      "setting": "You've finished your snack and are ready to leave. It's time to pay.",
+      "scenario_id": "L2_S02",
+      "title": "Sharing More Details",
+      "setting": "The conversation with Lotte continues.",
       "conversation_flow": [
         {
-          "title": "Signal you want to pay",
-          "chatbot_message": "Het toilet is daar."
+          "chatbot_message": "Ik werk als lerares. En jij?"
         },
         {
-          "title": "Ask for the total amount",
-          "chatbot_message": "Ja. Alstublieft, de rekening."
+          "title": "State your profession",
+          "extract_info": {
+            "user_job": "Extract the user's profession from their message"
+          }
         },
         {
-          "title": "Ask to pay by card",
-          "chatbot_message": "Het is acht euro."
+          "chatbot_message": "Interessant. Ik woon in Eindhoven. En jij?"
+        },
+        {
+          "title": "Say where you live now",
+          "extract_info": {
+            "user_city": "Extract the user's current city from their message"
+          }
+        },
+        {
+          "chatbot_message": "Ah, {user_city}."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "To ask a 'what' question, use this structure: 'Wat' + verb + subject. For example: Wat doe jij?"
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2_V07",
+      "data": {
+        "wat": "what"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2_V08",
+      "data": {
+        "jouw": "your (informal)"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2_V09",
+      "data": {
+        "naam": "name"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2_E08",
+      "data": {
+        "phrase": "Wat is jouw naam?",
+        "meaning": "What is your name?"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2_V10",
+      "data": {
+        "werk": "work"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2_V11",
+      "data": {
+        "jij": "you (informal)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2_E09",
+      "data": {
+        "phrase": "doe jij",
+        "meaning": "do you do"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2_E10",
+      "data": {
+        "phrase": "Wat voor werk doe jij?",
+        "meaning": "What kind of work do you do?"
+      }
+    },
+    {
+      "type": "interactive_scenario",
+      "scenario_id": "L2_S03",
+      "title": "Asking Questions Back",
+      "setting": "Now it's your turn to ask Lotte some questions to get to know her.",
+      "conversation_flow": [
+        {
+          "title": "Ask for her name"
+        },
+        {
+          "chatbot_message": "Ik ben Lotte."
+        },
+        {
+          "title": "Ask what she does for work"
+        },
+        {
+          "chatbot_message": "Ik werk als lerares. Leuk je te ontmoeten, {user_name}!"
         }
       ]
     }
