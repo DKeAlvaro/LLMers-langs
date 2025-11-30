@@ -4,151 +4,146 @@
   "content": [
     {
       "type": "tip",
-      "text": "Welcome to your first Dutch conversation! You're at a *borrel* (a casual networking event) in Eindhoven. A friendly local approaches you."
+      "text": "You're at a 'borrel' (a casual drinks event) for internationals in Eindhoven. It's a great place to meet new people. A friendly local approaches you."
     },
     {
       "type": "expression",
       "item_id": "L02_E01",
       "data": {
-        "Ik ben...": "I am..."
-      }
-    },
-    {
-      "type": "pronunciation",
-      "item_id": "L02_P01",
-      "data": {
-        "word": "Ik",
-        "phonetic": "/ɪk/",
-        "tip": "It's a short, sharp sound. Be careful not to say 'ick' as in 'icky'."
+        "phrase": "Ik ben...",
+        "meaning": "I am..."
       }
     },
     {
       "type": "expression",
       "item_id": "L02_E02",
       "data": {
-        "Ik kom uit...": "I come from..."
+        "phrase": "Ik kom uit...",
+        "meaning": "I come from..."
+      }
+    },
+    {
+      "type": "pronunciation",
+      "item_id": "L02_P01",
+      "data": {
+        "word": "kom",
+        "phonetic": "/kɔm/",
+        "tip": "Sounds like the 'om' in 'stomp' or 'romp'."
       }
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L02_S01",
-      "title": "Introduce Yourself",
-      "setting": "You're at a casual networking event in Eindhoven. Someone walks up to you and starts a conversation.",
+      "title": "First Impressions",
+      "setting": "A friendly Dutch person approaches you at the event.",
       "conversation_flow": [
         {
-          "title": "State your name.",
-          "chatbot_message": "Hoi! Ik ben Thomas. Hoe heet jij?",
+          "title": "State your name is {user_name}.",
+          "chatbot_message": "Hoi! Goedenavond. Hoe heet jij?",
           "extract_info": {
-            "user_name": "The user's first name."
+            "var_name": "user_name"
           }
         },
         {
-          "title": "Say where you are from.",
-          "chatbot_message": "Aangenaam, {user_name}! Waar kom je vandaan?",
-          "extract_info": {
-            "user_origin_country": "The country the user says they are from."
-          }
+          "title": "Tell him where you are from.",
+          "chatbot_message": "Aangenaam, {user_name}! Waar kom je vandaan?"
         }
       ]
     },
     {
       "type": "tip",
-      "text": "Cultural Tip: Dutch people are often very direct. Asking about your job ('Wat voor werk doe je?') right away is common and friendly!"
-    },
-    {
-      "type": "expression",
-      "item_id": "L02_E03",
-      "data": {
-        "Ik ben...": "I am a..."
-      }
+      "text": "Cultural Tip: Dutch people are often quite direct. It's very common to ask about someone's job right after meeting them. It's a normal way to show interest."
     },
     {
       "type": "vocabulary",
       "item_id": "L02_V01",
       "data": {
-        "ontwerper": "designer",
-        "student": "student",
-        "manager": "manager"
+        "werk": "work",
+        "woon": "live",
+        "nu": "now"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L02_E03",
+      "data": {
+        "phrase": "Ik ben {beroep}",
+        "meaning": "I am a {profession}"
       }
     },
     {
       "type": "expression",
       "item_id": "L02_E04",
       "data": {
-        "Ik woon in...": "I live in..."
-      }
-    },
-    {
-      "type": "pronunciation",
-      "item_id": "L02_P02",
-      "data": {
-        "word": "woon",
-        "phonetic": "/voːn/",
-        "tip": "The 'oo' sound is long, like the 'o' in the English word 'vote'."
+        "phrase": "Ik woon in...",
+        "meaning": "I live in..."
       }
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L02_S02",
-      "title": "Talk About Your Life",
-      "setting": "The conversation with Thomas continues. He's curious to know more about you.",
+      "title": "Talking About Your Life",
+      "setting": "The conversation continues. He's curious to know more about you.",
       "conversation_flow": [
         {
-          "title": "State your profession.",
-          "chatbot_message": "Ah, {user_origin_country}! Interessant. En wat voor werk doe je?",
+          "title": "State your profession is {user_job}.",
+          "chatbot_message": "Ah, interessant! En wat voor werk doe je?",
           "extract_info": {
-            "user_job": "The user's profession."
+            "var_name": "user_job"
           }
         },
         {
-          "title": "Say where you live now.",
-          "chatbot_message": "Oké, een {user_job}. Leuk! En woon je hier in Eindhoven?",
+          "title": "Tell him you live in {user_city}.",
+          "chatbot_message": "Leuk! Een {user_job}. En waar woon je nu?",
           "extract_info": {
-            "user_city": "The city where the user currently lives."
+            "var_name": "user_city"
           }
         }
       ]
     },
     {
       "type": "tip",
-      "text": "Time to ask questions back! It's polite to show you're interested in them, too. 'En jij?' is the easiest way to return a question."
+      "text": "To return a question, you can repeat the same question with 'jij' (you), or for a quicker response, just say 'En jij?' (And you?)."
     },
     {
       "type": "expression",
       "item_id": "L02_E05",
       "data": {
-        "En jij?": "And you?"
-      }
-    },
-    {
-      "type": "pronunciation",
-      "item_id": "L02_P03",
-      "data": {
-        "word": "jij",
-        "phonetic": "/jɛi/",
-        "tip": "This sounds exactly like the English word 'yay'."
+        "phrase": "Hoe heet jij?",
+        "meaning": "What is your name?"
       }
     },
     {
       "type": "expression",
       "item_id": "L02_E06",
       "data": {
-        "Leuk je te ontmoeten": "Nice to meet you"
+        "phrase": "Wat voor werk doe jij?",
+        "meaning": "What kind of work do you do?"
+      }
+    },
+    {
+      "type": "pronunciation",
+      "item_id": "L02_P02",
+      "data": {
+        "word": "jij",
+        "phonetic": "/jɛi/",
+        "tip": "The 'ij' sound is unique. It's similar to the 'ey' in the English word 'hey'."
       }
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L02_S03",
-      "title": "Reciprocate",
-      "setting": "You've shared some details. Now, turn the conversation back to Thomas.",
+      "title": "Asking Questions Back",
+      "setting": "You've shared a lot about yourself. Now it's your turn to ask the questions.",
       "conversation_flow": [
         {
-          "title": "Ask 'And you?' to find out what he does.",
-          "chatbot_message": "Leuk! Ik woon ook in {user_city}."
+          "title": "Ask him for his name.",
+          "chatbot_message": "Ah, {user_city}, leuke stad! Ik ben daar soms voor werk."
         },
         {
-          "title": "Say 'Nice to meet you'.",
-          "chatbot_message": "Ik ben softwareontwikkelaar bij ASML. Het was leuk om met je te praten, {user_name}!"
+          "title": "Now ask him what he does for work.",
+          "chatbot_message": "Ik ben Bas. Aangenaam kennis te maken!",
+          "final_message": "Ik ben ingenieur bij Philips. Leuk je te ontmoeten, {user_name}! Geniet van de borrel."
         }
       ]
     }
