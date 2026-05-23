@@ -1,63 +1,68 @@
 {
-  "lesson_id": "lesson_supermarket_01",
-  "title": "Buying Fruit",
-  "level": "A1",
-  "topic": "Supermarket",
-  "learning_objectives": [
-    "Vocabulary: Common fruits",
-    "Grammar: 'I would like' (Polite requests)"
-  ],
-  "characters": [
+  "id": "L1N",
+  "title": "Meeting at the Supermarket",
+  "description": "Learn basic greetings and how to introduce yourself in Dutch at a supermarket.",
+  "content": [
     {
-      "id": "char_john",
-      "name": "John",
-      "role": "Cashier",
-      "avatar_url": "assets/avatars/john_cashier.png"
-    }
-  ],
-  "slides": [
-    {
-      "id": 1,
-      "type": "vocabulary",
-      "content": {
-        "word_native": "Apple",
-        "word_target": "Manzana",
-        "audio_ref": "manzana_01.mp3",
-        "image_query": "red apple fruit"
-      }
+      "type": "tip",
+      "text": "Welcome to your first Dutch lesson! We'll focus on everything you need to know for a successful trip to a Dutch supermarket, 'de supermarkt'."
     },
+    { "type": "vocabulary", "item_id": "L1N_V01", "data": { "De supermarkt": "The supermarket" } },
+    { "type": "expression", "item_id": "L1N_E01", "data": { "phrase": "Hallo.", "meaning": "Hello." } },
+    { "type": "expression", "item_id": "L1N_E02", "data": { "phrase": "Ik heet...", "meaning": "My name is..." } },
+    { "type": "expression", "item_id": "L1N_E03", "data": { "phrase": "Hoe heet jij?", "meaning": "What is your name?" } },
     {
-      "id": 2,
-      "type": "construction",
-      "content": {
-        "pattern": "I would like [NOUN]",
-        "example_target": "Me gustaría una manzana",
-        "explanation": "Use 'Me gustaría' to politely ask for something."
-      }
+      "type": "interactive_scenario",
+      "scenario_id": "L1N_S01",
+      "title": "Meeting Someone New",
+      "setting": "You are in the supermarket and meet someone new. You want to introduce yourself.",
+      "conversation_flow": [
+        {
+          "title": "Greet Alex",
+          "chatbot_message": "Hallo!"
+        },
+        {
+          "title": "State your name",
+          "chatbot_message": "Ik heet Alex. Hoe heet jij?",
+          "extract_info": {
+            "user_name": "Extract the user's name from their message"
+          }
+        },
+        {
+          "title": "Say it's nice to meet them",
+          "chatbot_message": "Leuk je te ontmoeten, {user_name}!"
+        }
+      ]
     },
+    { "type": "vocabulary", "item_id": "L1N_V02", "data": { "De appel": "The apple", "De banaan": "The banana", "De sinaasappel": "The orange" } },
+    { "type": "expression", "item_id": "L1N_E04", "data": { "phrase": "Ik wil graag...", "meaning": "I would like..." } },
+    { "type": "expression", "item_id": "L1N_E05", "data": { "phrase": "een appel", "meaning": "an apple" } },
+    { "type": "expression", "item_id": "L1N_E06", "data": { "phrase": "Ik wil graag een appel.", "meaning": "I would like an apple." } },
     {
-      "id": 3,
-      "type": "quiz_translate",
-      "content": {
-        "question": "How do you say 'I would like'?",
-        "correct_answer": "Me gustaría",
-        "options": ["Me gusta", "Yo quiero", "Me gustaría"]
-      }
+      "type": "interactive_scenario",
+      "scenario_id": "L1N_S02",
+      "title": "Buying Fruit",
+      "setting": "You approach the fruit section and a store employee offers to help you.",
+      "conversation_flow": [
+        {
+          "title": "Respond to the offer",
+          "chatbot_message": "Kan ik u helpen?"
+        },
+        {
+          "title": "Ask for an apple",
+          "chatbot_message": "Natuurlijk. Eén appel. Anders nog iets?"
+        },
+        {
+          "title": "Say that's all",
+          "chatbot_message": "Prima. Dat is dan één euro, alstublieft."
+        }
+      ]
+    },
+    { "type": "expression", "item_id": "L1N_E07", "data": { "phrase": "Dank u wel.", "meaning": "Thank you (formal)." } },
+    { "type": "expression", "item_id": "L1N_E08", "data": { "phrase": "Tot ziens!", "meaning": "Goodbye!" } },
+    {
+      "type": "tip",
+      "text": "Great job! You can now greet someone, introduce yourself, and buy an apple in Dutch. In the next lesson, we'll visit a famous Dutch fish stand!"
     }
-  ],
-  "interactive_scenario": {
-    "setting": "Supermarket Checkout",
-    "primary_character_id": "char_john",
-    "initial_message": "Hello! How can I help you?",
-    "expected_flow": [
-      {
-        "step": 1,
-        "character_prompt": "Hello! How can I help you?",
-        "expected_user_intent": "greeting_and_request",
-        "acceptable_answers": ["Hello, I would like an apple", "Hi, I want fruit"],
-        "success_response": "Sure, here is your apple. Anything else?",
-        "failure_response": "Sorry, I didn't understand. Try saying 'I would like...'"
-      }
-    ]
-  }
+  ]
 }

@@ -1,0 +1,94 @@
+{
+  "id": "L3N",
+  "title": "At the Café",
+  "description": "Learn how to order drinks and snacks at a Dutch café.",
+  "content": [
+    {
+      "type": "tip",
+      "text": "Welcome! In this lesson, you'll learn how to order at a Dutch café ('het café'). The Dutch love their coffee and 'gezelligheid' (coziness)!"
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V01",
+      "data": { "Het café": "The café", "De koffie": "The coffee", "De thee": "The tea", "Het bier": "The beer" }
+    },
+    { "type": "expression", "item_id": "L3N_E01", "data": { "phrase": "Mag ik de menukaart?", "meaning": "May I have the menu?" } },
+    { "type": "expression", "item_id": "L3N_E02", "data": { "phrase": "Ik wil graag een koffie.", "meaning": "I would like a coffee." } },
+    { "type": "expression", "item_id": "L3N_E03", "data": { "phrase": "met melk", "meaning": "with milk" } },
+    { "type": "expression", "item_id": "L3N_E04", "data": { "phrase": "met suiker", "meaning": "with sugar" } },
+    {
+      "type": "interactive_scenario",
+      "scenario_id": "L3N_S01",
+      "title": "Ordering a Drink",
+      "setting": "You sit down at a cozy café. The waiter comes to take your order.",
+      "conversation_flow": [
+        {
+          "title": "Ask for the menu",
+          "chatbot_message": "Goedemiddag. Wat wilt u drinken?"
+        },
+        {
+          "title": "Order coffee with milk",
+          "chatbot_message": "Natuurlijk. Met melk en suiker?"
+        },
+        {
+          "title": "Receive your drink",
+          "chatbot_message": "Komt eraan. Eén koffie met melk."
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V02",
+      "data": { "Het broodje kaas": "The cheese sandwich", "De appeltaart": "The apple pie", "De bitterballen": "The bitterballen (Dutch snack)" }
+    },
+    { "type": "expression", "item_id": "L3N_E05", "data": { "phrase": "Wat raadt u aan?", "meaning": "What do you recommend?" } },
+    { "type": "expression", "item_id": "L3N_E06", "data": { "phrase": "Ik neem de appeltaart.", "meaning": "I'll take the apple pie." } },
+    {
+      "type": "interactive_scenario",
+      "scenario_id": "L3N_S02",
+      "title": "Ordering Food",
+      "setting": "The waiter returns and asks if you want something to eat.",
+      "conversation_flow": [
+        {
+          "title": "Ask for a recommendation",
+          "chatbot_message": "Wilt u er ook iets bij eten?"
+        },
+        {
+          "title": "Order apple pie",
+          "chatbot_message": "Onze appeltaart is heel lekker. Of misschien een broodje kaas?"
+        },
+        {
+          "title": "Receive confirmation",
+          "chatbot_message": "Goede keuze! Een appeltaart erbij."
+        }
+      ]
+    },
+    { "type": "vocabulary", "item_id": "L3N_V03", "data": { "De rekening": "The bill", "Gezellig": "Cozy / nice atmosphere" } },
+    { "type": "expression", "item_id": "L3N_E07", "data": { "phrase": "Mag ik de rekening?", "meaning": "May I have the bill?" } },
+    { "type": "expression", "item_id": "L3N_E08", "data": { "phrase": "Het was heel lekker.", "meaning": "It was very tasty." } },
+    {
+      "type": "interactive_scenario",
+      "scenario_id": "L3N_S03",
+      "title": "Paying and Leaving",
+      "setting": "You've finished your coffee and apple pie. Time to pay.",
+      "conversation_flow": [
+        {
+          "title": "Compliment the food",
+          "chatbot_message": "Heeft het gesmaakt?"
+        },
+        {
+          "title": "Ask for the bill",
+          "chatbot_message": "Fijn om te horen! Anders nog iets?"
+        },
+        {
+          "title": "Say goodbye",
+          "chatbot_message": "Dat is dan 8 euro 50. Dank u wel en tot ziens!"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Lekker gedaan! You can now confidently order at a Dutch café. In the next lesson, we'll learn how to ask for directions!"
+    }
+  ]
+}
