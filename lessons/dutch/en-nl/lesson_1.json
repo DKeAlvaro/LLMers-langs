@@ -1,11 +1,11 @@
 {
   "id": "L1N",
   "title": "Meeting at the Supermarket",
-  "description": "Learn basic greetings and how to introduce yourself in Dutch at a supermarket.",
+  "description": "Learn basic greetings, introductions, and how to ask for fruit at a Dutch supermarket.",
   "content": [
     {
       "type": "tip",
-      "text": "Welcome to your first Dutch lesson! We'll focus on everything you need to know for a successful trip to a Dutch supermarket, 'de supermarkt'."
+      "text": "Welcome to your first Dutch lesson! You will learn everything you need for a trip to a Dutch supermarket ('de supermarkt'). By the end, you will be able to greet people, introduce yourself, and buy fruit."
     },
     {
       "type": "vocabulary",
@@ -18,13 +18,21 @@
       "type": "expression",
       "item_id": "L1N_E01",
       "data": {
-        "phrase": "Hallo.",
-        "meaning": "Hello."
+        "phrase": "Hallo!",
+        "meaning": "Hello!"
       }
     },
     {
       "type": "expression",
       "item_id": "L1N_E02",
+      "data": {
+        "phrase": "Goedendag!",
+        "meaning": "Good day! (formal greeting)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E03",
       "data": {
         "phrase": "Ik heet...",
         "meaning": "My name is..."
@@ -32,59 +40,98 @@
     },
     {
       "type": "expression",
-      "item_id": "L1N_E03",
+      "item_id": "L1N_E04",
       "data": {
         "phrase": "Hoe heet jij?",
-        "meaning": "What is your name?"
+        "meaning": "What is your name? (informal)"
       }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E05",
+      "data": {
+        "phrase": "Leuk je te ontmoeten!",
+        "meaning": "Nice to meet you!"
+      }
+    },
+    {
+      "type": "grammar",
+      "item_id": "L1N_G01",
+      "title": "Dutch Articles: 'de' and 'het'",
+      "explanation": "Dutch has two words for 'the': 'de' and 'het'. Most nouns use 'de' (about two-thirds of all nouns). You need to memorize which nouns use 'het'. For now, just pay attention to which article each new word uses.\n\nExample: 'de supermarkt' (the supermarket) uses 'de'."
+    },
+    {
+      "type": "scripted_roleplay",
+      "item_id": "L1N_R01",
+      "title": "Quick Practice: Introduce Yourself",
+      "bot_line": "Hallo! Ik heet Jan. Hoe heet jij?",
+      "expected_concept": "The user should greet back with 'Hallo' and introduce themselves using 'Ik heet' followed by their name"
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L1N_S01",
       "title": "Meeting Someone New",
-      "setting": "You are in the supermarket and meet someone new. You want to introduce yourself.",
+      "setting": "You are in the supermarket and meet a friendly Dutch person named Alex. Introduce yourself!",
       "conversation_flow": [
         {
-          "title": "Greet Alex",
+          "title": "Greet Alex back",
           "chatbot_message": "Hallo!"
         },
         {
-          "title": "State your name",
+          "title": "Say your name using 'Ik heet...'",
           "chatbot_message": "Ik heet Alex. Hoe heet jij?",
           "extract_info": {
             "user_name": "Extract the user's name from their message"
           }
         },
         {
-          "title": "Say it's nice to meet them",
+          "title": "Say 'Leuk je te ontmoeten!'",
           "chatbot_message": "Leuk je te ontmoeten, {user_name}!"
         }
       ]
     },
     {
+      "type": "tip",
+      "text": "Great job with your first Dutch conversation! Now let us learn some vocabulary for shopping."
+    },
+    {
       "type": "vocabulary",
       "item_id": "L1N_V02",
       "data": {
-        "De appel": "The apple"
+        "Ja": "Yes"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L1N_V03",
       "data": {
-        "De banaan": "The banana"
+        "Nee": "No"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L1N_V04",
       "data": {
+        "De appel": "The apple"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L1N_V05",
+      "data": {
+        "De banaan": "The banana"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L1N_V06",
+      "data": {
         "De sinaasappel": "The orange"
       }
     },
     {
       "type": "expression",
-      "item_id": "L1N_E04",
+      "item_id": "L1N_E06",
       "data": {
         "phrase": "Ik wil graag...",
         "meaning": "I would like..."
@@ -92,59 +139,70 @@
     },
     {
       "type": "expression",
-      "item_id": "L1N_E05",
-      "data": {
-        "phrase": "een appel",
-        "meaning": "an apple"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L1N_E06",
+      "item_id": "L1N_E07",
       "data": {
         "phrase": "Ik wil graag een appel.",
         "meaning": "I would like an apple."
       }
     },
     {
-      "type": "interactive_scenario",
-      "scenario_id": "L1N_S02",
-      "title": "Buying Fruit",
-      "setting": "You approach the fruit section and a store employee offers to help you.",
-      "conversation_flow": [
-        {
-          "title": "Respond to the offer",
-          "chatbot_message": "Kan ik u helpen?"
-        },
-        {
-          "title": "Ask for an apple",
-          "chatbot_message": "Natuurlijk. E\u00e9n appel. Anders nog iets?"
-        },
-        {
-          "title": "Say that's all",
-          "chatbot_message": "Prima. Dat is dan \u00e9\u00e9n euro, alstublieft."
-        }
-      ]
-    },
-    {
-      "type": "expression",
-      "item_id": "L1N_E07",
-      "data": {
-        "phrase": "Dank u wel.",
-        "meaning": "Thank you (formal)."
-      }
+      "type": "tip",
+      "text": "Notice that 'een' means both 'a/an' and the number 'one' in Dutch. 'Ik wil graag een appel' means 'I would like an apple.'"
     },
     {
       "type": "expression",
       "item_id": "L1N_E08",
+      "data": {
+        "phrase": "Alstublieft.",
+        "meaning": "Please. / Here you go. (formal)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E09",
+      "data": {
+        "phrase": "Dank u wel.",
+        "meaning": "Thank you. (formal)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E10",
       "data": {
         "phrase": "Tot ziens!",
         "meaning": "Goodbye!"
       }
     },
     {
+      "type": "scripted_roleplay",
+      "item_id": "L1N_R02",
+      "title": "Quick Practice: Ask for Fruit",
+      "bot_line": "Goedendag!",
+      "expected_concept": "The user should greet back and ask for any fruit using 'Ik wil graag een...' followed by a fruit name (appel, banaan, or sinaasappel)"
+    },
+    {
+      "type": "interactive_scenario",
+      "scenario_id": "L1N_S02",
+      "title": "Buying Fruit",
+      "setting": "You walk to the fruit section of the supermarket. A friendly employee greets you.",
+      "conversation_flow": [
+        {
+          "title": "Greet and ask for an apple using 'Ik wil graag...'",
+          "chatbot_message": "Goedendag!"
+        },
+        {
+          "title": "Say 'Dank u wel!'",
+          "chatbot_message": "Een appel. Alstublieft!"
+        },
+        {
+          "title": "Say 'Tot ziens!'",
+          "chatbot_message": "Dank u wel! Tot ziens!"
+        }
+      ]
+    },
+    {
       "type": "tip",
-      "text": "Great job! You can now greet someone, introduce yourself, and buy an apple in Dutch. In the next lesson, we'll visit a famous Dutch fish stand!"
+      "text": "Excellent! You can now greet someone, introduce yourself, and buy fruit in Dutch. In the next lesson, we will visit a famous Dutch fish stand, 'de haringkraam'!"
     }
   ]
 }

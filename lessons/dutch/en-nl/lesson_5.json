@@ -1,43 +1,65 @@
 {
   "id": "L5N",
   "title": "At the Train Station",
-  "description": "Learn how to buy train tickets and navigate a Dutch train station.",
+  "description": "Learn how to buy train tickets and deal with delays at a Dutch train station.",
   "content": [
     {
       "type": "tip",
-      "text": "Welcome! Dutch trains ('de trein') are famous for being efficient and connecting the whole country. In this lesson, you'll learn how to navigate the station like a local."
+      "text": "Welcome! Dutch trains ('de trein') are famous for connecting the whole country. In this lesson, you will learn how to buy tickets, find your platform, and handle delays."
     },
     {
-      "type": "vocabulary",
-      "item_id": "L5N_V01",
+      "type": "expression",
+      "item_id": "L5N_E01",
       "data": {
-        "Het station": "The train station"
+        "phrase": "Goedemiddag!",
+        "meaning": "Good afternoon!"
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L5N_V02",
+      "item_id": "L5N_V01",
       "data": {
         "De trein": "The train"
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L5N_V03",
+      "item_id": "L5N_V02",
       "data": {
         "Het perron": "The platform"
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L5N_V04",
+      "item_id": "L5N_V03",
       "data": {
         "Het kaartje": "The ticket"
       }
     },
     {
+      "type": "vocabulary",
+      "item_id": "L5N_V04",
+      "data": {
+        "Het spoor": "The track"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V05",
+      "data": {
+        "Enkeltje": "Single ticket (one way)"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V06",
+      "data": {
+        "Retourtje": "Return ticket (round trip)"
+      }
+    },
+    {
       "type": "expression",
-      "item_id": "L5N_E01",
+      "item_id": "L5N_E02",
       "data": {
         "phrase": "Ik wil graag een kaartje naar...",
         "meaning": "I would like a ticket to..."
@@ -45,94 +67,73 @@
     },
     {
       "type": "expression",
-      "item_id": "L5N_E02",
-      "data": {
-        "phrase": "Enkeltje of retourtje?",
-        "meaning": "Single or return?"
-      }
-    },
-    {
-      "type": "expression",
       "item_id": "L5N_E03",
       "data": {
         "phrase": "Een enkeltje, alstublieft.",
-        "meaning": "A single, please."
-      }
-    },
-    {
-      "type": "interactive_scenario",
-      "scenario_id": "L5N_S01",
-      "title": "Buying a Ticket",
-      "setting": "You're at Amsterdam Central Station and need to buy a ticket to Utrecht.",
-      "conversation_flow": [
-        {
-          "title": "Greet and state destination",
-          "chatbot_message": "Goedemiddag. Wat kan ik voor u doen?"
-        },
-        {
-          "title": "Choose single or return",
-          "chatbot_message": "Naar Utrecht. Wilt u een enkeltje of een retourtje?"
-        },
-        {
-          "title": "Hear the price",
-          "chatbot_message": "Een enkeltje naar Utrecht. Dat is dan 9 euro 50, alstublieft."
-        }
-      ]
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L5N_V05",
-      "data": {
-        "De vertrektijd": "The departure time"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L5N_V06",
-      "data": {
-        "De aankomsttijd": "The arrival time"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L5N_V07",
-      "data": {
-        "Het spoor": "The track"
+        "meaning": "A single ticket, please."
       }
     },
     {
       "type": "expression",
       "item_id": "L5N_E04",
       "data": {
-        "phrase": "Hoe laat vertrekt de trein?",
-        "meaning": "What time does the train leave?"
+        "phrase": "Een retourtje, alstublieft.",
+        "meaning": "A return ticket, please."
       }
     },
     {
       "type": "expression",
       "item_id": "L5N_E05",
       "data": {
-        "phrase": "Van welk spoor vertrekt de trein?",
-        "meaning": "From which track does the train leave?"
+        "phrase": "Welk spoor?",
+        "meaning": "Which track?"
       }
     },
     {
+      "type": "grammar",
+      "item_id": "L5N_G01",
+      "title": "Asking About Time with 'Hoe laat...?'",
+      "explanation": "To ask about time, use 'Hoe laat...?' (What time...?):\n\nHoe laat vertrekt de trein? = What time does the train leave?\n\n'Vertrekt' comes from 'vertrekken' (to depart). You do not need to memorize the conjugation yet, just remember the full phrase!"
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V07",
+      "data": {
+        "De vertrektijd": "The departure time"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L5N_E06",
+      "data": {
+        "phrase": "Hoe laat vertrekt de trein?",
+        "meaning": "What time does the train leave?"
+      }
+    },
+    {
+      "type": "scripted_roleplay",
+      "item_id": "L5N_R01",
+      "title": "Quick Practice: Buy a Ticket",
+      "bot_line": "Goedemiddag! Enkeltje? Retourtje?",
+      "expected_concept": "The user should ask for a ticket using 'Ik wil graag een kaartje naar...' followed by a city name, and specify single or return with 'Een enkeltje, alstublieft' or 'Een retourtje, alstublieft'"
+    },
+    {
       "type": "interactive_scenario",
-      "scenario_id": "L5N_S02",
-      "title": "Finding Your Platform",
-      "setting": "You have your ticket but need to find the right platform. Ask a station employee.",
+      "scenario_id": "L5N_S01",
+      "title": "Buying a Ticket",
+      "setting": "You are at Amsterdam Central Station. You need to buy a ticket to Utrecht.",
       "conversation_flow": [
         {
-          "title": "Ask about departure time",
-          "chatbot_message": "Kan ik u helpen?"
+          "title": "Greet and ask for a ticket to Utrecht",
+          "chatbot_message": "Goedemiddag!"
         },
         {
-          "title": "Ask about the track",
-          "chatbot_message": "De trein naar Utrecht vertrekt om 14:15."
+          "title": "Choose single or return",
+          "chatbot_message": "Een kaartje naar Utrecht. Enkeltje? Retourtje?"
         },
         {
-          "title": "Confirm you understand",
-          "chatbot_message": "Spoor 5. Aan de linkerkant van het station. U heeft nog tien minuten!"
+          "title": "Ask which track using 'Welk spoor?'",
+          "chatbot_message": "Een enkeltje naar Utrecht. Dat is tien euro. Alstublieft!"
         }
       ]
     },
@@ -147,19 +148,12 @@
       "type": "vocabulary",
       "item_id": "L5N_V09",
       "data": {
-        "Overstappen": "To transfer"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L5N_V10",
-      "data": {
-        "De volgende": "The next one"
+        "Overstappen": "To transfer (change trains)"
       }
     },
     {
       "type": "expression",
-      "item_id": "L5N_E06",
+      "item_id": "L5N_E07",
       "data": {
         "phrase": "Heeft de trein vertraging?",
         "meaning": "Does the train have a delay?"
@@ -167,35 +161,21 @@
     },
     {
       "type": "expression",
-      "item_id": "L5N_E07",
+      "item_id": "L5N_E08",
       "data": {
         "phrase": "Moet ik overstappen?",
         "meaning": "Do I need to transfer?"
       }
     },
     {
-      "type": "interactive_scenario",
-      "scenario_id": "L5N_S03",
-      "title": "Dealing with a Delay",
-      "setting": "Your train is delayed. Ask for information about what to do.",
-      "conversation_flow": [
-        {
-          "title": "Ask about the delay",
-          "chatbot_message": "Heeft u een vraag over de trein?"
-        },
-        {
-          "title": "Ask about transfers",
-          "chatbot_message": "Ja, de trein naar Utrecht heeft tien minuten vertraging. Het spijt me."
-        },
-        {
-          "title": "Thank the employee",
-          "chatbot_message": "Nee, u hoeft niet over te stappen. Het is een directe trein. U komt om 14:50 aan in Utrecht."
-        }
-      ]
+      "type": "grammar",
+      "item_id": "L5N_G02",
+      "title": "Asking 'Do I have to...?' with 'Moet ik...?'",
+      "explanation": "Use 'Moet ik...?' to ask if you need to do something:\n\nMoet ik overstappen? = Do I need to transfer?\n\nThe answer will be 'Ja' (yes) or 'Nee' (no).\n\nYou already know 'Kan ik...?' (Can I...?) from Lesson 2. Now you have two useful question patterns!"
     },
     {
       "type": "expression",
-      "item_id": "L5N_E08",
+      "item_id": "L5N_E09",
       "data": {
         "phrase": "Bedankt voor uw hulp.",
         "meaning": "Thank you for your help."
@@ -203,15 +183,42 @@
     },
     {
       "type": "expression",
-      "item_id": "L5N_E09",
+      "item_id": "L5N_E10",
       "data": {
         "phrase": "Goede reis!",
         "meaning": "Have a good trip!"
       }
     },
     {
+      "type": "scripted_roleplay",
+      "item_id": "L5N_R02",
+      "title": "Quick Practice: Ask About Delays",
+      "bot_line": "Hallo!",
+      "expected_concept": "The user should ask about delays using 'Heeft de trein vertraging?' or ask about transfers using 'Moet ik overstappen?'"
+    },
+    {
+      "type": "interactive_scenario",
+      "scenario_id": "L5N_S02",
+      "title": "Dealing with a Delay",
+      "setting": "Your train is delayed. Ask a station employee for information.",
+      "conversation_flow": [
+        {
+          "title": "Greet and ask about the delay",
+          "chatbot_message": "Hallo!"
+        },
+        {
+          "title": "Ask if you need to transfer",
+          "chatbot_message": "Ja, de trein heeft vertraging."
+        },
+        {
+          "title": "Thank them using 'Bedankt voor uw hulp'",
+          "chatbot_message": "Nee. Goede reis!"
+        }
+      ]
+    },
+    {
       "type": "tip",
-      "text": "Uitstekend! You've completed all the essential Dutch lessons. You can now shop at a supermarket, order herring, visit a caf\u00e9, ask for directions, and navigate the train station. Goede reis!"
+      "text": "Uitstekend! You have completed all five essential Dutch lessons. You can now shop at a supermarket, order herring, visit a caf\u00e9, ask for directions, and navigate the train station. Goede reis!"
     }
   ]
 }

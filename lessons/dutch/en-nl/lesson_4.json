@@ -5,7 +5,15 @@
   "content": [
     {
       "type": "tip",
-      "text": "Welcome! In this lesson, you'll learn how to navigate Dutch streets. The Netherlands is a very walkable and bikeable country, so knowing directions is essential!"
+      "text": "Welcome! In this lesson, you will learn how to navigate Dutch streets. The Netherlands is a very walkable country, so knowing directions is essential!"
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E01",
+      "data": {
+        "phrase": "Goedemorgen!",
+        "meaning": "Good morning!"
+      }
     },
     {
       "type": "vocabulary",
@@ -30,18 +38,17 @@
     },
     {
       "type": "expression",
-      "item_id": "L4N_E01",
-      "data": {
-        "phrase": "Sorry, mag ik u iets vragen?",
-        "meaning": "Excuse me, may I ask you something?"
-      }
-    },
-    {
-      "type": "expression",
       "item_id": "L4N_E02",
       "data": {
         "phrase": "Waar is...?",
         "meaning": "Where is...?"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L4N_V04",
+      "data": {
+        "Het station": "The train station"
       }
     },
     {
@@ -53,56 +60,93 @@
       }
     },
     {
+      "type": "expression",
+      "item_id": "L4N_E04",
+      "data": {
+        "phrase": "Eerst",
+        "meaning": "First"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E05",
+      "data": {
+        "phrase": "Dan",
+        "meaning": "Then"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E06",
+      "data": {
+        "phrase": "Eerst rechtdoor, dan links.",
+        "meaning": "First straight ahead, then left."
+      }
+    },
+    {
+      "type": "grammar",
+      "item_id": "L4N_G01",
+      "title": "Giving Directions with 'Eerst... dan...'",
+      "explanation": "To give step-by-step directions, use 'eerst' (first) and 'dan' (then):\n\nEerst rechtdoor, dan links. = First straight ahead, then left.\nEerst links, dan rechts. = First left, then right.\nEerst rechts, dan rechtdoor. = First right, then straight ahead.\n\nYou can chain multiple steps together!"
+    },
+    {
+      "type": "scripted_roleplay",
+      "item_id": "L4N_R01",
+      "title": "Quick Practice: Ask for Directions",
+      "bot_line": "Goedemorgen!",
+      "expected_concept": "The user should greet back and ask where something is using 'Waar is...?' followed by a place. For example: 'Goedemorgen! Waar is het station?'"
+    },
+    {
       "type": "interactive_scenario",
       "scenario_id": "L4N_S01",
-      "title": "Finding the Station",
-      "setting": "You're lost in the city and need to find the train station ('het station').",
+      "title": "Finding the Train Station",
+      "setting": "You are in the city and need to find the train station. Ask a local for help.",
       "conversation_flow": [
         {
-          "title": "Ask where the station is",
-          "chatbot_message": "Goedemorgen. Kan ik u helpen?"
+          "title": "Greet and ask 'Waar is het station?'",
+          "chatbot_message": "Goedemorgen!"
         },
         {
-          "title": "Listen to directions",
-          "chatbot_message": "Het station? Ga hier rechtdoor en dan links. Het is ongeveer vijf minuten lopen."
+          "title": "Say 'Dank u wel!'",
+          "chatbot_message": "Het station? Eerst rechtdoor, dan links."
         },
         {
-          "title": "Say thank you",
-          "chatbot_message": "Graag gedaan. U kunt het niet missen!"
+          "title": "Say 'Tot ziens!'",
+          "chatbot_message": "Tot ziens!"
         }
       ]
     },
     {
       "type": "vocabulary",
-      "item_id": "L4N_V04",
+      "item_id": "L4N_V05",
       "data": {
         "De straat": "The street"
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L4N_V05",
+      "item_id": "L4N_V06",
       "data": {
         "De brug": "The bridge"
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L4N_V06",
+      "item_id": "L4N_V07",
       "data": {
         "Het plein": "The square"
       }
     },
     {
       "type": "vocabulary",
-      "item_id": "L4N_V07",
+      "item_id": "L4N_V08",
       "data": {
         "De hoek": "The corner"
       }
     },
     {
       "type": "expression",
-      "item_id": "L4N_E04",
+      "item_id": "L4N_E07",
       "data": {
         "phrase": "Is het ver?",
         "meaning": "Is it far?"
@@ -110,92 +154,64 @@
     },
     {
       "type": "expression",
-      "item_id": "L4N_E05",
+      "item_id": "L4N_E08",
       "data": {
         "phrase": "Het is dichtbij.",
-        "meaning": "It is close by."
-      }
-    },
-    {
-      "type": "interactive_scenario",
-      "scenario_id": "L4N_S02",
-      "title": "Finding a Museum",
-      "setting": "You want to visit the Rijksmuseum. Ask a local for help.",
-      "conversation_flow": [
-        {
-          "title": "Ask about distance",
-          "chatbot_message": "Het Rijksmuseum? Dat is aan het Museumplein."
-        },
-        {
-          "title": "Listen to detailed directions",
-          "chatbot_message": "Nee, het is niet ver. Ongeveer tien minuten lopen. Eerst rechtdoor, dan rechts bij de brug."
-        },
-        {
-          "title": "Confirm you understand",
-          "chatbot_message": "Precies. Het is een groot gebouw, u kunt het niet missen. Veel plezier!"
-        }
-      ]
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L4N_V08",
-      "data": {
-        "De fiets": "The bicycle"
+        "meaning": "It is nearby."
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L4N_V09",
       "data": {
-        "Het fietspad": "The bike path"
+        "Lopen": "To walk"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L4N_V10",
       "data": {
-        "Lopen": "To walk"
+        "De fiets": "The bicycle"
       }
     },
     {
       "type": "expression",
-      "item_id": "L4N_E06",
-      "data": {
-        "phrase": "Kan ik er lopen?",
-        "meaning": "Can I walk there?"
-      }
-    },
-    {
-      "type": "expression",
-      "item_id": "L4N_E07",
+      "item_id": "L4N_E09",
       "data": {
         "phrase": "Ik ben verdwaald.",
         "meaning": "I am lost."
       }
     },
     {
+      "type": "scripted_roleplay",
+      "item_id": "L4N_R02",
+      "title": "Quick Practice: You Are Lost",
+      "bot_line": "Hallo!",
+      "expected_concept": "The user should say they are lost using 'Ik ben verdwaald' and ask where something is using 'Waar is...?'"
+    },
+    {
       "type": "interactive_scenario",
-      "scenario_id": "L4N_S03",
-      "title": "Asking for a Landmark",
-      "setting": "You're trying to find a specific street but you're completely lost.",
+      "scenario_id": "L4N_S02",
+      "title": "Finding a Museum",
+      "setting": "You are lost and want to find the Rijksmuseum. Ask a local for help.",
       "conversation_flow": [
         {
-          "title": "Say you're lost",
-          "chatbot_message": "Alles goed? U kijkt een beetje verdwaald."
+          "title": "Say you are lost and ask where the Rijksmuseum is",
+          "chatbot_message": "Hallo!"
         },
         {
-          "title": "Name the street",
-          "chatbot_message": "De Kalverstraat? Geen probleem. Kijk, u gaat hier links en dan ziet u het na de brug."
+          "title": "Ask 'Is het ver?'",
+          "chatbot_message": "Het Rijksmuseum? Eerst rechtdoor, dan rechts."
         },
         {
-          "title": "Thank the person",
-          "chatbot_message": "Heel goed! Het is maar vijf minuten. Succes!"
+          "title": "Say 'Dank u wel!' and 'Tot ziens!'",
+          "chatbot_message": "Nee, het is dichtbij."
         }
       ]
     },
     {
       "type": "tip",
-      "text": "Goed zo! You can now confidently ask for and understand directions in Dutch. In the next lesson, we'll tackle the train station!"
+      "text": "Goed gedaan! You can now ask for directions and understand basic responses in Dutch. In the next lesson, we will navigate the train station!"
     }
   ]
 }

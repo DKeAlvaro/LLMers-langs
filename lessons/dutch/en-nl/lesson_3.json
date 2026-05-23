@@ -1,17 +1,17 @@
 {
   "id": "L3N",
   "title": "At the Caf\u00e9",
-  "description": "Learn how to order drinks and snacks at a Dutch caf\u00e9.",
+  "description": "Learn how to order drinks and food at a Dutch caf\u00e9.",
   "content": [
     {
       "type": "tip",
-      "text": "Welcome! In this lesson, you'll learn how to order at a Dutch caf\u00e9 ('het caf\u00e9'). The Dutch love their coffee and 'gezelligheid' (coziness)!"
+      "text": "Welcome! In this lesson, you will learn how to order at a Dutch caf\u00e9 ('het caf\u00e9'). The Dutch love their coffee and 'gezelligheid' (coziness)!"
     },
     {
       "type": "vocabulary",
       "item_id": "L3N_V01",
       "data": {
-        "Het caf\u00c3\u00a9": "The caf\u00e9"
+        "Het caf\u00e9": "The caf\u00e9"
       }
     },
     {
@@ -32,12 +32,34 @@
       "type": "vocabulary",
       "item_id": "L3N_V04",
       "data": {
+        "Het water": "The water"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V05",
+      "data": {
         "Het bier": "The beer"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V06",
+      "data": {
+        "De menukaart": "The menu"
       }
     },
     {
       "type": "expression",
       "item_id": "L3N_E01",
+      "data": {
+        "phrase": "Mag ik...?",
+        "meaning": "May I have...? (polite request)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E02",
       "data": {
         "phrase": "Mag ik de menukaart?",
         "meaning": "May I have the menu?"
@@ -45,7 +67,7 @@
     },
     {
       "type": "expression",
-      "item_id": "L3N_E02",
+      "item_id": "L3N_E03",
       "data": {
         "phrase": "Ik wil graag een koffie.",
         "meaning": "I would like a coffee."
@@ -53,114 +75,134 @@
     },
     {
       "type": "expression",
-      "item_id": "L3N_E03",
-      "data": {
-        "phrase": "met melk",
-        "meaning": "with milk"
-      }
-    },
-    {
-      "type": "expression",
       "item_id": "L3N_E04",
       "data": {
-        "phrase": "met suiker",
-        "meaning": "with sugar"
-      }
-    },
-    {
-      "type": "interactive_scenario",
-      "scenario_id": "L3N_S01",
-      "title": "Ordering a Drink",
-      "setting": "You sit down at a cozy caf\u00e9. The waiter comes to take your order.",
-      "conversation_flow": [
-        {
-          "title": "Ask for the menu",
-          "chatbot_message": "Goedemiddag. Wat wilt u drinken?"
-        },
-        {
-          "title": "Order coffee with milk",
-          "chatbot_message": "Natuurlijk. Met melk en suiker?"
-        },
-        {
-          "title": "Receive your drink",
-          "chatbot_message": "Komt eraan. E\u00e9n koffie met melk."
-        }
-      ]
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L3N_V05",
-      "data": {
-        "Het broodje kaas": "The cheese sandwich"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L3N_V06",
-      "data": {
-        "De appeltaart": "The apple pie"
-      }
-    },
-    {
-      "type": "vocabulary",
-      "item_id": "L3N_V07",
-      "data": {
-        "De bitterballen": "The bitterballen (Dutch snack)"
+        "phrase": "Met melk.",
+        "meaning": "With milk."
       }
     },
     {
       "type": "expression",
       "item_id": "L3N_E05",
       "data": {
-        "phrase": "Wat raadt u aan?",
-        "meaning": "What do you recommend?"
+        "phrase": "Met suiker.",
+        "meaning": "With sugar."
       }
     },
     {
-      "type": "expression",
-      "item_id": "L3N_E06",
-      "data": {
-        "phrase": "Ik neem de appeltaart.",
-        "meaning": "I'll take the apple pie."
-      }
+      "type": "grammar",
+      "item_id": "L3N_G01",
+      "title": "Polite Requests with 'Mag ik...?'",
+      "explanation": "Use 'Mag ik...?' to make polite requests. It literally means 'May I...?'\n\nMag ik de menukaart? = May I have the menu?\nMag ik een koffie? = May I have a coffee?\n\nThis is slightly more polite than 'Ik wil graag...' (I would like...) which you learned in Lesson 1. Both are perfectly fine to use!"
+    },
+    {
+      "type": "scripted_roleplay",
+      "item_id": "L3N_R01",
+      "title": "Quick Practice: Order a Drink",
+      "bot_line": "Goedendag!",
+      "expected_concept": "The user should greet back and order a drink using 'Mag ik...' or 'Ik wil graag...' followed by a drink (een koffie, een thee, een water, een bier), optionally adding 'met melk' or 'met suiker'"
     },
     {
       "type": "interactive_scenario",
-      "scenario_id": "L3N_S02",
-      "title": "Ordering Food",
-      "setting": "The waiter returns and asks if you want something to eat.",
+      "scenario_id": "L3N_S01",
+      "title": "Ordering a Drink",
+      "setting": "You sit down at a cozy Dutch caf\u00e9. A waiter greets you.",
       "conversation_flow": [
         {
-          "title": "Ask for a recommendation",
-          "chatbot_message": "Wilt u er ook iets bij eten?"
+          "title": "Greet and ask for the menu",
+          "chatbot_message": "Goedendag!"
         },
         {
-          "title": "Order apple pie",
-          "chatbot_message": "Onze appeltaart is heel lekker. Of misschien een broodje kaas?"
+          "title": "Order a coffee with milk",
+          "chatbot_message": "De menukaart. Alstublieft!"
         },
         {
-          "title": "Receive confirmation",
-          "chatbot_message": "Goede keuze! Een appeltaart erbij."
+          "title": "Say 'Dank u wel!'",
+          "chatbot_message": "Een koffie met melk. Alstublieft!"
         }
       ]
     },
     {
       "type": "vocabulary",
+      "item_id": "L3N_V07",
+      "data": {
+        "De appeltaart": "The apple pie"
+      }
+    },
+    {
+      "type": "vocabulary",
       "item_id": "L3N_V08",
       "data": {
-        "De rekening": "The bill"
+        "Het broodje kaas": "The cheese sandwich"
       }
     },
     {
       "type": "vocabulary",
       "item_id": "L3N_V09",
       "data": {
-        "Gezellig": "Cozy / nice atmosphere"
+        "De bitterballen": "The bitterballen (deep-fried Dutch snack)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E06",
+      "data": {
+        "phrase": "Ik neem...",
+        "meaning": "I will take... / I will have..."
       }
     },
     {
       "type": "expression",
       "item_id": "L3N_E07",
+      "data": {
+        "phrase": "Ik neem de appeltaart.",
+        "meaning": "I will have the apple pie."
+      }
+    },
+    {
+      "type": "scripted_roleplay",
+      "item_id": "L3N_R02",
+      "title": "Quick Practice: Order Food",
+      "bot_line": "De appeltaart? Het broodje kaas? De bitterballen?",
+      "expected_concept": "The user should order food using 'Ik neem...' or 'Ik wil graag...' followed by a food item (de appeltaart, het broodje kaas, de bitterballen)"
+    },
+    {
+      "type": "interactive_scenario",
+      "scenario_id": "L3N_S02",
+      "title": "Ordering Food",
+      "setting": "You have your drink. The waiter comes back to ask about food.",
+      "conversation_flow": [
+        {
+          "title": "Order apple pie or another food item",
+          "chatbot_message": "Hallo! De appeltaart? Het broodje kaas? De bitterballen?"
+        },
+        {
+          "title": "Say yes or no to a drink with your food",
+          "chatbot_message": "De appeltaart. Met koffie? Met thee?"
+        },
+        {
+          "title": "Say 'Dank u wel!'",
+          "chatbot_message": "Een appeltaart. Een thee. Alstublieft!"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V10",
+      "data": {
+        "De rekening": "The bill"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V11",
+      "data": {
+        "Lekker": "Tasty / delicious"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E08",
       "data": {
         "phrase": "Mag ik de rekening?",
         "meaning": "May I have the bill?"
@@ -168,35 +210,43 @@
     },
     {
       "type": "expression",
-      "item_id": "L3N_E08",
+      "item_id": "L3N_E09",
       "data": {
-        "phrase": "Het was heel lekker.",
-        "meaning": "It was very tasty."
+        "phrase": "Het was lekker!",
+        "meaning": "It was tasty!"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E10",
+      "data": {
+        "phrase": "Het was heel lekker!",
+        "meaning": "It was very tasty!"
       }
     },
     {
       "type": "interactive_scenario",
       "scenario_id": "L3N_S03",
       "title": "Paying and Leaving",
-      "setting": "You've finished your coffee and apple pie. Time to pay.",
+      "setting": "You have finished your coffee and apple pie. Time to pay and leave.",
       "conversation_flow": [
         {
-          "title": "Compliment the food",
-          "chatbot_message": "Heeft het gesmaakt?"
+          "title": "Say the food was very tasty",
+          "chatbot_message": "Hallo!"
         },
         {
-          "title": "Ask for the bill",
-          "chatbot_message": "Fijn om te horen! Anders nog iets?"
+          "title": "Ask for the bill using 'Mag ik de rekening?'",
+          "chatbot_message": "Dank u wel!"
         },
         {
-          "title": "Say goodbye",
-          "chatbot_message": "Dat is dan 8 euro 50. Dank u wel en tot ziens!"
+          "title": "Say 'Dank u wel!' and 'Tot ziens!'",
+          "chatbot_message": "De rekening. Dat is acht euro. Dank u wel! Tot ziens!"
         }
       ]
     },
     {
       "type": "tip",
-      "text": "Lekker gedaan! You can now confidently order at a Dutch caf\u00e9. In the next lesson, we'll learn how to ask for directions!"
+      "text": "Lekker gedaan! You can now order drinks and food at a Dutch caf\u00e9 and ask for the bill. In the next lesson, we will learn how to ask for directions!"
     }
   ]
 }
