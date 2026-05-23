@@ -1,26 +1,77 @@
 {
   "id": "L3N",
-  "title": "At the Café",
-  "description": "Learn how to order drinks and snacks at a Dutch café.",
+  "title": "At the CafÃ©",
+  "description": "Learn how to order drinks and snacks at a Dutch cafÃ©.",
   "content": [
     {
       "type": "tip",
-      "text": "Welcome! In this lesson, you'll learn how to order at a Dutch café ('het café'). The Dutch love their coffee and 'gezelligheid' (coziness)!"
+      "text": "Welcome! In this lesson, you'll learn how to order at a Dutch cafÃ© ('het cafÃ©'). The Dutch love their coffee and 'gezelligheid' (coziness)!"
     },
     {
       "type": "vocabulary",
       "item_id": "L3N_V01",
-      "data": { "Het café": "The café", "De koffie": "The coffee", "De thee": "The tea", "Het bier": "The beer" }
+      "data": {
+        "Het cafÃ©": "The cafÃ©"
+      }
     },
-    { "type": "expression", "item_id": "L3N_E01", "data": { "phrase": "Mag ik de menukaart?", "meaning": "May I have the menu?" } },
-    { "type": "expression", "item_id": "L3N_E02", "data": { "phrase": "Ik wil graag een koffie.", "meaning": "I would like a coffee." } },
-    { "type": "expression", "item_id": "L3N_E03", "data": { "phrase": "met melk", "meaning": "with milk" } },
-    { "type": "expression", "item_id": "L3N_E04", "data": { "phrase": "met suiker", "meaning": "with sugar" } },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V02",
+      "data": {
+        "De koffie": "The coffee"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V03",
+      "data": {
+        "De thee": "The tea"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V04",
+      "data": {
+        "Het bier": "The beer"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E01",
+      "data": {
+        "phrase": "Mag ik de menukaart?",
+        "meaning": "May I have the menu?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E02",
+      "data": {
+        "phrase": "Ik wil graag een koffie.",
+        "meaning": "I would like a coffee."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E03",
+      "data": {
+        "phrase": "met melk",
+        "meaning": "with milk"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E04",
+      "data": {
+        "phrase": "met suiker",
+        "meaning": "with sugar"
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L3N_S01",
       "title": "Ordering a Drink",
-      "setting": "You sit down at a cozy café. The waiter comes to take your order.",
+      "setting": "You sit down at a cozy cafÃ©. The waiter comes to take your order.",
       "conversation_flow": [
         {
           "title": "Ask for the menu",
@@ -32,17 +83,47 @@
         },
         {
           "title": "Receive your drink",
-          "chatbot_message": "Komt eraan. Eén koffie met melk."
+          "chatbot_message": "Komt eraan. EÃ©n koffie met melk."
         }
       ]
     },
     {
       "type": "vocabulary",
-      "item_id": "L3N_V02",
-      "data": { "Het broodje kaas": "The cheese sandwich", "De appeltaart": "The apple pie", "De bitterballen": "The bitterballen (Dutch snack)" }
+      "item_id": "L3N_V05",
+      "data": {
+        "Het broodje kaas": "The cheese sandwich"
+      }
     },
-    { "type": "expression", "item_id": "L3N_E05", "data": { "phrase": "Wat raadt u aan?", "meaning": "What do you recommend?" } },
-    { "type": "expression", "item_id": "L3N_E06", "data": { "phrase": "Ik neem de appeltaart.", "meaning": "I'll take the apple pie." } },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V06",
+      "data": {
+        "De appeltaart": "The apple pie"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V07",
+      "data": {
+        "De bitterballen": "The bitterballen (Dutch snack)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E05",
+      "data": {
+        "phrase": "Wat raadt u aan?",
+        "meaning": "What do you recommend?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E06",
+      "data": {
+        "phrase": "Ik neem de appeltaart.",
+        "meaning": "I'll take the apple pie."
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L3N_S02",
@@ -63,9 +144,36 @@
         }
       ]
     },
-    { "type": "vocabulary", "item_id": "L3N_V03", "data": { "De rekening": "The bill", "Gezellig": "Cozy / nice atmosphere" } },
-    { "type": "expression", "item_id": "L3N_E07", "data": { "phrase": "Mag ik de rekening?", "meaning": "May I have the bill?" } },
-    { "type": "expression", "item_id": "L3N_E08", "data": { "phrase": "Het was heel lekker.", "meaning": "It was very tasty." } },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V08",
+      "data": {
+        "De rekening": "The bill"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L3N_V09",
+      "data": {
+        "Gezellig": "Cozy / nice atmosphere"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E07",
+      "data": {
+        "phrase": "Mag ik de rekening?",
+        "meaning": "May I have the bill?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L3N_E08",
+      "data": {
+        "phrase": "Het was heel lekker.",
+        "meaning": "It was very tasty."
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L3N_S03",
@@ -88,7 +196,7 @@
     },
     {
       "type": "tip",
-      "text": "Lekker gedaan! You can now confidently order at a Dutch café. In the next lesson, we'll learn how to ask for directions!"
+      "text": "Lekker gedaan! You can now confidently order at a Dutch cafÃ©. In the next lesson, we'll learn how to ask for directions!"
     }
   ]
 }

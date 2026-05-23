@@ -10,11 +10,48 @@
     {
       "type": "vocabulary",
       "item_id": "L4N_V01",
-      "data": { "Links": "Left", "Rechts": "Right", "Rechtdoor": "Straight ahead" }
+      "data": {
+        "Links": "Left"
+      }
     },
-    { "type": "expression", "item_id": "L4N_E01", "data": { "phrase": "Sorry, mag ik u iets vragen?", "meaning": "Excuse me, may I ask you something?" } },
-    { "type": "expression", "item_id": "L4N_E02", "data": { "phrase": "Waar is...?", "meaning": "Where is...?" } },
-    { "type": "expression", "item_id": "L4N_E03", "data": { "phrase": "Waar is het station?", "meaning": "Where is the train station?" } },
+    {
+      "type": "vocabulary",
+      "item_id": "L4N_V02",
+      "data": {
+        "Rechts": "Right"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L4N_V03",
+      "data": {
+        "Rechtdoor": "Straight ahead"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E01",
+      "data": {
+        "phrase": "Sorry, mag ik u iets vragen?",
+        "meaning": "Excuse me, may I ask you something?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E02",
+      "data": {
+        "phrase": "Waar is...?",
+        "meaning": "Where is...?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E03",
+      "data": {
+        "phrase": "Waar is het station?",
+        "meaning": "Where is the train station?"
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L4N_S01",
@@ -37,11 +74,48 @@
     },
     {
       "type": "vocabulary",
-      "item_id": "L4N_V02",
-      "data": { "De straat": "The street", "De brug": "The bridge", "Het plein": "The square", "De hoek": "The corner" }
+      "item_id": "L4N_V04",
+      "data": {
+        "De straat": "The street"
+      }
     },
-    { "type": "expression", "item_id": "L4N_E04", "data": { "phrase": "Is het ver?", "meaning": "Is it far?" } },
-    { "type": "expression", "item_id": "L4N_E05", "data": { "phrase": "Het is dichtbij.", "meaning": "It is close by." } },
+    {
+      "type": "vocabulary",
+      "item_id": "L4N_V05",
+      "data": {
+        "De brug": "The bridge"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L4N_V06",
+      "data": {
+        "Het plein": "The square"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L4N_V07",
+      "data": {
+        "De hoek": "The corner"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E04",
+      "data": {
+        "phrase": "Is het ver?",
+        "meaning": "Is it far?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E05",
+      "data": {
+        "phrase": "Het is dichtbij.",
+        "meaning": "It is close by."
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L4N_S02",
@@ -62,9 +136,43 @@
         }
       ]
     },
-    { "type": "vocabulary", "item_id": "L4N_V03", "data": { "De fiets": "The bicycle", "Het fietspad": "The bike path", "Lopen": "To walk" } },
-    { "type": "expression", "item_id": "L4N_E06", "data": { "phrase": "Kan ik er lopen?", "meaning": "Can I walk there?" } },
-    { "type": "expression", "item_id": "L4N_E07", "data": { "phrase": "Ik ben verdwaald.", "meaning": "I am lost." } },
+    {
+      "type": "vocabulary",
+      "item_id": "L4N_V08",
+      "data": {
+        "De fiets": "The bicycle"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L4N_V09",
+      "data": {
+        "Het fietspad": "The bike path"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L4N_V10",
+      "data": {
+        "Lopen": "To walk"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E06",
+      "data": {
+        "phrase": "Kan ik er lopen?",
+        "meaning": "Can I walk there?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L4N_E07",
+      "data": {
+        "phrase": "Ik ben verdwaald.",
+        "meaning": "I am lost."
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L4N_S03",

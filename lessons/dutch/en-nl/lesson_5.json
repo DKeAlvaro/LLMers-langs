@@ -10,11 +10,55 @@
     {
       "type": "vocabulary",
       "item_id": "L5N_V01",
-      "data": { "Het station": "The train station", "De trein": "The train", "Het perron": "The platform", "Het kaartje": "The ticket" }
+      "data": {
+        "Het station": "The train station"
+      }
     },
-    { "type": "expression", "item_id": "L5N_E01", "data": { "phrase": "Ik wil graag een kaartje naar...", "meaning": "I would like a ticket to..." } },
-    { "type": "expression", "item_id": "L5N_E02", "data": { "phrase": "Enkeltje of retourtje?", "meaning": "Single or return?" } },
-    { "type": "expression", "item_id": "L5N_E03", "data": { "phrase": "Een enkeltje, alstublieft.", "meaning": "A single, please." } },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V02",
+      "data": {
+        "De trein": "The train"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V03",
+      "data": {
+        "Het perron": "The platform"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V04",
+      "data": {
+        "Het kaartje": "The ticket"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L5N_E01",
+      "data": {
+        "phrase": "Ik wil graag een kaartje naar...",
+        "meaning": "I would like a ticket to..."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L5N_E02",
+      "data": {
+        "phrase": "Enkeltje of retourtje?",
+        "meaning": "Single or return?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L5N_E03",
+      "data": {
+        "phrase": "Een enkeltje, alstublieft.",
+        "meaning": "A single, please."
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L5N_S01",
@@ -37,11 +81,41 @@
     },
     {
       "type": "vocabulary",
-      "item_id": "L5N_V02",
-      "data": { "De vertrektijd": "The departure time", "De aankomsttijd": "The arrival time", "Het spoor": "The track" }
+      "item_id": "L5N_V05",
+      "data": {
+        "De vertrektijd": "The departure time"
+      }
     },
-    { "type": "expression", "item_id": "L5N_E04", "data": { "phrase": "Hoe laat vertrekt de trein?", "meaning": "What time does the train leave?" } },
-    { "type": "expression", "item_id": "L5N_E05", "data": { "phrase": "Van welk spoor vertrekt de trein?", "meaning": "From which track does the train leave?" } },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V06",
+      "data": {
+        "De aankomsttijd": "The arrival time"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V07",
+      "data": {
+        "Het spoor": "The track"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L5N_E04",
+      "data": {
+        "phrase": "Hoe laat vertrekt de trein?",
+        "meaning": "What time does the train leave?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L5N_E05",
+      "data": {
+        "phrase": "Van welk spoor vertrekt de trein?",
+        "meaning": "From which track does the train leave?"
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L5N_S02",
@@ -64,11 +138,41 @@
     },
     {
       "type": "vocabulary",
-      "item_id": "L5N_V03",
-      "data": { "De vertraging": "The delay", "Overstappen": "To transfer", "De volgende": "The next one" }
+      "item_id": "L5N_V08",
+      "data": {
+        "De vertraging": "The delay"
+      }
     },
-    { "type": "expression", "item_id": "L5N_E06", "data": { "phrase": "Heeft de trein vertraging?", "meaning": "Does the train have a delay?" } },
-    { "type": "expression", "item_id": "L5N_E07", "data": { "phrase": "Moet ik overstappen?", "meaning": "Do I need to transfer?" } },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V09",
+      "data": {
+        "Overstappen": "To transfer"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L5N_V10",
+      "data": {
+        "De volgende": "The next one"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L5N_E06",
+      "data": {
+        "phrase": "Heeft de trein vertraging?",
+        "meaning": "Does the train have a delay?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L5N_E07",
+      "data": {
+        "phrase": "Moet ik overstappen?",
+        "meaning": "Do I need to transfer?"
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L5N_S03",
@@ -89,11 +193,25 @@
         }
       ]
     },
-    { "type": "expression", "item_id": "L5N_E08", "data": { "phrase": "Bedankt voor uw hulp.", "meaning": "Thank you for your help." } },
-    { "type": "expression", "item_id": "L5N_E09", "data": { "phrase": "Goede reis!", "meaning": "Have a good trip!" } },
+    {
+      "type": "expression",
+      "item_id": "L5N_E08",
+      "data": {
+        "phrase": "Bedankt voor uw hulp.",
+        "meaning": "Thank you for your help."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L5N_E09",
+      "data": {
+        "phrase": "Goede reis!",
+        "meaning": "Have a good trip!"
+      }
+    },
     {
       "type": "tip",
-      "text": "Uitstekend! You've completed all the essential Dutch lessons. You can now shop at a supermarket, order herring, visit a café, ask for directions, and navigate the train station. Goede reis!"
+      "text": "Uitstekend! You've completed all the essential Dutch lessons. You can now shop at a supermarket, order herring, visit a cafÃ©, ask for directions, and navigate the train station. Goede reis!"
     }
   ]
 }

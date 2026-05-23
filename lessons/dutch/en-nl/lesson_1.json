@@ -7,10 +7,37 @@
       "type": "tip",
       "text": "Welcome to your first Dutch lesson! We'll focus on everything you need to know for a successful trip to a Dutch supermarket, 'de supermarkt'."
     },
-    { "type": "vocabulary", "item_id": "L1N_V01", "data": { "De supermarkt": "The supermarket" } },
-    { "type": "expression", "item_id": "L1N_E01", "data": { "phrase": "Hallo.", "meaning": "Hello." } },
-    { "type": "expression", "item_id": "L1N_E02", "data": { "phrase": "Ik heet...", "meaning": "My name is..." } },
-    { "type": "expression", "item_id": "L1N_E03", "data": { "phrase": "Hoe heet jij?", "meaning": "What is your name?" } },
+    {
+      "type": "vocabulary",
+      "item_id": "L1N_V01",
+      "data": {
+        "De supermarkt": "The supermarket"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E01",
+      "data": {
+        "phrase": "Hallo.",
+        "meaning": "Hello."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E02",
+      "data": {
+        "phrase": "Ik heet...",
+        "meaning": "My name is..."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E03",
+      "data": {
+        "phrase": "Hoe heet jij?",
+        "meaning": "What is your name?"
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L1N_S01",
@@ -34,10 +61,51 @@
         }
       ]
     },
-    { "type": "vocabulary", "item_id": "L1N_V02", "data": { "De appel": "The apple", "De banaan": "The banana", "De sinaasappel": "The orange" } },
-    { "type": "expression", "item_id": "L1N_E04", "data": { "phrase": "Ik wil graag...", "meaning": "I would like..." } },
-    { "type": "expression", "item_id": "L1N_E05", "data": { "phrase": "een appel", "meaning": "an apple" } },
-    { "type": "expression", "item_id": "L1N_E06", "data": { "phrase": "Ik wil graag een appel.", "meaning": "I would like an apple." } },
+    {
+      "type": "vocabulary",
+      "item_id": "L1N_V02",
+      "data": {
+        "De appel": "The apple"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L1N_V03",
+      "data": {
+        "De banaan": "The banana"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L1N_V04",
+      "data": {
+        "De sinaasappel": "The orange"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E04",
+      "data": {
+        "phrase": "Ik wil graag...",
+        "meaning": "I would like..."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E05",
+      "data": {
+        "phrase": "een appel",
+        "meaning": "an apple"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E06",
+      "data": {
+        "phrase": "Ik wil graag een appel.",
+        "meaning": "I would like an apple."
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L1N_S02",
@@ -50,16 +118,30 @@
         },
         {
           "title": "Ask for an apple",
-          "chatbot_message": "Natuurlijk. Eén appel. Anders nog iets?"
+          "chatbot_message": "Natuurlijk. EÃ©n appel. Anders nog iets?"
         },
         {
           "title": "Say that's all",
-          "chatbot_message": "Prima. Dat is dan één euro, alstublieft."
+          "chatbot_message": "Prima. Dat is dan Ã©Ã©n euro, alstublieft."
         }
       ]
     },
-    { "type": "expression", "item_id": "L1N_E07", "data": { "phrase": "Dank u wel.", "meaning": "Thank you (formal)." } },
-    { "type": "expression", "item_id": "L1N_E08", "data": { "phrase": "Tot ziens!", "meaning": "Goodbye!" } },
+    {
+      "type": "expression",
+      "item_id": "L1N_E07",
+      "data": {
+        "phrase": "Dank u wel.",
+        "meaning": "Thank you (formal)."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L1N_E08",
+      "data": {
+        "phrase": "Tot ziens!",
+        "meaning": "Goodbye!"
+      }
+    },
     {
       "type": "tip",
       "text": "Great job! You can now greet someone, introduce yourself, and buy an apple in Dutch. In the next lesson, we'll visit a famous Dutch fish stand!"

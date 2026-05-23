@@ -10,11 +10,55 @@
     {
       "type": "vocabulary",
       "item_id": "L2N_V01",
-      "data": { "De haringkraam": "The herring stand", "De haring": "The herring", "Het broodje": "The sandwich / roll", "De uitjes": "The onions" }
+      "data": {
+        "De haringkraam": "The herring stand"
+      }
     },
-    { "type": "expression", "item_id": "L2N_E01", "data": { "phrase": "Goedendag", "meaning": "Good day" } },
-    { "type": "expression", "item_id": "L2N_E02", "data": { "phrase": "Ik wil graag een broodje haring.", "meaning": "I would like a herring sandwich." } },
-    { "type": "expression", "item_id": "L2N_E03", "data": { "phrase": "met uitjes", "meaning": "with onions" } },
+    {
+      "type": "vocabulary",
+      "item_id": "L2N_V02",
+      "data": {
+        "De haring": "The herring"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2N_V03",
+      "data": {
+        "Het broodje": "The sandwich / roll"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2N_V04",
+      "data": {
+        "De uitjes": "The onions"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E01",
+      "data": {
+        "phrase": "Goedendag",
+        "meaning": "Good day"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E02",
+      "data": {
+        "phrase": "Ik wil graag een broodje haring.",
+        "meaning": "I would like a herring sandwich."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E03",
+      "data": {
+        "phrase": "met uitjes",
+        "meaning": "with onions"
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L2N_S01",
@@ -37,11 +81,34 @@
     },
     {
       "type": "vocabulary",
-      "item_id": "L2N_V02",
-      "data": { "Het zuur": "The pickles", "In stukjes": "In pieces" }
+      "item_id": "L2N_V05",
+      "data": {
+        "Het zuur": "The pickles"
+      }
     },
-    { "type": "expression", "item_id": "L2N_E04", "data": { "phrase": "Nee, bedankt.", "meaning": "No, thank you." } },
-    { "type": "expression", "item_id": "L2N_E05", "data": { "phrase": "Kunt u het in stukjes snijden?", "meaning": "Can you cut it into pieces?" } },
+    {
+      "type": "vocabulary",
+      "item_id": "L2N_V06",
+      "data": {
+        "In stukjes": "In pieces"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E04",
+      "data": {
+        "phrase": "Nee, bedankt.",
+        "meaning": "No, thank you."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E05",
+      "data": {
+        "phrase": "Kunt u het in stukjes snijden?",
+        "meaning": "Can you cut it into pieces?"
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L2N_S02",
@@ -54,7 +121,7 @@
         },
         {
           "title": "Make a special request",
-          "chatbot_message": "Oké, geen zuur. Anders nog iets?"
+          "chatbot_message": "OkÃ©, geen zuur. Anders nog iets?"
         },
         {
           "title": "Receive confirmation",
@@ -62,9 +129,29 @@
         }
       ]
     },
-    { "type": "vocabulary", "item_id": "L2N_V03", "data": { "Pinnen": "To pay by card (verb)" } },
-    { "type": "expression", "item_id": "L2N_E06", "data": { "phrase": "Hoeveel is het?", "meaning": "How much is it?" } },
-    { "type": "expression", "item_id": "L2N_E07", "data": { "phrase": "Kan ik pinnen?", "meaning": "Can I pay by card?" } },
+    {
+      "type": "vocabulary",
+      "item_id": "L2N_V07",
+      "data": {
+        "Pinnen": "To pay by card (verb)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E06",
+      "data": {
+        "phrase": "Hoeveel is het?",
+        "meaning": "How much is it?"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E07",
+      "data": {
+        "phrase": "Kan ik pinnen?",
+        "meaning": "Can I pay by card?"
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L2N_S03",
@@ -85,9 +172,43 @@
         }
       ]
     },
-    { "type": "vocabulary", "item_id": "L2N_V04", "data": { "Het pinapparaat": "The card machine", "Kapot": "Broken", "Het wisselgeld": "The change (money)" } },
-    { "type": "expression", "item_id": "L2N_E08", "data": { "phrase": "Ik heb alleen een briefje van 50.", "meaning": "I only have a 50 euro note." } },
-    { "type": "expression", "item_id": "L2N_E09", "data": { "phrase": "Heeft u wisselgeld?", "meaning": "Do you have change?" } },
+    {
+      "type": "vocabulary",
+      "item_id": "L2N_V08",
+      "data": {
+        "Het pinapparaat": "The card machine"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2N_V09",
+      "data": {
+        "Kapot": "Broken"
+      }
+    },
+    {
+      "type": "vocabulary",
+      "item_id": "L2N_V10",
+      "data": {
+        "Het wisselgeld": "The change (money)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E08",
+      "data": {
+        "phrase": "Ik heb alleen een briefje van 50.",
+        "meaning": "I only have a 50 euro note."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E09",
+      "data": {
+        "phrase": "Heeft u wisselgeld?",
+        "meaning": "Do you have change?"
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L2N_S04",
@@ -108,10 +229,37 @@
         }
       ]
     },
-    { "type": "vocabulary", "item_id": "L2N_V05", "data": { "Contant": "Cash (adverb)" } },
-    { "type": "expression", "item_id": "L2N_E10", "data": { "phrase": "Oké, prima.", "meaning": "Okay, fine." } },
-    { "type": "expression", "item_id": "L2N_E11", "data": { "phrase": "Dan betaal ik contant.", "meaning": "Then I'll pay with cash." } },
-    { "type": "expression", "item_id": "L2N_E12", "data": { "phrase": "Dank u wel.", "meaning": "Thank you (formal)." } },
+    {
+      "type": "vocabulary",
+      "item_id": "L2N_V11",
+      "data": {
+        "Contant": "Cash (adverb)"
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E10",
+      "data": {
+        "phrase": "OkÃ©, prima.",
+        "meaning": "Okay, fine."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E11",
+      "data": {
+        "phrase": "Dan betaal ik contant.",
+        "meaning": "Then I'll pay with cash."
+      }
+    },
+    {
+      "type": "expression",
+      "item_id": "L2N_E12",
+      "data": {
+        "phrase": "Dank u wel.",
+        "meaning": "Thank you (formal)."
+      }
+    },
     {
       "type": "interactive_scenario",
       "scenario_id": "L2N_S05",
@@ -134,7 +282,7 @@
     },
     {
       "type": "tip",
-      "text": "Gefeliciteerd! You've successfully ordered herring, handled a payment problem, and learned essential Dutch phrases. In the next lesson, we'll visit a Dutch café!"
+      "text": "Gefeliciteerd! You've successfully ordered herring, handled a payment problem, and learned essential Dutch phrases. In the next lesson, we'll visit a Dutch cafÃ©!"
     }
   ]
 }
