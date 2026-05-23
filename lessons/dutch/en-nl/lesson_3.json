@@ -1,17 +1,17 @@
 {
   "id": "L3N",
-  "title": "At the CafÃ©",
-  "description": "Learn how to order drinks and snacks at a Dutch cafÃ©.",
+  "title": "At the Caf\u00e9",
+  "description": "Learn how to order drinks and snacks at a Dutch caf\u00e9.",
   "content": [
     {
       "type": "tip",
-      "text": "Welcome! In this lesson, you'll learn how to order at a Dutch cafÃ© ('het cafÃ©'). The Dutch love their coffee and 'gezelligheid' (coziness)!"
+      "text": "Welcome! In this lesson, you'll learn how to order at a Dutch caf\u00e9 ('het caf\u00e9'). The Dutch love their coffee and 'gezelligheid' (coziness)!"
     },
     {
       "type": "vocabulary",
       "item_id": "L3N_V01",
       "data": {
-        "Het cafÃ©": "The cafÃ©"
+        "Het caf\u00c3\u00a9": "The caf\u00e9"
       }
     },
     {
@@ -71,7 +71,7 @@
       "type": "interactive_scenario",
       "scenario_id": "L3N_S01",
       "title": "Ordering a Drink",
-      "setting": "You sit down at a cozy cafÃ©. The waiter comes to take your order.",
+      "setting": "You sit down at a cozy caf\u00e9. The waiter comes to take your order.",
       "conversation_flow": [
         {
           "title": "Ask for the menu",
@@ -83,7 +83,7 @@
         },
         {
           "title": "Receive your drink",
-          "chatbot_message": "Komt eraan. EÃ©n koffie met melk."
+          "chatbot_message": "Komt eraan. E\u00e9n koffie met melk."
         }
       ]
     },
@@ -196,7 +196,7 @@
     },
     {
       "type": "tip",
-      "text": "Lekker gedaan! You can now confidently order at a Dutch cafÃ©. In the next lesson, we'll learn how to ask for directions!"
+      "text": "Lekker gedaan! You can now confidently order at a Dutch caf\u00e9. In the next lesson, we'll learn how to ask for directions!"
     }
   ]
 }

@@ -118,11 +118,11 @@
         },
         {
           "title": "Ask for an apple",
-          "chatbot_message": "Natuurlijk. EÃ©n appel. Anders nog iets?"
+          "chatbot_message": "Natuurlijk. E\u00e9n appel. Anders nog iets?"
         },
         {
           "title": "Say that's all",
-          "chatbot_message": "Prima. Dat is dan Ã©Ã©n euro, alstublieft."
+          "chatbot_message": "Prima. Dat is dan \u00e9\u00e9n euro, alstublieft."
         }
       ]
     },

@@ -121,7 +121,7 @@
         },
         {
           "title": "Make a special request",
-          "chatbot_message": "OkÃ©, geen zuur. Anders nog iets?"
+          "chatbot_message": "Ok\u00e9, geen zuur. Anders nog iets?"
         },
         {
           "title": "Receive confirmation",
@@ -240,7 +240,7 @@
       "type": "expression",
       "item_id": "L2N_E10",
       "data": {
-        "phrase": "OkÃ©, prima.",
+        "phrase": "Ok\u00e9, prima.",
         "meaning": "Okay, fine."
       }
     },
@@ -282,7 +282,7 @@
     },
     {
       "type": "tip",
-      "text": "Gefeliciteerd! You've successfully ordered herring, handled a payment problem, and learned essential Dutch phrases. In the next lesson, we'll visit a Dutch cafÃ©!"
+      "text": "Gefeliciteerd! You've successfully ordered herring, handled a payment problem, and learned essential Dutch phrases. In the next lesson, we'll visit a Dutch caf\u00e9!"
     }
   ]
 }
