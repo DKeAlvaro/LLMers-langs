@@ -1,0 +1,1072 @@
+{
+  "id": "u12-l02",
+  "title": "Spreken",
+  "subtitle": "Talking about yourself in depth",
+  "level": "A2+",
+  "intro": "In this lesson you will learn to tell your life story in more depth: where you were born, where you grew up and what you want for the future. You will review the main tenses, modal verbs and subordinate clauses so you can explain reasons and wishes in longer sentences. By the end you can introduce yourself in detail and ask friendly follow-up questions.",
+  "words": [
+    {
+      "nl": "geboren",
+      "en": "born",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben in Utrecht geboren.",
+        "en": "I was born in Utrecht."
+      },
+      "note": "Usually used with zijn: Ik ben geboren."
+    },
+    {
+      "nl": "opgroeien",
+      "en": "to grow up",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik groei op, jij groeit op, wij groeien op (ben opgegroeid)",
+      "example": {
+        "nl": "Ik ben in een klein dorp opgegroeid.",
+        "en": "I grew up in a small village."
+      },
+      "note": "Separable: op- goes to the end in the present."
+    },
+    {
+      "nl": "verhuizen",
+      "en": "to move house",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verhuis, jij verhuist, wij verhuizen (ben verhuisd)",
+      "example": {
+        "nl": "Wij verhuizen volgende maand.",
+        "en": "We are moving house next month."
+      },
+      "note": null
+    },
+    {
+      "nl": "toekomst",
+      "en": "future",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik denk vaak aan de toekomst.",
+        "en": "I often think about the future."
+      },
+      "note": null
+    },
+    {
+      "nl": "droom",
+      "en": "dream",
+      "pos": "noun",
+      "article": "de",
+      "plural": "dromen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn droom is om in het buitenland te wonen.",
+        "en": "My dream is to live abroad."
+      },
+      "note": null
+    },
+    {
+      "nl": "doel",
+      "en": "goal, aim",
+      "pos": "noun",
+      "article": "het",
+      "plural": "doelen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn doel is om beter Nederlands te spreken.",
+        "en": "My goal is to speak better Dutch."
+      },
+      "note": null
+    },
+    {
+      "nl": "wens",
+      "en": "wish",
+      "pos": "noun",
+      "article": "de",
+      "plural": "wensen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn wens is een huis in de stad.",
+        "en": "My wish is a house in the city."
+      },
+      "note": null
+    },
+    {
+      "nl": "plan",
+      "en": "plan",
+      "pos": "noun",
+      "article": "het",
+      "plural": "plannen",
+      "forms": null,
+      "example": {
+        "nl": "Wat is je plan voor dit jaar?",
+        "en": "What is your plan for this year?"
+      },
+      "note": null
+    },
+    {
+      "nl": "reden",
+      "en": "reason",
+      "pos": "noun",
+      "article": "de",
+      "plural": "redenen",
+      "forms": null,
+      "example": {
+        "nl": "Wat is de reden dat je Nederlands leert?",
+        "en": "What is the reason that you are learning Dutch?"
+      },
+      "note": null
+    },
+    {
+      "nl": "ervaring",
+      "en": "experience",
+      "pos": "noun",
+      "article": "de",
+      "plural": "ervaringen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb veel ervaring met werken in een team.",
+        "en": "I have a lot of experience working in a team."
+      },
+      "note": null
+    },
+    {
+      "nl": "leven",
+      "en": "life",
+      "pos": "noun",
+      "article": "het",
+      "plural": "levens",
+      "forms": null,
+      "example": {
+        "nl": "Het leven in Nederland is anders.",
+        "en": "Life in the Netherlands is different."
+      },
+      "note": null
+    },
+    {
+      "nl": "carrière",
+      "en": "career",
+      "pos": "noun",
+      "article": "de",
+      "plural": "carrières",
+      "forms": null,
+      "example": {
+        "nl": "Ik wil een nieuwe carrière beginnen.",
+        "en": "I want to start a new career."
+      },
+      "note": null
+    },
+    {
+      "nl": "familie",
+      "en": "family",
+      "pos": "noun",
+      "article": "de",
+      "plural": "families",
+      "forms": null,
+      "example": {
+        "nl": "Mijn familie woont in Spanje.",
+        "en": "My family lives in Spain."
+      },
+      "note": null
+    },
+    {
+      "nl": "thuisland",
+      "en": "home country",
+      "pos": "noun",
+      "article": "het",
+      "plural": "thuislanden",
+      "forms": null,
+      "example": {
+        "nl": "Mijn thuisland is Spanje.",
+        "en": "My home country is Spain."
+      },
+      "note": null
+    },
+    {
+      "nl": "wennen aan",
+      "en": "to get used to",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik wen aan, jij went aan, wij wennen aan (ben gewend aan)",
+      "example": {
+        "nl": "Ik moet nog aan het weer wennen.",
+        "en": "I still have to get used to the weather."
+      },
+      "note": "The preposition aan comes after wennen: wennen aan het weer."
+    },
+    {
+      "nl": "missen",
+      "en": "to miss",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik mis, jij mist, wij missen (heb gemist)",
+      "example": {
+        "nl": "Ik mis de zon in de winter.",
+        "en": "I miss the sun in winter."
+      },
+      "note": null
+    },
+    {
+      "nl": "trots",
+      "en": "proud",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "trots, trotse",
+      "example": {
+        "nl": "Ik ben trots op mijn familie.",
+        "en": "I am proud of my family."
+      },
+      "note": "trots op = proud of"
+    },
+    {
+      "nl": "hopen",
+      "en": "to hope",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik hoop, jij hoopt, wij hopen (heb gehoopt)",
+      "example": {
+        "nl": "Ik hoop dat ik een baan vind.",
+        "en": "I hope that I find a job."
+      },
+      "note": "hopen dat + verb at the end."
+    },
+    {
+      "nl": "willen",
+      "en": "to want",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik wil, jij wilt, wij willen (heb gewild)",
+      "example": {
+        "nl": "Later wil ik hier werken.",
+        "en": "Later I want to work here."
+      },
+      "note": "Review: wil + infinitive at the end."
+    },
+    {
+      "nl": "toen",
+      "en": "then; when (past)",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Toen ik hier kwam, was ik zenuwachtig.",
+        "en": "When I came here, I was nervous."
+      },
+      "note": "As a conjunction: when for a specific situation in the past; also the adverb then."
+    },
+    {
+      "nl": "sinds",
+      "en": "since",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik woon hier sinds 2020.",
+        "en": "I have lived here since 2020."
+      },
+      "note": "Can start a clause: Sinds ik hier woon, ..."
+    },
+    {
+      "nl": "later",
+      "en": "later",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Later wil ik in Nederland werken.",
+        "en": "Later I want to work in the Netherlands."
+      },
+      "note": null
+    },
+    {
+      "nl": "ooit",
+      "en": "ever",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik hoop ooit terug te komen.",
+        "en": "I hope to come back one day."
+      },
+      "note": "Often in questions and hopes: Heb je ooit ...?"
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Waar ben je geboren?",
+      "en": "Where were you born?",
+      "note": null
+    },
+    {
+      "nl": "Ik ben in ... geboren.",
+      "en": "I was born in ...",
+      "note": "Use the place after geboren."
+    },
+    {
+      "nl": "Ik ben opgegroeid in ...",
+      "en": "I grew up in ...",
+      "note": "Perfect tense: zijn + opgegroeid."
+    },
+    {
+      "nl": "Wat is je droom voor de toekomst?",
+      "en": "What is your dream for the future?",
+      "note": null
+    },
+    {
+      "nl": "Mijn doel is om ... te ...",
+      "en": "My goal is to ...",
+      "note": "om ... te + infinitive at the end."
+    },
+    {
+      "nl": "Ik hoop dat ...",
+      "en": "I hope that ...",
+      "note": "The verb goes to the end after dat."
+    },
+    {
+      "nl": "Toen ik hier kwam, ...",
+      "en": "When I came here, ...",
+      "note": "Toen + specific past; the main clause starts with the verb."
+    },
+    {
+      "nl": "Sinds ik in Nederland woon, ...",
+      "en": "Since I live in the Netherlands, ...",
+      "note": "Sinds + present; the main clause starts with the verb."
+    },
+    {
+      "nl": "Om die reden ...",
+      "en": "For that reason ...",
+      "note": "Starts a sentence; the verb comes second."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Review: present, perfect, simple past and future",
+      "explanation": "You already know four main ways to talk about your life. Use the **present** for now and habits, the **perfect** for finished actions that matter now, and the **simple past** for background and finished moments in a story. For plans use **gaan + infinitive**; for promises and predictions use **zullen + infinitive**. The infinitive goes at the end.",
+      "table": {
+        "headers": [
+          "Tijd",
+          "Vorm",
+          "Voorbeeld"
+        ],
+        "rows": [
+          [
+            "Nu / gewoonte",
+            "present",
+            "Ik woon sinds 2020 in Utrecht."
+          ],
+          [
+            "Afgerond, nu belangrijk",
+            "perfect",
+            "Ik ben in Spanje geboren."
+          ],
+          [
+            "Achtergrond / verhaal",
+            "simple past",
+            "Vroeger woonde ik in een dorp."
+          ],
+          [
+            "Plan",
+            "gaan + infinitive",
+            "Volgende maand ga ik verhuizen."
+          ],
+          [
+            "Belofte / verwachting",
+            "zullen + infinitive",
+            "Ik zal je later bellen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben in een klein dorp opgegroeid.",
+          "en": "I grew up in a small village."
+        },
+        {
+          "nl": "Vroeger woonde ik in Duitsland.",
+          "en": "In the past I lived in Germany."
+        },
+        {
+          "nl": "Later ga ik in Nederland werken.",
+          "en": "Later I am going to work in the Netherlands."
+        }
+      ],
+      "tip": "In a story, the perfect opens the scene and the simple past gives details: Ik ben naar Utrecht verhuisd. Toen was ik nog jong."
+    },
+    {
+      "title": "Review: modal verbs and te-constructions",
+      "explanation": "Modal verbs such as **kunnen, willen, mogen** and **moeten** go second and send the infinitive to the end. Do not use **te** after a modal: **Ik wil leren**, not *Ik wil te leren*. Some verbs take **te** or **om ... te**: **hopen te**, **proberen te**, **vergeten te**, **van plan zijn om ... te**. The **te**-infinitive also goes at the end.",
+      "table": {
+        "headers": [
+          "Type",
+          "Vorm",
+          "Voorbeeld"
+        ],
+        "rows": [
+          [
+            "Modal",
+            "modal + infinitive",
+            "Ik wil later in Nederland werken."
+          ],
+          [
+            "Te-verb",
+            "verb + te + infinitive",
+            "Ik hoop ooit terug te komen."
+          ],
+          [
+            "Om ... te",
+            "om ... te + infinitive",
+            "Ik ben van plan om te verhuizen."
+          ],
+          [
+            "No te",
+            "modal + infinitive",
+            "Ik wil Nederlands leren."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik hoop ooit in Nederland te werken.",
+          "en": "I hope to work in the Netherlands one day."
+        },
+        {
+          "nl": "Ik probeer elke dag Nederlands te spreken.",
+          "en": "I try to speak Dutch every day."
+        },
+        {
+          "nl": "Ik ben van plan om te verhuizen.",
+          "en": "I plan to move house."
+        }
+      ],
+      "tip": "If the verb already has a modal, drop te: Ik wil leren, Ik moet werken."
+    },
+    {
+      "title": "Review: subordinate clauses with dat, omdat, als and toen",
+      "explanation": "After **dat, omdat, als** and **toen**, all verbs go to the end of the clause. **Als** means 'if' or 'when' for the present, future or repeated situations. **Toen** means 'when' for a specific situation or period in the past, not for repeated situations. If the subordinate clause comes first, the main clause starts with the verb: **Toen ik klein was, woonde ik in een dorp.**",
+      "table": {
+        "headers": [
+          "Conjunction",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "dat",
+            "that",
+            "Ik denk dat mijn familie belangrijk is."
+          ],
+          [
+            "omdat",
+            "because",
+            "Ik leer Nederlands omdat ik hier wil werken."
+          ],
+          [
+            "als",
+            "if / when (present, future, repeated)",
+            "Als ik later geld heb, koop ik een huis."
+          ],
+          [
+            "toen",
+            "when (specific past)",
+            "Toen ik hier kwam, was ik zenuwachtig."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik hoop dat ik een baan vind.",
+          "en": "I hope that I find a job."
+        },
+        {
+          "nl": "Ik ben hier gekomen omdat ik wilde werken.",
+          "en": "I came here because I wanted to work."
+        },
+        {
+          "nl": "Toen ik klein was, woonde ik in een dorp.",
+          "en": "When I was small, I lived in a village."
+        }
+      ],
+      "tip": "Ask: a specific past situation? Use toen. Present, future or repeated? Use als."
+    }
+  ],
+  "dialogue": {
+    "title": "Op het taalcafé",
+    "setting": "You meet Noor, a new Dutch friend, at a language café in Utrecht. She asks about your life story and your plans.",
+    "speakers": [
+      {
+        "name": "Noor",
+        "gender": "f"
+      },
+      {
+        "name": "Alex",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Noor",
+        "nl": "Hoi! Ik ben Noor. Leuk je te ontmoeten.",
+        "en": "Hi! I am Noor. Nice to meet you."
+      },
+      {
+        "speaker": "Alex",
+        "nl": "Hoi Noor, ik ben Alex. Leuk je te ontmoeten.",
+        "en": "Hi Noor, I am Alex. Nice to meet you."
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Waar ben je geboren?",
+        "en": "Where were you born?"
+      },
+      {
+        "speaker": "Alex",
+        "nl": "Ik ben in Spanje geboren, maar mijn familie woont nu in Nederland.",
+        "en": "I was born in Spain, but my family now lives in the Netherlands."
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Wanneer ben je verhuisd?",
+        "en": "When did you move house?"
+      },
+      {
+        "speaker": "Alex",
+        "nl": "Ik ben vorig jaar verhuisd. Ik woon sinds januari in Utrecht.",
+        "en": "I moved house last year. I have lived in Utrecht since January."
+      },
+      {
+        "speaker": "Noor",
+        "nl": "En waar ben je opgegroeid?",
+        "en": "And where did you grow up?"
+      },
+      {
+        "speaker": "Alex",
+        "nl": "Ik ben in een klein dorp opgegroeid. Dat was rustig.",
+        "en": "I grew up in a small village. It was quiet."
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Moet je nog aan het weer wennen?",
+        "en": "Do you still have to get used to the weather?"
+      },
+      {
+        "speaker": "Alex",
+        "nl": "Ja, soms. Ik mis de zon, maar ik ben hier graag.",
+        "en": "Yes, sometimes. I miss the sun, but I like it here."
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Wat is je droom voor de toekomst?",
+        "en": "What is your dream for the future?"
+      },
+      {
+        "speaker": "Alex",
+        "nl": "Mijn doel is om beter Nederlands te spreken. Later wil ik hier werken.",
+        "en": "My goal is to speak better Dutch. Later I want to work here."
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Mooi! En wat is je plan voor dit jaar?",
+        "en": "Nice! And what is your plan for this year?"
+      },
+      {
+        "speaker": "Alex",
+        "nl": "Ik hoop dat ik een baan vind. Om die reden studeer ik elke dag.",
+        "en": "I hope that I find a job. For that reason I study every day."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "geboren",
+          "born"
+        ],
+        [
+          "opgroeien",
+          "to grow up"
+        ],
+        [
+          "verhuizen",
+          "to move house"
+        ],
+        [
+          "de toekomst",
+          "future"
+        ],
+        [
+          "de droom",
+          "dream"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het doel",
+          "goal"
+        ],
+        [
+          "de wens",
+          "wish"
+        ],
+        [
+          "de reden",
+          "reason"
+        ],
+        [
+          "de ervaring",
+          "experience"
+        ],
+        [
+          "missen",
+          "to miss"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word: 'I was born in the Netherlands.'",
+      "nl": "Ik ben in Nederland ___.",
+      "options": [
+        "geboren",
+        "opgegroeid",
+        "verhuisd"
+      ],
+      "answer": 0,
+      "explain": "Geboren goes with the place where you were born; opgegroeid is for where you grew up."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word: 'When I was small, I lived in a village.'",
+      "nl": "___ ik klein was, woonde ik in een dorp.",
+      "options": [
+        "Toen",
+        "Als",
+        "Sinds"
+      ],
+      "answer": 0,
+      "explain": "Use toen for a specific past situation or period; als is for present, future or repeated situations."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word: 'I hope that I will work in the Netherlands later.'",
+      "nl": "Ik hoop ___ ik later in Nederland werk.",
+      "options": [
+        "dat",
+        "omdat",
+        "of"
+      ],
+      "answer": 0,
+      "explain": "After hopen use dat and put the verb at the end."
+    },
+    {
+      "type": "article",
+      "word": "toekomst",
+      "en": "future",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "doel",
+      "en": "goal",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I grew up in a small village.",
+      "answer": "Ik ben in een klein dorp opgegroeid",
+      "accept": [
+        "Ik ben opgegroeid in een klein dorp"
+      ],
+      "extra": [
+        "de",
+        "opgroeide"
+      ],
+      "explain": "Use zijn + opgegroeid in the perfect; the prefix stays attached to the participle."
+    },
+    {
+      "type": "build",
+      "en": "Later I want to live in the Netherlands.",
+      "answer": "Later wil ik in Nederland wonen",
+      "accept": [
+        "Ik wil later in Nederland wonen",
+        "Later wil ik wonen in Nederland",
+        "Ik wil later wonen in Nederland"
+      ],
+      "extra": [
+        "woonde",
+        "de"
+      ],
+      "explain": "After 'Later' the verb comes first; after wil the infinitive goes at the end."
+    },
+    {
+      "type": "build",
+      "en": "My goal is to speak better Dutch.",
+      "answer": "Mijn doel is om beter Nederlands te spreken",
+      "accept": [
+        "Mijn doel is om Nederlands beter te spreken",
+        "Mijn doel is beter Nederlands te spreken",
+        "Mijn doel is Nederlands beter te spreken"
+      ],
+      "extra": [
+        "Nederland",
+        "de"
+      ],
+      "explain": "Use om ... te + infinitive after a goal; te goes just before the infinitive at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ben in Spanje ___.",
+      "en": "I was born in Spain.",
+      "answers": [
+        "geboren"
+      ],
+      "hint": "word for 'born'",
+      "explain": "Use zijn + geboren with the place: 'Ik ben in Spanje geboren.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik woon hier ___ 2020.",
+      "en": "I have lived here since 2020.",
+      "answers": [
+        "sinds"
+      ],
+      "hint": "since",
+      "explain": "Use sinds for a starting point in the past with the present: 'Ik woon hier sinds 2020.'"
+    },
+    {
+      "type": "gap",
+      "text": "___ ik klein was, woonde ik in een dorp.",
+      "en": "When I was small, I lived in a village.",
+      "answers": [
+        "Toen"
+      ],
+      "hint": "when (specific past)",
+      "explain": "Use toen for a specific past situation; the main clause then starts with the verb: 'Toen ik klein was, woonde ik...'."
+    },
+    {
+      "type": "translate",
+      "en": "I grew up in a small village.",
+      "answers": [
+        "Ik ben in een klein dorp opgegroeid.",
+        "Ik ben opgegroeid in een klein dorp."
+      ],
+      "focus": "perfect tense with opgroeien",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses hebben with opgroeien (Ik heb in een dorp opgegroeid)",
+          "explain": "Use zijn with opgroeien: 'Ik ben ... opgegroeid.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses simple past instead of perfect (Ik groeide op in een dorp)",
+          "explain": "For a finished life experience, use the perfect: 'Ik ben ... opgegroeid.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Splits the participle incorrectly (Ik ben in een dorp gegroeid op)",
+          "explain": "Keep opgegroeid together at the end: 'Ik ben in een dorp opgegroeid.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits een before klein dorp (Ik ben opgegroeid in klein dorp)",
+          "explain": "Use een with a singular indefinite noun: 'een klein dorp'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Later I want to live in the Netherlands.",
+      "answers": [
+        "Later wil ik in Nederland wonen.",
+        "Ik wil later in Nederland wonen.",
+        "Later wil ik wonen in Nederland.",
+        "Ik wil later wonen in Nederland."
+      ],
+      "focus": "future with willen + infinitive",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps subject before verb after 'Later' (Later ik wil in Nederland wonen)",
+          "explain": "After 'Later' the verb comes first: 'Later wil ik...'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds te after willen (Later wil ik in Nederland te wonen)",
+          "explain": "After willen use the infinitive without te: 'wil ... wonen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the stem instead of the infinitive after wil (Later wil ik in Nederland woon)",
+          "explain": "Use the infinitive: 'wonen'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses naar with the country (Later wil ik naar Nederland wonen)",
+          "explain": "Use in with a country when you live there: 'in Nederland wonen'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "When I came here, I was nervous.",
+      "answers": [
+        "Toen ik hier kwam, was ik zenuwachtig.",
+        "Toen ik hier kwam was ik zenuwachtig."
+      ],
+      "focus": "toen-clause for a specific past situation and inversion",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses als for a specific past situation (Als ik hier kwam, was ik zenuwachtig)",
+          "explain": "For a specific past situation use toen: 'Toen ik hier kwam...'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Keeps subject before verb after the toen-clause (Toen ik hier kwam, ik was zenuwachtig)",
+          "explain": "If the toen-clause comes first, the main clause starts with the verb: '..., was ik...'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts kwam before hier in the toen-clause (Toen ik kwam hier, was ik zenuwachtig)",
+          "explain": "After toen put the verb at the end: 'Toen ik hier kwam...'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik ben in een klein dorp opgegroeid.",
+      "en": "I grew up in a small village."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik hoop dat ik later in Nederland werk.",
+      "en": "I hope that I will work in the Netherlands later."
+    },
+    {
+      "type": "reply",
+      "context": "You meet a new Dutch friend at a language café. She asks about your life story.",
+      "say": {
+        "nl": "Waar ben je geboren?",
+        "en": "Where were you born?"
+      },
+      "task": "Answer with your place of birth and say where you grew up.",
+      "examples": [
+        "Ik ben in Spanje geboren, maar ik ben in een klein dorp opgegroeid.",
+        "Ik ben in Duitsland geboren en ik ben daar opgegroeid."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Omits ben with geboren (Ik geboren in Spanje)",
+          "explain": "Use zijn + geboren: 'Ik ben in Spanje geboren.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses hebben with geboren (Ik heb in Spanje geboren)",
+          "explain": "Use zijn, not hebben: 'Ik ben ... geboren.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses hebben with opgroeien (Ik heb in een dorp opgegroeid)",
+          "explain": "Use zijn with opgroeien: 'Ik ben ... opgegroeid.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits the second ben after maar (..., maar ik in een dorp opgegroeid)",
+          "explain": "Repeat the auxiliary: '..., maar ik ben in een dorp opgegroeid.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "She asks about your plans for the future.",
+      "say": {
+        "nl": "Wat is je droom voor de toekomst?",
+        "en": "What is your dream for the future?"
+      },
+      "task": "Talk about a dream or goal and give a reason.",
+      "examples": [
+        "Mijn droom is om in Nederland te werken. Daarom leer ik Nederlands.",
+        "Mijn doel is om beter Nederlands te spreken, omdat ik hier wil studeren."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Leaves out om ... te with a goal (Mijn doel is beter Nederlands spreken)",
+          "explain": "Use om ... te + infinitive: 'Mijn doel is om beter Nederlands te spreken.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Keeps subject before verb after Daarom (Daarom ik leer Nederlands)",
+          "explain": "After 'Daarom' the verb comes first: 'Daarom leer ik...'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the verb before the end in an omdat-clause (omdat ik wil hier studeren)",
+          "explain": "After omdat all verbs go to the end: 'omdat ik hier wil studeren'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses van instead of om with a dream (Mijn droom is van in Nederland te werken)",
+          "explain": "After 'Mijn droom is', use om ... te: 'Mijn droom is om in Nederland te werken.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Je levensverhaal",
+    "setting": "At a language café in Utrecht, you meet Noor, a Dutch student. She wants to know more about your life story and your plans.",
+    "partner": {
+      "name": "Noor",
+      "gender": "f",
+      "role": "a friendly Dutch student"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Ik ben Noor. Waar kom je vandaan?",
+          "en": "Hi! I am Noor. Where are you from?"
+        },
+        "task": "Say where you are from and where you were born.",
+        "examples": [
+          "Ik kom uit Spanje. Ik ben daar geboren.",
+          "Ik kom uit Duitsland, maar ik ben in Nederland geboren."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses van with a country (Ik kom van Spanje)",
+            "explain": "Use uit for origin: 'Ik kom uit Spanje.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses is with ik (Ik is geboren in Spanje)",
+            "explain": "Use ben with ik: 'Ik ben geboren in Spanje.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits ben with geboren (Ik geboren in Spanje)",
+            "explain": "Use zijn + geboren: 'Ik ben in Spanje geboren.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En waar ben je opgegroeid?",
+          "en": "And where did you grow up?"
+        },
+        "task": "Say where you grew up and what it was like.",
+        "examples": [
+          "Ik ben in een klein dorp opgegroeid. Het was rustig.",
+          "Ik ben in de stad opgegroeid. Het was druk, maar leuk."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses hebben with opgroeien (Ik heb in een dorp opgegroeid)",
+            "explain": "Use zijn with opgroeien: 'Ik ben ... opgegroeid.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Splits opgegroeid incorrectly (Ik ben in een dorp gegroeid op)",
+            "explain": "Keep opgegroeid together: 'Ik ben in een dorp opgegroeid.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses present is for a past description (Het is rustig)",
+            "explain": "For a past description use was: 'Het was rustig.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Moet je nog aan het leven hier wennen?",
+          "en": "Do you still have to get used to life here?"
+        },
+        "task": "Say what you miss and what you like here.",
+        "examples": [
+          "Ik mis de zon, maar ik ben hier graag.",
+          "Ik moet nog aan het weer wennen. Ik mis mijn familie."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds aan after missen (Ik mis aan de zon)",
+            "explain": "Missen takes a direct object: 'Ik mis de zon.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits aan after wennen (Ik moet nog wennen het weer)",
+            "explain": "Use wennen aan: 'wennen aan het weer'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses hou without van (Ik hou hier)",
+            "explain": "Use houden van or say 'Ik ben hier graag.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is je plan voor de toekomst?",
+          "en": "What is your plan for the future?"
+        },
+        "task": "Talk about your goal, dream or plan, and give a reason.",
+        "examples": [
+          "Mijn doel is om beter Nederlands te spreken. Daarom studeer ik elke dag.",
+          "Later wil ik hier werken, omdat ik van Nederland hou."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits om ... te with a goal (Mijn doel is beter Nederlands spreken)",
+            "explain": "Use om ... te + infinitive: 'Mijn doel is om beter Nederlands te spreken.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Keeps subject before verb after Daarom (Daarom ik studeer elke dag)",
+            "explain": "After 'Daarom' the verb comes first: 'Daarom studeer ik...'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts hou van before the end in an omdat-clause (omdat ik hou van Nederland)",
+            "explain": "In an omdat-clause put the verb at the end: 'omdat ik van Nederland hou.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Dat is mooi. Ik hoop dat je later in Nederland werkt. Tot ziens!",
+      "en": "That sounds nice. I hope you work in the Netherlands later. Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Toen = when, for a specific past situation",
+    "text": "In Dutch, **toen** means 'when' when you talk about a specific situation or period in the past: **Toen ik hier kwam, ...** / **Toen ik klein was, ...** For repeated past situations, Dutch often uses **als** or **wanneer**: **Als ik vroeger bij mijn oma was, ...** In the present or future, use **als**: **Als ik later geld heb, ...** If the **toen**- or **als**-clause comes first, the main clause starts with the verb: **Toen ik klein was, woonde ik in een dorp.**"
+  },
+  "summary": [
+    "Use the present, perfect and simple past to tell your life story; use gaan and zullen for plans and expectations.",
+    "After dat, omdat, als and toen, put all verbs at the end of the clause.",
+    "Use toen for a specific past situation; use als for the present, future or repeated situations.",
+    "Modal verbs take the infinitive at the end without te; hopen, proberen and van plan zijn use te or om ... te."
+  ]
+}

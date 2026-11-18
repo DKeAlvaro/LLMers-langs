@@ -1,0 +1,1121 @@
+{
+  "id": "u07-l01",
+  "title": "Wat heb je gedaan?",
+  "subtitle": "The perfect tense with hebben",
+  "level": "A2",
+  "intro": "By the end of this lesson you can say what you did at the weekend. You can form regular past participles and put the participle at the end with **heb**, **hebt** or **heeft**. You can also ask a colleague what they did.",
+  "words": [
+    {
+      "nl": "gisteren",
+      "en": "yesterday",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Gisteren heb ik gewerkt.",
+        "en": "Yesterday I worked."
+      },
+      "note": null
+    },
+    {
+      "nl": "gisteravond",
+      "en": "yesterday evening",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Gisteravond heb ik gekookt.",
+        "en": "Yesterday evening I cooked."
+      },
+      "note": null
+    },
+    {
+      "nl": "vanochtend",
+      "en": "this morning",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Vanochtend heb ik gebeld.",
+        "en": "This morning I called."
+      },
+      "note": null
+    },
+    {
+      "nl": "vorige week",
+      "en": "last week",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Vorige week heb ik gewerkt.",
+        "en": "Last week I worked."
+      },
+      "note": null
+    },
+    {
+      "nl": "net",
+      "en": "just",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb net gebeld.",
+        "en": "I just called."
+      },
+      "note": null
+    },
+    {
+      "nl": "al",
+      "en": "already",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb al gekookt.",
+        "en": "I have already cooked."
+      },
+      "note": "Known from u06-l02; here it often comes before the participle."
+    },
+    {
+      "nl": "nog niet",
+      "en": "not yet",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb de afwas nog niet gedaan.",
+        "en": "I haven't done the dishes yet."
+      },
+      "note": "Known from u02-l06; put it just before the participle."
+    },
+    {
+      "nl": "werken",
+      "en": "to work",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik werk, jij werkt, wij werken; (heeft gewerkt)",
+      "example": {
+        "nl": "Ik heb gisteren gewerkt.",
+        "en": "I worked yesterday."
+      },
+      "note": "Known verb; note the regular participle **gewerkt**."
+    },
+    {
+      "nl": "spelen",
+      "en": "to play",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik speel, jij speelt, wij spelen; (heeft gespeeld)",
+      "example": {
+        "nl": "De kinderen hebben gespeeld.",
+        "en": "The children played."
+      },
+      "note": null
+    },
+    {
+      "nl": "maken",
+      "en": "to make",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik maak, jij maakt, wij maken; (heeft gemaakt)",
+      "example": {
+        "nl": "Ik heb het huiswerk gemaakt.",
+        "en": "I did the homework."
+      },
+      "note": "**huiswerk maken** = to do homework."
+    },
+    {
+      "nl": "koken",
+      "en": "to cook",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kook, jij kookt, wij koken; (heeft gekookt)",
+      "example": {
+        "nl": "Wij hebben pasta gekookt.",
+        "en": "We cooked pasta."
+      },
+      "note": "Known verb; note the regular participle **gekookt**."
+    },
+    {
+      "nl": "wonen",
+      "en": "to live",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik woon, jij woont, wij wonen; (heeft gewoond)",
+      "example": {
+        "nl": "Ik heb in Utrecht gewoond.",
+        "en": "I lived in Utrecht."
+      },
+      "note": "Known verb; note the regular participle **gewoond**."
+    },
+    {
+      "nl": "praten",
+      "en": "to talk",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik praat, jij praat, wij praten; (heeft gepraat)",
+      "example": {
+        "nl": "Wij hebben lang gepraat.",
+        "en": "We talked for a long time."
+      },
+      "note": "The stem **praat** ends in **t**, so you add only **ge-**."
+    },
+    {
+      "nl": "betalen",
+      "en": "to pay",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik betaal, jij betaalt, wij betalen; (heeft betaald)",
+      "example": {
+        "nl": "Ik heb contant betaald.",
+        "en": "I paid cash."
+      },
+      "note": "Known verb; note the regular participle **betaald**."
+    },
+    {
+      "nl": "bellen",
+      "en": "to call",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bel, jij belt, wij bellen; (heeft gebeld)",
+      "example": {
+        "nl": "Ik heb mijn moeder gebeld.",
+        "en": "I called my mother."
+      },
+      "note": "**bellen -> gebeld**."
+    },
+    {
+      "nl": "wachten",
+      "en": "to wait",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik wacht, jij wacht, wij wachten; (heeft gewacht)",
+      "example": {
+        "nl": "Wij hebben op de bus gewacht.",
+        "en": "We waited for the bus."
+      },
+      "note": "**wachten op** = to wait for; the stem **wacht** ends in **t**."
+    },
+    {
+      "nl": "luisteren",
+      "en": "to listen",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik luister, jij luistert, wij luisteren; (heeft geluisterd)",
+      "example": {
+        "nl": "Ik heb naar muziek geluisterd.",
+        "en": "I listened to music."
+      },
+      "note": "**luisteren naar** = to listen to."
+    },
+    {
+      "nl": "fietsen",
+      "en": "to cycle",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik fiets, jij fietst, wij fietsen; (heeft gefietst)",
+      "example": {
+        "nl": "Ik heb vanochtend gefietst.",
+        "en": "I cycled this morning."
+      },
+      "note": "Known verb; note the regular participle **gefietst**."
+    },
+    {
+      "nl": "poetsen",
+      "en": "to clean, to scrub",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik poets, jij poetst, wij poetsen; (heeft gepoetst)",
+      "example": {
+        "nl": "Ik heb de badkamer gepoetst.",
+        "en": "I cleaned the bathroom."
+      },
+      "note": "The stem **poets** ends in **s**, so the participle is **gepoetst**."
+    },
+    {
+      "nl": "opruimen",
+      "en": "to tidy up",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ruim op, jij ruimt op, wij ruimen op; (heeft opgeruimd)",
+      "example": {
+        "nl": "Ik heb mijn kamer opgeruimd.",
+        "en": "I tidied up my room."
+      },
+      "note": "Separable verb: **op + ge + ruimd**."
+    },
+    {
+      "nl": "was",
+      "en": "the laundry",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb de was gedaan.",
+        "en": "I did the laundry."
+      },
+      "note": "**de was doen** = to do the laundry; the fixed perfect chunk is **de was gedaan**."
+    },
+    {
+      "nl": "afwas",
+      "en": "the dishes",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb de afwas gedaan.",
+        "en": "I did the dishes."
+      },
+      "note": "**de afwas doen** = to do the dishes; the fixed perfect chunk is **de afwas gedaan**."
+    },
+    {
+      "nl": "huiswerk",
+      "en": "the homework",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb mijn huiswerk gemaakt.",
+        "en": "I did my homework."
+      },
+      "note": "A **het**-word: **mijn huiswerk**."
+    },
+    {
+      "nl": "boodschappen doen",
+      "en": "to do the groceries",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb boodschappen gedaan.",
+        "en": "I did the groceries."
+      },
+      "note": "Fixed chunk: **boodschappen gedaan**."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hoe was je weekend?",
+      "en": "How was your weekend?",
+      "note": "A standard Monday question."
+    },
+    {
+      "nl": "Wat heb je gedaan?",
+      "en": "What did you do?",
+      "note": "Perfect tense with **heb** + participle at the end."
+    },
+    {
+      "nl": "Ik heb niet veel gedaan.",
+      "en": "I didn't do much.",
+      "note": null
+    },
+    {
+      "nl": "Ik heb de afwas gedaan.",
+      "en": "I did the dishes.",
+      "note": "Fixed chunk; **gedaan** is irregular."
+    },
+    {
+      "nl": "Ik heb de was gedaan.",
+      "en": "I did the laundry.",
+      "note": null
+    },
+    {
+      "nl": "Ik heb boodschappen gedaan.",
+      "en": "I did the groceries.",
+      "note": null
+    },
+    {
+      "nl": "Ik heb nog niet ...",
+      "en": "I haven't ... yet.",
+      "note": "Put the participle at the end: **Ik heb nog niet gekookt**."
+    },
+    {
+      "nl": "Dat heb ik gisteren gedaan.",
+      "en": "I did that yesterday.",
+      "note": "**Dat** at the start gives emphasis."
+    },
+    {
+      "nl": "En jij?",
+      "en": "And you?",
+      "note": "Short way to ask the question back."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "The perfect tense with hebben",
+      "explanation": "To say what you did, use a form of **hebben** plus a past participle. The participle goes at the end of the sentence: **Ik heb gewerkt.** For most verbs this is like English 'I have worked', but Dutch also uses it for 'I worked'. Use **heb** with **ik**, **hebt** with **jij/je**, and **heeft** with **hij/zij/het**. With **wij/jullie/zij** use **hebben**. In a question with **je** right after the verb, use **heb**: **Heb je gewerkt?**",
+      "table": {
+        "headers": [
+          "Subject",
+          "hebben",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "heb",
+            "Ik heb gewerkt."
+          ],
+          [
+            "jij/je",
+            "hebt",
+            "Jij hebt gewerkt."
+          ],
+          [
+            "u",
+            "hebt/heeft",
+            "U hebt gewerkt."
+          ],
+          [
+            "hij/zij/het",
+            "heeft",
+            "Hij heeft gewerkt."
+          ],
+          [
+            "wij/we",
+            "hebben",
+            "Wij hebben gewerkt."
+          ],
+          [
+            "jullie",
+            "hebben",
+            "Jullie hebben gewerkt."
+          ],
+          [
+            "zij/ze",
+            "hebben",
+            "Zij hebben gewerkt."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb gisteren gewerkt.",
+          "en": "I worked yesterday."
+        },
+        {
+          "nl": "Wij hebben pasta gekookt.",
+          "en": "We cooked pasta."
+        },
+        {
+          "nl": "Heb je de afwas gedaan?",
+          "en": "Did you do the dishes?"
+        }
+      ],
+      "tip": "The participle comes at the end, after the object: **Ik heb pasta gekookt**."
+    },
+    {
+      "title": "Regular past participles: ge + stem + t/d",
+      "explanation": "For regular verbs, take the infinitive, remove **-en**, and add **ge-** and **-t** or **-d**. Use **-t** if the stem ends in **t, k, f, s, ch** or **p** (the 't kofschip group). Use **-d** for all other endings. If the stem already ends in **t** or **d**, do not add another **t** or **d**: **praten -> gepraat**, **branden -> gebrand**. Verbs with a stem ending in **v** or **z** write **f** or **s** in the participle, but the ending is still **-d**: **leven -> geleefd**, **reizen -> gereisd**.",
+      "table": {
+        "headers": [
+          "Infinitive",
+          "Stem",
+          "Participle",
+          "English"
+        ],
+        "rows": [
+          [
+            "werken",
+            "werk",
+            "gewerkt",
+            "worked"
+          ],
+          [
+            "wonen",
+            "woon",
+            "gewoond",
+            "lived"
+          ],
+          [
+            "spelen",
+            "speel",
+            "gespeeld",
+            "played"
+          ],
+          [
+            "praten",
+            "praat",
+            "gepraat",
+            "talked"
+          ],
+          [
+            "leven",
+            "leef",
+            "geleefd",
+            "lived"
+          ],
+          [
+            "reizen",
+            "reis",
+            "gereisd",
+            "travelled"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb gewerkt.",
+          "en": "I worked."
+        },
+        {
+          "nl": "Wij hebben in Utrecht gewoond.",
+          "en": "We lived in Utrecht."
+        },
+        {
+          "nl": "Zij hebben lang gepraat.",
+          "en": "They talked for a long time."
+        }
+      ],
+      "tip": "'t kofschip: **t k f s ch p** -> **t**. All other stems -> **d**. For **v/z** verbs the participle still ends in **d**: **geleefd**, **gereisd**."
+    },
+    {
+      "title": "Time words and word order",
+      "explanation": "Time words like **gisteren**, **vanochtend** and **vorige week** can start the sentence. Then **heb** comes second and the subject follows: **Gisteren heb ik gewerkt.** You can also put the time word after the verb: **Ik heb gisteren gewerkt.** **Net**, **al** and **nog niet** usually come close to the participle.",
+      "table": {
+        "headers": [
+          "Sentence",
+          "Why"
+        ],
+        "rows": [
+          [
+            "Gisteren heb ik gewerkt.",
+            "Time first; heb is second."
+          ],
+          [
+            "Ik heb gisteren gewerkt.",
+            "Time after heb."
+          ],
+          [
+            "Ik heb net gebeld.",
+            "net before the participle."
+          ],
+          [
+            "Ik heb de afwas nog niet gedaan.",
+            "nog niet just before the participle."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Gisteren heb ik gewerkt.",
+          "en": "Yesterday I worked."
+        },
+        {
+          "nl": "Ik heb gisteren gewerkt.",
+          "en": "I worked yesterday."
+        },
+        {
+          "nl": "Ik heb de afwas nog niet gedaan.",
+          "en": "I haven't done the dishes yet."
+        }
+      ],
+      "tip": "If you start with **gisteren**, don't say **Gisteren ik heb gewerkt**. Keep the verb second: **Gisteren heb ik gewerkt**."
+    }
+  ],
+  "dialogue": {
+    "title": "Maandag op het werk",
+    "setting": "Monday morning at the office; Sanne asks Mark about his weekend.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mark",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemorgen! Hoe was je weekend?",
+        "en": "Good morning! How was your weekend?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Goedemorgen! Het was leuk, dank je. Ik heb veel gedaan.",
+        "en": "Good morning! It was nice, thanks. I did a lot."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wat heb je gedaan?",
+        "en": "What did you do?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Gisteren heb ik gewerkt. Daarna heb ik boodschappen gedaan.",
+        "en": "Yesterday I worked. After that I did the groceries."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Heb je ook gekookt?",
+        "en": "Did you cook too?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja, ik heb pasta gekookt. En ik heb het huis opgeruimd.",
+        "en": "Yes, I cooked pasta. And I tidied up the house."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Mooi! Heb je nog gesport?",
+        "en": "Nice! Did you do any sport?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Nee, ik heb niet gesport. Ik heb naar muziek geluisterd en ik heb de was gedaan.",
+        "en": "No, I didn't do any sport. I listened to music and I did the laundry."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is ook veel! Ik heb vanochtend de afwas gedaan.",
+        "en": "That is also a lot! I did the dishes this morning."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Prima! Ik heb de afwas nog niet gedaan.",
+        "en": "Good! I haven't done the dishes yet."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Geen probleem. Zullen we koffie nemen?",
+        "en": "No problem. Shall we have coffee?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Goed idee!",
+        "en": "Good idea!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "gisteren",
+          "yesterday"
+        ],
+        [
+          "vanochtend",
+          "this morning"
+        ],
+        [
+          "vorige week",
+          "last week"
+        ],
+        [
+          "net",
+          "just"
+        ],
+        [
+          "nog niet",
+          "not yet"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "Ik heb gewerkt.",
+          "I worked."
+        ],
+        [
+          "Ik heb gekookt.",
+          "I cooked."
+        ],
+        [
+          "Ik heb gebeld.",
+          "I called."
+        ],
+        [
+          "Ik heb gewacht.",
+          "I waited."
+        ],
+        [
+          "Ik heb opgeruimd.",
+          "I tidied up."
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik heb gisteren gewerkt.",
+        "Ik heb gisteren gewerkt heb.",
+        "Ik gisteren heb gewerkt.",
+        "Ik heb gewerkt gisteren."
+      ],
+      "answer": 0,
+      "explain": "The verb **heb** is second and the participle **gewerkt** is at the end."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which participle is correct for **praten**?",
+      "nl": "praten",
+      "options": [
+        "gepraat",
+        "gepraatt",
+        "gepraten",
+        "praat"
+      ],
+      "answer": 0,
+      "explain": "The stem **praat** already ends in **t**, so you add **ge-** only."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Wij hebben de was gedaan.",
+        "Wij hebben de was gedaan hebben.",
+        "Wij hebben gedaan de was.",
+        "Wij de was hebben gedaan."
+      ],
+      "answer": 0,
+      "explain": "The participle **gedaan** comes at the end."
+    },
+    {
+      "type": "article",
+      "word": "afwas",
+      "en": "dishes",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "huiswerk",
+      "en": "homework",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I worked yesterday.",
+      "answer": "Gisteren heb ik gewerkt",
+      "accept": [
+        "Ik heb gisteren gewerkt"
+      ],
+      "extra": [
+        "hebt"
+      ],
+      "explain": "Start with **Gisteren**? Then the verb **heb** comes second: **Gisteren heb ik gewerkt.**"
+    },
+    {
+      "type": "build",
+      "en": "I have cooked pasta.",
+      "answer": "Ik heb pasta gekookt",
+      "accept": [],
+      "extra": [
+        "kookt"
+      ],
+      "explain": "Use **heb** + **gekookt** at the end: **Ik heb pasta gekookt.**"
+    },
+    {
+      "type": "build",
+      "en": "We have tidied up the house.",
+      "answer": "Wij hebben het huis opgeruimd",
+      "accept": [
+        "Het huis hebben wij opgeruimd"
+      ],
+      "extra": [
+        "opgeruimt"
+      ],
+      "explain": "**opruimen** is separable: the participle is **opgeruimd**, with **ge** in the middle."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ gisteren de afwas gedaan.",
+      "en": "I did the dishes yesterday.",
+      "answers": [
+        "heb"
+      ],
+      "hint": "hebben (ik)",
+      "explain": "Use **heb** with **ik**. The participle **gedaan** stays at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Wij hebben de was ___.",
+      "en": "We did the laundry.",
+      "answers": [
+        "gedaan"
+      ],
+      "hint": "doen (fixed chunk)",
+      "explain": "The fixed perfect chunk is **de was gedaan**."
+    },
+    {
+      "type": "gap",
+      "text": "Hij heeft lang ___.",
+      "en": "He waited a long time.",
+      "answers": [
+        "gewacht"
+      ],
+      "hint": "wachten",
+      "explain": "The stem **wacht** already ends in **t**, so the participle is **gewacht**."
+    },
+    {
+      "type": "translate",
+      "en": "I worked in the city yesterday.",
+      "answers": [
+        "Ik heb gisteren in de stad gewerkt.",
+        "Gisteren heb ik in de stad gewerkt."
+      ],
+      "focus": "Perfect tense with hebben and a time word.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the subject before the verb after a time word at the start (Gisteren ik heb in de stad gewerkt).",
+          "explain": "If the sentence starts with **Gisteren**, the verb must come second: **Gisteren heb ik in de stad gewerkt.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts **gisteren** after the participle (Ik heb in de stad gewerkt gisteren).",
+          "explain": "The time word normally comes before the place phrase, and the participle stays at the end: **Ik heb gisteren in de stad gewerkt.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the present form **werkt** instead of the participle **gewerkt** (Ik heb gisteren in de stad werkt).",
+          "explain": "After **heb** you need the past participle: **Ik heb gisteren in de stad gewerkt.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **ben** instead of **heb** (Ik ben gisteren in de stad gewerkt).",
+          "explain": "Most verbs, including **werken**, take **hebben** in the perfect tense: **Ik heb gisteren in de stad gewerkt.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "We have cleaned the house together.",
+      "answers": [
+        "Wij hebben het huis samen opgeruimd.",
+        "We hebben het huis samen opgeruimd.",
+        "Wij hebben samen het huis opgeruimd.",
+        "We hebben samen het huis opgeruimd.",
+        "Het huis hebben wij samen opgeruimd.",
+        "Samen hebben wij het huis opgeruimd.",
+        "Samen hebben we het huis opgeruimd."
+      ],
+      "focus": "Perfect tense and word order with samen.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Splits the separable participle wrongly (Wij hebben het huis opgegeruimd).",
+          "explain": "**opruimen** is separable: **op** stays before **ge**: **opgeruimd**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Writes the participle with **-t** (Wij hebben het huis opgeruimt).",
+          "explain": "The stem **ruim** ends in **m**, so the participle ends in **-d**: **opgeruimd**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the participle before the object (Wij hebben samen opgeruimd het huis).",
+          "explain": "The participle goes at the end: **Wij hebben samen het huis opgeruimd.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **zijn** instead of **hebben** (Wij zijn het huis samen opgeruimd).",
+          "explain": "**opruimen** takes **hebben**: **Wij hebben het huis samen opgeruimd.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I did not listen to music this morning.",
+      "answers": [
+        "Ik heb vanochtend niet naar muziek geluisterd.",
+        "Vanochtend heb ik niet naar muziek geluisterd."
+      ],
+      "focus": "Negation with niet and the perfect tense.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts **niet** after the phrase **naar muziek** (Ik heb vanochtend naar muziek niet geluisterd).",
+          "explain": "**niet** comes before the phrase it negates: **Ik heb vanochtend niet naar muziek geluisterd.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts **vanochtend** after the participle (Ik heb niet naar muziek geluisterd vanochtend).",
+          "explain": "The time word comes before the participle: **Ik heb vanochtend niet naar muziek geluisterd.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **luisteren** instead of the participle **geluisterd** (Ik heb vanochtend niet naar muziek luisteren).",
+          "explain": "After **heb** use the past participle: **geluisterd**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **ben** instead of **heb** (Ik ben vanochtend niet naar muziek geluisterd).",
+          "explain": "**luisteren** takes **hebben**: **Ik heb vanochtend niet naar muziek geluisterd.**"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik heb gisteren gewerkt.",
+      "en": "I worked yesterday."
+    },
+    {
+      "type": "listen",
+      "nl": "Wij hebben de afwas gedaan.",
+      "en": "We did the dishes."
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague asks about your weekend.",
+      "say": {
+        "nl": "Wat heb je dit weekend gedaan?",
+        "en": "What did you do this weekend?"
+      },
+      "task": "Say two things you did. Use the perfect tense.",
+      "examples": [
+        "Ik heb gewerkt en ik heb gekookt.",
+        "Gisteren heb ik boodschappen gedaan. Ik heb ook gekookt.",
+        "Ik heb het huis opgeruimd en ik heb naar muziek geluisterd."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Answers with the present instead of the perfect (Ik werk en ik kook).",
+          "explain": "To say what you did, use **heb** + participle: **Ik heb gewerkt en ik heb gekookt.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Starts with a time word but keeps the subject before the verb (Gisteren ik heb boodschappen gedaan).",
+          "explain": "After **Gisteren** the verb comes second: **Gisteren heb ik boodschappen gedaan.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **ben** instead of **heb** (Ik ben gewerkt).",
+          "explain": "**werken** takes **hebben**: **Ik heb gewerkt.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses the present form **werkt** instead of the participle (Ik heb werkt).",
+          "explain": "The participle is **gewerkt**: **Ik heb gewerkt.**"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "A friend asks if you did the dishes this morning.",
+      "say": {
+        "nl": "Heb je vanochtend de afwas gedaan?",
+        "en": "Did you do the dishes this morning?"
+      },
+      "task": "Say no, you haven't done the dishes yet, but you did clean the house.",
+      "examples": [
+        "Nee, ik heb de afwas nog niet gedaan. Ik heb het huis opgeruimd.",
+        "Nog niet. Ik heb de afwas nog niet gedaan, maar ik heb het huis opgeruimd.",
+        "Nee, nog niet. Ik heb het huis opgeruimd."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts **nog niet** after the participle (Ik heb de afwas gedaan nog niet).",
+          "explain": "**nog niet** comes just before the participle: **Ik heb de afwas nog niet gedaan.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Reverses **nog niet** to **niet nog** (Ik heb de afwas niet nog gedaan).",
+          "explain": "The fixed order is **nog niet**: **Ik heb de afwas nog niet gedaan.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **ben** instead of **heb** (Ik ben de afwas nog niet gedaan).",
+          "explain": "**doen** takes **hebben**: **Ik heb de afwas nog niet gedaan.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets the participle **gedaan** (Ik heb de afwas nog niet).",
+          "explain": "You need the participle at the end: **Ik heb de afwas nog niet gedaan.**"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Maandag op kantoor",
+    "setting": "It is Monday morning at work. Your colleague Lisa asks about your weekend.",
+    "partner": {
+      "name": "Lisa",
+      "gender": "f",
+      "role": "colleague"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen! Hoe was je weekend?",
+          "en": "Good morning! How was your weekend?"
+        },
+        "task": "Greet her and say your weekend was good.",
+        "examples": [
+          "Goedemorgen! Mijn weekend was goed.",
+          "Hoi! Het was leuk.",
+          "Goedemorgen! Het was prima."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the present **is** instead of the past **was** (Mijn weekend is goed).",
+            "explain": "For last weekend use **was**: **Mijn weekend was goed.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Does not greet first (Mijn weekend was goed).",
+            "explain": "Start with a greeting: **Goedemorgen! Mijn weekend was goed.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the adjective before the verb (Mijn weekend goed was).",
+            "explain": "In a simple statement the verb comes second: **Mijn weekend was goed.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat heb je gedaan?",
+          "en": "What did you do?"
+        },
+        "task": "Say two things you did. Use the perfect tense.",
+        "examples": [
+          "Ik heb gewerkt en ik heb gekookt.",
+          "Gisteren heb ik boodschappen gedaan. Ik heb ook de was gedaan.",
+          "Ik heb het huis opgeruimd en ik heb naar muziek geluisterd."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the present instead of the perfect (Ik werk en ik kook).",
+            "explain": "Use **heb** + participle: **Ik heb gewerkt en ik heb gekookt.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Starts with **Gisteren** but keeps **ik** before the verb (Gisteren ik heb boodschappen gedaan).",
+            "explain": "After **Gisteren** the verb comes second: **Gisteren heb ik boodschappen gedaan.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the participle before the object (Ik heb gedaan boodschappen).",
+            "explain": "The participle goes at the end: **Ik heb boodschappen gedaan.**"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses **ben** with **gewerkt** (Ik ben gewerkt).",
+            "explain": "**werken** takes **hebben**: **Ik heb gewerkt.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Heb je nog gesport?",
+          "en": "Did you do any sport?"
+        },
+        "task": "Say no, you did not do any sport, but you cycled this morning.",
+        "examples": [
+          "Nee, ik heb niet gesport. Ik heb vanochtend gefietst.",
+          "Nee, ik heb niet gesport, maar ik heb vanochtend gefietst.",
+          "Nee. Ik heb vanochtend gefietst."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **ben** instead of **heb** (Ik ben niet gesport).",
+            "explain": "**sporten** takes **hebben**: **Ik heb niet gesport.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Writes the participle of **fietsen** with **-d** (Ik heb vanochtend gefietsd).",
+            "explain": "The stem **fiets** ends in **s**, so the participle ends in **-t**: **gefietst**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts **niet** after the participle (Ik heb gesport niet).",
+            "explain": "**niet** comes before the participle: **Ik heb niet gesport.**"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses the present **fiets** instead of the participle (Ik heb vanochtend fiets).",
+            "explain": "After **heb** use **gefietst**: **Ik heb vanochtend gefietst.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat heb je nog niet gedaan?",
+          "en": "What haven't you done yet?"
+        },
+        "task": "Say you haven't done the dishes yet, but you did the laundry.",
+        "examples": [
+          "Ik heb de afwas nog niet gedaan. Ik heb de was gedaan.",
+          "De afwas heb ik nog niet gedaan. De was heb ik gedaan.",
+          "Ik heb de afwas nog niet gedaan, maar de was heb ik gedaan."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts **nog niet** after the participle (Ik heb de afwas gedaan nog niet).",
+            "explain": "**nog niet** comes just before the participle: **Ik heb de afwas nog niet gedaan.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Reverses **nog niet** (Ik heb de afwas niet nog gedaan).",
+            "explain": "The fixed order is **nog niet**: **Ik heb de afwas nog niet gedaan.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses **ben** instead of **heb** for **gedaan** (Ik ben de was gedaan).",
+            "explain": "**doen** takes **hebben**: **Ik heb de was gedaan.**"
+          },
+          {
+            "id": "m4",
+            "pattern": "Forgets **gedaan** (Ik heb de afwas nog niet).",
+            "explain": "End with the participle: **Ik heb de afwas nog niet gedaan.**"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot straks!",
+      "en": "See you later!"
+    }
+  },
+  "culture": {
+    "title": "Hoe was je weekend?",
+    "text": "On Monday mornings, colleagues in the Netherlands often ask **Hoe was je weekend?** A short, concrete answer is normal: say one or two things you did, then ask **En jij?** You do not need a long story. **Ik heb gewerkt**, **Ik heb niets gedaan** or **Ik heb de afwas gedaan** are all fine answers."
+  },
+  "summary": [
+    "Use **heb/hebt/heeft** + past participle at the end: **Ik heb gewerkt.**",
+    "Regular participle: **ge + stem + t/d**; use **t** after **'t kofschip** (t k f s ch p).",
+    "Stems ending in **t** or **d** get no extra **t/d**: **gepraat**, **gebrand**.",
+    "Start with **gisteren** or **vanochtend**? Keep the verb second: **Gisteren heb ik gewerkt.**",
+    "Use **nog niet** just before the past participle: **Ik heb de afwas nog niet gedaan.**"
+  ]
+}

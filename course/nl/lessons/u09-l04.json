@@ -1,0 +1,1067 @@
+{
+  "id": "u09-l04",
+  "title": "Afval en buren",
+  "subtitle": "Rules, waste and obligations",
+  "level": "A2",
+  "intro": "In this lesson you will learn words for rubbish, recycling and neighbourhood rules. You will practise **moeten** and **hoeven ... niet te**, and learn to say what is forbidden with **mogen niet** and **Het is verboden om ... te ...**. By the end you can ask your neighbours when the rubbish is collected and what the rules are.",
+  "words": [
+    {
+      "nl": "afval",
+      "en": "waste, rubbish",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het afval gaat in de container.",
+        "en": "The rubbish goes in the container."
+      },
+      "note": "Uncountable: het afval has no plural."
+    },
+    {
+      "nl": "vuilnisbak",
+      "en": "rubbish bin",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vuilnisbakken",
+      "forms": null,
+      "example": {
+        "nl": "De vuilnisbak staat in de keuken.",
+        "en": "The rubbish bin is in the kitchen."
+      },
+      "note": null
+    },
+    {
+      "nl": "vuilniszak",
+      "en": "rubbish bag",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vuilniszakken",
+      "forms": null,
+      "example": {
+        "nl": "Zet de vuilniszak buiten.",
+        "en": "Put the rubbish bag outside."
+      },
+      "note": null
+    },
+    {
+      "nl": "container",
+      "en": "container",
+      "pos": "noun",
+      "article": "de",
+      "plural": "containers",
+      "forms": null,
+      "example": {
+        "nl": "Het plastic gaat in de container.",
+        "en": "The plastic goes in the container."
+      },
+      "note": "In the Netherlands there are often separate containers for paper and plastic."
+    },
+    {
+      "nl": "glasbak",
+      "en": "glass recycling container",
+      "pos": "noun",
+      "article": "de",
+      "plural": "glasbakken",
+      "forms": null,
+      "example": {
+        "nl": "Gooi de fles in de glasbak.",
+        "en": "Throw the bottle in the glass container."
+      },
+      "note": null
+    },
+    {
+      "nl": "papier",
+      "en": "paper",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Papier gaat in de container voor papier.",
+        "en": "Paper goes in the paper container."
+      },
+      "note": "Uncountable: het papier has no plural."
+    },
+    {
+      "nl": "plastic",
+      "en": "plastic",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Plastic gooi je niet bij het gft.",
+        "en": "You do not throw plastic with the gft."
+      },
+      "note": "Uncountable: het plastic has no plural."
+    },
+    {
+      "nl": "gft",
+      "en": "garden, fruit and vegetable waste",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Gft gaat in de groene container.",
+        "en": "Gft goes in the green container."
+      },
+      "note": "Short for groente-, fruit- en tuinafval (vegetable, fruit and garden waste)."
+    },
+    {
+      "nl": "scheiden",
+      "en": "to separate",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik scheid, jij scheidt, wij scheiden (heeft gescheiden)",
+      "example": {
+        "nl": "Je moet het afval scheiden.",
+        "en": "You have to separate the rubbish."
+      },
+      "note": null
+    },
+    {
+      "nl": "weggooien",
+      "en": "to throw away",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik gooi weg, jij gooit weg, wij gooien weg (heeft weggegooid)",
+      "example": {
+        "nl": "Ik gooi het afval weg.",
+        "en": "I throw the rubbish away."
+      },
+      "note": "Separable verb: weg + gooien."
+    },
+    {
+      "nl": "ophalen",
+      "en": "to collect, to pick up",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik haal op, jij haalt op, wij halen op (heeft opgehaald)",
+      "example": {
+        "nl": "Ze halen het papier op maandag op.",
+        "en": "They collect the paper on Monday."
+      },
+      "note": "Separable verb; you saw it in u04-l06, here it is about rubbish collection."
+    },
+    {
+      "nl": "regel",
+      "en": "rule",
+      "pos": "noun",
+      "article": "de",
+      "plural": "regels",
+      "forms": null,
+      "example": {
+        "nl": "De regels zijn belangrijk.",
+        "en": "The rules are important."
+      },
+      "note": null
+    },
+    {
+      "nl": "verboden",
+      "en": "forbidden, not allowed",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is verboden om hier te parkeren.",
+        "en": "It is forbidden to park here."
+      },
+      "note": "Often used in the pattern Het is verboden om ... te ..."
+    },
+    {
+      "nl": "toegestaan",
+      "en": "permitted, allowed",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Is het toegestaan om hier te roken?",
+        "en": "Is it permitted to smoke here?"
+      },
+      "note": "Often used in the pattern Het is toegestaan om ... te ..."
+    },
+    {
+      "nl": "buurt",
+      "en": "neighbourhood",
+      "pos": "noun",
+      "article": "de",
+      "plural": "buurten",
+      "forms": null,
+      "example": {
+        "nl": "Ik woon in een rustige buurt.",
+        "en": "I live in a quiet neighbourhood."
+      },
+      "note": "You saw this word in u07-l05; here it is part of neighbourhood rules."
+    },
+    {
+      "nl": "buurman",
+      "en": "neighbour (man)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "buren",
+      "forms": null,
+      "example": {
+        "nl": "Mijn buurman woont naast me.",
+        "en": "My neighbour lives next to me."
+      },
+      "note": "The plural de buren is used for neighbours in general."
+    },
+    {
+      "nl": "buurvrouw",
+      "en": "neighbour (woman)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "buurvrouwen",
+      "forms": null,
+      "example": {
+        "nl": "De buurvrouw woont naast me.",
+        "en": "The neighbour lives next to me."
+      },
+      "note": "The plural de buren is used for neighbours in general."
+    },
+    {
+      "nl": "overlast",
+      "en": "nuisance, disturbance",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Sorry voor de overlast.",
+        "en": "Sorry for the nuisance."
+      },
+      "note": "Often used in apologies, for example: Sorry voor de overlast."
+    },
+    {
+      "nl": "parkeren",
+      "en": "to park",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik parkeer, jij parkeert, wij parkeren (heeft geparkeerd)",
+      "example": {
+        "nl": "Je mag hier niet parkeren.",
+        "en": "You may not park here."
+      },
+      "note": null
+    },
+    {
+      "nl": "lawaai",
+      "en": "noise",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Na tien uur geen lawaai.",
+        "en": "No noise after ten o'clock."
+      },
+      "note": "You saw this word in u09-l03; here it is part of the house rules."
+    },
+    {
+      "nl": "hoeven",
+      "en": "to need (with niet/geen)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik hoef, jij hoeft, u hoeft, hij/zij/het hoeft, wij hoeven, jullie hoeven, zij hoeven",
+      "example": {
+        "nl": "Je hoeft de flessen niet te wassen.",
+        "en": "You do not have to wash the bottles."
+      },
+      "note": "You saw this verb in u06-l03; this lesson practises the full pattern with niet/geen ... te."
+    },
+    {
+      "nl": "mogen",
+      "en": "may, to be allowed",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik mag, jij mag, u mag, hij/zij/het mag, wij mogen, jullie mogen, zij mogen",
+      "example": {
+        "nl": "Je mag hier niet roken.",
+        "en": "You may not smoke here."
+      },
+      "note": "You saw this verb in u03-l04; here you use it for rules and prohibitions."
+    },
+    {
+      "nl": "parkeerplaats",
+      "en": "car park, parking space",
+      "pos": "noun",
+      "article": "de",
+      "plural": "parkeerplaatsen",
+      "forms": null,
+      "example": {
+        "nl": "De parkeerplaats is achter het appartement.",
+        "en": "The car park is behind the apartment."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Waar moet het afval heen?",
+      "en": "Where does the rubbish go?",
+      "note": null
+    },
+    {
+      "nl": "Wanneer halen ze het afval op?",
+      "en": "When do they collect the rubbish?",
+      "note": null
+    },
+    {
+      "nl": "Het is verboden om hier te parkeren.",
+      "en": "It is forbidden to park here.",
+      "note": null
+    },
+    {
+      "nl": "Dat is niet toegestaan.",
+      "en": "That is not allowed.",
+      "note": null
+    },
+    {
+      "nl": "Oké.",
+      "en": "Okay.",
+      "note": "Common interjection to agree or to start a sentence."
+    },
+    {
+      "nl": "Je hoeft het niet te doen.",
+      "en": "You do not have to do it.",
+      "note": "hoeven + niet + te + infinitive"
+    },
+    {
+      "nl": "Na tien uur geen lawaai.",
+      "en": "No noise after ten o'clock.",
+      "note": null
+    },
+    {
+      "nl": "Doe het in de goede container.",
+      "en": "Put it in the right container.",
+      "note": null
+    },
+    {
+      "nl": "Sorry voor de overlast.",
+      "en": "Sorry for the nuisance.",
+      "note": null
+    },
+    {
+      "nl": "De regels van het appartement.",
+      "en": "The rules of the apartment.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Moeten and hoeven ... niet/geen te",
+      "explanation": "**Moeten** means must or have to: **Je moet** het glas scheiden. **Hoeven** is used with a negative to mean 'do not have to'. The pattern is **hoeven + niet + te + infinitive** or **hoeven + geen + noun + te + infinitive**. **Niet** comes before **te**; **geen** comes before the noun: **Je hoeft geen vuilniszak te kopen**. With **moeten** there is no **te**: **Je moet het glas scheiden**, not **Je moet het glas te scheiden**.",
+      "table": {
+        "headers": [
+          "Meaning",
+          "Sentence"
+        ],
+        "rows": [
+          [
+            "must / have to",
+            "Je **moet** het afval scheiden."
+          ],
+          [
+            "do not have to (niet)",
+            "Je **hoeft** de flessen **niet te** wassen."
+          ],
+          [
+            "do not have to (geen)",
+            "Je **hoeft geen** vuilniszak **te** kopen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Je moet het papier in de container gooien.",
+          "en": "You have to throw the paper in the container."
+        },
+        {
+          "nl": "Je hoeft de flessen niet te wassen.",
+          "en": "You do not have to wash the bottles."
+        },
+        {
+          "nl": "Je hoeft geen vuilniszak te kopen.",
+          "en": "You do not have to buy a rubbish bag."
+        }
+      ],
+      "tip": "If you can say 'do not have to' in English, use **hoeven ... niet te**. If you mean 'must not', use **mag niet**."
+    },
+    {
+      "title": "Mogen niet: not allowed",
+      "explanation": "**Mogen** means may or to be allowed: **Je mag hier parkeren**. For a rule that says something is not allowed, use **mag niet**: **Je mag hier niet parkeren**. **Moet niet** is not the normal way to express a prohibition in rules; use **mag niet** or **Het is verboden om ... te ...**.",
+      "table": {
+        "headers": [
+          "Person",
+          "Form"
+        ],
+        "rows": [
+          [
+            "ik",
+            "mag"
+          ],
+          [
+            "jij",
+            "mag"
+          ],
+          [
+            "u",
+            "mag"
+          ],
+          [
+            "hij/zij/het",
+            "mag"
+          ],
+          [
+            "wij",
+            "mogen"
+          ],
+          [
+            "jullie",
+            "mogen"
+          ],
+          [
+            "zij",
+            "mogen"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Je mag hier niet parkeren.",
+          "en": "You may not park here."
+        },
+        {
+          "nl": "Mogen we hier roken? Nee, dat mag niet.",
+          "en": "May we smoke here? No, that is not allowed."
+        },
+        {
+          "nl": "Na tien uur mag je geen lawaai maken.",
+          "en": "After ten o'clock you may not make noise."
+        }
+      ],
+      "tip": "**Mag niet** is the normal phrase for house rules. Do not use **moet niet** for 'must not'."
+    },
+    {
+      "title": "Het is verboden om ... te ...",
+      "explanation": "For official rules you can say **Het is verboden om ... te ...** = It is forbidden to ... The rest of the phrase goes between **om** and **te**, and the infinitive comes after **te**: **Het is verboden om hier te parkeren**. The opposite is **Het is toegestaan om ... te ...**: **Het is toegestaan om hier te fietsen**. In speaking, **Je mag hier niet parkeren** is shorter and more common.",
+      "table": {
+        "headers": [
+          "Formal",
+          "Short"
+        ],
+        "rows": [
+          [
+            "Het is verboden om hier te parkeren.",
+            "Je mag hier niet parkeren."
+          ],
+          [
+            "Het is toegestaan om hier te fietsen.",
+            "Je mag hier fietsen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Het is verboden om afval op straat te gooien.",
+          "en": "It is forbidden to throw rubbish on the street."
+        },
+        {
+          "nl": "Het is niet toegestaan om na tien uur lawaai te maken.",
+          "en": "It is not permitted to make noise after ten o'clock."
+        },
+        {
+          "nl": "Is het toegestaan om hier te parkeren?",
+          "en": "Is it permitted to park here?"
+        }
+      ],
+      "tip": "**Om ... te** works like 'to ...' in English, but the verb comes at the very end."
+    }
+  ],
+  "dialogue": {
+    "title": "De regels van het appartement",
+    "setting": "Daan has just moved into a new apartment. His neighbour, Mevrouw De Wit, explains the bin schedule and the house rules.",
+    "speakers": [
+      {
+        "name": "Mevrouw De Wit",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Mevrouw De Wit",
+        "nl": "Hoi Daan, welkom in de buurt! Heb je vragen?",
+        "en": "Hi Daan, welcome to the neighbourhood! Do you have questions?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Dank u wel! Ja, over het afval. Waar moet het plastic heen?",
+        "en": "Thank you! Yes, about the rubbish. Where does the plastic go?"
+      },
+      {
+        "speaker": "Mevrouw De Wit",
+        "nl": "Plastic gooi je in de container voor plastic, papier in de container voor papier en glas in de glasbak.",
+        "en": "You put plastic in the plastic container, paper in the paper container, and glass in the glass container."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "En het gft?",
+        "en": "And the gft?"
+      },
+      {
+        "speaker": "Mevrouw De Wit",
+        "nl": "Dat gaat in de groene container. Je hoeft de flessen niet te wassen, maar je moet alles scheiden.",
+        "en": "That goes in the green container. You do not have to wash the bottles, but you do have to separate everything."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Wanneer halen ze het afval op?",
+        "en": "When do they collect the rubbish?"
+      },
+      {
+        "speaker": "Mevrouw De Wit",
+        "nl": "Op maandag halen ze papier op, op donderdag plastic en op woensdag gft.",
+        "en": "They collect paper on Monday, plastic on Thursday, and gft on Wednesday."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "En de vuilniszak?",
+        "en": "And the rubbish bag?"
+      },
+      {
+        "speaker": "Mevrouw De Wit",
+        "nl": "Die zet je op dinsdagavond buiten. En na tien uur geen lawaai, want de buren slapen.",
+        "en": "You put that outside on Tuesday evening. And no noise after ten, because the neighbours are asleep."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Oké. Mag ik hier parkeren?",
+        "en": "Okay. May I park here?"
+      },
+      {
+        "speaker": "Mevrouw De Wit",
+        "nl": "Nee, dat is verboden. Je mag alleen op de parkeerplaats parkeren.",
+        "en": "No, that is forbidden. You may only park in the car park."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Dank u wel. Sorry voor de overlast.",
+        "en": "Thank you. Sorry for the nuisance."
+      },
+      {
+        "speaker": "Mevrouw De Wit",
+        "nl": "Geen probleem. Welkom in de buurt!",
+        "en": "No problem. Welcome to the neighbourhood!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het afval",
+          "the rubbish"
+        ],
+        [
+          "de vuilniszak",
+          "the rubbish bag"
+        ],
+        [
+          "de glasbak",
+          "the glass container"
+        ],
+        [
+          "de regel",
+          "the rule"
+        ],
+        [
+          "de buurt",
+          "the neighbourhood"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "scheiden",
+          "to separate"
+        ],
+        [
+          "weggooien",
+          "to throw away"
+        ],
+        [
+          "ophalen",
+          "to collect"
+        ],
+        [
+          "parkeren",
+          "to park"
+        ],
+        [
+          "hoeven",
+          "to need (with niet/geen)"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Je moet het glas scheiden.",
+        "Je moet het glas te scheiden.",
+        "Je moet scheiden het glas."
+      ],
+      "answer": 0,
+      "explain": "After **moeten** the infinitive goes at the end without **te**."
+    },
+    {
+      "type": "choice",
+      "prompt": "You do not have to wash the bottles. Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Je hoeft de flessen niet te wassen.",
+        "Je hoeft niet wassen de flessen.",
+        "Je moet de flessen niet wassen."
+      ],
+      "answer": 0,
+      "explain": "The pattern is **hoeven + niet + te + infinitive**."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is the correct rule for 'You may not park here'?",
+      "nl": null,
+      "options": [
+        "Je mag hier niet parkeren.",
+        "Je moet hier niet parkeren.",
+        "Je hoeft hier niet te parkeren."
+      ],
+      "answer": 0,
+      "explain": "For a house rule or prohibition, use **mag niet**: **Je mag hier niet parkeren**."
+    },
+    {
+      "type": "article",
+      "word": "afval",
+      "en": "rubbish",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "vuilniszak",
+      "en": "rubbish bag",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I have to separate the waste.",
+      "answer": "Ik moet het afval scheiden.",
+      "accept": [
+        "Ik moet afval scheiden."
+      ],
+      "extra": [
+        "te",
+        "scheid",
+        "moeten"
+      ],
+      "explain": "After **moet** use the infinitive **scheiden** at the end; do not add **te**."
+    },
+    {
+      "type": "build",
+      "en": "You do not have to wash the bottles.",
+      "answer": "Je hoeft de flessen niet te wassen.",
+      "accept": [
+        "Je hoeft niet de flessen te wassen."
+      ],
+      "extra": [
+        "moet",
+        "geen",
+        "wast"
+      ],
+      "explain": "For 'do not have to', use **hoeven + niet + te + infinitive**: **Je hoeft de flessen niet te wassen**."
+    },
+    {
+      "type": "build",
+      "en": "It is forbidden to park here.",
+      "answer": "Het is verboden om hier te parkeren.",
+      "accept": [
+        "Het is verboden hier te parkeren."
+      ],
+      "extra": [
+        "parkeert",
+        "omdat",
+        "mag"
+      ],
+      "explain": "Use **om ... te + infinitive**; the infinitive **parkeren** comes at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Je hoeft de flessen niet te ___.",
+      "en": "You do not have to wash the bottles.",
+      "answers": [
+        "wassen"
+      ],
+      "hint": "wassen (to wash)",
+      "explain": "After **te** use the infinitive: **te wassen**."
+    },
+    {
+      "type": "gap",
+      "text": "Na tien uur ___ je geen lawaai maken.",
+      "en": "After ten o'clock you may not make noise.",
+      "answers": [
+        "mag"
+      ],
+      "hint": "mogen (may)",
+      "explain": "Use **mag** for **je** in a rule: **je mag geen lawaai maken**."
+    },
+    {
+      "type": "gap",
+      "text": "Wij ___ het papier op maandag op.",
+      "en": "We collect the paper on Monday.",
+      "answers": [
+        "halen"
+      ],
+      "hint": "ophalen (to collect)",
+      "explain": "**Ophalen** is separable: **halen ... op**; the prefix **op** stays at the end."
+    },
+    {
+      "type": "translate",
+      "en": "I have to separate the waste.",
+      "answers": [
+        "Ik moet het afval scheiden.",
+        "Ik moet afval scheiden."
+      ],
+      "focus": "moeten + infinitive",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds **te** after **moet**: *Ik moet het afval te scheiden.*",
+          "explain": "After a modal verb like **moet**, the infinitive follows directly, without **te**: 'Ik moet het afval scheiden.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Conjugates **moeten** with **ik** as *moeten*: *Ik moeten het afval scheiden.*",
+          "explain": "With **ik** use **moet**: 'Ik moet het afval scheiden.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a conjugated form instead of the infinitive: *Ik moet het afval scheid.*",
+          "explain": "After **moet**, use the infinitive **scheiden**: 'Ik moet het afval scheiden.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "You do not have to wash the bottles.",
+      "answers": [
+        "Je hoeft de flessen niet te wassen.",
+        "U hoeft de flessen niet te wassen."
+      ],
+      "focus": "hoeven + niet + te + infinitive",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **moet** for no obligation: *Je moet de flessen niet wassen.*",
+          "explain": "For 'do not have to' use **hoeven ... niet te**, not **moeten**: 'Je hoeft de flessen niet te wassen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out **te** before the infinitive: *Je hoeft de flessen niet wassen.*",
+          "explain": "After **hoeven ... niet** use **te + infinitive**: 'Je hoeft de flessen niet te wassen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **hoef** with **je**: *Je hoef de flessen niet te wassen.*",
+          "explain": "With **je** use **hoeft**: 'Je hoeft de flessen niet te wassen.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "You may not park here.",
+      "answers": [
+        "Je mag hier niet parkeren.",
+        "U mag hier niet parkeren.",
+        "Hier mag je niet parkeren.",
+        "Hier mag u niet parkeren."
+      ],
+      "focus": "mogen niet for rules",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **moet niet** for a rule: *Je moet hier niet parkeren.*",
+          "explain": "For a rule that says something is not allowed, use **mag niet**: 'Je mag hier niet parkeren.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **hoeft ... niet te** for 'may not': *Je hoeft hier niet te parkeren.*",
+          "explain": "**Hoeven ... niet te** means 'do not have to'; for 'may not' use **mag niet**: 'Je mag hier niet parkeren.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a conjugated form instead of the infinitive: *Je mag hier niet parkeer.*",
+          "explain": "After **mag** use the infinitive **parkeren**: 'Je mag hier niet parkeren.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Je mag hier niet parkeren.",
+      "en": "You may not park here."
+    },
+    {
+      "type": "listen",
+      "nl": "Na tien uur geen lawaai.",
+      "en": "No noise after ten o'clock."
+    },
+    {
+      "type": "reply",
+      "context": "Your new neighbour welcomes you.",
+      "say": {
+        "nl": "Hoi! Welkom in de buurt.",
+        "en": "Hi! Welcome to the neighbourhood."
+      },
+      "task": "Greet her back and say that you have a question about the rubbish.",
+      "examples": [
+        "Dank u wel! Ik heb een vraag over het afval.",
+        "Hoi, dank je wel! Mag ik iets vragen over het afval?",
+        "Dank je wel! Waar moet het afval heen?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the verb at the end in the direct question: *Waar het afval moet heen?*",
+          "explain": "In a direct question the verb comes second: 'Waar moet het afval heen?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **voor** instead of **over** for a topic: *Ik heb een vraag voor het afval.*",
+          "explain": "Ask a question **over** a topic: 'Ik heb een vraag over het afval.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Forgets to greet her back: *Ik heb een vraag over het afval.*",
+          "explain": "Start by returning the greeting: 'Dank u wel! Ik heb een vraag over het afval.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your neighbour explains where the glass goes.",
+      "say": {
+        "nl": "Glas gaat in de glasbak.",
+        "en": "Glass goes in the glass container."
+      },
+      "task": "Ask where the plastic goes.",
+      "examples": [
+        "Waar moet het plastic heen?",
+        "En waar gooi ik het plastic?",
+        "In welke container gaat plastic?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the verb at the end in the question: *Waar het plastic moet heen?*",
+          "explain": "In a direct question the verb comes second: 'Waar moet het plastic heen?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **welk** with the de-word **container**: *In welk container gaat plastic?*",
+          "explain": "**Container** is a de-word, so use **welke**: 'In welke container gaat plastic?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out **heen** with **waar ... ?**: *Waar moet het plastic?*",
+          "explain": "Ask with **waar ... heen**: 'Waar moet het plastic heen?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "De regels in het appartement",
+    "setting": "You have just moved into a new apartment and your neighbour, Mevrouw De Wit, tells you about the rubbish collection and the house rules.",
+    "partner": {
+      "name": "Mevrouw De Wit",
+      "gender": "f",
+      "role": "your neighbour; she explains the rubbish collection and the house rules"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Welkom in het appartement. Ik vertel je graag de regels.",
+          "en": "Hi! Welcome to the apartment. I am happy to tell you the rules."
+        },
+        "task": "Ask where the glass goes.",
+        "examples": [
+          "Waar moet het glas heen?",
+          "Waar gooi ik het glas?",
+          "In welke container gaat glas?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the verb at the end in the question: *Waar het glas moet heen?*",
+            "explain": "Ask with verb second: 'Waar moet het glas heen?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses **welk** with the de-word **container**: *In welk container gaat glas?*",
+            "explain": "Use **welke** with de-words: 'In welke container gaat glas?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses **de** with **glas**: *Waar moet de glas heen?*",
+            "explain": "**Glas** is a het-word: 'het glas'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Glas gaat in de glasbak, naast de deur. Plastic en papier gaan in de containers.",
+          "en": "Glass goes in the glass container, next to the door. Plastic and paper go in the containers."
+        },
+        "task": "Ask when they collect the paper.",
+        "examples": [
+          "Wanneer halen ze het papier op?",
+          "Op welke dag halen ze papier op?",
+          "Hoe laat halen ze het papier op?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Does not put the separable prefix **op** at the end: *Wanneer halen ze op het papier?*",
+            "explain": "**Ophalen** is separable: **halen ... op**; the prefix **op** goes at the end: 'Wanneer halen ze het papier op?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses singular **haalt** with plural **ze**: *Wanneer haalt ze het papier op?*",
+            "explain": "With plural **ze** use **halen**: 'Wanneer halen ze het papier op?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the subject before the verb after **wanneer**: *Wanneer ze halen het papier op?*",
+            "explain": "In a question the verb comes second: 'Wanneer halen ze het papier op?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Papier halen ze op maandag op. Plastic op donderdag.",
+          "en": "They collect paper on Monday. Plastic on Thursday."
+        },
+        "task": "Ask if you may listen to music after ten o'clock.",
+        "examples": [
+          "Mag ik na tien uur muziek luisteren?",
+          "Is muziek na tien uur toegestaan?",
+          "Mag ik 's avonds muziek luisteren?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **moet** to ask permission: *Moet ik na tien uur muziek luisteren?*",
+            "explain": "For permission use **mag**: 'Mag ik na tien uur muziek luisteren?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds **om ... te** after **mag**: *Mag ik om na tien uur muziek te luisteren?*",
+            "explain": "After **mag** use the infinitive without **om ... te**: 'Mag ik na tien uur muziek luisteren?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets **te** in the **om ... te** construction: *Is het toegestaan om na tien uur muziek luisteren?*",
+            "explain": "Use **om ... te + infinitive**: 'Is het toegestaan om na tien uur muziek te luisteren?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Nee, na tien uur geen lawaai. De buren slapen dan.",
+          "en": "No, no noise after ten. The neighbours are asleep then."
+        },
+        "task": "Say thank you and ask where you can park.",
+        "examples": [
+          "Dank u wel. Waar mag ik parkeren?",
+          "Oké, bedankt. Waar is de parkeerplaats?",
+          "Dank je wel. Mag ik op de parkeerplaats parkeren?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **moet** to ask about permission: *Waar moet ik parkeren?*",
+            "explain": "For 'may' use **mag**: 'Waar mag ik parkeren?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the verb at the end in the question: *Waar ik mag parkeren?*",
+            "explain": "In a direct question the verb comes second: 'Waar mag ik parkeren?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Leaves out **op** before **de parkeerplaats**: *Mag ik de parkeerplaats parkeren?*",
+            "explain": "Park **op de parkeerplaats**: 'Mag ik op de parkeerplaats parkeren?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De parkeerplaats is achter het appartement. Je hoeft niet te betalen.",
+          "en": "The car park is behind the apartment. You do not have to pay."
+        },
+        "task": "Thank her and apologise for bothering her.",
+        "examples": [
+          "Dank u wel! Sorry voor de overlast.",
+          "Dank je wel. Sorry voor de overlast.",
+          "Oké, dank u wel. Sorry voor de overlast."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **het** with **overlast**: *Sorry voor het overlast.*",
+            "explain": "**Overlast** is a de-word: 'de overlast'. Say 'Sorry voor de overlast.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Says **Ik ben sorry**: *Ik ben sorry voor de overlast.*",
+            "explain": "Say simply **Sorry voor de overlast**, not **Ik ben sorry**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses **van** instead of **voor**: *Sorry van de overlast.*",
+            "explain": "Use **voor**: 'Sorry voor de overlast.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Graag gedaan. Welkom in de buurt!",
+      "en": "You are welcome. Welcome to the neighbourhood!"
+    }
+  },
+  "culture": {
+    "title": "Afval scheiden",
+    "text": "In the Netherlands, households separate their waste. Paper, glass, plastic and gft (vegetable, fruit and garden waste) usually go into separate containers or bags. Municipalities collect the different types of waste on different days, and the rules can differ from city to city. Many buildings also have their own rules about noise and parking."
+  },
+  "summary": [
+    "Use **moeten** for an obligation and **hoeven ... niet te / geen ... te** for no obligation.",
+    "Use **mogen niet** for a rule that says something is not allowed.",
+    "**Het is verboden om ... te ...** is a formal way to say something is forbidden.",
+    "In the Netherlands waste is separated: paper, glass, plastic and gft.",
+    "Ask **Waar moet het afval heen?** and **Wanneer halen ze het afval op?**"
+  ]
+}

@@ -1,0 +1,1136 @@
+{
+  "id": "u10-l01",
+  "title": "Vakantieplannen",
+  "subtitle": "Future plans",
+  "level": "A2",
+  "intro": "In this lesson you will learn to talk about holiday plans. You will practise gaan + infinitive, zullen + infinitive and the present with a time word. By the end you can say where you are going, when, and what you intend to do.",
+  "words": [
+    {
+      "nl": "vakantie",
+      "en": "holiday, vacation",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vakanties",
+      "forms": null,
+      "example": {
+        "nl": "Deze vakantie gaan we naar het buitenland.",
+        "en": "This holiday we are going abroad."
+      },
+      "note": "You met de vakantie in u05-l05; here it is about holiday plans."
+    },
+    {
+      "nl": "reis",
+      "en": "trip, journey",
+      "pos": "noun",
+      "article": "de",
+      "plural": "reizen",
+      "forms": null,
+      "example": {
+        "nl": "Ik boek een reis naar Italië.",
+        "en": "I am booking a trip to Italy."
+      },
+      "note": "You know de reis from u07-l02."
+    },
+    {
+      "nl": "vliegtuig",
+      "en": "plane",
+      "pos": "noun",
+      "article": "het",
+      "plural": "vliegtuigen",
+      "forms": null,
+      "example": {
+        "nl": "We gaan met het vliegtuig naar Spanje.",
+        "en": "We are going to Spain by plane."
+      },
+      "note": "You know het vliegtuig from u07-l02."
+    },
+    {
+      "nl": "vliegveld",
+      "en": "airport",
+      "pos": "noun",
+      "article": "het",
+      "plural": "vliegvelden",
+      "forms": null,
+      "example": {
+        "nl": "Op het vliegveld laat ik mijn paspoort zien.",
+        "en": "At the airport I show my passport."
+      },
+      "note": null
+    },
+    {
+      "nl": "camping",
+      "en": "campsite",
+      "pos": "noun",
+      "article": "de",
+      "plural": "campings",
+      "forms": null,
+      "example": {
+        "nl": "We slapen in een tent op de camping.",
+        "en": "We sleep in a tent on the campsite."
+      },
+      "note": null
+    },
+    {
+      "nl": "tent",
+      "en": "tent",
+      "pos": "noun",
+      "article": "de",
+      "plural": "tenten",
+      "forms": null,
+      "example": {
+        "nl": "Onze tent staat aan de zee.",
+        "en": "Our tent is by the sea."
+      },
+      "note": null
+    },
+    {
+      "nl": "hotel",
+      "en": "hotel",
+      "pos": "noun",
+      "article": "het",
+      "plural": "hotels",
+      "forms": null,
+      "example": {
+        "nl": "Ik wil een hotel in de stad boeken.",
+        "en": "I want to book a hotel in the city."
+      },
+      "note": null
+    },
+    {
+      "nl": "strand",
+      "en": "beach",
+      "pos": "noun",
+      "article": "het",
+      "plural": "stranden",
+      "forms": null,
+      "example": {
+        "nl": "We gaan naar het strand.",
+        "en": "We are going to the beach."
+      },
+      "note": null
+    },
+    {
+      "nl": "berg",
+      "en": "mountain",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bergen",
+      "forms": null,
+      "example": {
+        "nl": "De camping ligt in de bergen.",
+        "en": "The campsite is in the mountains."
+      },
+      "note": null
+    },
+    {
+      "nl": "zee",
+      "en": "sea",
+      "pos": "noun",
+      "article": "de",
+      "plural": "zeeën",
+      "forms": null,
+      "example": {
+        "nl": "In de zomer zwemmen we in de zee.",
+        "en": "In summer we swim in the sea."
+      },
+      "note": null
+    },
+    {
+      "nl": "buitenland",
+      "en": "abroad, foreign country",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Volgend jaar ga ik naar het buitenland.",
+        "en": "Next year I am going abroad."
+      },
+      "note": "Het buitenland has no plural in normal use."
+    },
+    {
+      "nl": "boeken",
+      "en": "to book",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik boek, jij boekt, wij boeken; (heeft geboekt)",
+      "example": {
+        "nl": "Ik boek vandaag een hotel.",
+        "en": "I am booking a hotel today."
+      },
+      "note": "Boeken is also the plural of het boek."
+    },
+    {
+      "nl": "kamperen",
+      "en": "to camp",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kampeer, jij kampeert, wij kamperen; (heeft gekampeerd)",
+      "example": {
+        "nl": "Deze zomer kamperen we in de bergen.",
+        "en": "This summer we are camping in the mountains."
+      },
+      "note": null
+    },
+    {
+      "nl": "vliegen",
+      "en": "to fly",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vlieg, jij vliegt, wij vliegen; (heeft gevlogen)",
+      "example": {
+        "nl": "Over twee weken vlieg ik naar Lissabon.",
+        "en": "In two weeks I am flying to Lisbon."
+      },
+      "note": "You know vliegen from u07-l02."
+    },
+    {
+      "nl": "inpakken",
+      "en": "to pack",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik pak in, jij pakt in, wij pakken in; (heeft ingepakt)",
+      "example": {
+        "nl": "Ik pak mijn koffer in.",
+        "en": "I am packing my suitcase."
+      },
+      "note": "Separable: the prefix in- goes to the end."
+    },
+    {
+      "nl": "koffer",
+      "en": "suitcase",
+      "pos": "noun",
+      "article": "de",
+      "plural": "koffers",
+      "forms": null,
+      "example": {
+        "nl": "Mijn koffer staat op mijn bed.",
+        "en": "My suitcase is on my bed."
+      },
+      "note": null
+    },
+    {
+      "nl": "paspoort",
+      "en": "passport",
+      "pos": "noun",
+      "article": "het",
+      "plural": "paspoorten",
+      "forms": null,
+      "example": {
+        "nl": "Ik neem mijn paspoort mee naar het vliegveld.",
+        "en": "I am taking my passport to the airport."
+      },
+      "note": null
+    },
+    {
+      "nl": "zomervakantie",
+      "en": "summer holiday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "zomervakanties",
+      "forms": null,
+      "example": {
+        "nl": "In de zomervakantie gaan we naar de camping.",
+        "en": "In the summer holiday we go to the campsite."
+      },
+      "note": null
+    },
+    {
+      "nl": "van plan zijn",
+      "en": "to intend, to plan",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": "ik ben van plan, jij bent van plan, wij zijn van plan",
+      "example": {
+        "nl": "Ik ben van plan om te gaan kamperen.",
+        "en": "I intend to go camping."
+      },
+      "note": "Use om ... te + infinitive."
+    },
+    {
+      "nl": "zullen",
+      "en": "will, shall",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zal, jij zult / zal, u zult, hij/zij/het zal, wij/jullie/zij zullen",
+      "example": {
+        "nl": "Ik zal je morgen bellen.",
+        "en": "I will call you tomorrow."
+      },
+      "note": "For promises, predictions and a formal future."
+    },
+    {
+      "nl": "naartoe",
+      "en": "to, towards (where to)",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Waar ga je naartoe? Ik ga naar Italië.",
+        "en": "Where are you going? I am going to Italy."
+      },
+      "note": "Put naar + place in the answer."
+    },
+    {
+      "nl": "volgend jaar",
+      "en": "next year",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Volgend jaar gaan we naar het buitenland.",
+        "en": "Next year we are going abroad."
+      },
+      "note": null
+    },
+    {
+      "nl": "over twee weken",
+      "en": "in two weeks",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Over twee weken vlieg ik naar Lissabon.",
+        "en": "In two weeks I am flying to Lisbon."
+      },
+      "note": null
+    },
+    {
+      "nl": "caravan",
+      "en": "caravan",
+      "pos": "noun",
+      "article": "de",
+      "plural": "caravans",
+      "forms": null,
+      "example": {
+        "nl": "Veel Nederlandse gezinnen hebben een caravan.",
+        "en": "Many Dutch families have a caravan."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Waar ga je naartoe?",
+      "en": "Where are you going?",
+      "note": "Answer with naar + place: Ik ga naar Italië."
+    },
+    {
+      "nl": "Ik ga naar Italië.",
+      "en": "I am going to Italy.",
+      "note": "Gaan + naar for a destination."
+    },
+    {
+      "nl": "Wat ga je deze zomer doen?",
+      "en": "What are you going to do this summer?",
+      "note": "Use the present + time word for future plans."
+    },
+    {
+      "nl": "Ik ben van plan om te gaan kamperen.",
+      "en": "I intend to go camping.",
+      "note": "Om ... te + infinitive at the end."
+    },
+    {
+      "nl": "We gaan een hotel boeken.",
+      "en": "We are going to book a hotel.",
+      "note": "Gaan + infinitive for a plan."
+    },
+    {
+      "nl": "Volgend jaar gaan we naar het buitenland.",
+      "en": "Next year we are going abroad.",
+      "note": "Time word first, verb second."
+    },
+    {
+      "nl": "Over twee weken vlieg ik naar Lissabon.",
+      "en": "In two weeks I am flying to Lisbon.",
+      "note": "Present + time word can mean the future."
+    },
+    {
+      "nl": "Zullen we samen op vakantie gaan?",
+      "en": "Shall we go on holiday together?",
+      "note": "Zullen we...? makes a suggestion."
+    },
+    {
+      "nl": "Ik neem mijn koffer en paspoort mee.",
+      "en": "I am taking my suitcase and passport.",
+      "note": "Meenemen splits: neem ... mee."
+    },
+    {
+      "nl": "Ik verheug me op de vakantie.",
+      "en": "I am looking forward to the holiday.",
+      "note": "Reflexive verb: zich verheugen op."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Plans with gaan + infinitive",
+      "explanation": "Use **gaan** + infinitive to say what you are going to do. The infinitive goes at the end: **Ik ga een hotel boeken.** For intentions you can also use **van plan zijn om ... te** + infinitive: **Ik ben van plan om te gaan kamperen.**",
+      "table": {
+        "headers": [
+          "Subject",
+          "Gaan",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "ga",
+            "Ik ga kamperen."
+          ],
+          [
+            "jij/je",
+            "gaat",
+            "Jij gaat een hotel boeken."
+          ],
+          [
+            "u",
+            "gaat",
+            "U gaat naar het buitenland."
+          ],
+          [
+            "hij/zij/het",
+            "gaat",
+            "Zij gaat vliegen."
+          ],
+          [
+            "wij/we",
+            "gaan",
+            "Wij gaan inpakken."
+          ],
+          [
+            "jullie",
+            "gaan",
+            "Jullie gaan kamperen."
+          ],
+          [
+            "zij/ze",
+            "gaan",
+            "Zij gaan boeken."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ga een hotel boeken.",
+          "en": "I am going to book a hotel."
+        },
+        {
+          "nl": "We gaan in de bergen kamperen.",
+          "en": "We are going to camp in the mountains."
+        },
+        {
+          "nl": "Ik ben van plan om te gaan kamperen.",
+          "en": "I intend to go camping."
+        }
+      ],
+      "tip": "Gaan doesn't only mean 'to go'; it also works like English 'going to'."
+    },
+    {
+      "title": "Zullen + infinitive: promises and predictions",
+      "explanation": "Use **zullen** + infinitive for promises, predictions and a formal future. The infinitive goes at the end: **Ik zal je morgen bellen.** **Het zal morgen mooi weer zijn.** In questions, **Zullen we...?** makes a suggestion.",
+      "table": {
+        "headers": [
+          "Subject",
+          "Zullen",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "zal",
+            "Ik zal je bellen."
+          ],
+          [
+            "jij/je",
+            "zult / zal",
+            "Jij zult het leuk vinden."
+          ],
+          [
+            "u",
+            "zult",
+            "U zult het zien."
+          ],
+          [
+            "hij/zij/het",
+            "zal",
+            "Het zal morgen mooi weer zijn."
+          ],
+          [
+            "wij/we",
+            "zullen",
+            "Wij zullen op tijd zijn."
+          ],
+          [
+            "jullie",
+            "zullen",
+            "Jullie zullen de zee zien."
+          ],
+          [
+            "zij/ze",
+            "zullen",
+            "Zij zullen een hotel boeken."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik zal je morgen bellen.",
+          "en": "I will call you tomorrow."
+        },
+        {
+          "nl": "Het zal mooi weer zijn.",
+          "en": "The weather will be nice."
+        },
+        {
+          "nl": "Zullen we samen gaan?",
+          "en": "Shall we go together?"
+        }
+      ],
+      "tip": "In speech, ik, hij and zij (singular) usually take zal; u takes zult."
+    },
+    {
+      "title": "Present + time word; van plan zijn",
+      "explanation": "The present tense can talk about the future when the sentence has a clear time word: **Volgende week vlieg ik naar Lissabon.** **Over twee weken gaan we naar de camping.** To stress an intention, use **van plan zijn om ... te** + infinitive: **Ik ben van plan om te gaan kamperen.**",
+      "table": {
+        "headers": [
+          "Time word",
+          "Example"
+        ],
+        "rows": [
+          [
+            "volgend jaar",
+            "Volgend jaar ga ik naar het buitenland."
+          ],
+          [
+            "over twee weken",
+            "Over twee weken vlieg ik naar Lissabon."
+          ],
+          [
+            "deze zomer",
+            "Deze zomer kamperen we in de bergen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Volgende week vlieg ik naar Lissabon.",
+          "en": "Next week I am flying to Lisbon."
+        },
+        {
+          "nl": "Over twee weken gaan we naar de camping.",
+          "en": "In two weeks we are going to the campsite."
+        },
+        {
+          "nl": "Ik ben van plan om te gaan kamperen.",
+          "en": "I intend to go camping."
+        }
+      ],
+      "tip": "Time first? Then verb second: Volgende week vlieg ik..., not Volgende week ik vlieg..."
+    }
+  ],
+  "dialogue": {
+    "title": "Plannen voor de zomer",
+    "setting": "Sanne and Tom are in a café, planning their summer holiday.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Tom",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Tom, wat ga je deze zomervakantie doen?",
+        "en": "Hi Tom, what are you going to do this summer holiday?"
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Nog niet echt. Ik ben van plan om twee weken vrij te nemen. En jij?",
+        "en": "Not really yet. I intend to take two weeks off. And you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik ga deze zomer kamperen in de bergen. Met de tent, lekker rustig.",
+        "en": "This summer I am going camping in the mountains. With the tent, nice and quiet."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Kamperen? Ik weet het niet. Ik ga liever naar een stad. Ik wil een hotel boeken.",
+        "en": "Camping? I don't know. I prefer to go to a city. I want to book a hotel."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Waar ga je dan naartoe?",
+        "en": "Where are you going then?"
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Misschien naar Lissabon. Over twee weken boek ik een hotel.",
+        "en": "Maybe to Lisbon. In two weeks I am booking a hotel."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Vlieg je dan met het vliegtuig vanaf Schiphol?",
+        "en": "Are you flying by plane from Schiphol then?"
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Ja. Ik moet nog een koffer kopen en mijn paspoort meenemen.",
+        "en": "Yes. I still have to buy a suitcase and take my passport."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Zullen we samen gaan? Dan gaan we eerst naar de camping en daarna naar de stad.",
+        "en": "Shall we go together? Then we go to the campsite first and then to the city."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Goed idee! Deze zomer gaan we dan samen naar het strand en de zee.",
+        "en": "Good idea! This summer we will go to the beach and the sea together then."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Leuk. Ik pak mijn koffer alvast in.",
+        "en": "Nice. I am packing my suitcase already."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Ik zal je volgende week bellen.",
+        "en": "I will call you next week."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de camping",
+          "the campsite"
+        ],
+        [
+          "het strand",
+          "the beach"
+        ],
+        [
+          "de berg",
+          "the mountain"
+        ],
+        [
+          "het buitenland",
+          "abroad"
+        ],
+        [
+          "inpakken",
+          "to pack"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "boeken",
+          "to book"
+        ],
+        [
+          "kamperen",
+          "to camp"
+        ],
+        [
+          "vliegen",
+          "to fly"
+        ],
+        [
+          "van plan zijn",
+          "to intend"
+        ],
+        [
+          "naartoe",
+          "to (where to)"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence talks about a future plan?",
+      "nl": null,
+      "options": [
+        "Ik ga een tent kopen.",
+        "Ik koop een tent.",
+        "Ik heb een tent gekocht."
+      ],
+      "answer": 0,
+      "explain": "Gaan + infinitive expresses a plan."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word makes a formal promise? Ik ___ je morgen bellen.",
+      "nl": null,
+      "options": [
+        "zal",
+        "ga",
+        "kan"
+      ],
+      "answer": 0,
+      "explain": "Zullen is used for promises; gaan is a neutral plan."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence talks about the future?",
+      "nl": null,
+      "options": [
+        "Volgende week vlieg ik naar Lissabon.",
+        "Ik ben vorige week naar Lissabon gevlogen.",
+        "Ik vlieg gisteren naar Lissabon."
+      ],
+      "answer": 0,
+      "explain": "Volgende week makes the present refer to the future."
+    },
+    {
+      "type": "article",
+      "word": "tent",
+      "en": "tent",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "buitenland",
+      "en": "abroad, foreign country",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I am going to book a hotel.",
+      "answer": "Ik ga een hotel boeken.",
+      "accept": [],
+      "extra": [
+        "de"
+      ],
+      "explain": "Use gaan + infinitive for a plan; the infinitive boeken goes at the end: 'Ik ga een hotel boeken.'"
+    },
+    {
+      "type": "build",
+      "en": "We are going to camp in the mountains.",
+      "answer": "We gaan in de bergen kamperen.",
+      "accept": [
+        "In de bergen gaan we kamperen.",
+        "We gaan kamperen in de bergen."
+      ],
+      "extra": [
+        "op"
+      ],
+      "explain": "With gaan the infinitive goes at the end: 'We gaan in de bergen kamperen.' If you start with the place, the verb comes second: 'In de bergen gaan we kamperen.'"
+    },
+    {
+      "type": "build",
+      "en": "Next year I will fly to Italy.",
+      "answer": "Volgend jaar vlieg ik naar Italië.",
+      "accept": [
+        "Ik vlieg volgend jaar naar Italië."
+      ],
+      "extra": [
+        "vliegt"
+      ],
+      "explain": "After a time word first, the verb comes second: 'Volgend jaar vlieg ik naar Italië.' With ik use vlieg, not vliegt."
+    },
+    {
+      "type": "gap",
+      "text": "In de zomer slaap ik in een ___ op de camping.",
+      "en": "In summer I sleep in a tent on the campsite.",
+      "answers": [
+        "tent"
+      ],
+      "hint": "tent",
+      "explain": "The word is tent; it takes de: 'de tent'. After een there is no article: 'een tent'."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ben van plan om te gaan ___ met de tent.",
+      "en": "I intend to go camping with the tent.",
+      "answers": [
+        "kamperen"
+      ],
+      "hint": "kamperen",
+      "explain": "After om te + gaan, use the infinitive kamperen: 'om te gaan kamperen'."
+    },
+    {
+      "type": "gap",
+      "text": "Op het vliegveld laat ik mijn ___ zien.",
+      "en": "At the airport I show my passport.",
+      "answers": [
+        "paspoort"
+      ],
+      "hint": "paspoort",
+      "explain": "The word is paspoort; it takes het: 'het paspoort'. After mijn there is no article: 'mijn paspoort'."
+    },
+    {
+      "type": "translate",
+      "en": "I am going to book a hotel.",
+      "answers": [
+        "Ik ga een hotel boeken."
+      ],
+      "focus": "gaan + infinitive for plans",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses zullen for a plan: 'Ik zal een hotel boeken.'",
+          "explain": "For a plan use gaan + infinitive: 'Ik ga een hotel boeken.' Zullen is for promises and predictions."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitive before the object: 'Ik ga boeken een hotel.'",
+          "explain": "The infinitive boeken goes at the end: 'Ik ga een hotel boeken.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses de with hotel: 'Ik ga de hotel boeken.'",
+          "explain": "Het hotel is a het-word: 'een hotel', not 'de hotel'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses the present without gaan: 'Ik boek een hotel.'",
+          "explain": "For 'I am going to' use gaan + infinitive: 'Ik ga een hotel boeken.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Next week we are flying to Italy.",
+      "answers": [
+        "Volgende week vliegen we naar Italië.",
+        "Volgende week vliegen wij naar Italië.",
+        "We vliegen volgende week naar Italië.",
+        "Wij vliegen volgende week naar Italië."
+      ],
+      "focus": "present + time word for the future",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps subject before verb after time word: 'Volgende week we vliegen naar Italië.'",
+          "explain": "When the sentence starts with a time word, the verb comes second: 'Volgende week vliegen we naar Italië.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses vliegt with we/wij: 'Volgende week vliegt we naar Italië.'",
+          "explain": "With we/wij the verb is vliegen: 'We vliegen naar Italië.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses in for destination: 'Volgende week vliegen we in Italië.'",
+          "explain": "Use naar for a destination: 'naar Italië'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Writes Italie without trema: 'Volgende week vliegen we naar Italie.'",
+          "explain": "Write Italië with ë: 'naar Italië'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I intend to go camping this summer.",
+      "answers": [
+        "Ik ben van plan om deze zomer te gaan kamperen.",
+        "Deze zomer ben ik van plan om te gaan kamperen.",
+        "Ik ben van plan deze zomer te gaan kamperen.",
+        "Ik ben van plan om deze zomer te kamperen.",
+        "Deze zomer ben ik van plan om te kamperen."
+      ],
+      "focus": "van plan zijn om ... te + infinitive",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses gaan without te: 'Ik ben van plan om deze zomer gaan kamperen.'",
+          "explain": "After om use te + infinitive: 'om deze zomer te gaan kamperen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Keeps subject before verb after Deze zomer: 'Deze zomer ik ben van plan om te gaan kamperen.'",
+          "explain": "After Deze zomer, the verb comes second: 'Deze zomer ben ik van plan...'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses wil van plan: 'Ik wil van plan om te gaan kamperen.'",
+          "explain": "Say 'Ik ben van plan om ... te ...', not 'Ik wil van plan'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Volgend jaar ga ik naar het buitenland.",
+      "en": "Next year I am going abroad."
+    },
+    {
+      "type": "listen",
+      "nl": "We gaan een hotel boeken in de stad.",
+      "en": "We are going to book a hotel in the city."
+    },
+    {
+      "type": "reply",
+      "context": "Your friend asks about your summer plans.",
+      "say": {
+        "nl": "Wat ga je deze zomer doen?",
+        "en": "What are you going to do this summer?"
+      },
+      "task": "Say that you are going to camp in the mountains with a tent.",
+      "examples": [
+        "Ik ga deze zomer in de bergen kamperen.",
+        "Ik ga met de tent naar de bergen.",
+        "Deze zomer ga ik kamperen."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps subject before verb after Deze zomer: 'Deze zomer ik ga kamperen.'",
+          "explain": "After Deze zomer, the verb comes second: 'Deze zomer ga ik kamperen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses het with tent: 'met het tent'",
+          "explain": "It is de tent: 'met de tent'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses op de bergen for in de bergen: 'Ik ga op de bergen kamperen.'",
+          "explain": "Use in de bergen for 'in the mountains': 'Ik ga in de bergen kamperen.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You are at a travel agency. The employee asks where you want to go.",
+      "say": {
+        "nl": "Waar gaat u naartoe?",
+        "en": "Where are you going?"
+      },
+      "task": "Say that you are going to Italy and that you want to book a hotel.",
+      "examples": [
+        "Ik ga naar Italië en ik wil een hotel boeken.",
+        "Ik ga naar Italië. Ik wil graag een hotel boeken.",
+        "Naar Italië, en ik wil een hotel boeken."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Forgets naar before a destination: 'Ik ga Italië.'",
+          "explain": "Use naar before a place: 'Ik ga naar Italië.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses in for destination: 'Ik ga in Italië.'",
+          "explain": "For a destination use naar: 'Ik ga naar Italië.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts infinitive before object: 'Ik wil boeken een hotel.'",
+          "explain": "With willen the infinitive goes at the end: 'Ik wil een hotel boeken.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses de hotel: 'de hotel'",
+          "explain": "Het hotel is a het-word: 'een hotel'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Vakantieplannen met een vriend",
+    "setting": "You are with your friend Daan, planning your summer holiday. You have to choose between camping and a city trip.",
+    "partner": {
+      "name": "Daan",
+      "gender": "m",
+      "role": "your friend and travel buddy"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Wat zijn je plannen voor de zomervakantie?",
+          "en": "What are your plans for the summer holiday?"
+        },
+        "task": "Say that you want to go on holiday and that you are maybe going camping.",
+        "examples": [
+          "Ik wil op vakantie gaan. Misschien ga ik kamperen.",
+          "Ik wil graag op vakantie. Misschien ga ik kamperen.",
+          "Deze zomer wil ik op vakantie. Misschien ga ik kamperen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts subject before verb after Misschien: 'Misschien ik ga kamperen.'",
+            "explain": "After Misschien, the verb comes second: 'Misschien ga ik kamperen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses van vakantie instead of op vakantie: 'Ik ga van vakantie.'",
+            "explain": "Say 'op vakantie gaan', not 'van vakantie gaan'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses maken with kamperen: 'Ik maak kamperen.'",
+            "explain": "Use gaan + kamperen: 'Ik ga kamperen.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Gives only one of the two parts, e.g. only 'Ik wil op vakantie.' without the camping plan",
+            "explain": "Say both: 'Ik wil op vakantie gaan. Misschien ga ik kamperen.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Kamperen is leuk, maar ik ga liever naar een stad. Zullen we een hotel boeken?",
+          "en": "Camping is nice, but I prefer to go to a city. Shall we book a hotel?"
+        },
+        "task": "Say that is a good idea and suggest going to Italy.",
+        "examples": [
+          "Goed idee! Zullen we naar Italië gaan?",
+          "Leuk! Ik wil graag naar Italië.",
+          "Prima. Zullen we naar Italië gaan?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts gaan before the place after zullen we: 'Zullen we gaan naar Italië?'",
+            "explain": "With zullen we, the infinitive goes at the end: 'Zullen we naar Italië gaan?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses in for destination: 'Zullen we in Italië gaan?'",
+            "explain": "Use naar for destination: 'Zullen we naar Italië gaan?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses we zullen for a suggestion: 'We zullen naar Italië gaan?'",
+            "explain": "For a suggestion use 'Zullen we ...?': 'Zullen we naar Italië gaan?'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Writes Italie without trema: 'Italie'",
+            "explain": "Write Italië with ë."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En daarna? Gaan we ook naar het strand?",
+          "en": "And afterwards? Are we also going to the beach?"
+        },
+        "task": "Say that you also want to go to the beach and the sea.",
+        "examples": [
+          "Ja, ik wil ook naar het strand en de zee.",
+          "Natuurlijk! We gaan naar het strand en de zee.",
+          "Ja, na de stad gaan we naar het strand."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses de strand: 'de strand'",
+            "explain": "Het strand is a het-word: 'het strand'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses op for destination: 'We gaan op het strand.'",
+            "explain": "Use naar for destination: 'We gaan naar het strand.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Places ook before wil: 'Ik ook wil naar het strand.'",
+            "explain": "Put ook after the verb: 'Ik wil ook naar het strand.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wanneer gaan we? Volgend jaar of deze zomer?",
+          "en": "When are we going? Next year or this summer?"
+        },
+        "task": "Say that you want to go this summer and that you will pack your suitcase next week.",
+        "examples": [
+          "Deze zomer. Ik pak volgende week mijn koffer in.",
+          "Ik wil deze zomer gaan. Volgende week pak ik mijn koffer in.",
+          "Deze zomer, en ik zal volgende week mijn koffer inpakken."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps inpakken together without splitting: 'Ik pak volgende week mijn koffer inpakken.'",
+            "explain": "Inpakken splits: 'Ik pak mijn koffer in.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Keeps subject before verb after Volgende week: 'Volgende week ik pak mijn koffer in.'",
+            "explain": "After Volgende week, the verb comes second: 'Volgende week pak ik mijn koffer in.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Keeps subject before verb after Deze zomer: 'Deze zomer ik wil gaan.'",
+            "explain": "After Deze zomer, the verb comes second: 'Deze zomer wil ik gaan.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses op deze zomer: 'op deze zomer'",
+            "explain": "Say 'deze zomer', not 'op deze zomer'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Mooi. Ik bel je morgen.",
+          "en": "Great. I will call you tomorrow."
+        },
+        "task": "Say goodbye and that you are looking forward to the holiday.",
+        "examples": [
+          "Tot morgen! Ik verheug me op de vakantie.",
+          "Oké, tot morgen. Ik verheug me op de vakantie!",
+          "Tot morgen! Ik heb zin in de vakantie."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses over with verheugen: 'Ik verheug me over de vakantie.'",
+            "explain": "Use verheugen op: 'Ik verheug me op de vakantie.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets the reflexive pronoun: 'Ik verheug op de vakantie.'",
+            "explain": "Verheugen is reflexive: 'Ik verheug me op de vakantie.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses zin hebben voor: 'Ik heb zin voor de vakantie.'",
+            "explain": "Say 'zin hebben in': 'Ik heb zin in de vakantie.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot ziens en fijne vakantie!",
+      "en": "Goodbye and have a nice holiday!"
+    }
+  },
+  "culture": {
+    "title": "Camping and school holidays",
+    "text": "Camping is very popular in the Netherlands, and many families have a caravan. In the summer holiday (zomervakantie) they often go to a campsite in the Netherlands, France or Spain. Schools do not all start their summer holiday at the same time: the holidays are spread across the north, central and south of the country so that not everyone travels at once."
+  },
+  "summary": [
+    "Use gaan + infinitive for plans: Ik ga een hotel boeken.",
+    "Use zullen + infinitive for promises and predictions: Ik zal je morgen bellen.",
+    "A present tense + time word can also mean the future: Volgende week vlieg ik naar Lissabon.",
+    "Use van plan zijn om ... te + infinitive for intentions.",
+    "Waar ga je naartoe? — Ik ga naar Italië."
+  ]
+}

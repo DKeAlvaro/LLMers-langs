@@ -1,0 +1,1145 @@
+{
+  "id": "u05-l03",
+  "title": "Wat voor weer is het?",
+  "subtitle": "Weather, months and dates",
+  "level": "A1",
+  "intro": "In this lesson you learn to talk about the weather, name the months and seasons, and say dates in Dutch. You will practise the natural Dutch pattern het regent / het is koud and use it in a conversation about a beach day in Scheveningen.",
+  "words": [
+    {
+      "nl": "weer",
+      "en": "weather",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het weer is vandaag mooi.",
+        "en": "The weather is nice today."
+      },
+      "note": "Het weer has no plural in everyday use."
+    },
+    {
+      "nl": "zon",
+      "en": "sun",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De zon schijnt.",
+        "en": "The sun is shining."
+      },
+      "note": null
+    },
+    {
+      "nl": "regen",
+      "en": "rain",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik hou niet van de regen.",
+        "en": "I do not like the rain."
+      },
+      "note": null
+    },
+    {
+      "nl": "wind",
+      "en": "wind",
+      "pos": "noun",
+      "article": "de",
+      "plural": "winden",
+      "forms": null,
+      "example": {
+        "nl": "De wind waait vandaag.",
+        "en": "The wind is blowing today."
+      },
+      "note": null
+    },
+    {
+      "nl": "sneeuw",
+      "en": "snow",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De sneeuw is wit.",
+        "en": "The snow is white."
+      },
+      "note": null
+    },
+    {
+      "nl": "onweer",
+      "en": "thunderstorm",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Er is vandaag onweer.",
+        "en": "There is a thunderstorm today."
+      },
+      "note": null
+    },
+    {
+      "nl": "strand",
+      "en": "beach",
+      "pos": "noun",
+      "article": "het",
+      "plural": "stranden",
+      "forms": null,
+      "example": {
+        "nl": "Wij gaan naar het strand.",
+        "en": "We are going to the beach."
+      },
+      "note": null
+    },
+    {
+      "nl": "regenen",
+      "en": "to rain",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het regent",
+      "example": {
+        "nl": "Het regent vandaag.",
+        "en": "It is raining today."
+      },
+      "note": "Used with het: het regent."
+    },
+    {
+      "nl": "sneeuwen",
+      "en": "to snow",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het sneeuwt",
+      "example": {
+        "nl": "Het sneeuwt in de winter.",
+        "en": "It snows in winter."
+      },
+      "note": "Used with het: het sneeuwt."
+    },
+    {
+      "nl": "waaien",
+      "en": "to blow",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het waait",
+      "example": {
+        "nl": "Het waait vandaag.",
+        "en": "It is windy today."
+      },
+      "note": "For the wind: het waait."
+    },
+    {
+      "nl": "zonnig",
+      "en": "sunny",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is vandaag zonnig.",
+        "en": "It is sunny today."
+      },
+      "note": null
+    },
+    {
+      "nl": "bewolkt",
+      "en": "cloudy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is bewolkt.",
+        "en": "It is cloudy."
+      },
+      "note": null
+    },
+    {
+      "nl": "nat",
+      "en": "wet",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mijn fiets is nat.",
+        "en": "My bike is wet."
+      },
+      "note": null
+    },
+    {
+      "nl": "droog",
+      "en": "dry",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is vandaag droog.",
+        "en": "It is dry today."
+      },
+      "note": null
+    },
+    {
+      "nl": "lente",
+      "en": "spring",
+      "pos": "noun",
+      "article": "de",
+      "plural": "lentes",
+      "forms": null,
+      "example": {
+        "nl": "In de lente is het mooi weer.",
+        "en": "In spring the weather is nice."
+      },
+      "note": null
+    },
+    {
+      "nl": "zomer",
+      "en": "summer",
+      "pos": "noun",
+      "article": "de",
+      "plural": "zomers",
+      "forms": null,
+      "example": {
+        "nl": "In de zomer zwem ik graag.",
+        "en": "In summer I like to swim."
+      },
+      "note": null
+    },
+    {
+      "nl": "herfst",
+      "en": "autumn",
+      "pos": "noun",
+      "article": "de",
+      "plural": "herfsten",
+      "forms": null,
+      "example": {
+        "nl": "In de herfst regent het vaak.",
+        "en": "In autumn it often rains."
+      },
+      "note": null
+    },
+    {
+      "nl": "winter",
+      "en": "winter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "winters",
+      "forms": null,
+      "example": {
+        "nl": "In de winter is het koud.",
+        "en": "In winter it is cold."
+      },
+      "note": null
+    },
+    {
+      "nl": "januari",
+      "en": "January",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In januari is het koud.",
+        "en": "In January it is cold."
+      },
+      "note": "Months take no article and are not capitalised."
+    },
+    {
+      "nl": "februari",
+      "en": "February",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In februari is het nog koud.",
+        "en": "In February it is still cold."
+      },
+      "note": null
+    },
+    {
+      "nl": "maart",
+      "en": "March",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In maart is het vaak nat.",
+        "en": "In March it is often wet."
+      },
+      "note": null
+    },
+    {
+      "nl": "april",
+      "en": "April",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In april is het mooi weer.",
+        "en": "In April the weather is nice."
+      },
+      "note": null
+    },
+    {
+      "nl": "mei",
+      "en": "May",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In mei is het warm.",
+        "en": "In May it is warm."
+      },
+      "note": null
+    },
+    {
+      "nl": "juni",
+      "en": "June",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wij gaan op drie juni naar het strand.",
+        "en": "We are going to the beach on 3 June."
+      },
+      "note": null
+    },
+    {
+      "nl": "juli",
+      "en": "July",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In juli is het zonnig.",
+        "en": "In July it is sunny."
+      },
+      "note": null
+    },
+    {
+      "nl": "augustus",
+      "en": "August",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In augustus is het warm.",
+        "en": "In August it is warm."
+      },
+      "note": null
+    },
+    {
+      "nl": "september",
+      "en": "September",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In september is het vaak droog.",
+        "en": "In September it is often dry."
+      },
+      "note": null
+    },
+    {
+      "nl": "oktober",
+      "en": "October",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In oktober is het nat.",
+        "en": "In October it is wet."
+      },
+      "note": null
+    },
+    {
+      "nl": "november",
+      "en": "November",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In november is het koud.",
+        "en": "In November it is cold."
+      },
+      "note": null
+    },
+    {
+      "nl": "december",
+      "en": "December",
+      "pos": "noun",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In december is het donker.",
+        "en": "In December it is dark."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Wat voor weer is het?",
+      "en": "What is the weather like?",
+      "note": null
+    },
+    {
+      "nl": "Het is mooi weer.",
+      "en": "The weather is nice.",
+      "note": "mooi weer = nice weather"
+    },
+    {
+      "nl": "Het is lekker weer.",
+      "en": "The weather is lovely.",
+      "note": "lekker weer = lovely weather"
+    },
+    {
+      "nl": "Het regent vandaag.",
+      "en": "It is raining today.",
+      "note": null
+    },
+    {
+      "nl": "De zon schijnt.",
+      "en": "The sun is shining.",
+      "note": "schijnen is regular: de zon schijnt (stem schijn + t)."
+    },
+    {
+      "nl": "In de winter is het koud.",
+      "en": "In winter it is cold.",
+      "note": "in + de + season"
+    },
+    {
+      "nl": "op drie juni",
+      "en": "on 3 June",
+      "note": "Use op for a specific date; months are not capitalised."
+    },
+    {
+      "nl": "de eerste mei",
+      "en": "the first of May",
+      "note": "For the 1st of a month use de eerste."
+    },
+    {
+      "nl": "Ik hou van de zomer.",
+      "en": "I love summer.",
+      "note": null
+    },
+    {
+      "nl": "Oké!",
+      "en": "Okay!",
+      "note": "Very common interjection to agree or to close a conversation."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Weer met het",
+      "explanation": "For weather, Dutch often uses **het** as a neutral subject. You do not say 'de regen regent'; you say **Het regent**. The verb comes after **het**, and the sentence can be very short. Use the same pattern with **het sneeuwt**, **het waait** and **het is koud**.",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "Het regent.",
+            "It is raining."
+          ],
+          [
+            "Het sneeuwt.",
+            "It is snowing."
+          ],
+          [
+            "Het waait.",
+            "It is windy."
+          ],
+          [
+            "Het is koud.",
+            "It is cold."
+          ],
+          [
+            "Het is zonnig.",
+            "It is sunny."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Het regent vandaag.",
+          "en": "It is raining today."
+        },
+        {
+          "nl": "Het is koud in de winter.",
+          "en": "It is cold in winter."
+        },
+        {
+          "nl": "Het waait, maar het is droog.",
+          "en": "It is windy, but it is dry."
+        }
+      ],
+      "tip": "Weather sentences often start with **Het**: Het regent, Het is warm."
+    },
+    {
+      "title": "Datums: de eerste mei, op drie juni",
+      "explanation": "For the first day of a month, use **de eerste** + month: **de eerste mei**. For other days, use **op** + number + month: **op drie juni**. Use **in** + month when you mean a month in general: **in januari**. Months are not capitalised in Dutch.",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "de eerste mei",
+            "the first of May"
+          ],
+          [
+            "op drie juni",
+            "on 3 June"
+          ],
+          [
+            "op veertien februari",
+            "on 14 February"
+          ],
+          [
+            "in januari",
+            "in January"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Wij gaan op drie juni naar het strand.",
+          "en": "We are going to the beach on 3 June."
+        },
+        {
+          "nl": "De eerste mei is morgen.",
+          "en": "The first of May is tomorrow."
+        },
+        {
+          "nl": "In januari is het koud.",
+          "en": "In January it is cold."
+        }
+      ],
+      "tip": "Only the 1st uses **de eerste**; other dates use the plain number."
+    },
+    {
+      "title": "Seizoenen: in de lente, in de zomer",
+      "explanation": "Seasons take **de**: **de lente**, **de zomer**, **de herfst**, **de winter**. To say 'in spring' etc., use **in de** + season: **in de lente**. Do not say 'in lente'.",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "in de lente",
+            "in spring"
+          ],
+          [
+            "in de zomer",
+            "in summer"
+          ],
+          [
+            "in de herfst",
+            "in autumn"
+          ],
+          [
+            "in de winter",
+            "in winter"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "In de zomer is het warm.",
+          "en": "In summer it is warm."
+        },
+        {
+          "nl": "In de herfst regent het vaak.",
+          "en": "In autumn it often rains."
+        },
+        {
+          "nl": "In de winter is het koud.",
+          "en": "In winter it is cold."
+        }
+      ],
+      "tip": "Learn the seasons with **in de** as one chunk."
+    }
+  ],
+  "dialogue": {
+    "title": "Naar het strand?",
+    "setting": "Sanne and Tom are in Scheveningen looking at the weather.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Tom",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Tom",
+        "nl": "Hoi Sanne. Wat voor weer is het vandaag?",
+        "en": "Hi Sanne. What is the weather like today?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Het is bewolkt en het waait. Het is vandaag drie juni en het is koud.",
+        "en": "It is cloudy and windy. Today is 3 June, and it is cold."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Het is niet koud. Het is lekker weer!",
+        "en": "It is not cold. The weather is lovely!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, het is niet zonnig. De zon schijnt niet en het regent misschien.",
+        "en": "No, it is not sunny. The sun is not shining, and it may rain."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Ik wil graag naar het strand. Heb je zin om te zwemmen?",
+        "en": "I would like to go to the beach. Do you feel like swimming?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Helaas, het is nat en koud. Ik zwem liever in de zomer.",
+        "en": "Unfortunately, it is wet and cold. I prefer to swim in summer."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "In de zomer is het warm. Maar vandaag is het nat.",
+        "en": "In summer it is warm. But today it is wet."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, het is nat. Gaan we naar het terras?",
+        "en": "Yes, it is wet. Shall we go to the terrace?"
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Goed idee! Op het terras is het gezellig.",
+        "en": "Good idea! It is cosy on the terrace."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En misschien regent het. Dan gaan we naar de bioscoop.",
+        "en": "And it may rain. Then we will go to the cinema."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Oké! Tot straks!",
+        "en": "Okay! See you later!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de zon",
+          "sun"
+        ],
+        [
+          "de regen",
+          "rain"
+        ],
+        [
+          "de sneeuw",
+          "snow"
+        ],
+        [
+          "de wind",
+          "wind"
+        ],
+        [
+          "het onweer",
+          "thunderstorm"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de lente",
+          "spring"
+        ],
+        [
+          "de zomer",
+          "summer"
+        ],
+        [
+          "de herfst",
+          "autumn"
+        ],
+        [
+          "de winter",
+          "winter"
+        ],
+        [
+          "het strand",
+          "beach"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "It is raining. Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Het regent.",
+        "De regen regent.",
+        "Het is regen."
+      ],
+      "answer": 0,
+      "explain": "Weather uses het + verb: Het regent."
+    },
+    {
+      "type": "choice",
+      "prompt": "It is snowing. Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Het sneeuwt.",
+        "De sneeuw sneeuwt.",
+        "Het is sneeuw."
+      ],
+      "answer": 0,
+      "explain": "Use het + verb for weather: Het sneeuwt."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which date is correct for 3 June?",
+      "nl": null,
+      "options": [
+        "op drie juni",
+        "op de drie juni",
+        "in drie juni"
+      ],
+      "answer": 0,
+      "explain": "Use op + number + month; only the first of the month uses de eerste."
+    },
+    {
+      "type": "article",
+      "word": "zon",
+      "en": "sun",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "weer",
+      "en": "weather",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "It is raining today.",
+      "answer": "Het regent vandaag.",
+      "accept": [
+        "Vandaag regent het."
+      ],
+      "extra": [
+        "is"
+      ],
+      "explain": "Use **het regent** for weather. The time word can come at the end or at the start: 'Het regent vandaag.' / 'Vandaag regent het.'"
+    },
+    {
+      "type": "build",
+      "en": "In the summer it is warm.",
+      "answer": "In de zomer is het warm.",
+      "accept": [
+        "Het is warm in de zomer."
+      ],
+      "extra": [
+        "op"
+      ],
+      "explain": "Use **in de** + season. After a time phrase, the verb comes second: 'In de zomer is het warm.'"
+    },
+    {
+      "type": "build",
+      "en": "The sun is shining.",
+      "answer": "De zon schijnt.",
+      "accept": [],
+      "extra": [
+        "regent",
+        "nat"
+      ],
+      "explain": "With **de zon** the verb gets -t: 'De zon schijnt.'"
+    },
+    {
+      "type": "gap",
+      "text": "Het ___ vandaag.",
+      "en": "It is raining today.",
+      "answers": [
+        "regent"
+      ],
+      "hint": "regenen (to rain)",
+      "explain": "Weather uses **het** + verb: 'Het regent vandaag.' The verb gets -t after het."
+    },
+    {
+      "type": "gap",
+      "text": "Wij gaan op drie ___ naar het strand.",
+      "en": "We are going to the beach on 3 June.",
+      "answers": [
+        "juni"
+      ],
+      "hint": "June",
+      "explain": "Months are not capitalised: **op drie juni** = on 3 June."
+    },
+    {
+      "type": "gap",
+      "text": "De zon ___.",
+      "en": "The sun is shining.",
+      "answers": [
+        "schijnt"
+      ],
+      "hint": "schijnen (to shine)",
+      "explain": "After **de zon**, the verb gets -t: 'De zon schijnt.'"
+    },
+    {
+      "type": "translate",
+      "en": "It is raining today.",
+      "answers": [
+        "Het regent vandaag.",
+        "Vandaag regent het."
+      ],
+      "focus": "Weather with het and the verb regenen.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses a noun instead of the verb with **het**: *Het is regen vandaag.",
+          "explain": "For weather, use **het regent** (verb), not 'het is regen': 'Het regent vandaag.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Drops the -t after **het**: *Het regen vandaag.",
+          "explain": "After **het**, the verb gets -t: 'Het regent vandaag.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Starts with **Vandaag** but keeps the subject before the verb: *Vandaag het regent.",
+          "explain": "If the sentence starts with **Vandaag**, the verb comes second: 'Vandaag regent het.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **de regen** as subject: *De regen regent vandaag.",
+          "explain": "Do not say 'de regen regent'; weather uses **het**: 'Het regent vandaag.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "In the summer it is warm.",
+      "answers": [
+        "In de zomer is het warm.",
+        "Het is warm in de zomer."
+      ],
+      "focus": "Seasons with in de; verb-second order.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **op** with a season: *Op de zomer is het warm.",
+          "explain": "Use **in de** + season: 'In de zomer is het warm.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Drops **de** before the season: *In zomer is het warm.",
+          "explain": "Seasons take **de**: 'in de zomer'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the subject before the verb after the time phrase: *In de zomer het is warm.",
+          "explain": "After **In de zomer**, the verb comes second: 'In de zomer is het warm.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "We are going to the beach on 3 June.",
+      "answers": [
+        "Wij gaan op drie juni naar het strand.",
+        "We gaan op drie juni naar het strand.",
+        "Op drie juni gaan wij naar het strand.",
+        "Op drie juni gaan we naar het strand."
+      ],
+      "focus": "Dates with op + number + month.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **in** for a specific date: *Wij gaan in drie juni naar het strand.",
+          "explain": "Use **op** for a date: 'op drie juni'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds **de** before the number: *op de drie juni.",
+          "explain": "Only the 1st uses **de eerste**: 'op drie juni' but 'de eerste juni'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Starts with the date but keeps the subject before the verb: *Op drie juni wij gaan naar het strand.",
+          "explain": "After a time phrase, the verb comes second: 'Op drie juni gaan wij naar het strand.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **de** with **strand**: *naar de strand.",
+          "explain": "It is **het strand**: 'naar het strand'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Het regent vandaag.",
+      "en": "It is raining today."
+    },
+    {
+      "type": "listen",
+      "nl": "In de winter is het koud.",
+      "en": "In winter it is cold."
+    },
+    {
+      "type": "reply",
+      "context": "Your friend asks about the weather in Scheveningen.",
+      "say": {
+        "nl": "Wat voor weer is het?",
+        "en": "What is the weather like?"
+      },
+      "task": "Say that it is cloudy and windy.",
+      "examples": [
+        "Het is bewolkt en het waait.",
+        "Het waait en het is bewolkt."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Omits **het** before the weather: *Is bewolkt en waait.",
+          "explain": "Dutch weather sentences need **het**: 'Het is bewolkt en het waait.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **zijn** before the verb **waaien**: *Het is waait.",
+          "explain": "Say **het waait**, not 'het is waait': 'Het waait.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds an adjective ending after **is**: *Het is bewolkte.",
+          "explain": "After **is**, the adjective has no -e: 'Het is bewolkt.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses the noun **wind** instead of the verb: *Het is wind.",
+          "explain": "For wind use **het waait**: 'Het waait.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You are at Scheveningen. Your friend suggests the beach, but it is raining.",
+      "say": {
+        "nl": "Zullen we naar het strand gaan?",
+        "en": "Shall we go to the beach?"
+      },
+      "task": "Say that it is raining and that you prefer to go to a terrace.",
+      "examples": [
+        "Het regent. Ik ga liever naar het terras.",
+        "Het regent. Ik ga liever naar een terras."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Says **Het is regent** instead of **Het regent**: *Het is regent.",
+          "explain": "Use **het regent**, not 'het is regent': 'Het regent.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts **liever** before the verb: *Ik liever ga naar het terras.",
+          "explain": "**liever** comes after the verb: 'Ik ga liever naar het terras.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **de** with **terras**: *naar de terras.",
+          "explain": "It is **het terras**: 'naar het terras'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **graag** where the task asks for a preference: *Ik ga graag naar het terras.",
+          "explain": "For 'rather/prefer', use **liever**: 'Ik ga liever naar het terras.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Naar het strand of naar het terras?",
+    "setting": "You are with a friend in Scheveningen. You want to decide what to do today.",
+    "partner": {
+      "name": "Lisa",
+      "gender": "f",
+      "role": "your friend"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Wat voor weer is het vandaag?",
+          "en": "What is the weather like today?"
+        },
+        "task": "Say that it is cloudy and windy.",
+        "examples": [
+          "Het is bewolkt en het waait.",
+          "Het waait en het is bewolkt."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits **het** before the weather: *Is bewolkt en waait.",
+            "explain": "Weather sentences need **het**: 'Het is bewolkt en het waait.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses **zijn** before the verb **waaien**: *Het is waait.",
+            "explain": "Say **het waait**, not 'het is waait': 'Het waait.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the noun **wind** instead of the verb: *Het is wind.",
+            "explain": "For wind use **het waait**: 'Het waait.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Is het koud?",
+          "en": "Is it cold?"
+        },
+        "task": "Say that it is not cold, but it is raining.",
+        "examples": [
+          "Het is niet koud, maar het regent.",
+          "Nee, het is niet koud. Het regent."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **geen** before an adjective: *Het is geen koud.",
+            "explain": "Use **niet** before adjectives: 'Het is niet koud.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Says **het is regent** instead of **het regent**: *Het is regent.",
+            "explain": "Say **het regent**, not 'het is regent': 'Het regent.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts **niet** after the adjective: *Het is koud niet.",
+            "explain": "Place **niet** before the adjective: 'Het is niet koud.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses **maar** with inversion: *maar regent het.",
+            "explain": "After **maar**, the subject comes before the verb: 'maar het regent.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Zullen we naar het strand gaan?",
+          "en": "Shall we go to the beach?"
+        },
+        "task": "Say that it is wet and that you prefer to go to a terrace.",
+        "examples": [
+          "Het is nat. Ik ga liever naar het terras.",
+          "Ik ga liever naar een terras. Het is nat."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **de** with **terras**: *naar de terras.",
+            "explain": "It is **het terras**: 'naar het terras'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts **liever** before the verb: *Ik liever ga naar het terras.",
+            "explain": "**liever** comes after the verb: 'Ik ga liever naar het terras.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Says **Het is regen** instead of **Het is nat**: *Het is regen.",
+            "explain": "For 'wet', use **nat**: 'Het is nat.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses **graag** instead of **liever**: *Ik ga graag naar het terras.",
+            "explain": "For 'rather/prefer', use **liever**: 'Ik ga liever naar het terras.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En in de zomer?",
+          "en": "And in summer?"
+        },
+        "task": "Say that in summer you like to swim.",
+        "examples": [
+          "In de zomer zwem ik graag.",
+          "Ik zwem graag in de zomer."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **op** with a season: *Op de zomer zwem ik graag.",
+            "explain": "Use **in de** + season: 'In de zomer zwem ik graag.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Starts with a time phrase but keeps the subject before the verb: *In de zomer ik zwem graag.",
+            "explain": "After **In de zomer**, the verb comes second: 'In de zomer zwem ik graag.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Drops **de** before the season: *In zomer zwem ik graag.",
+            "explain": "Seasons take **de**: 'in de zomer'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses **leuk** instead of **graag**: *Ik zwem leuk in de zomer.",
+            "explain": "Use **graag** for 'like to': 'Ik zwem graag in de zomer.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Oké, dan gaan we naar het terras.",
+      "en": "Okay, then we will go to the terrace."
+    }
+  },
+  "culture": {
+    "title": "Small talk about the weather",
+    "text": "In the Netherlands, the weather is a safe, friendly topic for small talk: at the bus stop, in a shop or with a neighbour, a short comment about the rain or the sun is normal. Rain is common in every season, so a raincoat or an umbrella is part of daily life. Many people cycle in the rain too, so you will often see waterproof jackets and bags."
+  },
+  "summary": [
+    "Use het + verb for weather: Het regent, Het sneeuwt, Het waait.",
+    "Use het is + adjective: Het is koud, Het is zonnig, Het is bewolkt.",
+    "Say dates with op + number + month: op drie juni; use de eerste mei for the 1st.",
+    "Use in de + season: in de lente, in de zomer, in de herfst, in de winter.",
+    "Months are not capitalised in Dutch: januari, februari, maart."
+  ]
+}

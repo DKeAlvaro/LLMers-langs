@@ -1,0 +1,739 @@
+{
+  "language": "nl",
+  "name": "Dutch",
+  "source": "en",
+  "levels": {
+    "A0": "First contact",
+    "A1": "Breakthrough",
+    "A2": "Waystage",
+    "A2+": "Strong waystage"
+  },
+  "units": [
+    {
+      "id": "u01",
+      "title": "Eerste woorden",
+      "subtitle": "First words",
+      "level": "A0",
+      "lessons": [
+        {
+          "id": "u01-l01",
+          "title": "Hallo!",
+          "subtitle": "Greetings and goodbyes",
+          "goals": ["Greet people at any time of day", "Say goodbye", "Ask and answer 'how are you?'"],
+          "grammar": ["Pronunciation basics: ui, ij/ei, oe, eu, g/ch, double vowels (aa, ee, oo, uu)", "Informal vs formal greetings (hoi vs goedemiddag)"],
+          "vocab": "greetings and goodbyes: hallo, hoi, goedemorgen, goedemiddag, goedenavond, welterusten, doei, tot ziens, tot straks, tot morgen; hoe gaat het, goed, prima, slecht, dank je, en met jou; ja, nee",
+          "scene": "Bumping into a neighbour in the morning in the stairwell of an apartment building",
+          "culture": "Dutch people greet briefly and directly; 'hoi' and 'doei' are everyday informal words"
+        },
+        {
+          "id": "u01-l02",
+          "title": "Ik ben Sanne",
+          "subtitle": "Introducing yourself",
+          "goals": ["Say your name", "Ask someone's name", "Say where you come from", "Choose between je and u"],
+          "grammar": ["Subject pronouns: ik, jij/je, u, hij, zij/ze, het, wij/we, jullie, zij/ze", "The verb zijn in the present: ik ben, jij bent, u bent, hij/zij is, wij zijn, jullie zijn, zij zijn", "Heten: ik heet, jij heet"],
+          "vocab": "names and origins: heten, zijn, komen uit, de naam, het land, Nederland, Spanje, Engeland, Duitsland, waar, wie, leuk je te ontmoeten, aangenaam, mevrouw, meneer",
+          "scene": "First day at a Dutch language class, introducing yourself to a classmate and to the teacher",
+          "culture": "Use 'u' with older strangers and officials, 'je/jij' with peers; many Dutch people switch to 'je' quickly"
+        },
+        {
+          "id": "u01-l03",
+          "title": "Een, twee, drie",
+          "subtitle": "Numbers 0-20 and your age",
+          "goals": ["Count from 0 to 20", "Say and ask your age", "Give your phone number"],
+          "grammar": ["Numbers 0-20 (nul to twintig)", "The verb hebben in the present: ik heb, jij hebt, u hebt/heeft, hij heeft, wij hebben", "Asking 'Hoe oud ben je?' / 'Ik ben ... jaar (oud)'"],
+          "vocab": "numbers nul to twintig, oud, jong, het jaar, het telefoonnummer, het nummer, hebben, hoeveel, wat",
+          "scene": "Filling in a sign-up card at a sports club, the receptionist asks your age and phone number",
+          "culture": "Dutch mobile numbers start with 06 and are read in pairs or single digits"
+        },
+        {
+          "id": "u01-l04",
+          "title": "Ik spreek een beetje Nederlands",
+          "subtitle": "Countries, languages and regular verbs",
+          "goals": ["Say which languages you speak", "Ask if someone speaks English", "Say where you live"],
+          "grammar": ["Present tense of regular verbs: stem (ik), stem+t (jij/u/hij/zij/het), infinitive (wij/jullie/zij)", "In questions with jij/je the -t drops: Spreek jij Engels?", "Yes/no questions start with the verb"],
+          "vocab": "languages and countries: spreken, wonen, leren, begrijpen, het Nederlands, het Engels, het Spaans, het Duits, het Frans, een beetje, goed, ook, maar, in, de stad, Amsterdam, Rotterdam, Utrecht, Eindhoven",
+          "scene": "At a party, a Dutch person starts speaking fast Dutch and you explain which languages you speak",
+          "culture": "Many Dutch people switch to English; saying 'Ik leer Nederlands, spreek alsjeblieft Nederlands' helps"
+        },
+        {
+          "id": "u01-l05",
+          "title": "Een koffie, graag",
+          "subtitle": "Ordering in a café",
+          "goals": ["Order a drink politely", "Say please and thank you", "Ask for the bill"],
+          "grammar": ["Articles: een (a/an), de and het (the); most nouns take de, small group takes het", "Polite ordering: Ik wil graag..., Mag ik...?, ... graag", "alstublieft vs alsjeblieft, dank u wel vs dank je wel"],
+          "vocab": "café: de koffie, de thee, het water, de melk, de suiker, het bier, de wijn, de jus d'orange, het glas, het kopje, de rekening, de ober, alstublieft, alsjeblieft, dank u wel, dank je wel, graag, met, zonder, mag ik, willen",
+          "scene": "Ordering at a café terrace in Utrecht, then asking for the bill",
+          "culture": "In the Netherlands you usually pay by card (pinnen); tipping is small and optional"
+        }
+      ]
+    },
+    {
+      "id": "u02",
+      "title": "Over mij",
+      "subtitle": "All about me",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u02-l01",
+          "title": "Mijn familie",
+          "subtitle": "Family and possessives",
+          "goals": ["Talk about your family", "Say who someone is", "Use my, your, his, her"],
+          "grammar": ["Possessive pronouns: mijn, jouw/je, uw, zijn, haar, ons/onze, jullie, hun", "ons with het-words, onze with de-words and plurals", "Hebben with family: Ik heb een broer"],
+          "vocab": "family: de familie, het gezin, de vader, de moeder, de ouders, de broer, de zus, de zoon, de dochter, het kind, de kinderen, de man, de vrouw, de vriend, de vriendin, de opa, de oma, getrouwd, alleen, samen",
+          "scene": "Showing family photos on your phone to a new colleague during the coffee break",
+          "culture": "The Dutch 'gezin' is the household; 'familie' is the wider family"
+        },
+        {
+          "id": "u02-l02",
+          "title": "Hoeveel kost het?",
+          "subtitle": "Numbers 20-100 and prices",
+          "goals": ["Count to 100", "Ask and understand prices", "Say amounts in euros"],
+          "grammar": ["Numbers 21-99 are said 'one-and-twenty': eenentwintig, tweeëntwintig", "Tens: dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd", "Prices: twee euro vijftig, Hoeveel kost...? / Wat kost...?"],
+          "vocab": "numbers twintig to honderd, kosten, de euro, de cent, duur, goedkoop, de prijs, betalen, contant, pinnen, het bonnetje, samen, totaal",
+          "scene": "Buying a few things at a small corner shop and paying at the till",
+          "culture": "Prices are written 2,50 with a comma; many shops do not accept cash"
+        },
+        {
+          "id": "u02-l03",
+          "title": "Wat doe je?",
+          "subtitle": "Work, study and spelling rules",
+          "goals": ["Say what you do for a living or study", "Ask someone about their job", "Conjugate verbs with spelling changes"],
+          "grammar": ["Spelling rules for the stem: wonen -> ik woon (open syllable keeps double vowel), zitten -> ik zit (no double consonant at end), leven -> ik leef (v->f), reizen -> ik reis (z->s)", "Stem ending in -t gets no extra t: ik zit, hij zit", "Werken als... / Ik studeer..."],
+          "vocab": "jobs and study: werken, studeren, doen, het werk, de baan, het bedrijf, het kantoor, de student, de leraar, de dokter, de verpleegkundige, de ingenieur, de kok, de programmeur, de winkel, de universiteit, de school, als, bij",
+          "scene": "Small talk at a neighbour's birthday party about what everyone does",
+          "culture": "Asking 'Wat doe jij?' about work is a normal opening question in Dutch small talk"
+        },
+        {
+          "id": "u02-l04",
+          "title": "Hoe laat is het?",
+          "subtitle": "Time, days and inversion",
+          "goals": ["Tell the time", "Name the days of the week", "Describe your daily routine"],
+          "grammar": ["Telling time: het is drie uur, kwart over drie, half vier (= 3:30), kwart voor vier, tien over half vier", "Verb-second rule: when a sentence starts with time, the verb comes second and the subject follows: Om acht uur werk ik.", "Days: maandag ... zondag; op maandag, 's ochtends, 's middags, 's avonds"],
+          "vocab": "time and days: het uur, de minuut, het kwartier, half, kwart, over, voor, laat, vroeg, vandaag, morgen, de dag, de week, maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag, 's ochtends, 's middags, 's avonds, 's nachts, opstaan, ontbijten, beginnen, eten, slapen",
+          "scene": "Planning a time to meet a friend after work and checking the clock",
+          "culture": "'Half vier' means 3:30, not 4:30 - the most common Dutch time mistake"
+        },
+        {
+          "id": "u02-l05",
+          "title": "Wie, wat, waar?",
+          "subtitle": "Asking questions",
+          "goals": ["Ask open questions", "Understand question words", "Keep a simple conversation going"],
+          "grammar": ["Question words: wie, wat, waar, wanneer, hoe, waarom, hoeveel, welk/welke, waar...vandaan", "Open questions: question word + verb + subject: Waar woon je?", "welk with het-words, welke with de-words and plurals"],
+          "vocab": "questions and answers: wie, wat, waar, wanneer, hoe, waarom, hoeveel, welk, welke, omdat, de vraag, het antwoord, vragen, antwoorden, weten, kennen, misschien, natuurlijk, echt",
+          "scene": "Interviewing a classmate for a short class presentation about them",
+          "culture": "Dutch conversation is direct: many questions in a row are not considered rude"
+        },
+        {
+          "id": "u02-l06",
+          "title": "Niet of geen?",
+          "subtitle": "Saying no",
+          "goals": ["Make negative sentences", "Choose between niet and geen", "Politely refuse something"],
+          "grammar": ["geen replaces een or no article before a noun: Ik heb geen auto, Ik drink geen koffie", "niet negates verbs, adjectives, names and the: Ik werk niet, Het is niet duur, Dat is niet de bus", "Position of niet: at the end of a simple sentence, before adjectives and prepositions: Ik woon niet in Amsterdam"],
+          "vocab": "negation and preferences: niet, geen, niemand, niets, nooit, nog niet, de auto, de fiets, het huisdier, de hond, de kat, roken, houden van, lekker, leuk, saai, moe, druk",
+          "scene": "A friendly questionnaire from a flatmate who wants to know your habits before you move in",
+          "culture": "A direct Dutch 'nee' is not rude; saying 'nee, dank je' is completely normal"
+        }
+      ]
+    },
+    {
+      "id": "u03",
+      "title": "Eten en boodschappen",
+      "subtitle": "Food and shopping",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u03-l01",
+          "title": "In de supermarkt",
+          "subtitle": "Groceries and plurals",
+          "goals": ["Name common groceries", "Ask where something is", "Make plurals"],
+          "grammar": ["Plurals with -en (het boek -> de boeken, de tomaat -> de tomaten) and with -s after unstressed -el, -er, -en, -em, -je (de tafel -> de tafels, de appel -> de appels)", "Spelling in plurals: de boon -> bonen, de kat -> katten", "All plurals take de: het brood -> de broden"],
+          "vocab": "groceries: de supermarkt, het brood, de kaas, de melk, het ei, de eieren, de appel, de banaan, de aardappel, de tomaat, de groente, het fruit, het vlees, de kip, de vis, de rijst, de pasta, de boter, de yoghurt, het pak, de fles, het blik, de kassa, de tas, zoeken, vinden, staan, liggen",
+          "scene": "Asking a shop assistant in the supermarket where the cheese and eggs are",
+          "culture": "Bring your own shopping bag; plastic bags cost extra"
+        },
+        {
+          "id": "u03-l02",
+          "title": "Op de markt",
+          "subtitle": "Quantities and big numbers",
+          "goals": ["Buy food in specific quantities", "Understand numbers up to 1000", "Handle 'anything else?'"],
+          "grammar": ["Quantities without 'of': een kilo appels, een pond kaas, twee stuks, een zak chips", "Numbers 100-1000: honderd, tweehonderd, duizend, honderdvijftig", "Anders nog iets? / Dat was het / Nee, dat is alles"],
+          "vocab": "market: de markt, de kraam, de kilo, het pond, het ons, het stuk, de zak, de doos, de bos bloemen, de aardbei, de druif, de peer, de ui, de wortel, vers, rijp, anders, nog, iets, alles, honderd, duizend, wegen, proeven",
+          "scene": "Buying fruit, vegetables and cheese at the Saturday market",
+          "culture": "A 'pond' is 500 grams and an 'ons' is 100 grams - still used at markets"
+        },
+        {
+          "id": "u03-l03",
+          "title": "Lekker!",
+          "subtitle": "Meals and likes",
+          "goals": ["Talk about meals", "Say what you like and dislike", "Describe Dutch food"],
+          "grammar": ["Expressing likes: Ik vind ... lekker / niet lekker, Ik hou van..., Ik eet graag...", "Object pronouns: me/mij, je/jou, u, hem, haar, het, ons, jullie, ze/hen", "Vind je het lekker? Ja, ik vind het lekker."],
+          "vocab": "meals and food: het ontbijt, de lunch, het avondeten, de boterham, de hagelslag, de pindakaas, de soep, de stamppot, de friet, de snack, de stroopwafel, het toetje, zoet, zout, zuur, bitter, warm, koud, gezond, vinden, houden van, proeven, honger, dorst",
+          "scene": "A Dutch colleague offers you typical Dutch lunch items at work",
+          "culture": "A Dutch lunch is often simple: bread with cheese, a glass of milk"
+        },
+        {
+          "id": "u03-l04",
+          "title": "In het restaurant",
+          "subtitle": "Restaurants and modal verbs",
+          "goals": ["Make a reservation", "Order a meal", "Ask for something politely"],
+          "grammar": ["Modal verbs in the present: kunnen (kan/kunt), willen (wil/wilt), mogen (mag), moeten (moet)", "Modal + infinitive at the end: Ik wil een tafel reserveren", "Mag ik bestellen? / Kunt u...?"],
+          "vocab": "restaurant: het restaurant, de tafel, reserveren, bestellen, de kaart, het menu, het voorgerecht, het hoofdgerecht, het nagerecht, de saus, vegetarisch, de ober, de serveerster, kunnen, willen, mogen, moeten, voor twee personen, buiten, binnen, de fooi",
+          "scene": "Calling a restaurant to reserve a table, then ordering dinner",
+          "culture": "Dinner in the Netherlands is often early, around 18:00"
+        },
+        {
+          "id": "u03-l05",
+          "title": "Samen koken",
+          "subtitle": "Cooking and the imperative",
+          "goals": ["Follow a simple recipe", "Give instructions", "Describe food with adjectives"],
+          "grammar": ["Imperative = stem: Snijd de ui. Kook het water. Doe het in de pan.", "Polite imperative with u: Komt u binnen. / Neem een stoel.", "Adjectives after the verb take no ending: De soep is heet."],
+          "vocab": "cooking: koken, snijden, bakken, roeren, toevoegen, wassen, doen, nemen, de pan, de oven, het mes, de lepel, de vork, het bord, de kom, het recept, de minuut, heet, klaar, eerst, dan, daarna, tot slot, het zout, de peper, de olie",
+          "scene": "Cooking pancakes (pannenkoeken) with a Dutch friend who gives instructions",
+          "culture": "Pannenkoeken are eaten for dinner, often with stroop or bacon"
+        }
+      ]
+    },
+    {
+      "id": "u04",
+      "title": "Thuis en in de stad",
+      "subtitle": "Home and town",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u04-l01",
+          "title": "Mijn huis",
+          "subtitle": "Rooms, furniture and prepositions",
+          "goals": ["Describe your home", "Say where things are", "Use er is and er zijn"],
+          "grammar": ["Er is (singular) / Er zijn (plural): Er is een keuken. Er zijn twee slaapkamers.", "Prepositions of place: in, op, onder, naast, achter, voor, tussen, boven, bij", "Staan, liggen, zitten, hangen for position"],
+          "vocab": "home: het huis, het appartement, de kamer, de woonkamer, de slaapkamer, de keuken, de badkamer, het toilet, de tuin, het balkon, de trap, de deur, het raam, de tafel, de stoel, de bank, het bed, de kast, de lamp, de muur, de vloer, hangen, staan, liggen, groot, klein",
+          "scene": "Giving a video tour of your new apartment to a friend",
+          "culture": "Dutch stairs are famously steep and narrow; many houses have no curtains on the front windows"
+        },
+        {
+          "id": "u04-l02",
+          "title": "Een groot huis",
+          "subtitle": "Adjective endings and colours",
+          "goals": ["Describe things with adjectives", "Name colours", "Add -e to adjectives correctly"],
+          "grammar": ["Adjective before a noun gets -e: de grote tafel, het grote huis, grote huizen", "Exception: no -e with een + het-word: een groot huis (but een grote tafel)", "Spelling: groot -> grote, wit -> witte, lief -> lieve"],
+          "vocab": "colours and adjectives: rood, oranje, geel, groen, blauw, paars, roze, bruin, zwart, wit, grijs, licht, donker, mooi, lelijk, nieuw, oud, schoon, vies, duur, goedkoop, lang, kort, breed, smal, de kleur",
+          "scene": "Shopping for furniture in a second-hand store and describing what you want",
+          "culture": "Orange is the national colour because of the royal House of Orange"
+        },
+        {
+          "id": "u04-l03",
+          "title": "Waar is het station?",
+          "subtitle": "Asking for directions",
+          "goals": ["Ask for directions", "Understand simple directions", "Use ordinal numbers"],
+          "grammar": ["Directions: rechtdoor, linksaf, rechtsaf, de eerste straat links, aan de rechterkant", "Ordinal numbers: eerste, tweede, derde, vierde, vijfde ... tiende, twintigste", "Imperative in directions: Ga rechtdoor. Neem de tweede straat rechts."],
+          "vocab": "directions: de weg, de straat, de hoek, het kruispunt, het stoplicht, de brug, het plein, de rotonde, links, rechts, rechtdoor, linksaf, rechtsaf, oversteken, ver, dichtbij, hier, daar, eerste, tweede, derde, de kaart, lopen, zoeken, vinden",
+          "scene": "Lost in Delft, asking a passer-by how to get to the train station",
+          "culture": "Watch out for bike lanes (red asphalt) when you walk - cyclists have priority there"
+        },
+        {
+          "id": "u04-l04",
+          "title": "In de stad",
+          "subtitle": "Places and opening hours",
+          "goals": ["Name places in town", "Ask about opening hours", "Say where you are going"],
+          "grammar": ["naar (to a place) vs in (in a place) vs bij (at someone's place/shop): Ik ga naar de bakker. Ik ben bij de bakker.", "Opening times: van negen tot vijf, Hoe laat gaat ... open/dicht?", "Gaan + place: Ik ga naar de bibliotheek."],
+          "vocab": "town: de stad, het centrum, het station, de bibliotheek, het gemeentehuis, de apotheek, de bakker, de slager, de drogist, het postkantoor, de bank, het park, het museum, de bioscoop, het ziekenhuis, open, dicht, gesloten, de openingstijden, tot, vanaf, gaan, kopen, halen",
+          "scene": "Running errands on a Saturday: bakery, pharmacy, library, all with different opening hours",
+          "culture": "Many shops close at 18:00 and open later on Sundays; one evening a week is 'koopavond'"
+        },
+        {
+          "id": "u04-l05",
+          "title": "Met de trein",
+          "subtitle": "Transport and separable verbs",
+          "goals": ["Buy a ticket", "Talk about transport", "Use separable verbs"],
+          "grammar": ["Separable verbs split in the present: instappen -> Ik stap in. aankomen -> De trein komt om tien uur aan.", "The prefix goes to the end of the clause: Ik stap in Utrecht over.", "With a modal the verb stays together at the end: Je moet in Utrecht overstappen."],
+          "vocab": "transport: de trein, de bus, de tram, de metro, de fiets, de auto, het perron, het spoor, de halte, het kaartje, de ov-chipkaart, inchecken, uitchecken, instappen, uitstappen, overstappen, aankomen, vertrekken, de vertraging, enkele reis, retour, de conducteur, op tijd, te laat",
+          "scene": "At the ticket machine and then on the platform at Utrecht Centraal, asking about a transfer",
+          "culture": "You check in and out with your bank card or ov-chipkaart; forgetting to check out costs money"
+        },
+        {
+          "id": "u04-l06",
+          "title": "Op de fiets",
+          "subtitle": "Bikes and plans with gaan",
+          "goals": ["Talk about cycling", "Talk about plans with gaan", "Use more separable verbs"],
+          "grammar": ["Near future with gaan + infinitive at the end: Ik ga morgen fietsen.", "Separable verbs with gaan: Ik ga om acht uur opstaan.", "Common separable verbs: opstaan, meenemen, ophalen, opbellen, terugkomen"],
+          "vocab": "cycling: de fiets, het fietspad, de band, het slot, de lamp, de bel, fietsen, stallen, repareren, lek, kapot, de fietsenmaker, de fietsenstalling, de helm, de regen, de wind, meenemen, ophalen, opbellen, terugkomen, morgen, straks, volgende week",
+          "scene": "Your bike has a flat tyre; you take it to a bike repair shop and plan when to pick it up",
+          "culture": "There are more bikes than people in the Netherlands; always use two locks"
+        }
+      ]
+    },
+    {
+      "id": "u05",
+      "title": "Vrije tijd",
+      "subtitle": "Free time",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u05-l01",
+          "title": "Mijn hobby's",
+          "subtitle": "Hobbies and preferences",
+          "goals": ["Talk about your hobbies", "Say what you like more or most", "Ask about someone's free time"],
+          "grammar": ["graag, liever, het liefst: Ik lees graag. Ik zwem liever. Ik fiets het liefst.", "Houden van + noun / van + infinitive: Ik hou van muziek. Ik hou van koken.", "Hoe vaak? - elke dag, één keer per week, soms, nooit"],
+          "vocab": "hobbies: de hobby, de vrije tijd, het weekend, lezen, zwemmen, sporten, voetballen, hardlopen, wandelen, dansen, zingen, schilderen, gamen, tekenen, muziek luisteren, de film, het boek, het spel, de club, het lid, keer, elke, soms, vaak, nooit, altijd",
+          "scene": "Signing up at a community centre and talking about hobbies with the coordinator",
+          "culture": "Many Dutch people are members of a 'vereniging' (club) for sports or hobbies"
+        },
+        {
+          "id": "u05-l02",
+          "title": "Zullen we afspreken?",
+          "subtitle": "Making plans with friends",
+          "goals": ["Suggest an activity", "Accept or decline politely", "Agree on a time and place"],
+          "grammar": ["Suggestions: Zullen we...? Heb je zin om te...? Zin in een biertje?", "Om ... te + infinitive after zin hebben: Heb je zin om te zwemmen?", "Responding: Goed idee! / Leuk! / Helaas kan ik niet, want..."],
+          "vocab": "plans: afspreken, de afspraak, zin hebben, het idee, leuk, gezellig, helaas, druk, vrij, kunnen, zullen, uitnodigen, langskomen, het feest, het terras, de bioscoop, het concert, samen, wanneer, hoe laat, waar, ontmoeten",
+          "scene": "Texting and then calling a friend to plan a Saturday afternoon out",
+          "culture": "The Dutch plan social events in their agenda, often weeks ahead"
+        },
+        {
+          "id": "u05-l03",
+          "title": "Wat voor weer is het?",
+          "subtitle": "Weather, months and dates",
+          "goals": ["Talk about the weather", "Name months and seasons", "Say dates"],
+          "grammar": ["Weather with het: het regent, het sneeuwt, het waait, het is koud", "Dates: de eerste mei, op drie juni, in januari", "Seasons: in de lente, in de zomer, in de herfst, in de winter"],
+          "vocab": "weather: het weer, de zon, de regen, de wind, de sneeuw, de wolk, het onweer, de graad, regenen, sneeuwen, waaien, schijnen, zonnig, bewolkt, nat, droog, warm, koud, lekker weer, de lente, de zomer, de herfst, de winter, januari, februari, maart, april, mei, juni, juli, augustus, september, oktober, november, december",
+          "scene": "Deciding with a friend whether to go to the beach in Scheveningen based on the weather forecast",
+          "culture": "Talking about the weather is the safest small-talk topic; rain gear is essential"
+        },
+        {
+          "id": "u05-l04",
+          "title": "Mag ik dit passen?",
+          "subtitle": "Clothes and demonstratives",
+          "goals": ["Shop for clothes", "Ask for another size or colour", "Compare two items"],
+          "grammar": ["Demonstratives: deze/die with de-words and plurals, dit/dat with het-words", "Comparatives: groter dan, mooier dan, duurder dan; beter, meer, liever", "Bevallen / staan: Die jas staat je goed."],
+          "vocab": "clothes: de kleren, de kleding, de broek, het shirt, de trui, de jas, de jurk, de rok, de schoen, de sok, de muts, de sjaal, de maat, de paskamer, passen, staan, kosten, te groot, te klein, deze, die, dit, dat, de korting, de uitverkoop",
+          "scene": "Trying on a winter coat in a clothing store and asking for another size",
+          "culture": "Dutch sizes run long; returns are common within 14-30 days with a receipt"
+        },
+        {
+          "id": "u05-l05",
+          "title": "Gefeliciteerd!",
+          "subtitle": "Parties, holidays and diminutives",
+          "goals": ["Congratulate someone", "Talk about Dutch celebrations", "Use diminutives"],
+          "grammar": ["Diminutives: -je (huisje), -tje (vrouwtje), -pje (boompje), -etje (balletje); all diminutives are het-words", "Congratulations: Gefeliciteerd met je verjaardag! Van harte!", "Dates of holidays: op 27 april is het Koningsdag"],
+          "vocab": "celebrations: de verjaardag, het feest, het cadeau, de taart, de kaars, de gast, vieren, feliciteren, gefeliciteerd, Koningsdag, Sinterklaas, Kerstmis, Oud en Nieuw, Pasen, de vakantie, het snoepje, het kopje, het biertje, het stukje, het hapje, het drankje, versieren",
+          "scene": "A Dutch birthday party where you congratulate the host and the whole family sitting in a circle",
+          "culture": "At Dutch birthdays you congratulate everyone: 'Gefeliciteerd met je zoon!'"
+        }
+      ]
+    },
+    {
+      "id": "u06",
+      "title": "Gezondheid",
+      "subtitle": "Health and feelings",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u06-l01",
+          "title": "Mijn hoofd doet pijn",
+          "subtitle": "Body parts and pain",
+          "goals": ["Name body parts", "Say where it hurts", "Ask how someone feels"],
+          "grammar": ["Pain: Mijn hoofd doet pijn. / Ik heb pijn in mijn rug. / Ik heb hoofdpijn.", "Plurals of body parts: het oog -> de ogen, de hand -> de handen, de voet -> de voeten", "Wat is er? / Wat scheelt eraan?"],
+          "vocab": "body: het lichaam, het hoofd, het haar, het oog, het oor, de neus, de mond, de tand, de keel, de nek, de schouder, de arm, de hand, de vinger, de buik, de rug, het been, de knie, de voet, de pijn, de hoofdpijn, de buikpijn, de keelpijn, pijn doen, ziek, beter",
+          "scene": "Telling a friend why you can't come to football practice",
+          "culture": "The Dutch often advise rest and paracetamol before seeing a doctor"
+        },
+        {
+          "id": "u06-l02",
+          "title": "Bij de huisarts",
+          "subtitle": "At the doctor's",
+          "goals": ["Make a doctor's appointment", "Describe symptoms", "Understand simple advice"],
+          "grammar": ["Duration: Ik ben al drie dagen ziek. / Sinds maandag.", "al, nog, pas, nog niet: Ik heb al koorts. Ik ben nog ziek. Ik ben pas sinds gisteren ziek.", "Moeten for advice: U moet veel drinken."],
+          "vocab": "doctor: de huisarts, de dokter, de assistente, de afspraak, het spreekuur, de klacht, de koorts, de hoest, verkouden, de griep, misselijk, duizelig, moe, sinds, al, nog, pas, rusten, drinken, onderzoeken, het recept, het medicijn, de pil, voorschrijven, de verzekering",
+          "scene": "Calling the GP practice for an appointment and then talking to the doctor",
+          "culture": "You must register with a huisarts; the assistant on the phone asks about your symptoms first"
+        },
+        {
+          "id": "u06-l03",
+          "title": "Bij de apotheek",
+          "subtitle": "Medicine and instructions",
+          "goals": ["Pick up medicine", "Understand dosage instructions", "Ask questions about medicine"],
+          "grammar": ["Frequency: twee keer per dag, elke ochtend, na het eten, voor het slapen", "Mogen/moeten/hoeven in instructions: U mag geen alcohol drinken. U hoeft niet...", "Questions with kunnen: Kan ik dit met eten innemen?"],
+          "vocab": "pharmacy: de apotheek, de apotheker, de drogist, de tablet, de pil, de druppels, de zalf, de pleister, de crème, de bijwerking, innemen, slikken, smeren, per dag, keer, voor, na, het eten, de maag, de allergie, allergisch, de verzekeringspas, ophalen",
+          "scene": "Picking up a prescription at the pharmacy and asking how to take it",
+          "culture": "A 'drogist' (like Kruidvat or Etos) sells simple medicine; an 'apotheek' handles prescriptions"
+        },
+        {
+          "id": "u06-l04",
+          "title": "Hoe voel je je?",
+          "subtitle": "Feelings and reflexive verbs",
+          "goals": ["Say how you feel", "Ask about someone's feelings", "Use reflexive verbs"],
+          "grammar": ["Reflexive pronouns: me, je, zich, ons, je, zich", "Reflexive verbs: zich voelen, zich vervelen, zich haasten, zich zorgen maken, zich verheugen op", "Ik voel me goed. Hij verveelt zich."],
+          "vocab": "feelings: het gevoel, blij, verdrietig, boos, bang, zenuwachtig, rustig, moe, eenzaam, trots, verliefd, jaloers, tevreden, gestrest, zich voelen, zich vervelen, zich haasten, zich zorgen maken, zich verheugen, zich herinneren, huilen, lachen, omdat",
+          "scene": "A friend notices you look stressed before an exam and asks how you are",
+          "culture": "The Dutch value 'gewoon doen' - acting normal - and talk fairly openly about stress"
+        },
+        {
+          "id": "u06-l05",
+          "title": "Gezond leven",
+          "subtitle": "Healthy habits and comparisons",
+          "goals": ["Talk about healthy habits", "Compare things", "Say what is best"],
+          "grammar": ["Comparative -er and superlative -st: gezond, gezonder, het gezondst", "Irregular: goed - beter - best, veel - meer - meest, graag - liever - liefst, weinig - minder - minst", "Even ... als (as ... as): Fietsen is even gezond als zwemmen."],
+          "vocab": "health: gezond, ongezond, de sport, bewegen, slapen, de slaap, het gewicht, afvallen, aankomen, de groente, het suiker, het vet, de alcohol, roken, stoppen, de stress, ontspannen, het voornemen, meer, minder, beter, best, slechter, genoeg, te veel",
+          "scene": "Comparing healthy and unhealthy habits with a friend who wants to start running",
+          "culture": "Cycling to work and school is a normal daily workout for the Dutch"
+        }
+      ]
+    },
+    {
+      "id": "u07",
+      "title": "Het verleden",
+      "subtitle": "Talking about the past",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "u07-l01",
+          "title": "Wat heb je gedaan?",
+          "subtitle": "The perfect tense with hebben",
+          "goals": ["Say what you did", "Form regular past participles", "Ask what someone did"],
+          "grammar": ["Perfect tense: hebben + past participle at the end: Ik heb gewerkt.", "Regular participle: ge + stem + t or d. Use t if the stem ends in t, k, f, s, ch, p ('t kofschip); otherwise d: gewerkt, gewoond, gespeeld", "Stems already ending in t or d get nothing extra: praten -> gepraat, branden -> gebrand. Look at the infinitive for v/z: leven -> geleefd, reizen -> gereisd"],
+          "vocab": "past activities: werken, spelen, maken, koken, wonen, praten, betalen, bellen, wachten, luisteren, kijken, fietsen, poetsen, opruimen, de was, gisteren, gisteravond, vorige week, vanochtend, net, al, nog niet, de afwas, het huiswerk, boodschappen doen",
+          "scene": "On Monday at work, a colleague asks what you did during the weekend",
+          "culture": "On Monday mornings the Dutch ask 'Hoe was je weekend?' - give a short real answer"
+        },
+        {
+          "id": "u07-l02",
+          "title": "Ik ben naar Parijs gegaan",
+          "subtitle": "The perfect tense with zijn",
+          "goals": ["Use zijn as auxiliary", "Talk about trips and movement", "Tell what happened"],
+          "grammar": ["Zijn + participle with verbs of change of place or state: gaan (gegaan), komen (gekomen), blijven (gebleven), worden (geworden), vertrekken, verhuizen, beginnen, stoppen", "Ik ben naar huis gegaan. Hij is ziek geworden.", "Movement with direction uses zijn; movement as activity can use hebben: Ik heb gefietst / Ik ben naar Utrecht gefietst."],
+          "vocab": "movement and change: gaan, komen, blijven, worden, vertrekken, aankomen, verhuizen, beginnen, stoppen, vallen, gebeuren, lopen, rijden, vliegen, terugkomen, thuis, naar huis, onderweg, het vliegtuig, de reis, eergisteren, vorig jaar, vorige maand",
+          "scene": "Telling a friend about a weekend trip to Paris and getting back late",
+          "culture": "Many Dutch people take short city trips to nearby countries by train"
+        },
+        {
+          "id": "u07-l03",
+          "title": "Gegeten en gedronken",
+          "subtitle": "Irregular past participles",
+          "goals": ["Use common irregular participles", "Talk about what you ate, saw and read", "Ask 'have you ever...?'"],
+          "grammar": ["Common irregular participles: eten - gegeten, drinken - gedronken, zien - gezien, lezen - gelezen, schrijven - geschreven, nemen - genomen, geven - gegeven, vinden - gevonden, zijn - geweest, hebben - gehad, doen - gedaan, kopen - gekocht, denken - gedacht, brengen - gebracht", "Have you ever: Heb je ooit... ? / Ben je ooit in ... geweest?", "Nog nooit: Ik heb nog nooit haring gegeten."],
+          "vocab": "irregular verbs and experiences: eten, drinken, zien, lezen, schrijven, nemen, geven, vinden, kopen, denken, brengen, zoeken, krijgen, beginnen, vergeten, ooit, nog nooit, al eens, de haring, de ervaring, de brief, het bericht, de serie",
+          "scene": "A game of 'Have you ever...?' with new friends at a borrel",
+          "culture": "Eating raw herring with onions at a fish stand is a Dutch rite of passage"
+        },
+        {
+          "id": "u07-l04",
+          "title": "Mijn weekend",
+          "subtitle": "Telling a story in the perfect",
+          "goals": ["Tell a short story in the past", "Use separable verbs in the perfect", "Use verbs with be-, ver-, ont-"],
+          "grammar": ["Separable verbs: ge goes between prefix and verb: opgebeld, aangekomen, meegenomen, opgestaan", "No ge- with prefixes be-, ge-, her-, ont-, er-, ver-: betaald, vergeten, ontmoet, herhaald", "Story order: eerst, daarna, toen, later, uiteindelijk - with verb second: Daarna zijn we naar huis gegaan."],
+          "vocab": "storytelling: opstaan, opbellen, meenemen, aankomen, uitgaan, ophalen, betalen, bezoeken, vergeten, verliezen, ontmoeten, vertellen, herhalen, eerst, daarna, toen, later, uiteindelijk, plotseling, gelukkig, jammer, de zaterdag, de avond, het etentje",
+          "scene": "Telling your language buddy about a weekend that went slightly wrong",
+          "culture": "A 'borrel' is a casual drink with friends or colleagues, often on Friday"
+        },
+        {
+          "id": "u07-l05",
+          "title": "Vroeger",
+          "subtitle": "The simple past (regular)",
+          "goals": ["Talk about your childhood", "Use was/waren and had/hadden", "Form the regular simple past"],
+          "grammar": ["Simple past of zijn: was/waren; hebben: had/hadden", "Regular simple past: stem + te(n) for 't kofschip stems (werkte, werkten), stem + de(n) otherwise (woonde, woonden)", "Use the simple past for habits and descriptions in the past: Vroeger woonde ik in Madrid."],
+          "vocab": "childhood: vroeger, toen, de jeugd, het kind, de basisschool, de leraar, de juf, de meester, het speelgoed, de buurt, het dorp, de stad, spelen, wonen, werken, leren, verhuizen, hebben, zijn, elke zomer, altijd, nooit, vaak, als kind",
+          "scene": "Looking at old photos with your grandmother-in-law who tells you about her childhood",
+          "culture": "Primary school teachers are called 'juf' (female) and 'meester' (male)"
+        },
+        {
+          "id": "u07-l06",
+          "title": "Toen ging ik...",
+          "subtitle": "Irregular simple past and choosing tenses",
+          "goals": ["Use the most common irregular simple pasts", "Choose between perfect and simple past", "Retell an event"],
+          "grammar": ["Irregular simple past: ging/gingen, kwam/kwamen, zag/zagen, at/aten, dronk/dronken, nam/namen, gaf/gaven, kon/konden, wilde/wilden, moest/moesten, mocht/mochten, deed/deden, wist/wisten, vond/vonden", "Perfect for single completed events and starting a story; simple past for background and for continuing the story", "Toen (then, at that moment) + verb second"],
+          "vocab": "events: gaan, komen, zien, eten, drinken, nemen, geven, kunnen, willen, moeten, mogen, doen, weten, vinden, staan, zitten, liggen, roepen, het ongeluk, de politie, het verhaal, toen, terwijl, opeens",
+          "scene": "Telling a colleague what happened when you saw a small bike accident on the way to work",
+          "culture": "Dutch news and stories often switch from perfect to simple past - you will hear both"
+        }
+      ]
+    },
+    {
+      "id": "u08",
+      "title": "Werk en studie",
+      "subtitle": "Work and study",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "u08-l01",
+          "title": "Mijn werk",
+          "subtitle": "Work and giving reasons",
+          "goals": ["Describe your job and workplace", "Give reasons with want and omdat", "Talk about working hours"],
+          "grammar": ["want keeps normal word order: Ik ben moe, want ik werk veel.", "omdat sends the verb to the end: Ik ben moe, omdat ik veel werk.", "en, maar, of, want, dus keep the main-clause order"],
+          "vocab": "work: de collega, de baas, de manager, de klant, de vergadering, het project, de taak, het rooster, de dienst, fulltime, parttime, thuiswerken, verdienen, het salaris, de pauze, de werkdag, druk, rustig, belangrijk, moeilijk, makkelijk, want, omdat, dus, maar",
+          "scene": "Explaining your job to a new neighbour and why you sometimes work from home",
+          "culture": "Part-time work is very common in the Netherlands, also for men"
+        },
+        {
+          "id": "u08-l02",
+          "title": "Ik solliciteer",
+          "subtitle": "Applying for a job",
+          "goals": ["Talk about experience and skills", "Answer basic interview questions", "Talk about how long you have done something"],
+          "grammar": ["Duration with al: Ik werk al vijf jaar als kok. (present for ongoing situations)", "Perfect with duration: Ik heb drie jaar in Berlijn gewerkt.", "Kunnen for skills: Ik kan goed plannen."],
+          "vocab": "applying: solliciteren, de sollicitatie, het sollicitatiegesprek, de vacature, het cv, de ervaring, de opleiding, het diploma, de cursus, de vaardigheid, het contract, de proeftijd, aannemen, ontslaan, zoeken, de werkgever, de werknemer, sterk, zwak, flexibel, zelfstandig, het team, samenwerken",
+          "scene": "A short job interview for a part-time job at a café",
+          "culture": "Dutch interviews are informal and direct; it's normal to ask about salary"
+        },
+        {
+          "id": "u08-l03",
+          "title": "Beste meneer De Vries",
+          "subtitle": "Emails and polite requests",
+          "goals": ["Write a short formal email", "Make polite requests", "Use zou/zouden"],
+          "grammar": ["Polite conditional: Zou u ... kunnen? / Ik zou graag ... willen.", "Formal email: Beste meneer De Vries, / Geachte heer/mevrouw, ... Met vriendelijke groet,", "Informal email: Hoi Lisa, ... Groetjes,"],
+          "vocab": "emails: de e-mail, het bericht, de bijlage, het onderwerp, sturen, versturen, ontvangen, antwoorden, reageren, vragen, beste, geachte, met vriendelijke groet, groetjes, alvast bedankt, graag, de informatie, het formulier, de datum, verzetten, afzeggen, bevestigen",
+          "scene": "Emailing your manager to move a meeting and then a friendly message to a colleague",
+          "culture": "Dutch emails get to the point quickly after a short greeting"
+        },
+        {
+          "id": "u08-l04",
+          "title": "Ik denk dat...",
+          "subtitle": "Subordinate clauses",
+          "goals": ["Say what you think", "Connect sentences with dat, als, wanneer, terwijl", "Put the verb at the end of a subordinate clause"],
+          "grammar": ["Subordinating conjunctions send all verbs to the end: dat, als, wanneer, omdat, terwijl, voordat, nadat, zodat, hoewel, of (whether)", "Ik denk dat hij morgen komt. / Ik weet niet of ze thuis is.", "When the subordinate clause comes first, the main clause starts with the verb: Als het regent, blijf ik thuis."],
+          "vocab": "opinions and conditions: denken, geloven, hopen, weten, zeggen, vinden, merken, dat, als, wanneer, terwijl, voordat, nadat, zodat, hoewel, of, zeker, waarschijnlijk, misschien, eigenlijk, de deadline, op tijd, klaar, vergeten",
+          "scene": "Talking with a colleague about whether a project will be finished before the deadline",
+          "culture": "Dutch planning culture: a deadline ('deadline') is taken seriously"
+        },
+        {
+          "id": "u08-l05",
+          "title": "Om Nederlands te leren",
+          "subtitle": "Learning and te + infinitive",
+          "goals": ["Talk about learning Dutch", "Express a purpose with om ... te", "Use verbs followed by te"],
+          "grammar": ["Purpose: om ... te + infinitive at the end: Ik leer Nederlands om hier te werken.", "Verbs with te: proberen te, beginnen te, vergeten te, hopen te, van plan zijn om te", "No te after modal verbs: Ik wil leren (not: wil te leren)"],
+          "vocab": "learning: leren, studeren, oefenen, herhalen, onthouden, vergeten, proberen, beginnen, de les, de cursus, de docent, het examen, de toets, het inburgeringsexamen, de taal, de uitspraak, de grammatica, het woord, de zin, het woordenboek, de fout, verbeteren, slagen, zakken",
+          "scene": "Telling the teacher at a language school intake why you want to learn Dutch",
+          "culture": "Many newcomers take the inburgering exam; A2 is the classic level, B1 for newer rules"
+        }
+      ]
+    },
+    {
+      "id": "u09",
+      "title": "Wonen",
+      "subtitle": "Living in the Netherlands",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "u09-l01",
+          "title": "Een huis huren",
+          "subtitle": "Renting a place",
+          "goals": ["Understand a rental ad", "Ask questions about a room or apartment", "Talk about costs"],
+          "grammar": ["Questions about conditions: Is het inclusief gas, water en licht? Hoeveel is de borg?", "Indirect questions with of and question words (verb at end): Weet u of het appartement nog vrij is? Kunt u zeggen wanneer ik kan komen kijken?", "Numbers in rent: 950 euro per maand"],
+          "vocab": "renting: huren, verhuren, de huur, de huurder, de verhuurder, de borg, de makelaar, de advertentie, het contract, gemeubileerd, ongemeubileerd, de servicekosten, inclusief, exclusief, de bezichtiging, beschikbaar, per maand, de vierkante meter, de buurt, rustig, de verdieping, de lift, de berging",
+          "scene": "Calling about a rental ad and visiting the apartment with the landlord",
+          "culture": "Housing is scarce; be fast and ask for a written contract"
+        },
+        {
+          "id": "u09-l02",
+          "title": "Naar de gemeente",
+          "subtitle": "The town hall and official tasks",
+          "goals": ["Register at the municipality", "Make an official appointment", "Understand forms"],
+          "grammar": ["Formal requests: Ik wil me graag inschrijven. Ik heb een afspraak nodig.", "Nodig hebben: Wat heb ik nodig? U heeft een paspoort nodig.", "Forms: vul ... in, onderteken, voornaam, achternaam, geboortedatum"],
+          "vocab": "municipality: de gemeente, het gemeentehuis, de balie, het loket, de ambtenaar, zich inschrijven, het BSN, de DigiD, het paspoort, het identiteitsbewijs, de verblijfsvergunning, het formulier, invullen, ondertekenen, de handtekening, de voornaam, de achternaam, de geboortedatum, het adres, de postcode, nodig hebben, het nummertje",
+          "scene": "Registering your new address at the town hall counter",
+          "culture": "Your BSN (citizen service number) is needed for work, health insurance and the bank"
+        },
+        {
+          "id": "u09-l03",
+          "title": "De verwarming is kapot",
+          "subtitle": "Problems at home and er + preposition",
+          "goals": ["Report a problem in your home", "Talk to neighbours about issues", "Use er/daar/waar + preposition"],
+          "grammar": ["Er + preposition replaces it/that + preposition for things: Ik denk erover na. Ik heb er geen zin in.", "Waar + preposition in questions: Waarmee? Waarover? Waarvoor?", "Daar + preposition for emphasis: Daar heb ik geen tijd voor."],
+          "vocab": "home problems: de verwarming, de kraan, de douche, het lek, de lekkage, de stroom, het licht, de buren, het lawaai, de klacht, de reparatie, de monteur, de huisbaas, kapot, lekken, repareren, maken, klagen, bellen, het probleem, de oplossing, zo snel mogelijk, waarmee, waarover, ervoor, ermee",
+          "scene": "Calling your landlord in winter because the heating doesn't work",
+          "culture": "The landlord handles big repairs; you handle small ones, as written in the contract"
+        },
+        {
+          "id": "u09-l04",
+          "title": "Afval en buren",
+          "subtitle": "Rules, waste and obligations",
+          "goals": ["Understand house and neighbourhood rules", "Talk about recycling", "Express obligation and no obligation"],
+          "grammar": ["moeten vs hoeven (niet/geen) ... te: Je moet het glas scheiden. Je hoeft niet te betalen.", "Mogen niet: Je mag hier niet parkeren.", "Het is verboden om ... te ..."],
+          "vocab": "waste and rules: het afval, de vuilnisbak, de container, de glasbak, het papier, het plastic, het gft, scheiden, weggooien, ophalen, de vuilniszak, de regel, verboden, toegestaan, de buurt, de buurman, de buurvrouw, de overlast, parkeren, het lawaai, na tien uur, hoeven, mogen",
+          "scene": "Your new neighbour explains the bin schedule and the house rules of the building",
+          "culture": "Waste is separated: paper, glass, plastic and gft (vegetable, fruit, garden)"
+        },
+        {
+          "id": "u09-l05",
+          "title": "De man die naast mij woont",
+          "subtitle": "Bank, post and relative clauses",
+          "goals": ["Open a bank account and send a parcel", "Describe people and things with relative clauses", "Use die and dat as relatives"],
+          "grammar": ["Relative pronouns: die for de-words and plurals, dat for het-words; verb at the end: De man die naast mij woont, is aardig.", "Het pakket dat ik heb besteld, is er niet.", "Relative with preposition + person: de vrouw met wie ik werk"],
+          "vocab": "bank and post: de bank, de rekening, het rekeningnummer, de bankpas, de pincode, overmaken, opnemen, sparen, de rente, de afschrijving, de post, het pakket, de brief, de postzegel, het postkantoor, versturen, ophalen, bezorgen, de bezorger, het afhaalpunt, bestellen, die, dat, wie",
+          "scene": "Picking up a parcel at a pick-up point that was delivered to your neighbour by mistake",
+          "culture": "Parcels often go to neighbours or a nearby shop (afhaalpunt) if you are not home"
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "title": "Op reis",
+      "subtitle": "Travel",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "u10-l01",
+          "title": "Vakantieplannen",
+          "subtitle": "Future plans",
+          "goals": ["Talk about holiday plans", "Use different ways to talk about the future", "Say what you intend to do"],
+          "grammar": ["Future with gaan + infinitive (plans), zullen + infinitive (promises, predictions, formal future), present + time word: Volgende week vlieg ik naar Lissabon.", "Van plan zijn om ... te: Ik ben van plan om te gaan kamperen.", "Waar ga je naartoe? - Ik ga naar Italië."],
+          "vocab": "holidays: de vakantie, de reis, het vliegtuig, het vliegveld, de camping, de tent, het hotel, het strand, de berg, de zee, het buitenland, boeken, kamperen, vliegen, inpakken, de koffer, het paspoort, de zomervakantie, van plan zijn, zullen, naartoe, volgend jaar, over twee weken",
+          "scene": "Planning a summer holiday with a friend, choosing between camping and a city trip",
+          "culture": "The Dutch love camping and caravans; schools have regional holiday schedules"
+        },
+        {
+          "id": "u10-l02",
+          "title": "In het hotel",
+          "subtitle": "Hotels and if-then",
+          "goals": ["Check in at a hotel", "Make a complaint politely", "Use als ... dan"],
+          "grammar": ["Real conditions: Als u een probleem heeft, (dan) kunt u de receptie bellen.", "Polite complaints: Het spijt me, maar... / Zou u ... kunnen?", "Inversion after the als-clause: Als het regent, gaan we naar het museum."],
+          "vocab": "hotel: het hotel, de receptie, de kamer, de sleutel, het pasje, inchecken, uitchecken, de reservering, de nacht, het ontbijt, inbegrepen, de lift, de handdoek, de airco, de wifi, het wachtwoord, de klacht, het spijt me, lawaai, vies, werken, vervangen, de ober",
+          "scene": "Checking in at a hotel in Maastricht and later complaining that the wifi does not work",
+          "culture": "Maastricht in the south feels very different from Holland: hills, Limburg dialect, carnival"
+        },
+        {
+          "id": "u10-l03",
+          "title": "Vertraging!",
+          "subtitle": "Delays and indirect questions",
+          "goals": ["Understand station announcements", "Ask for help when plans change", "Ask indirect questions politely"],
+          "grammar": ["Indirect questions: question word or of + verb at the end: Weet u hoe laat de volgende trein vertrekt? Kunt u mij vertellen of deze trein naar Leiden gaat?", "Announcements in the passive-like style: De trein naar ... vertrekt van spoor 5. ... rijdt vandaag niet.", "Te laat komen, missen, de aansluiting"],
+          "vocab": "delays: de vertraging, de storing, de omleiding, de aansluiting, het spoor, de omroep, de mededeling, de vervangende bus, uitvallen, rijden, missen, vertrekken, aankomen, de reiziger, het loket, de informatiebalie, verwacht, ongeveer, ongeveer tien minuten, helaas, weten, vertellen",
+          "scene": "Your train is cancelled; you ask staff at the information desk how to reach Leiden",
+          "culture": "The NS app shows live disruptions; a 'storing' can mean replacement buses"
+        },
+        {
+          "id": "u10-l04",
+          "title": "Hoe was je reis?",
+          "subtitle": "Telling about a trip",
+          "goals": ["Tell a longer story about a trip", "Mix perfect and simple past", "Use linking words"],
+          "grammar": ["Story structure: perfect to open (We zijn naar Portugal geweest), simple past for details (Het was heel warm, we zaten elke dag op het strand)", "Linking: eerst, daarna, toen, later, de volgende dag, aan het eind", "Opinions about the past: Het was geweldig/tegenvallen/meevallen"],
+          "vocab": "travel stories: de reis, het uitzicht, de stad, het dorp, het eten, de mensen, de cultuur, het weer, geweldig, prachtig, tegenvallen, meevallen, verdwalen, ontdekken, bezoeken, bewonderen, de foto, de souvenir, de herinnering, de volgende dag, aan het eind, toen, eerst, daarna",
+          "scene": "Back at work, telling colleagues about your trip to Portugal including getting lost",
+          "culture": "'Het viel mee' (it was better than expected) is a very Dutch way to describe things"
+        },
+        {
+          "id": "u10-l05",
+          "title": "Nederland en België",
+          "subtitle": "Geography and culture",
+          "goals": ["Talk about Dutch and Belgian places", "Compare countries and cities", "Understand Dutch vs Flemish differences"],
+          "grammar": ["Superlatives before nouns: de grootste stad, het mooiste dorp", "Comparing with net zo ... als and minder ... dan", "Country adjectives and people: Nederlands/een Nederlander, Belgisch/een Belg, Vlaams/een Vlaming"],
+          "vocab": "geography: het land, de provincie, de hoofdstad, de grens, de kust, de rivier, het kanaal, de dijk, de polder, de molen, het noorden, het zuiden, het oosten, het westen, Vlaanderen, Brussel, Antwerpen, Gent, Belgisch, Vlaams, de Nederlander, de Belg, het dialect, het verschil, vergelijken",
+          "scene": "A Belgian colleague and a Dutch colleague jokingly compare their countries with you",
+          "culture": "Flemish Dutch uses some different words (e.g. 'goesting' for zin) and is softer in sound"
+        }
+      ]
+    },
+    {
+      "id": "u11",
+      "title": "Meningen",
+      "subtitle": "Opinions and society",
+      "level": "A2+",
+      "lessons": [
+        {
+          "id": "u11-l01",
+          "title": "Volgens mij...",
+          "subtitle": "Giving your opinion",
+          "goals": ["Give and ask for opinions", "Agree and disagree politely", "Give arguments"],
+          "grammar": ["Opinion phrases: Ik vind dat..., Volgens mij..., Ik denk dat..., Wat vind jij ervan?", "Agreeing/disagreeing: Ik ben het met je eens. / Ik ben het niet met je eens. / Dat klopt. / Daar heb je gelijk in.", "Arguments: ten eerste, ten tweede, bovendien, aan de ene kant ... aan de andere kant"],
+          "vocab": "opinions: de mening, het argument, het voordeel, het nadeel, eens, oneens, gelijk hebben, klopt, volgens, vinden, eigenlijk, natuurlijk, absoluut, helemaal, toch, ten eerste, ten tweede, bovendien, aan de ene kant, aan de andere kant, de discussie, discussiëren, het onderwerp",
+          "scene": "A friendly discussion at dinner about whether cars should be banned from city centres",
+          "culture": "Dutch 'polderen': discussing until there is consensus"
+        },
+        {
+          "id": "u11-l02",
+          "title": "In het nieuws",
+          "subtitle": "News and the passive",
+          "goals": ["Understand short news items", "Recognise and use the passive", "Talk about what happened in the news"],
+          "grammar": ["Passive present: worden + participle: Het museum wordt gesloten.", "Passive past: werd/werden + participle; perfect passive: is/zijn + participle (Het museum is gesloten).", "Door for the agent: De weg wordt door de gemeente gerepareerd."],
+          "vocab": "news: het nieuws, het artikel, de krant, de journalist, de regering, de minister, de gemeente, de verkiezingen, de politie, het ongeluk, de brand, de staking, het onderzoek, de bewoner, sluiten, openen, bouwen, repareren, melden, ontdekken, raken, gewond, door",
+          "scene": "Reading and discussing a short local news item about a closed road and a new bike bridge",
+          "culture": "The NOS Journaal is the main public news programme"
+        },
+        {
+          "id": "u11-l03",
+          "title": "Echt Nederlands",
+          "subtitle": "Customs and little words",
+          "goals": ["Understand Dutch habits", "Use particles like even, maar, toch, wel", "Sound more natural"],
+          "grammar": ["Softening with even and maar: Kom even hier. Kom maar binnen.", "toch for confirmation or contrast: Je komt toch ook? Het regende, maar we gingen toch.", "wel as contrast to niet: Ik heb geen auto, maar wel een fiets."],
+          "vocab": "customs: gezellig, de gezelligheid, de agenda, direct, eerlijk, op tijd, de borrel, de verjaardag, de kring, het kopje koffie, het koekje, de traktatie, trakteren, gewoon, normaal, even, maar, toch, wel, eens, hoor, nou, lekker, het gebruik, de gewoonte",
+          "scene": "A Dutch friend explains unwritten rules: one cookie with coffee, agendas, being on time",
+          "culture": "'Doe maar gewoon, dan doe je al gek genoeg' - just act normal"
+        },
+        {
+          "id": "u11-l04",
+          "title": "Aan de telefoon",
+          "subtitle": "Phone calls",
+          "goals": ["Make and receive phone calls", "Spell your name", "Leave and take a message"],
+          "grammar": ["Phone phrases: Met Sara. / U spreekt met... / Kan ik ... spreken? / Ik verbind u door.", "Asking for repetition: Kunt u dat herhalen? Kunt u wat langzamer praten?", "Spelling with the Dutch alphabet: a, b, c (say), ij, g (chee), j (yay)"],
+          "vocab": "telephone: bellen, opbellen, terugbellen, de telefoon, het telefoonnummer, de voicemail, het bericht, inspreken, doorverbinden, ophangen, opnemen, bereikbaar, in gesprek, spellen, herhalen, langzaam, het alfabet, de letter, de afspraak, afzeggen, verzetten, bevestigen, momentje",
+          "scene": "Calling a dentist's practice to move your appointment and spelling your name",
+          "culture": "The Dutch answer the phone with their name: 'Met Jansen'"
+        },
+        {
+          "id": "u11-l05",
+          "title": "Ik wil dit ruilen",
+          "subtitle": "Complaints and returns",
+          "goals": ["Return or exchange a product", "Complain politely but firmly", "Negotiate a solution"],
+          "grammar": ["Polite but firm: Ik zou graag mijn geld terug willen. / Het is de bedoeling dat...", "Hoeven + te: U hoeft de doos niet mee te nemen.", "Problem descriptions with past tense: Ik heb het gisteren gekocht en het werkt niet meer."],
+          "vocab": "returns: ruilen, terugbrengen, terugkrijgen, het geld terug, de bon, de kassabon, de garantie, de klantenservice, de klacht, het product, de fout, kapot, beschadigd, defect, vervangen, het tegoed, de tegoedbon, de bedoeling, oplossen, de oplossing, het bedrag, binnen, dagen",
+          "scene": "Returning headphones that broke after a week at an electronics store",
+          "culture": "Online purchases in the EU can be returned within 14 days without a reason"
+        }
+      ]
+    },
+    {
+      "id": "u12",
+      "title": "Eindstation A2+",
+      "subtitle": "Putting it all together",
+      "level": "A2+",
+      "lessons": [
+        {
+          "id": "u12-l01",
+          "title": "Schrijven",
+          "subtitle": "Notes, messages and emails",
+          "goals": ["Write short notes and messages", "Write an informal and a formal email", "Use correct openings, closings and word order"],
+          "grammar": ["Review of word order in writing: main clause (V2), inversion, subordinate clause (verb last)", "Review of formal/informal register: u/uw vs je/jouw", "Linking sentences: omdat, want, dus, daarom (+ inversion), maar, ook"],
+          "vocab": "writing: het briefje, het kaartje, de uitnodiging, de afmelding, de reactie, de vraag, het verzoek, uitnodigen, afmelden, melden, informeren, laten weten, daarom, dus, alvast, graag, groetjes, liefs, hartelijke groet, met vriendelijke groet, geachte, beste, hoi",
+          "scene": "Writing a note to your neighbour, a message to a friend and an email to your child's school",
+          "culture": "The inburgering writing exam asks for exactly these short practical texts"
+        },
+        {
+          "id": "u12-l02",
+          "title": "Spreken",
+          "subtitle": "Talking about yourself in depth",
+          "goals": ["Introduce yourself in detail", "Talk about your past, present and future", "Explain your reasons and wishes"],
+          "grammar": ["Review of tenses: present, perfect, simple past, future with gaan/zullen", "Review of modal verbs and te-constructions", "Review of subordinate clauses with dat, omdat, als, toen (when, past)"],
+          "vocab": "life story: geboren, opgroeien, verhuizen, de toekomst, de droom, het doel, de wens, het plan, de reden, de ervaring, het leven, de carrière, de familie, het thuisland, wennen aan, missen, trots, hopen, willen, toen, sinds, later, ooit",
+          "scene": "A conversation with a new Dutch friend who asks about your life story and plans",
+          "culture": "'Toen' as a conjunction means 'when' for one moment in the past: Toen ik hier kwam, ..."
+        },
+        {
+          "id": "u12-l03",
+          "title": "Het, die, dat, er",
+          "subtitle": "Small words, big rules",
+          "goals": ["Choose correctly between het, die and dat", "Recognise the main uses of er", "Fix common A2 mistakes"],
+          "grammar": ["het/de and die/dat review: deze/die (de), dit/dat (het), relative die/dat", "Uses of er: existential (Er is een probleem), place (Ik woon er al jaren), with numbers (Ik heb er twee), with prepositions (Ik denk erover na)", "Pronoun for things: die/hij for de-words, het for het-words"],
+          "vocab": "review words and expressions: er, erover, ermee, ervan, erin, daar, hier, die, dat, deze, dit, iets, niets, iemand, niemand, alles, iedereen, sommige, veel, weinig, genoeg, allebei, beide, elk, ieder",
+          "scene": "Helping a friend move house, talking about which boxes and things go where",
+          "culture": "Even advanced learners mix up de and het - Dutch people will still understand you"
+        },
+        {
+          "id": "u12-l04",
+          "title": "Alles op zijn plek",
+          "subtitle": "Dutch word order masterclass",
+          "goals": ["Combine all word-order rules", "Build longer sentences with confidence", "Use time-manner-place order"],
+          "grammar": ["Main clause: subject - verb - (time - manner - place) - other verbs at end: Ik ga morgen met de trein naar Groningen.", "Verb clusters at the end: Ik heb het niet kunnen vinden (A2+ recognition), Ik wil morgen gaan zwemmen.", "Subordinate + main: Omdat het regende, zijn we thuisgebleven."],
+          "vocab": "connectors and adverbs: morgen, vandaag, meestal, gewoonlijk, waarschijnlijk, graag, snel, langzaam, samen, alleen, thuis, buiten, daarom, toch, daarna, eerst, ten slotte, zelfs, bijna, ongeveer, misschien, tenminste, eindelijk, onmiddellijk",
+          "scene": "Planning a day trip to Groningen with friends by train with lots of details",
+          "culture": "Groningen in the north is a student city known for its bikes and its Martinitoren"
+        },
+        {
+          "id": "u12-l05",
+          "title": "Klaar voor A2",
+          "subtitle": "Final review and exam practice",
+          "goals": ["Handle typical A2 exam situations", "Read short practical texts", "Respond in everyday conversations"],
+          "grammar": ["Mixed review of the whole course: articles, adjectives, negation, modals, separable verbs, perfect, simple past, subordinate clauses, comparatives, er", "Typical exam tasks: reading a notice, answering a question, writing a short reply", "Strategies: keep sentences short and correct"],
+          "vocab": "exam and everyday review: de toets, het examen, de opdracht, de tekst, de vraag, het antwoord, kiezen, invullen, lezen, luisteren, schrijven, spreken, begrijpen, de mededeling, de folder, de brief, het bord, de regel, slagen, het certificaat, het niveau, de voldoende, zenuwachtig, klaar",
+          "scene": "The day of a practice A2 exam: reading a notice at the station, answering a neighbour, writing a reply",
+          "culture": "After A2 comes B1: you can already handle most everyday situations in Dutch"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1111 @@
+{
+  "id": "u09-l02",
+  "title": "Naar de gemeente",
+  "subtitle": "The town hall and official tasks",
+  "level": "A2",
+  "intro": "In this lesson you learn to register at the municipality and to make an official appointment. You practise polite requests with ik wil graag and nodig hebben, and you learn the words on Dutch forms. By the end you can handle a visit to the town hall counter in Dutch.",
+  "words": [
+    {
+      "nl": "gemeente",
+      "en": "municipality",
+      "pos": "noun",
+      "article": "de",
+      "plural": "gemeenten",
+      "forms": null,
+      "example": {
+        "nl": "De gemeente stuurt u een brief.",
+        "en": "The municipality sends you a letter."
+      },
+      "note": "The local government; the building is het gemeentehuis."
+    },
+    {
+      "nl": "gemeentehuis",
+      "en": "town hall",
+      "pos": "noun",
+      "article": "het",
+      "plural": "gemeentehuizen",
+      "forms": null,
+      "example": {
+        "nl": "Het gemeentehuis is in het centrum.",
+        "en": "The town hall is in the centre."
+      },
+      "note": "In the big cities people often say het stadhuis."
+    },
+    {
+      "nl": "balie",
+      "en": "counter, front desk",
+      "pos": "noun",
+      "article": "de",
+      "plural": "balies",
+      "forms": null,
+      "example": {
+        "nl": "U kunt bij de balie wachten.",
+        "en": "You can wait at the counter."
+      },
+      "note": null
+    },
+    {
+      "nl": "loket",
+      "en": "counter, service window",
+      "pos": "noun",
+      "article": "het",
+      "plural": "loketten",
+      "forms": null,
+      "example": {
+        "nl": "Het loket gaat om negen uur open.",
+        "en": "The counter opens at nine o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "ambtenaar",
+      "en": "civil servant, official",
+      "pos": "noun",
+      "article": "de",
+      "plural": "ambtenaren",
+      "forms": null,
+      "example": {
+        "nl": "De ambtenaar vraagt naar uw paspoort.",
+        "en": "The official asks for your passport."
+      },
+      "note": null
+    },
+    {
+      "nl": "afspraak",
+      "en": "appointment",
+      "pos": "noun",
+      "article": "de",
+      "plural": "afspraken",
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag een afspraak maken.",
+        "en": "I would like to make an appointment."
+      },
+      "note": "afspraak maken = to make an appointment."
+    },
+    {
+      "nl": "zich inschrijven",
+      "en": "to register",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik schrijf me in, jij schrijft je in, u schrijft zich in (heeft zich ingeschreven)",
+      "example": {
+        "nl": "Ik wil me graag inschrijven bij de gemeente.",
+        "en": "I would like to register at the municipality."
+      },
+      "note": "Separable: ik schrijf me ... in."
+    },
+    {
+      "nl": "inschrijving",
+      "en": "registration",
+      "pos": "noun",
+      "article": "de",
+      "plural": "inschrijvingen",
+      "forms": null,
+      "example": {
+        "nl": "Na de inschrijving krijgt u een brief.",
+        "en": "After the registration you will get a letter."
+      },
+      "note": null
+    },
+    {
+      "nl": "nummertje",
+      "en": "number ticket",
+      "pos": "noun",
+      "article": "het",
+      "plural": "nummertjes",
+      "forms": null,
+      "example": {
+        "nl": "Bij de balie krijgt u een nummertje.",
+        "en": "At the counter you get a number ticket."
+      },
+      "note": "You wait until your number appears on the screen."
+    },
+    {
+      "nl": "formulier",
+      "en": "form",
+      "pos": "noun",
+      "article": "het",
+      "plural": "formulieren",
+      "forms": null,
+      "example": {
+        "nl": "Kunt u dit formulier invullen?",
+        "en": "Can you fill in this form?"
+      },
+      "note": null
+    },
+    {
+      "nl": "invullen",
+      "en": "to fill in",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vul in, jij vult in, u vult in (heeft ingevuld)",
+      "example": {
+        "nl": "Ik moet dit formulier nog invullen.",
+        "en": "I still have to fill in this form."
+      },
+      "note": "Separable: vul ... in."
+    },
+    {
+      "nl": "ondertekenen",
+      "en": "to sign",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik onderteken, jij ondertekent, u ondertekent (heeft ondertekend)",
+      "example": {
+        "nl": "U moet het formulier ondertekenen.",
+        "en": "You have to sign the form."
+      },
+      "note": null
+    },
+    {
+      "nl": "handtekening",
+      "en": "signature",
+      "pos": "noun",
+      "article": "de",
+      "plural": "handtekeningen",
+      "forms": null,
+      "example": {
+        "nl": "Hier is uw handtekening nodig.",
+        "en": "Your signature is needed here."
+      },
+      "note": null
+    },
+    {
+      "nl": "voornaam",
+      "en": "first name",
+      "pos": "noun",
+      "article": "de",
+      "plural": "voornamen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn voornaam is Sanne.",
+        "en": "My first name is Sanne."
+      },
+      "note": null
+    },
+    {
+      "nl": "achternaam",
+      "en": "surname, last name",
+      "pos": "noun",
+      "article": "de",
+      "plural": "achternamen",
+      "forms": null,
+      "example": {
+        "nl": "Uw achternaam schrijft u hier.",
+        "en": "You write your surname here."
+      },
+      "note": null
+    },
+    {
+      "nl": "geboortedatum",
+      "en": "date of birth",
+      "pos": "noun",
+      "article": "de",
+      "plural": "geboortedata",
+      "forms": null,
+      "example": {
+        "nl": "Wat is uw geboortedatum?",
+        "en": "What is your date of birth?"
+      },
+      "note": "Write it as day-month-year: 12-05-1998."
+    },
+    {
+      "nl": "adres",
+      "en": "address",
+      "pos": "noun",
+      "article": "het",
+      "plural": "adressen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn adres is Kerkstraat 12.",
+        "en": "My address is 12 Kerkstraat."
+      },
+      "note": null
+    },
+    {
+      "nl": "postcode",
+      "en": "postcode",
+      "pos": "noun",
+      "article": "de",
+      "plural": "postcodes",
+      "forms": null,
+      "example": {
+        "nl": "De postcode is 3512 AB.",
+        "en": "The postcode is 3512 AB."
+      },
+      "note": "Dutch postcodes have four numbers and two letters: 3512 AB."
+    },
+    {
+      "nl": "paspoort",
+      "en": "passport",
+      "pos": "noun",
+      "article": "het",
+      "plural": "paspoorten",
+      "forms": null,
+      "example": {
+        "nl": "Neem uw paspoort mee.",
+        "en": "Take your passport with you."
+      },
+      "note": null
+    },
+    {
+      "nl": "identiteitsbewijs",
+      "en": "ID card, identity document",
+      "pos": "noun",
+      "article": "het",
+      "plural": "identiteitsbewijzen",
+      "forms": null,
+      "example": {
+        "nl": "Een paspoort is ook een identiteitsbewijs.",
+        "en": "A passport is also an identity document."
+      },
+      "note": null
+    },
+    {
+      "nl": "verblijfsvergunning",
+      "en": "residence permit",
+      "pos": "noun",
+      "article": "de",
+      "plural": "verblijfsvergunningen",
+      "forms": null,
+      "example": {
+        "nl": "Zonder verblijfsvergunning mag u hier niet werken.",
+        "en": "Without a residence permit you may not work here."
+      },
+      "note": null
+    },
+    {
+      "nl": "BSN",
+      "en": "citizen service number",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Voor werk heeft u een BSN nodig.",
+        "en": "For work you need a BSN."
+      },
+      "note": "Burgerservicenummer: your personal number for official matters."
+    },
+    {
+      "nl": "DigiD",
+      "en": "digital ID",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Met DigiD kunt u thuis veel doen.",
+        "en": "With DigiD you can do a lot at home."
+      },
+      "note": null
+    },
+    {
+      "nl": "nodig hebben",
+      "en": "to need",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik heb nodig, jij hebt nodig, u heeft nodig",
+      "example": {
+        "nl": "Ik heb een afspraak nodig.",
+        "en": "I need an appointment."
+      },
+      "note": "nodig goes at the end: Ik heb een paspoort nodig."
+    },
+    {
+      "nl": "verhuizing",
+      "en": "move, relocation",
+      "pos": "noun",
+      "article": "de",
+      "plural": "verhuizingen",
+      "forms": null,
+      "example": {
+        "nl": "Bij een verhuizing moet u zich inschrijven bij de gemeente.",
+        "en": "When you move you have to register at the municipality."
+      },
+      "note": null
+    },
+    {
+      "nl": "uittreksel",
+      "en": "official copy, extract",
+      "pos": "noun",
+      "article": "het",
+      "plural": "uittreksels",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een uittreksel van de gemeente nodig.",
+        "en": "I need an official copy from the municipality."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Waarmee kan ik u helpen?",
+      "en": "How can I help you?",
+      "note": "Standard at a counter; helpen = to help."
+    },
+    {
+      "nl": "Ik wil me graag inschrijven.",
+      "en": "I would like to register.",
+      "note": "Graag makes the request polite."
+    },
+    {
+      "nl": "Ik heb een afspraak nodig.",
+      "en": "I need an appointment.",
+      "note": null
+    },
+    {
+      "nl": "Wat heb ik nodig?",
+      "en": "What do I need?",
+      "note": null
+    },
+    {
+      "nl": "U heeft een paspoort nodig.",
+      "en": "You need a passport.",
+      "note": "nodig comes at the end."
+    },
+    {
+      "nl": "Neemt u een nummertje.",
+      "en": "Take a number ticket.",
+      "note": "Polite imperative with u."
+    },
+    {
+      "nl": "Vult u hier uw voornaam in.",
+      "en": "Fill in your first name here.",
+      "note": "in goes to the end."
+    },
+    {
+      "nl": "Ondertekent u hier.",
+      "en": "Sign here.",
+      "note": null
+    },
+    {
+      "nl": "Heeft u een afspraak?",
+      "en": "Do you have an appointment?",
+      "note": null
+    },
+    {
+      "nl": "Een momentje, alstublieft.",
+      "en": "One moment, please.",
+      "note": "Diminutive of moment; useful at any counter."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Polite requests: Ik wil graag ...",
+      "explanation": "To ask for something politely, use **ik wil graag** followed by the infinitive at the end of the sentence. Reflexive verbs keep their pronoun: **Ik wil me graag inschrijven.** **Graag** means 'gladly' and makes the request friendly. To say what you need, use **ik heb ... nodig**; **nodig** also goes at the end.",
+      "table": {
+        "headers": [
+          "What you want or need",
+          "Dutch"
+        ],
+        "rows": [
+          [
+            "Register",
+            "Ik wil me graag inschrijven."
+          ],
+          [
+            "Make an appointment",
+            "Ik wil graag een afspraak maken."
+          ],
+          [
+            "Need a passport",
+            "Ik heb een paspoort nodig."
+          ],
+          [
+            "Need an appointment",
+            "Ik heb een afspraak nodig."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik wil me graag inschrijven.",
+          "en": "I would like to register."
+        },
+        {
+          "nl": "Ik heb een afspraak nodig.",
+          "en": "I need an appointment."
+        },
+        {
+          "nl": "Wat heb ik nodig?",
+          "en": "What do I need?"
+        }
+      ],
+      "tip": "Think: wil graag + verb at the end; heb + thing + nodig."
+    },
+    {
+      "title": "Nodig hebben: Wat heb ik nodig?",
+      "explanation": "**Nodig hebben** means 'to need'. The word **nodig** is fixed at the end of the sentence. In questions the verb comes first: **Heb ik een afspraak nodig?** With **u** the form is **u heeft** (or **u hebt**).",
+      "table": {
+        "headers": [
+          "Subject",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "Ik heb een afspraak nodig."
+          ],
+          [
+            "jij",
+            "Jij hebt een paspoort nodig."
+          ],
+          [
+            "u",
+            "U heeft een paspoort nodig."
+          ],
+          [
+            "hij/zij",
+            "Hij heeft een formulier nodig."
+          ],
+          [
+            "wij",
+            "Wij hebben een afspraak nodig."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Heb ik een afspraak nodig?",
+          "en": "Do I need an appointment?"
+        },
+        {
+          "nl": "U heeft een paspoort nodig.",
+          "en": "You need a passport."
+        }
+      ],
+      "tip": "nodig never comes before the thing: not 'Ik heb nodig een paspoort'."
+    },
+    {
+      "title": "On forms: invullen and ondertekenen",
+      "explanation": "On Dutch forms you often see **Vul ... in** or **Vult u ... in**. **Invullen** (to fill in) is separable: the prefix **in** goes to the end. **Ondertekenen** (to sign) is not separable: **Ondertekent u hier.** The word **handtekening** means 'signature'.",
+      "table": {
+        "headers": [
+          "Field on the form",
+          "English"
+        ],
+        "rows": [
+          [
+            "Voornaam",
+            "First name"
+          ],
+          [
+            "Achternaam",
+            "Surname"
+          ],
+          [
+            "Geboortedatum",
+            "Date of birth"
+          ],
+          [
+            "Adres en postcode",
+            "Address and postcode"
+          ],
+          [
+            "Handtekening",
+            "Signature"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Vult u hier uw voornaam in.",
+          "en": "Fill in your first name here."
+        },
+        {
+          "nl": "Ondertekent u hier.",
+          "en": "Sign here."
+        }
+      ],
+      "tip": "Write the date as day-month-year: 12-05-1998."
+    }
+  ],
+  "dialogue": {
+    "title": "Bij de balie van de gemeente",
+    "setting": "Sanne has just moved and is registering her new address at the town hall counter.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "meneer De Vries",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "meneer De Vries",
+        "nl": "Goedemorgen. Waarmee kan ik u helpen?",
+        "en": "Good morning. How can I help you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemorgen. Ik wil me graag inschrijven bij de gemeente. Ik ben net verhuisd.",
+        "en": "Good morning. I would like to register at the municipality. I have just moved."
+      },
+      {
+        "speaker": "meneer De Vries",
+        "nl": "Natuurlijk. Heeft u een afspraak?",
+        "en": "Of course. Do you have an appointment?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, ik heb geen afspraak. Heb ik een afspraak nodig?",
+        "en": "No, I do not have an appointment. Do I need an appointment?"
+      },
+      {
+        "speaker": "meneer De Vries",
+        "nl": "Nee, dat is niet nodig. Neemt u een nummertje.",
+        "en": "No, that is not necessary. Take a number ticket."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Wat heb ik nodig voor de inschrijving?",
+        "en": "Thank you. What do I need for the registration?"
+      },
+      {
+        "speaker": "meneer De Vries",
+        "nl": "U heeft uw paspoort nodig. En uw nieuwe adres.",
+        "en": "You need your passport. And your new address."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hier is mijn paspoort. Moet ik ook een formulier invullen?",
+        "en": "Here is my passport. Do I also have to fill in a form?"
+      },
+      {
+        "speaker": "meneer De Vries",
+        "nl": "Ja. Vult u hier uw voornaam, achternaam en geboortedatum in.",
+        "en": "Yes. Fill in your first name, surname and date of birth here."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En mijn postcode?",
+        "en": "And my postcode?"
+      },
+      {
+        "speaker": "meneer De Vries",
+        "nl": "Ja, uw adres en postcode, graag. Ondertekent u hier bij de handtekening.",
+        "en": "Yes, your address and postcode, please. Sign here by the signature."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Klaar. Is het goed?",
+        "en": "Done. Is it correct?"
+      },
+      {
+        "speaker": "meneer De Vries",
+        "nl": "Ja, dat is goed. U krijgt een brief met uw BSN.",
+        "en": "Yes, that is fine. You will get a letter with your BSN."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Tot ziens!",
+        "en": "Thank you. Goodbye!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de gemeente",
+          "the municipality"
+        ],
+        [
+          "het loket",
+          "the service window"
+        ],
+        [
+          "de ambtenaar",
+          "the civil servant"
+        ],
+        [
+          "zich inschrijven",
+          "to register"
+        ],
+        [
+          "de handtekening",
+          "the signature"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het formulier",
+          "the form"
+        ],
+        [
+          "invullen",
+          "to fill in"
+        ],
+        [
+          "de voornaam",
+          "the first name"
+        ],
+        [
+          "de achternaam",
+          "the surname"
+        ],
+        [
+          "de geboortedatum",
+          "the date of birth"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is a polite way to say you would like to register?",
+      "nl": null,
+      "options": [
+        "Ik wil me graag inschrijven.",
+        "Ik wil graag me inschrijven.",
+        "Ik graag wil me inschrijven."
+      ],
+      "answer": 0,
+      "explain": "With willen the infinitive goes at the end: Ik wil me graag inschrijven."
+    },
+    {
+      "type": "choice",
+      "prompt": "You need a passport. Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "U heeft een paspoort nodig.",
+        "U heeft nodig een paspoort.",
+        "U nodig heeft een paspoort."
+      ],
+      "answer": 0,
+      "explain": "Nodig comes at the end of the sentence."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'surname' on a form?",
+      "nl": null,
+      "options": [
+        "de voornaam",
+        "de achternaam",
+        "de postcode"
+      ],
+      "answer": 1,
+      "explain": "Achternaam = surname; voornaam = first name."
+    },
+    {
+      "type": "article",
+      "word": "gemeentehuis",
+      "en": "town hall",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "verblijfsvergunning",
+      "en": "residence permit",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I would like to register.",
+      "answer": "Ik wil me graag inschrijven.",
+      "accept": [
+        "Graag wil ik me inschrijven."
+      ],
+      "extra": [
+        "schrijf",
+        "mijn"
+      ],
+      "explain": "After 'wil' the infinitive goes at the end, and the reflexive pronoun 'me' comes before 'graag': 'Ik wil me graag inschrijven.'"
+    },
+    {
+      "type": "build",
+      "en": "I need an appointment.",
+      "answer": "Ik heb een afspraak nodig.",
+      "accept": [
+        "Een afspraak heb ik nodig."
+      ],
+      "extra": [
+        "nodigde",
+        "hebt"
+      ],
+      "explain": "'Nodig' is fixed at the end of the sentence: 'Ik heb een afspraak nodig.'"
+    },
+    {
+      "type": "build",
+      "en": "Fill in your surname here.",
+      "answer": "Vult u hier uw achternaam in.",
+      "accept": [
+        "Vult u uw achternaam hier in."
+      ],
+      "extra": [
+        "invullen",
+        "de"
+      ],
+      "explain": "Invullen is separable; in the imperative with u the prefix 'in' goes to the end: 'Vult u hier uw achternaam in.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik wil me graag bij de gemeente ___.",
+      "en": "I would like to register at the municipality.",
+      "answers": [
+        "inschrijven"
+      ],
+      "hint": "base verb: to register",
+      "explain": "After 'wil' use the infinitive at the end: 'Ik wil me graag inschrijven.'"
+    },
+    {
+      "type": "gap",
+      "text": "U heeft een paspoort ___.",
+      "en": "You need a passport.",
+      "answers": [
+        "nodig"
+      ],
+      "hint": "the word for 'needed'",
+      "explain": "'Nodig' comes at the end after the thing you need: 'U heeft een paspoort nodig.'"
+    },
+    {
+      "type": "gap",
+      "text": "Vult u hier uw ___ in.",
+      "en": "Fill in your first name here.",
+      "answers": [
+        "voornaam"
+      ],
+      "hint": "first name",
+      "explain": "The first name is 'de voornaam'; it goes before 'in': 'Vult u hier uw voornaam in.'"
+    },
+    {
+      "type": "translate",
+      "en": "I would like to register.",
+      "answers": [
+        "Ik wil me graag inschrijven.",
+        "Ik wil mij graag inschrijven.",
+        "Graag wil ik me inschrijven.",
+        "Ik zou me graag willen inschrijven."
+      ],
+      "focus": "polite request with ik wil graag",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts 'graag' before the reflexive pronoun 'me' (Ik wil graag me inschrijven).",
+          "explain": "The reflexive pronoun comes right after 'wil': 'Ik wil me graag inschrijven.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits the reflexive pronoun 'me' (Ik wil graag inschrijven).",
+          "explain": "Inschrijven is reflexive here: say 'Ik wil me graag inschrijven.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a finite form 'schrijf' instead of the infinitive 'inschrijven' (Ik wil me graag schrijf).",
+          "explain": "After 'wil' use the infinitive at the end: 'inschrijven'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts the infinitive before 'graag' or in the middle (Ik wil inschrijven me graag).",
+          "explain": "Keep the infinitive at the end: 'Ik wil me graag inschrijven.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I need an appointment.",
+      "answers": [
+        "Ik heb een afspraak nodig.",
+        "Een afspraak heb ik nodig."
+      ],
+      "focus": "nodig hebben",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts 'nodig' before the object (Ik heb nodig een afspraak).",
+          "explain": "'Nodig' comes at the end: 'Ik heb een afspraak nodig.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the inflected form 'nodige' (Ik heb een nodige afspraak).",
+          "explain": "The fixed word is 'nodig', without -e: 'Ik heb een afspraak nodig.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits 'heb' or puts it at the end (Ik een afspraak nodig).",
+          "explain": "Start with subject + 'heb': 'Ik heb een afspraak nodig.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Fill in your postcode.",
+      "answers": [
+        "Vul uw postcode in.",
+        "Vult u uw postcode in."
+      ],
+      "focus": "invullen (separable verb)",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the prefix 'in' next to the verb (Vul in uw postcode).",
+          "explain": "Invullen is separable: the prefix 'in' goes to the end: 'Vul uw postcode in.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive 'invullen' as the imperative (Invullen uw postcode).",
+          "explain": "For the imperative use the stem and put 'in' at the end: 'Vul uw postcode in.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the -t in the formal imperative with u (Vul u uw postcode in).",
+          "explain": "With 'u' the imperative has -t: 'Vult u uw postcode in.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik heb een afspraak nodig.",
+      "en": "I need an appointment."
+    },
+    {
+      "type": "listen",
+      "nl": "Vult u hier uw achternaam in.",
+      "en": "Fill in your surname here."
+    },
+    {
+      "type": "reply",
+      "context": "You are at the town hall counter. The official looks at you and says:",
+      "say": {
+        "nl": "Goedemorgen. Waarmee kan ik u helpen?",
+        "en": "Good morning. How can I help you?"
+      },
+      "task": "Greet him and say that you would like to register at the municipality.",
+      "examples": [
+        "Goedemorgen. Ik wil me graag inschrijven.",
+        "Hallo, ik wil me graag inschrijven bij de gemeente.",
+        "Goedemorgen, ik kom me inschrijven."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Omits the reflexive pronoun 'me' (Ik wil graag inschrijven).",
+          "explain": "Inschrijven is reflexive: 'Ik wil me graag inschrijven.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts 'graag' before 'me' (Ik wil graag me inschrijven).",
+          "explain": "The order is 'me graag': 'Ik wil me graag inschrijven.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'schrijf' instead of the infinitive (Ik wil me graag schrijf).",
+          "explain": "After 'wil' use the infinitive: 'inschrijven'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The official asks if you have an appointment.",
+      "say": {
+        "nl": "Heeft u een afspraak?",
+        "en": "Do you have an appointment?"
+      },
+      "task": "Say no, and ask if you need an appointment.",
+      "examples": [
+        "Nee, ik heb geen afspraak. Heb ik een afspraak nodig?",
+        "Nee. Heb ik een afspraak nodig?",
+        "Geen afspraak. Is dat nodig?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'niet' instead of 'geen' before the noun (Nee, ik heb niet een afspraak).",
+          "explain": "Before a noun use 'geen': 'Ik heb geen afspraak.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'nodig' in the question (Heb ik een afspraak?).",
+          "explain": "To ask if you need one, say 'Heb ik een afspraak nodig?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts 'nodig' before the object (Heb ik nodig een afspraak?).",
+          "explain": "'Nodig' comes at the end: 'Heb ik een afspraak nodig?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Inschrijven bij de gemeente",
+    "setting": "You have just moved and you are at the town hall counter to register your new address. The official helps you.",
+    "partner": {
+      "name": "meneer De Vries",
+      "gender": "m",
+      "role": "ambtenaar bij de gemeente"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen. Waarmee kan ik u helpen?",
+          "en": "Good morning. How can I help you?"
+        },
+        "task": "Greet him and say that you would like to register at the municipality.",
+        "examples": [
+          "Goedemorgen. Ik wil me graag inschrijven.",
+          "Hallo, ik wil me graag inschrijven bij de gemeente.",
+          "Goedemorgen, ik kom me inschrijven."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits the reflexive pronoun 'me' (Ik wil graag inschrijven).",
+            "explain": "Inschrijven is reflexive: 'Ik wil me graag inschrijven.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts 'graag' before 'me' (Ik wil graag me inschrijven).",
+            "explain": "The order is 'me graag': 'Ik wil me graag inschrijven.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'schrijf' instead of the infinitive (Ik wil me graag schrijf).",
+            "explain": "After 'wil' use the infinitive: 'inschrijven'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Natuurlijk. Heeft u een afspraak?",
+          "en": "Of course. Do you have an appointment?"
+        },
+        "task": "Say that you do not have an appointment and ask if you need one.",
+        "examples": [
+          "Nee, ik heb geen afspraak. Heb ik een afspraak nodig?",
+          "Nee. Heb ik een afspraak nodig?",
+          "Geen afspraak. Is dat nodig?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'niet' instead of 'geen' before the noun (Nee, ik heb niet een afspraak).",
+            "explain": "Before a noun use 'geen': 'Ik heb geen afspraak.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits 'nodig' in the question (Heb ik een afspraak?).",
+            "explain": "To ask if you need one, say 'Heb ik een afspraak nodig?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts 'nodig' before the object (Heb ik nodig een afspraak?).",
+            "explain": "'Nodig' comes at the end: 'Heb ik een afspraak nodig?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dat is niet nodig. Neemt u een nummertje.",
+          "en": "That is not necessary. Take a number ticket."
+        },
+        "task": "Thank him and ask what you need for the registration.",
+        "examples": [
+          "Dank u wel. Wat heb ik nodig voor de inschrijving?",
+          "Dank u. Wat heb ik nodig?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Forgets inversion in the question (Wat ik heb nodig?).",
+            "explain": "In a question the verb comes second: 'Wat heb ik nodig?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts 'nodig' before the question word or verb (Wat nodig heb ik?).",
+            "explain": "'Nodig' comes at the end: 'Wat heb ik nodig?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Says 'Dank je' to the official instead of 'Dank u'.",
+            "explain": "Use 'Dank u wel' to an official."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "U heeft uw paspoort en uw nieuwe adres nodig.",
+          "en": "You need your passport and your new address."
+        },
+        "task": "Say that you have your passport and give your new address.",
+        "examples": [
+          "Hier is mijn paspoort. Mijn adres is Kerkstraat 12.",
+          "Ik heb mijn paspoort. Mijn nieuwe adres is Kerkstraat 12, 3512 AB.",
+          "Hier is mijn paspoort. Ik woon nu in de Kerkstraat."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Gives only the noun without a verb (Mijn paspoort. Mijn adres...).",
+            "explain": "Say a full sentence: 'Hier is mijn paspoort.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'Ik ben' instead of 'Ik heb' for the passport (Ik ben mijn paspoort).",
+            "explain": "Use 'Ik heb mijn paspoort' or 'Hier is mijn paspoort.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the house number before the street name (Mijn adres is 12 Kerkstraat).",
+            "explain": "In Dutch the street comes first: 'Kerkstraat 12.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dank u. Vult u hier uw voornaam, achternaam en geboortedatum in. Ondertekent u hier.",
+          "en": "Thank you. Fill in your first name, surname and date of birth here. Sign here."
+        },
+        "task": "Say that you are ready and ask if it is correct.",
+        "examples": [
+          "Klaar. Is het goed?",
+          "Ik ben klaar. Is het goed?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits 'het' in 'Is het goed?' (Is goed?).",
+            "explain": "Say 'Is het goed?' with 'het'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets 'ben' in 'Ik ben klaar' (Ik klaar).",
+            "explain": "Say 'Ik ben klaar.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts 'het' after 'goed' (Is goed het?).",
+            "explain": "Say 'Is het goed?'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Ja, dat is goed. U krijgt een brief met uw BSN. Tot ziens!",
+      "en": "Yes, that is fine. You will get a letter with your BSN. Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Your BSN",
+    "text": "Your BSN (burgerservicenummer) is your personal number for official matters in the Netherlands. You need it for work, for health insurance and for the bank. You get it when you register at the municipality. With your DigiD you can arrange many things at home; keep both private."
+  },
+  "summary": [
+    "Register at the municipality with Ik wil me graag inschrijven.",
+    "Ask for an appointment and say what you need with Ik heb ... nodig.",
+    "Nodig comes at the end of the sentence.",
+    "Know the words on Dutch forms: voornaam, achternaam, geboortedatum, adres, postcode, handtekening.",
+    "Invullen is separable: Vult u hier uw naam in."
+  ]
+}

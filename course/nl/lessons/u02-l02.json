@@ -1,0 +1,1092 @@
+{
+  "id": "u02-l02",
+  "title": "Hoeveel kost het?",
+  "subtitle": "Numbers 20-100 and prices",
+  "level": "A1",
+  "intro": "After this lesson you can count from 20 to 100, ask and understand prices, and pay in a small shop. You will also learn how to say amounts in euros and cents.",
+  "words": [
+    {
+      "nl": "twintig",
+      "en": "twenty",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De koffie kost twintig cent.",
+        "en": "The coffee costs twenty cents."
+      },
+      "note": null
+    },
+    {
+      "nl": "dertig",
+      "en": "thirty",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De melk kost dertig cent.",
+        "en": "The milk costs thirty cents."
+      },
+      "note": null
+    },
+    {
+      "nl": "veertig",
+      "en": "forty",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De wijn kost veertig euro.",
+        "en": "The wine costs forty euros."
+      },
+      "note": null
+    },
+    {
+      "nl": "vijftig",
+      "en": "fifty",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De prijs is vijftig euro.",
+        "en": "The price is fifty euros."
+      },
+      "note": null
+    },
+    {
+      "nl": "zestig",
+      "en": "sixty",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De thee kost zestig cent.",
+        "en": "The tea costs sixty cents."
+      },
+      "note": null
+    },
+    {
+      "nl": "zeventig",
+      "en": "seventy",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De prijs is zeventig euro.",
+        "en": "The price is seventy euros."
+      },
+      "note": null
+    },
+    {
+      "nl": "tachtig",
+      "en": "eighty",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De wijn kost tachtig euro.",
+        "en": "The wine costs eighty euros."
+      },
+      "note": null
+    },
+    {
+      "nl": "negentig",
+      "en": "ninety",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De prijs is negentig euro.",
+        "en": "The price is ninety euros."
+      },
+      "note": null
+    },
+    {
+      "nl": "honderd",
+      "en": "hundred",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Honderd cent is één euro.",
+        "en": "One hundred cents is one euro."
+      },
+      "note": null
+    },
+    {
+      "nl": "eenentwintig",
+      "en": "twenty-one",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mijn broer is eenentwintig jaar.",
+        "en": "My brother is twenty-one years old."
+      },
+      "note": "Say the unit first: een-en-twintig."
+    },
+    {
+      "nl": "tweeëntwintig",
+      "en": "twenty-two",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mijn zus is tweeëntwintig jaar.",
+        "en": "My sister is twenty-two years old."
+      },
+      "note": "Note the ë: tweeëntwintig."
+    },
+    {
+      "nl": "kosten",
+      "en": "to cost",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het kost, de koffie kost, de koffie en de melk kosten",
+      "example": {
+        "nl": "De koffie en de melk kosten samen drie euro vijftig.",
+        "en": "The coffee and the milk cost three euros fifty together."
+      },
+      "note": "Use kost for one item and kosten for two or more."
+    },
+    {
+      "nl": "euro",
+      "en": "euro",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de euro's",
+      "forms": null,
+      "example": {
+        "nl": "De koffie kost twee euro vijftig.",
+        "en": "The coffee costs two euros fifty."
+      },
+      "note": "In prices, say twee euro, not twee euro's."
+    },
+    {
+      "nl": "cent",
+      "en": "cent",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de centen",
+      "forms": null,
+      "example": {
+        "nl": "De melk kost een euro en twintig cent.",
+        "en": "The milk costs one euro and twenty cents."
+      },
+      "note": "In prices, use cent after a number: vijftig cent."
+    },
+    {
+      "nl": "duur",
+      "en": "expensive",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De wijn is duur.",
+        "en": "The wine is expensive."
+      },
+      "note": "Opposite: goedkoop."
+    },
+    {
+      "nl": "goedkoop",
+      "en": "cheap",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De koffie is goedkoop.",
+        "en": "The coffee is cheap."
+      },
+      "note": null
+    },
+    {
+      "nl": "prijs",
+      "en": "price",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de prijzen",
+      "forms": null,
+      "example": {
+        "nl": "De prijs is negentig euro.",
+        "en": "The price is ninety euros."
+      },
+      "note": null
+    },
+    {
+      "nl": "betalen",
+      "en": "to pay",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik betaal, jij betaalt, wij betalen",
+      "example": {
+        "nl": "Ik betaal contant.",
+        "en": "I pay cash."
+      },
+      "note": null
+    },
+    {
+      "nl": "contant",
+      "en": "cash, in cash",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik betaal contant.",
+        "en": "I pay in cash."
+      },
+      "note": null
+    },
+    {
+      "nl": "pinnen",
+      "en": "to pay by card",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik pin, jij pint, wij pinnen",
+      "example": {
+        "nl": "Kan ik pinnen?",
+        "en": "Can I pay by card?"
+      },
+      "note": "Very common in Dutch shops."
+    },
+    {
+      "nl": "bonnetje",
+      "en": "receipt",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de bonnetjes",
+      "forms": null,
+      "example": {
+        "nl": "Een bonnetje, alstublieft.",
+        "en": "A receipt, please."
+      },
+      "note": "Ask for it at the till with **Een bonnetje, alstublieft.**"
+    },
+    {
+      "nl": "samen",
+      "en": "together, altogether",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De koffie en de melk kosten samen drie euro vijftig.",
+        "en": "The coffee and the milk cost three euros fifty together."
+      },
+      "note": null
+    },
+    {
+      "nl": "totaal",
+      "en": "total",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de totalen",
+      "forms": null,
+      "example": {
+        "nl": "Het totaal is drie euro vijftig.",
+        "en": "The total is three euros fifty."
+      },
+      "note": null
+    },
+    {
+      "nl": "winkel",
+      "en": "shop",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de winkels",
+      "forms": null,
+      "example": {
+        "nl": "De winkel is in de stad.",
+        "en": "The shop is in the city."
+      },
+      "note": null
+    },
+    {
+      "nl": "kopen",
+      "en": "to buy",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik koop, jij koopt, wij kopen",
+      "example": {
+        "nl": "Ik koop koffie in de winkel.",
+        "en": "I buy coffee in the shop."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hoeveel kost het?",
+      "en": "How much does it cost?",
+      "note": "Use Wat kost...? for a specific item."
+    },
+    {
+      "nl": "Wat kost de koffie?",
+      "en": "How much does the coffee cost?",
+      "note": null
+    },
+    {
+      "nl": "Dat is twee euro vijftig.",
+      "en": "That is two euros fifty.",
+      "note": "Say euro, not komma."
+    },
+    {
+      "nl": "Mag ik een bonnetje?",
+      "en": "Can I have a receipt?",
+      "note": "Or simply: **Een bonnetje, alstublieft.**"
+    },
+    {
+      "nl": "Kan ik pinnen?",
+      "en": "Can I pay by card?",
+      "note": "Very common in Dutch shops."
+    },
+    {
+      "nl": "Ik betaal contant.",
+      "en": "I pay cash.",
+      "note": null
+    },
+    {
+      "nl": "Dat is duur.",
+      "en": "That is expensive.",
+      "note": null
+    },
+    {
+      "nl": "Dat is goedkoop.",
+      "en": "That is cheap.",
+      "note": null
+    },
+    {
+      "nl": "Hoeveel is dat samen?",
+      "en": "How much is that altogether?",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Numbers from 20 to 100",
+      "explanation": "For 21-99, Dutch says the unit first, then **en**, then the ten: **eenentwintig** is one-and-twenty. The tens are **twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd**.",
+      "table": {
+        "headers": [
+          "Number",
+          "Dutch"
+        ],
+        "rows": [
+          [
+            "20",
+            "twintig"
+          ],
+          [
+            "21",
+            "eenentwintig"
+          ],
+          [
+            "22",
+            "tweeëntwintig"
+          ],
+          [
+            "30",
+            "dertig"
+          ],
+          [
+            "35",
+            "vijfendertig"
+          ],
+          [
+            "47",
+            "zevenenveertig"
+          ],
+          [
+            "68",
+            "achtenzestig"
+          ],
+          [
+            "99",
+            "negenennegentig"
+          ],
+          [
+            "100",
+            "honderd"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "22 is tweeëntwintig.",
+          "en": "22 is twenty-two."
+        },
+        {
+          "nl": "35 is vijfendertig.",
+          "en": "35 is thirty-five."
+        },
+        {
+          "nl": "99 is negenennegentig.",
+          "en": "99 is ninety-nine."
+        }
+      ],
+      "tip": "Think five-and-thirty, not thirty-five."
+    },
+    {
+      "title": "Prices: 2,50 and kost/kosten",
+      "explanation": "Dutch prices use a comma: **2,50** is two euros fifty. Say **twee euro vijftig**, not **twee komma vijftig**. Ask **Hoeveel kost het?** or **Wat kost de koffie?** Use **kost** for one thing; use **kosten** for two or more things.",
+      "table": {
+        "headers": [
+          "Written",
+          "Said"
+        ],
+        "rows": [
+          [
+            "€2,50",
+            "twee euro vijftig"
+          ],
+          [
+            "€0,50",
+            "vijftig cent"
+          ],
+          [
+            "€100",
+            "honderd euro"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De koffie kost twee euro vijftig.",
+          "en": "The coffee costs two euros fifty."
+        },
+        {
+          "nl": "De koffie en de melk kosten samen drie euro vijftig.",
+          "en": "The coffee and the milk cost three euros fifty together."
+        }
+      ],
+      "tip": "If there are two or more things, use **kosten**."
+    },
+    {
+      "title": "Paying: contant or pinnen",
+      "explanation": "**Contant** means cash; **pinnen** means paying by card. Ask **Kan ik pinnen?** and say **Ik betaal contant.** Ask for a receipt with **Een bonnetje?**",
+      "table": null,
+      "examples": [
+        {
+          "nl": "Kan ik pinnen?",
+          "en": "Can I pay by card?"
+        },
+        {
+          "nl": "Ik betaal contant.",
+          "en": "I pay cash."
+        },
+        {
+          "nl": "Een bonnetje, alstublieft.",
+          "en": "A receipt, please."
+        }
+      ],
+      "tip": "In many Dutch shops you can pay by card; a few are card-only (no cash)."
+    }
+  ],
+  "dialogue": {
+    "title": "In de winkel",
+    "setting": "A small corner shop. Daan buys coffee and milk and pays at the till.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemiddag.",
+        "en": "Good afternoon."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Goedemiddag. Hoeveel kost de koffie?",
+        "en": "Good afternoon. How much does the coffee cost?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "De koffie kost twee euro vijftig.",
+        "en": "The coffee costs two euros fifty."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Dat is goedkoop. En hoeveel kost de melk?",
+        "en": "That is cheap. And how much does the milk cost?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "De melk kost een euro. De koffie en de melk kosten samen drie euro vijftig.",
+        "en": "The milk costs one euro. The coffee and the milk cost three euros fifty together."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ik wil graag de koffie en de melk.",
+        "en": "I would like the coffee and the milk."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is drie euro vijftig.",
+        "en": "That is three euros fifty."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Kan ik pinnen?",
+        "en": "Can I pay by card?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja. Een bonnetje?",
+        "en": "Yes. A receipt?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Nee, dank u wel. Ik betaal contant. Alstublieft.",
+        "en": "No, thank you. I pay cash. Here you are."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Tot ziens.",
+        "en": "Thank you. Goodbye."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "twintig",
+          "twenty"
+        ],
+        [
+          "dertig",
+          "thirty"
+        ],
+        [
+          "vijftig",
+          "fifty"
+        ],
+        [
+          "honderd",
+          "hundred"
+        ],
+        [
+          "goedkoop",
+          "cheap"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de prijs",
+          "the price"
+        ],
+        [
+          "betalen",
+          "to pay"
+        ],
+        [
+          "contant",
+          "cash"
+        ],
+        [
+          "pinnen",
+          "to pay by card"
+        ],
+        [
+          "het bonnetje",
+          "the receipt"
+        ]
+      ]
+    },
+    {
+      "type": "article",
+      "word": "euro",
+      "en": "euro",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "bonnetje",
+      "en": "receipt",
+      "answer": "het"
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form. (one thing)",
+      "nl": "De koffie ___ twee euro vijftig.",
+      "options": [
+        "kost",
+        "kosten",
+        "betalen"
+      ],
+      "answer": 0,
+      "explain": "De koffie is one thing, so use 'kost'."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form. (two things)",
+      "nl": "De koffie en de melk ___ samen drie euro vijftig.",
+      "options": [
+        "kost",
+        "kosten",
+        "is"
+      ],
+      "answer": 1,
+      "explain": "De koffie en de melk are two things, so use 'kosten'."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which is 22 in Dutch?",
+      "nl": null,
+      "options": [
+        "tweeëntwintig",
+        "twintigtwee",
+        "tweeentwintig"
+      ],
+      "answer": 0,
+      "explain": "Dutch says two-and-twenty: tweeëntwintig."
+    },
+    {
+      "type": "choice",
+      "prompt": "How do you say €2,50 in Dutch?",
+      "nl": null,
+      "options": [
+        "twee euro vijftig",
+        "twee komma vijftig",
+        "vijfentwintig euro"
+      ],
+      "answer": 0,
+      "explain": "Say euro and cent, not komma."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form with ik.",
+      "nl": "Ik betaal niet contant. Ik ___.",
+      "options": [
+        "pin",
+        "pint",
+        "pinnen"
+      ],
+      "answer": 0,
+      "explain": "With ik, pinnen becomes pin."
+    },
+    {
+      "type": "build",
+      "en": "How much does the coffee cost?",
+      "answer": "Hoeveel kost de koffie?",
+      "accept": [],
+      "extra": [
+        "kosten",
+        "vijf"
+      ],
+      "explain": "With one thing (de koffie), use 'kost': 'Hoeveel kost de koffie?'"
+    },
+    {
+      "type": "build",
+      "en": "The milk and the coffee cost three euros fifty.",
+      "answer": "De melk en de koffie kosten drie euro vijftig.",
+      "accept": [
+        "De koffie en de melk kosten drie euro vijftig."
+      ],
+      "extra": [
+        "kost",
+        "vijf"
+      ],
+      "explain": "With two things (de melk en de koffie), use 'kosten': 'De melk en de koffie kosten...'"
+    },
+    {
+      "type": "build",
+      "en": "I would like a receipt, please.",
+      "answer": "Ik wil graag een bonnetje, alstublieft.",
+      "accept": [],
+      "extra": [
+        "bonnetjes",
+        "kost"
+      ],
+      "explain": "Use 'een bonnetje' (het-word) and keep 'alstublieft' at the end: 'Ik wil graag een bonnetje, alstublieft.'"
+    },
+    {
+      "type": "gap",
+      "text": "De koffie ___ twee euro vijftig.",
+      "en": "The coffee costs two euros fifty.",
+      "answers": [
+        "kost"
+      ],
+      "hint": "Use the form for one thing.",
+      "explain": "De koffie is one thing, so use 'kost'."
+    },
+    {
+      "type": "gap",
+      "text": "De melk en de koffie ___ samen drie euro vijftig.",
+      "en": "The milk and the coffee cost three euros fifty together.",
+      "answers": [
+        "kosten"
+      ],
+      "hint": "Use the form for two or more things.",
+      "explain": "De melk en de koffie are two things, so use 'kosten'."
+    },
+    {
+      "type": "gap",
+      "text": "Ik betaal ___.",
+      "en": "I pay in cash.",
+      "answers": [
+        "contant"
+      ],
+      "hint": "No preposition; use the adverb for cash.",
+      "explain": "'Contant' is an adverb; say 'Ik betaal contant.' No 'met'."
+    },
+    {
+      "type": "translate",
+      "en": "How much does the coffee cost?",
+      "answers": [
+        "Hoeveel kost de koffie?",
+        "Wat kost de koffie?",
+        "Hoeveel is de koffie?"
+      ],
+      "focus": "asking a price",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses plural 'kosten' with singular 'de koffie' (Hoeveel kosten de koffie?)",
+          "explain": "De koffie is one thing, so use 'kost': 'Hoeveel kost de koffie?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb at the end (Hoeveel de koffie kost?)",
+          "explain": "In a direct question, the verb comes after hoeveel/wat: 'Hoeveel kost de koffie?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses both 'is' and 'kost' (Hoeveel is kost de koffie?)",
+          "explain": "Use either 'is' or 'kost', not both: 'Hoeveel is de koffie?' or 'Hoeveel kost de koffie?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "That is cheap.",
+      "answers": [
+        "Dat is goedkoop."
+      ],
+      "focus": "goedkoop",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the comparative 'goedkoper' (Dat is goedkoper.)",
+          "explain": "'Cheap' is 'goedkoop'; 'goedkoper' means 'cheaper'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds -e after 'is' (Dat is goedkope.)",
+          "explain": "After 'is', use 'goedkoop': 'Dat is goedkoop.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the opposite 'duur' (Dat is duur.)",
+          "explain": "'Goedkoop' means cheap; 'duur' means expensive."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I would like to pay cash.",
+      "answers": [
+        "Ik wil graag contant betalen.",
+        "Ik wil contant betalen, graag.",
+        "Ik wil contant betalen."
+      ],
+      "focus": "betalen + contant",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts 'contant' after 'betalen' (Ik wil graag betalen contant.)",
+          "explain": "Place 'contant' before 'betalen': 'Ik wil graag contant betalen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'betaal' after 'wil' (Ik wil graag contant betaal.)",
+          "explain": "After 'wil', use the infinitive 'betalen': 'Ik wil graag contant betalen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds 'met' before 'contant' (Ik wil graag met contant betalen.)",
+          "explain": "Say 'contant betalen', not 'met contant betalen'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses English 'cash' (Ik wil graag cash betalen.)",
+          "explain": "In Dutch use 'contant', not English 'cash': 'Ik wil graag contant betalen.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The price is ninety euros.",
+      "answers": [
+        "De prijs is negentig euro."
+      ],
+      "focus": "numbers + prijs",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses English plural 'euros' (De prijs is negentig euros.)",
+          "explain": "In Dutch, amounts use 'euro': 'negentig euro'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'euro's' after a number (De prijs is negentig euro's.)",
+          "explain": "After a number, say 'negentig euro', not 'negentig euro's'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Confuses 90 and 19 (De prijs is negentien euro.)",
+          "explain": "Ninety is 'negentig'; nineteen is 'negentien'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts the verb at the end (De prijs negentig euro is.)",
+          "explain": "The verb 'is' comes after the subject: 'De prijs is negentig euro.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "De melk kost een euro.",
+      "en": "The milk costs one euro."
+    },
+    {
+      "type": "listen",
+      "nl": "Dat is drie euro vijftig.",
+      "en": "That is three euros fifty."
+    },
+    {
+      "type": "reply",
+      "context": "You are at the till. The shop assistant says: 'Een bonnetje?'",
+      "say": {
+        "nl": "Een bonnetje?",
+        "en": "A receipt?"
+      },
+      "task": "Say no, thank you; you pay cash.",
+      "examples": [
+        "Nee, dank u wel. Ik betaal contant.",
+        "Nee, dank je wel. Ik betaal contant."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'met contant' (Nee, dank u wel. Ik betaal met contant.)",
+          "explain": "Say 'Ik betaal contant', without 'met'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'pin' for paying cash (Nee, dank u wel. Ik pin contant.)",
+          "explain": "Pinnen means pay by card; for cash say 'Ik betaal contant.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses English 'cash' (Nee, dank u wel. Ik betaal cash.)",
+          "explain": "In Dutch use 'contant': 'Ik betaal contant.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets 'betalen' (Nee, dank u wel. Ik contant.)",
+          "explain": "Use 'betalen': 'Ik betaal contant.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You want to pay by card. The shop assistant says: 'Dat is vijf euro vijftig.'",
+      "say": {
+        "nl": "Dat is vijf euro vijftig.",
+        "en": "That is five euros fifty."
+      },
+      "task": "Ask if you can pay by card.",
+      "examples": [
+        "Kan ik pinnen?",
+        "Mag ik pinnen?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'pin' after 'kan' (Kan ik pin?)",
+          "explain": "After 'kan', use the infinitive 'pinnen': 'Kan ik pinnen?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'met' before 'pinnen' (Kan ik met pinnen?)",
+          "explain": "Say 'Kan ik pinnen?' without 'met'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'betaal' (Kan ik betaal pinnen?)",
+          "explain": "Use 'pinnen' directly after 'kan ik': 'Kan ik pinnen?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'pint' (Kan ik pint?)",
+          "explain": "After 'kan', use 'pinnen': 'Kan ik pinnen?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Betalen in de winkel",
+    "setting": "You are at a small corner shop with coffee and milk. Sanne is at the till.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "shop assistant at the till"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag.",
+          "en": "Good afternoon."
+        },
+        "task": "Greet her and ask how much the coffee costs.",
+        "examples": [
+          "Goedemiddag. Hoeveel kost de koffie?",
+          "Goedemiddag. Wat kost de koffie?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses plural 'kosten' with singular 'de koffie' (Goedemiddag. Hoeveel kosten de koffie?)",
+            "explain": "De koffie is one thing, so use 'kost': 'Hoeveel kost de koffie?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the verb at the end (Goedemiddag. Hoeveel de koffie kost?)",
+            "explain": "In a question, the verb comes after hoeveel: 'Hoeveel kost de koffie?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De koffie kost twee euro vijftig. De melk kost een euro.",
+          "en": "The coffee costs two euros fifty. The milk costs one euro."
+        },
+        "task": "Say that is cheap and say you would like the coffee and the milk.",
+        "examples": [
+          "Dat is goedkoop. Ik wil graag de koffie en de melk.",
+          "Dat is goedkoop. Ik wil de koffie en de melk graag."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'goedkope' after 'is' (Dat is goedkope.)",
+            "explain": "After 'is', use the base form: 'Dat is goedkoop.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds 'kosten' after 'wil graag' (Ik wil graag de koffie en de melk kosten.)",
+            "explain": "No verb is needed here: 'Ik wil graag de koffie en de melk.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'wilt' with 'ik' (Ik wilt graag de koffie en de melk.)",
+            "explain": "With 'ik', use 'wil': 'Ik wil graag de koffie en de melk.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Separates 'graag' from 'wil' awkwardly (Ik wil de koffie graag en de melk.)",
+            "explain": "Put 'graag' after 'wil': 'Ik wil graag de koffie en de melk.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dat is drie euro vijftig.",
+          "en": "That is three euros fifty."
+        },
+        "task": "Ask if you can pay by card.",
+        "examples": [
+          "Kan ik pinnen?",
+          "Mag ik pinnen?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'pin' after 'kan' (Kan ik pin?)",
+            "explain": "After 'kan', use the infinitive 'pinnen': 'Kan ik pinnen?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'met' before 'pinnen' (Kan ik met pinnen?)",
+            "explain": "Say 'Kan ik pinnen?' without 'met'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'betaal' (Kan ik betaal pinnen?)",
+            "explain": "Use 'pinnen' directly after 'kan ik': 'Kan ik pinnen?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja. Een bonnetje?",
+          "en": "Yes. A receipt?"
+        },
+        "task": "Say no, thank you; you pay cash.",
+        "examples": [
+          "Nee, dank u wel. Ik betaal contant.",
+          "Nee, dank je wel. Ik betaal contant."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'met contant' (Nee, dank u wel. Ik betaal met contant.)",
+            "explain": "Say 'Ik betaal contant', without 'met'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'pin' for paying cash (Nee, dank u wel. Ik pin contant.)",
+            "explain": "Pinnen means pay by card; for cash say 'Ik betaal contant.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses English 'cash' (Nee, dank u wel. Ik betaal cash.)",
+            "explain": "In Dutch use 'contant': 'Ik betaal contant.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Dank u wel. Tot ziens.",
+      "en": "Thank you. Goodbye."
+    }
+  },
+  "culture": {
+    "title": "Prijzen en betalen in Nederland",
+    "text": "In Dutch shops prices are written with a comma: 2,50 means two euros fifty, not two hundred fifty. A growing number of shops and cafés are card-only, so you may see alleen pinnen; smaller shops and markets often still take cash. Keep your bonnetje if you need to return something."
+  },
+  "summary": [
+    "Count from 20 to 100 by learning the tens and the one-and-twenty pattern.",
+    "Say prices with euro and cent: 2,50 = twee euro vijftig.",
+    "Use kost for one item and kosten for two or more.",
+    "Ask Kan ik pinnen? and say Ik betaal contant."
+  ]
+}

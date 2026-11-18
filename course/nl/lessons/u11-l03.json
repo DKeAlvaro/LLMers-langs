@@ -1,0 +1,1091 @@
+{
+  "id": "u11-l03",
+  "title": "Echt Nederlands",
+  "subtitle": "Customs and little words",
+  "level": "A2+",
+  "intro": "In this lesson you learn the small words that make Dutch sound natural instead of just correct: even, maar, toch, wel, hoor and nou. You also pick up the unwritten rules of a Dutch birthday and a borrel, so you know what to expect and what to say.",
+  "words": [
+    {
+      "nl": "gezellig",
+      "en": "cosy, sociable, fun (of an atmosphere)",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het was een gezellige avond.",
+        "en": "It was a cosy evening."
+      },
+      "note": "It is about the atmosphere and the people, not about the room itself."
+    },
+    {
+      "nl": "gezelligheid",
+      "en": "cosiness, sociable atmosphere",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik hou van de gezelligheid in Nederland.",
+        "en": "I love the cosy atmosphere in the Netherlands."
+      },
+      "note": "In practice it has no plural."
+    },
+    {
+      "nl": "verjaardag",
+      "en": "birthday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "verjaardagen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn verjaardag is in mei.",
+        "en": "My birthday is in May."
+      },
+      "note": null
+    },
+    {
+      "nl": "iedereen",
+      "en": "everyone, everybody",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Iedereen is hier.",
+        "en": "Everyone is here."
+      },
+      "note": "Iedereen is singular in Dutch: iedereen is, not iedereen zijn."
+    },
+    {
+      "nl": "kring",
+      "en": "circle (of chairs)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kringen",
+      "forms": null,
+      "example": {
+        "nl": "Bij een verjaardag zit iedereen in de kring.",
+        "en": "At a birthday party everyone sits in the circle."
+      },
+      "note": "Dutch birthday parties are famous for the kring of chairs in the living room."
+    },
+    {
+      "nl": "kopje koffie",
+      "en": "cup of coffee",
+      "pos": "noun",
+      "article": "het",
+      "plural": "kopjes koffie",
+      "forms": null,
+      "example": {
+        "nl": "Wil je een kopje koffie?",
+        "en": "Would you like a cup of coffee?"
+      },
+      "note": "At a Dutch visit you get one cup, not a whole pot."
+    },
+    {
+      "nl": "koekje",
+      "en": "biscuit, cookie",
+      "pos": "noun",
+      "article": "het",
+      "plural": "koekjes",
+      "forms": null,
+      "example": {
+        "nl": "Neem een koekje bij de koffie.",
+        "en": "Take a biscuit with your coffee."
+      },
+      "note": "The famous rule is one biscuit with the coffee."
+    },
+    {
+      "nl": "traktatie",
+      "en": "treat (something you hand out)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "traktaties",
+      "forms": null,
+      "example": {
+        "nl": "Op mijn werk neem ik een traktatie mee.",
+        "en": "At work I bring a treat."
+      },
+      "note": null
+    },
+    {
+      "nl": "trakteren",
+      "en": "to treat someone, to hand out treats",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik trakteer, jij trakteert, wij trakteren (heeft getrakteerd)",
+      "example": {
+        "nl": "Ik trakteer! Wat wil je drinken?",
+        "en": "It's on me! What would you like to drink?"
+      },
+      "note": "Ik trakteer is the standard way to say that you are paying."
+    },
+    {
+      "nl": "borrel",
+      "en": "drinks with friends or colleagues",
+      "pos": "noun",
+      "article": "de",
+      "plural": "borrels",
+      "forms": null,
+      "example": {
+        "nl": "We hebben vrijdag een borrel op het werk.",
+        "en": "We're having drinks at work on Friday."
+      },
+      "note": "A borrel is informal drinks, usually at the end of the afternoon, with snacks."
+    },
+    {
+      "nl": "agenda",
+      "en": "diary, calendar, schedule",
+      "pos": "noun",
+      "article": "de",
+      "plural": "agenda's",
+      "forms": null,
+      "example": {
+        "nl": "Nederlanders plannen alles in hun agenda.",
+        "en": "Dutch people plan everything in their diary."
+      },
+      "note": null
+    },
+    {
+      "nl": "op tijd",
+      "en": "on time",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De trein is op tijd.",
+        "en": "The train is on time."
+      },
+      "note": null
+    },
+    {
+      "nl": "eerlijk",
+      "en": "honest, honestly",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Eerlijk gezegd vind ik het niet leuk.",
+        "en": "Honestly speaking, I don't like it."
+      },
+      "note": "Eerlijk? on its own can also mean 'Really?' when you are surprised."
+    },
+    {
+      "nl": "direct",
+      "en": "right away, immediately",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik kom direct.",
+        "en": "I'll come right away."
+      },
+      "note": "Also used before a noun: een directe verbinding."
+    },
+    {
+      "nl": "gebruik",
+      "en": "custom, use",
+      "pos": "noun",
+      "article": "het",
+      "plural": "gebruiken",
+      "forms": null,
+      "example": {
+        "nl": "Dat is een oud gebruik.",
+        "en": "That is an old custom."
+      },
+      "note": null
+    },
+    {
+      "nl": "gewoonte",
+      "en": "habit, custom",
+      "pos": "noun",
+      "article": "de",
+      "plural": "gewoontes",
+      "forms": null,
+      "example": {
+        "nl": "Het is een gewoonte om één koekje te nemen.",
+        "en": "It is a habit to take just one biscuit."
+      },
+      "note": "The plural is de gewoontes or de gewoonten; both are correct."
+    },
+    {
+      "nl": "gewoon",
+      "en": "normal, ordinary; just, simply",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik neem gewoon een kopje koffie.",
+        "en": "I'll just have a cup of coffee."
+      },
+      "note": "As an adverb it means 'just, simply': Ik doe het gewoon."
+    },
+    {
+      "nl": "normaal",
+      "en": "normal, normally",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Normaal gesproken ben ik op tijd.",
+        "en": "Normally I am on time."
+      },
+      "note": "Normaal gesproken is a very common way to say 'normally, as a rule'."
+    },
+    {
+      "nl": "even",
+      "en": "briefly, for a moment",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Kom even hier.",
+        "en": "Come here for a moment."
+      },
+      "note": "Even makes a request sound light and friendly."
+    },
+    {
+      "nl": "maar",
+      "en": "just, go ahead (softener); but",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Kom maar binnen.",
+        "en": "Just come in."
+      },
+      "note": "In Kom maar binnen it does not mean 'but' — it softens the command."
+    },
+    {
+      "nl": "toch",
+      "en": "after all, still; right?",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Je komt toch ook?",
+        "en": "You're coming too, aren't you?"
+      },
+      "note": "In a question it asks the other person to agree."
+    },
+    {
+      "nl": "wel",
+      "en": "indeed, rather (opposite of niet)",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb geen auto, maar wel een fiets.",
+        "en": "I don't have a car, but I do have a bike."
+      },
+      "note": "Wel is the positive partner of niet and geen."
+    },
+    {
+      "nl": "eens",
+      "en": "once; come on, for once",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Kom eens hier.",
+        "en": "Come here for a moment."
+      },
+      "note": "Eens makes a command sound softer and more casual."
+    },
+    {
+      "nl": "hoor",
+      "en": "(softener, reassurance)",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is niet erg, hoor.",
+        "en": "It's fine, really."
+      },
+      "note": "Hoor never means 'hear' here; it makes the sentence friendlier."
+    },
+    {
+      "nl": "nu",
+      "en": "now",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Nu al? Dat is wel kort.",
+        "en": "Already? That's rather short."
+      },
+      "note": "In informal speech you often hear nou."
+    },
+    {
+      "nl": "nou",
+      "en": "well, so; now (informal)",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Nou, dat was gezellig!",
+        "en": "Well, that was fun!"
+      },
+      "note": "Nou is the informal spoken form of nu and a common filler at the start of a sentence."
+    },
+    {
+      "nl": "lekker",
+      "en": "tasty; nice, pleasantly",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is vandaag lekker weer.",
+        "en": "The weather is nice today."
+      },
+      "note": "Lekker is used far more widely than English 'tasty': lekker slapen, lekker rustig."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Kom maar binnen.",
+      "en": "Just come in.",
+      "note": "Maar makes it friendly, not rude."
+    },
+    {
+      "nl": "Kom even hier.",
+      "en": "Come here for a moment.",
+      "note": null
+    },
+    {
+      "nl": "Ik trakteer.",
+      "en": "It's on me.",
+      "note": "Said when you pay for the drinks or snacks."
+    },
+    {
+      "nl": "Neem een koekje.",
+      "en": "Take a biscuit.",
+      "note": "At a Dutch visit: one biscuit with the coffee."
+    },
+    {
+      "nl": "Eerlijk gezegd...",
+      "en": "Honestly speaking...",
+      "note": "A common way to start an honest opinion."
+    },
+    {
+      "nl": "Normaal gesproken...",
+      "en": "Normally, as a rule...",
+      "note": null
+    },
+    {
+      "nl": "Het is hier altijd gezellig.",
+      "en": "It's always cosy here.",
+      "note": null
+    },
+    {
+      "nl": "Doe maar gewoon, dan doe je al gek genoeg.",
+      "en": "Just act normal, that's crazy enough already.",
+      "note": "A famous Dutch saying about not standing out."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Softening with even and maar",
+      "explanation": "Dutch often makes a command or request friendlier with **even** (for a moment) or **maar** (just, go ahead). **Kom hier** is a plain order; **Kom even hier** and **Kom maar binnen** sound relaxed and kind. **Maar** here does not mean 'but' — it takes the sharp edge off. In a simple imperative, both words come right after the verb.",
+      "table": {
+        "headers": [
+          "Without softener",
+          "With even / maar"
+        ],
+        "rows": [
+          [
+            "Kom hier.",
+            "Kom even hier."
+          ],
+          [
+            "Kom binnen.",
+            "Kom maar binnen."
+          ],
+          [
+            "Wacht.",
+            "Wacht even."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Kom even hier.",
+          "en": "Come here for a moment."
+        },
+        {
+          "nl": "Kom maar binnen, het is koud.",
+          "en": "Just come in, it's cold."
+        }
+      ],
+      "tip": "With a separable verb like **binnenkomen**, put **maar** before the particle: **Kom maar binnen**, not 'Kom binnen maar'."
+    },
+    {
+      "title": "toch: confirmation and contrast",
+      "explanation": "**Toch** asks the listener to agree ('right?') or shows that something happens despite a problem ('still, anyway'). In a question it usually sits in the middle: **Je komt toch ook?** In a contrast it means 'still': **Het regende, maar we gingen toch.** At the end of a short reaction it simply means 'right?'.",
+      "table": {
+        "headers": [
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "confirmation (right?)",
+            "Je komt toch ook?"
+          ],
+          [
+            "contrast (still, anyway)",
+            "Het regende, maar we gingen toch."
+          ],
+          [
+            "at the end: right?",
+            "Gezellig, toch?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Je komt toch ook?",
+          "en": "You're coming too, aren't you?"
+        },
+        {
+          "nl": "Het regende, maar we gingen toch.",
+          "en": "It was raining, but we went anyway."
+        }
+      ],
+      "tip": "In spoken Dutch a sentence often ends in **..., toch?** — that is just '..., right?'."
+    },
+    {
+      "title": "wel against niet and geen",
+      "explanation": "**Wel** is the positive answer to a negative: **Ik heb geen auto, maar wel een fiets.** It can also mean 'indeed' or 'after all': **Ik kom wel, hoor.** Before an adjective it makes a mild contrast: **Het is wel duur.**",
+      "table": {
+        "headers": [
+          "Negative",
+          "Positive with wel"
+        ],
+        "rows": [
+          [
+            "Ik heb geen auto.",
+            "Ik heb wel een fiets."
+          ],
+          [
+            "Ik kom niet.",
+            "Ik kom wel."
+          ],
+          [
+            "Het is niet duur.",
+            "Het is wel duur."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb geen auto, maar wel een fiets.",
+          "en": "I don't have a car, but I do have a bike."
+        },
+        {
+          "nl": "Ik kom wel, hoor.",
+          "en": "I'll come, don't worry."
+        }
+      ],
+      "tip": "In this use **wel** stays in the middle of the sentence, after the verb or before the noun: **Ik heb wel een fiets**."
+    }
+  ],
+  "dialogue": {
+    "title": "In de kring",
+    "setting": "Tom is new in the Netherlands and is invited to Sanne's birthday party in Utrecht.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Tom",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Kom maar binnen! Leuk dat je er bent.",
+        "en": "Just come in! Nice that you're here."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Gefeliciteerd met je verjaardag! Wat is het hier gezellig.",
+        "en": "Congratulations on your birthday! It's so cosy here."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank je! Ga in de kring zitten.",
+        "en": "Thanks! Have a seat in the circle."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Moet ik een cadeau geven?",
+        "en": "Do I have to give a present?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, dat is niet nodig, hoor. Je bent mijn gast.",
+        "en": "No, that's not necessary, really. You're my guest."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wil je een kopje koffie of thee?",
+        "en": "Would you like a cup of coffee or tea?"
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Koffie, graag. Met een koekje?",
+        "en": "Coffee, please. With a biscuit?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Natuurlijk. Maar één koekje, hoor — dat is het gebruik.",
+        "en": "Of course. But just one biscuit, you know — that's the custom."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Maar één? Mag ik niet twee nemen?",
+        "en": "Only one? May I not take two?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, één. En om drie uur gaan de gasten weg.",
+        "en": "No, one. And at three o'clock the guests go home."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Nu al? Dat is wel kort.",
+        "en": "Already? That's rather short."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, dat is normaal hier. Nederlanders plannen alles in hun agenda.",
+        "en": "Yes, that's normal here. Dutch people plan everything in their diary."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Eerlijk gezegd ben ik vaak te laat. Maar vandaag ben ik op tijd.",
+        "en": "Honestly speaking, I'm often late. But today I'm on time."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Gezellig! Dan kom je volgende week toch ook naar mijn borrel?",
+        "en": "Nice! Then you're coming to my drinks next week too, aren't you?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "gezellig",
+          "cosy, fun"
+        ],
+        [
+          "op tijd",
+          "on time"
+        ],
+        [
+          "de borrel",
+          "drinks with friends"
+        ],
+        [
+          "eerlijk",
+          "honest"
+        ],
+        [
+          "de gewoonte",
+          "habit"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de traktatie",
+          "treat"
+        ],
+        [
+          "trakteren",
+          "to treat someone"
+        ],
+        [
+          "het gebruik",
+          "custom, use"
+        ],
+        [
+          "de kring",
+          "circle of chairs"
+        ],
+        [
+          "de agenda",
+          "diary, schedule"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence sounds friendly and relaxed, not like a hard order?",
+      "nl": null,
+      "options": [
+        "Kom hier.",
+        "Kom even hier.",
+        "Jij moet hier komen."
+      ],
+      "answer": 1,
+      "explain": "Even makes the order sound light and friendly."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence says you don't have a car but you do have a bike?",
+      "nl": null,
+      "options": [
+        "Ik heb geen auto, maar niet een fiets.",
+        "Ik heb geen auto, maar wel een fiets.",
+        "Ik heb geen auto, maar toch geen fiets."
+      ],
+      "answer": 1,
+      "explain": "Wel is the positive partner of geen."
+    },
+    {
+      "type": "choice",
+      "prompt": "A colleague says: 'Het is niet erg, hoor.' What does hoor do?",
+      "nl": "Het is niet erg, hoor.",
+      "options": [
+        "It makes the sentence stronger.",
+        "It makes the sentence unfriendly.",
+        "It reassures and softens."
+      ],
+      "answer": 2,
+      "explain": "Hoor is a softener and never means 'hear' in this position."
+    },
+    {
+      "type": "article",
+      "word": "gebruik",
+      "en": "custom, use",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "gewoonte",
+      "en": "habit",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "Come here for a moment.",
+      "answer": "Kom even hier",
+      "accept": [],
+      "extra": [
+        "komt"
+      ],
+      "explain": "Use the imperative 'kom' and put 'even' right after it: 'Kom even hier.'"
+    },
+    {
+      "type": "build",
+      "en": "I don't have a car, but I do have a bike.",
+      "answer": "Ik heb geen auto maar wel een fiets",
+      "accept": [],
+      "extra": [
+        "niet"
+      ],
+      "explain": "Use 'wel' to contrast with 'geen': 'geen auto, maar wel een fiets.'"
+    },
+    {
+      "type": "build",
+      "en": "Honestly speaking, that is very normal here.",
+      "answer": "Eerlijk gezegd is dat hier heel normaal",
+      "accept": [
+        "Eerlijk gezegd is dat heel normaal hier"
+      ],
+      "extra": [
+        "normale"
+      ],
+      "explain": "After 'Eerlijk gezegd' the verb comes before the subject: 'Eerlijk gezegd is dat ...'."
+    },
+    {
+      "type": "gap",
+      "text": "Kom ___ hier, dan kun je het beter zien.",
+      "en": "Come here for a moment, then you can see it better.",
+      "answers": [
+        "even",
+        "eens"
+      ],
+      "hint": "for a moment",
+      "explain": "Use 'even' (or the casual softener 'eens') right after the imperative: 'Kom even hier.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb geen auto, maar ___ een fiets.",
+      "en": "I don't have a car, but I do have a bike.",
+      "answers": [
+        "wel"
+      ],
+      "hint": "the opposite of 'geen'",
+      "explain": "Use 'wel' as the positive partner of 'geen': 'maar wel een fiets.'"
+    },
+    {
+      "type": "gap",
+      "text": "Je komt ___ ook naar mijn borrel?",
+      "en": "You're coming to my drinks too, aren't you?",
+      "answers": [
+        "toch"
+      ],
+      "hint": "asking for confirmation",
+      "explain": "Use 'toch' to ask for confirmation: 'Je komt toch ook?'"
+    },
+    {
+      "type": "translate",
+      "en": "Just come in.",
+      "answers": [
+        "Kom maar binnen",
+        "Kom maar binnen.",
+        "Komt u maar binnen",
+        "Komt u maar binnen.",
+        "Kom maar naar binnen",
+        "Kom maar naar binnen.",
+        "Komt u maar naar binnen",
+        "Komt u maar naar binnen."
+      ],
+      "focus": "softening with maar",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts 'maar' at the end or before the verb (e.g. 'Kom binnen maar').",
+          "explain": "Put 'maar' right after the imperative: 'Kom maar binnen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'komt' without 'u' as an imperative (e.g. 'Komt maar binnen').",
+          "explain": "Use 'kom' for an informal command; use 'komt u' only with 'u': 'Kom maar binnen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out 'maar' so it sounds like a plain order (e.g. 'Kom binnen').",
+          "explain": "Add 'maar' to make the invitation friendly: 'Kom maar binnen.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "It's on me.",
+      "answers": [
+        "Ik trakteer",
+        "Ik trakteer.",
+        "Ik betaal",
+        "Ik betaal."
+      ],
+      "focus": "trakteren",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'zijn' with 'trakteren' (e.g. 'Ik ben trakteren').",
+          "explain": "'Trakteren' is a normal verb: 'Ik trakteer.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds a direct object when offering to pay for everyone (e.g. 'Ik trakteer jou').",
+          "explain": "For 'It's on me' say just 'Ik trakteer' (or 'Ik betaal')."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'Ik geef' for paying (e.g. 'Ik geef').",
+          "explain": "Say 'Ik trakteer' or 'Ik betaal' to mean 'It's on me.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Normally I am on time.",
+      "answers": [
+        "Normaal gesproken ben ik op tijd",
+        "Normaal gesproken ben ik op tijd.",
+        "Normaal ben ik op tijd",
+        "Normaal ben ik op tijd.",
+        "Ik ben normaal gesproken op tijd",
+        "Ik ben normaal gesproken op tijd.",
+        "Ik ben normaal op tijd",
+        "Ik ben normaal op tijd."
+      ],
+      "focus": "normaal gesproken + verb second",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the subject before the verb after 'Normaal gesproken' (e.g. 'Normaal gesproken ik ben op tijd').",
+          "explain": "After 'Normaal gesproken' the verb comes first: 'Normaal gesproken ben ik op tijd.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'hebben' with 'op tijd' (e.g. 'Ik heb op tijd').",
+          "explain": "Use 'zijn': 'Ik ben op tijd.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a form of 'normaal' before the subject without inversion (e.g. 'Normale ben ik op tijd').",
+          "explain": "The adverb is 'normaal (gesproken)': 'Normaal gesproken ben ik op tijd.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Het is hier altijd gezellig.",
+      "en": "It is always cosy here."
+    },
+    {
+      "type": "listen",
+      "nl": "Neem maar een koekje bij de koffie.",
+      "en": "Just take a biscuit with your coffee."
+    },
+    {
+      "type": "reply",
+      "context": "You are at a Dutch birthday party. The host offers you coffee.",
+      "say": {
+        "nl": "Wil je een kopje koffie?",
+        "en": "Would you like a cup of coffee?"
+      },
+      "task": "Say yes politely and ask for a biscuit.",
+      "examples": [
+        "Ja, graag! Mag ik een koekje?",
+        "Graag, dank je wel. Ik neem graag een koekje."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Accepts too abruptly with only 'Ja' or 'Ja, koffie' (e.g. 'Ja. Koffie.').",
+          "explain": "Say 'Ja, graag' to accept politely: 'Ja, graag!'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'Ik wil een koekje' as a request (e.g. 'Ik wil een koekje').",
+          "explain": "Ask politely with 'mag': 'Mag ik een koekje?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'geen' in the question for one biscuit (e.g. 'Mag ik geen koekje?').",
+          "explain": "Use 'een' for one biscuit: 'Mag ik een koekje?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'de koekje' (e.g. 'Mag ik de koekje?').",
+          "explain": "It is 'het koekje': 'Mag ik een koekje?'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "A colleague invites you to a borrel on Friday, but you already have plans.",
+      "say": {
+        "nl": "We hebben vrijdag een borrel. Kom je ook?",
+        "en": "We're having drinks on Friday. Are you coming?"
+      },
+      "task": "Say you can't come, give a short reason and suggest another time.",
+      "examples": [
+        "Helaas, vrijdag kan ik niet. Ik heb een etentje. Volgende week kan ik wel.",
+        "Jammer, ik kan niet komen. Ik heb al een afspraak. Zullen we volgende week afspreken?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the time after 'niet' (e.g. 'Ik kan niet vrijdag komen').",
+          "explain": "Put the time before 'niet': 'Ik kan vrijdag niet komen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Refuses with bare 'Nee' and no softener (e.g. 'Nee, ik kan niet').",
+          "explain": "Soften the refusal with 'Helaas' or 'Jammer': 'Helaas, vrijdag kan ik niet.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'maken' with 'etentje' (e.g. 'Ik maak een etentje').",
+          "explain": "You 'hebt' an etentje: 'Ik heb een etentje.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Suggests without 'zullen we' or 'kunnen we' (e.g. 'Volgende week afspreken?').",
+          "explain": "Make a suggestion: 'Zullen we volgende week afspreken?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op de verjaardag",
+    "setting": "You are a guest at Sanne's birthday party in Utrecht. She welcomes you and explains how things work.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "your Dutch friend whose birthday it is"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Kom maar binnen! Ga zitten in de kring.",
+          "en": "Come in! Have a seat in the circle."
+        },
+        "task": "Greet her, congratulate her on her birthday and say that it looks cosy.",
+        "examples": [
+          "Gefeliciteerd! Wat is het hier gezellig.",
+          "Van harte! Het is heel gezellig bij jou."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'Ik ben gefeliciteerd' instead of congratulating Sanne (e.g. 'Ik ben gefeliciteerd').",
+            "explain": "Say 'Gefeliciteerd!' to her; don't say 'Ik ben gefeliciteerd.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'voor je verjaardag' with 'gefeliciteerd' (e.g. 'Gefeliciteerd voor je verjaardag').",
+            "explain": "Say 'Gefeliciteerd met je verjaardag' (or just 'Gefeliciteerd!')."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the verb wrong after 'Wat' (e.g. 'Wat het is hier gezellig').",
+            "explain": "Use inversion: 'Wat is het hier gezellig.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dank je! Wil je een kopje koffie of thee?",
+          "en": "Thanks! Would you like a cup of coffee or tea?"
+        },
+        "task": "Choose coffee, thank her and ask whether you may take a biscuit.",
+        "examples": [
+          "Koffie, graag. Mag ik een koekje?",
+          "Graag een kopje koffie. En een koekje, mag dat?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Orders with 'Ik wil koffie' without 'graag' (e.g. 'Ik wil koffie').",
+            "explain": "Order politely with 'graag': 'Koffie, graag.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'de koekje' (e.g. 'Mag ik de koekje?').",
+            "explain": "It is 'het koekje': 'Mag ik een koekje?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Asks without 'mag' (e.g. 'Ik neem een koekje?').",
+            "explain": "Ask permission with 'Mag ik ...?': 'Mag ik een koekje?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Natuurlijk. Maar één koekje, hoor — dat is het gebruik.",
+          "en": "Of course. But just one biscuit, you know — that's the custom."
+        },
+        "task": "Say that is a nice habit and ask what time everyone goes home.",
+        "examples": [
+          "Dat is een leuke gewoonte. Hoe laat gaat iedereen naar huis?",
+          "Wat een leuke gewoonte! Hoe laat gaat iedereen naar huis?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'leuk' without -e before 'gewoonte' (e.g. 'een leuk gewoonte').",
+            "explain": "De gewoonte is a de-word, so add -e: 'een leuke gewoonte.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Keeps the subject before the verb after 'Hoe laat' (e.g. 'Hoe laat iedereen gaat naar huis?').",
+            "explain": "After 'hoe laat' the verb comes second: 'Hoe laat gaat iedereen naar huis?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'weggaan' with 'naar huis' (e.g. 'Hoe laat gaan de gasten naar huis weg?').",
+            "explain": "Use either 'naar huis gaan' or 'weggaan': 'Hoe laat gaat iedereen naar huis?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Om drie uur. Nederlanders zijn graag op tijd.",
+          "en": "At three o'clock. Dutch people like to be on time."
+        },
+        "task": "Say honestly that you are often late, but that you are on time today.",
+        "examples": [
+          "Eerlijk gezegd ben ik vaak te laat. Maar vandaag ben ik op tijd.",
+          "Ik ben eerlijk gezegd vaak te laat. Vandaag ben ik wel op tijd."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps the subject before the verb after 'Eerlijk gezegd' (e.g. 'Eerlijk gezegd ik ben vaak te laat').",
+            "explain": "After 'Eerlijk gezegd' the verb comes first: 'Eerlijk gezegd ben ik vaak te laat.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'hebben' with 'te laat' (e.g. 'Ik heb vaak te laat').",
+            "explain": "Use 'zijn': 'Ik ben vaak te laat.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Keeps the subject before the verb after 'Maar vandaag' (e.g. 'Maar vandaag ik ben op tijd').",
+            "explain": "After 'Maar vandaag' the verb comes second: 'Maar vandaag ben ik op tijd.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Gezellig! Kom je volgende week ook naar mijn borrel?",
+          "en": "Nice! Are you coming to my drinks next week too?"
+        },
+        "task": "Say yes, say that next time you are paying, and say goodbye.",
+        "examples": [
+          "Ja, ik kom. En volgende keer trakteer ik. Tot dan!",
+          "Ja, gezellig. Volgende keer betaal ik. Tot volgende week!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps the subject before the verb after 'Volgende keer' (e.g. 'Volgende keer ik trakteer').",
+            "explain": "After 'Volgende keer' the verb comes first: 'Volgende keer trakteer ik.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds 'je' after 'betalen' when saying you will pay the bill (e.g. 'Volgende keer betaal ik je').",
+            "explain": "For paying the bill say 'Ik betaal' without object: 'Volgende keer betaal ik.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot volgende week! En neem je agenda mee, hoor.",
+      "en": "See you next week! And bring your diary, you know."
+    }
+  },
+  "culture": {
+    "title": "Doe maar gewoon, dan doe je al gek genoeg",
+    "text": "This is one of the best-known Dutch sayings: 'just act normal, that's crazy enough already.' It shows the Dutch preference for modesty and for not standing out. People often say it with a smile about themselves, but it can also sound a little critical when someone shows off. It explains a lot of small habits, from the single biscuit with your coffee to going home on time."
+  },
+  "summary": [
+    "**Even** and **maar** make a request or command sound friendly: Kom even hier. Kom maar binnen.",
+    "**Toch** asks for agreement or means 'still, anyway': Je komt toch ook? Het regende, maar we gingen toch.",
+    "**Wel** is the positive partner of **niet** and **geen**: Ik heb geen auto, maar wel een fiets.",
+    "Small words like **eens, hoor, nou, gewoon** and **lekker** make your Dutch sound natural, not just correct.",
+    "At a Dutch birthday you sit in a **kring**, you get one **kopje koffie** and one **koekje**, and the guests go home on time."
+  ]
+}

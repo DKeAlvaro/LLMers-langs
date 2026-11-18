@@ -1,0 +1,923 @@
+{
+  "language": "nl",
+  "name": "Dutch",
+  "version": "2026-11-18",
+  "units": [
+    {
+      "id": "u01",
+      "title": "Eerste woorden",
+      "subtitle": "First words",
+      "level": "A0",
+      "lessons": [
+        {
+          "id": "u01-l01",
+          "title": "Hallo!",
+          "subtitle": "Greetings and goodbyes",
+          "level": "A0",
+          "goals": [
+            "Greet people at any time of day",
+            "Say goodbye",
+            "Ask and answer 'how are you?'"
+          ],
+          "words": 23,
+          "exercises": 23
+        },
+        {
+          "id": "u01-l02",
+          "title": "Ik ben Sanne",
+          "subtitle": "Introducing yourself",
+          "level": "A0",
+          "goals": [
+            "Say your name",
+            "Ask someone's name",
+            "Say where you come from",
+            "Choose between je and u"
+          ],
+          "words": 28,
+          "exercises": 20
+        },
+        {
+          "id": "u01-l03",
+          "title": "Een, twee, drie",
+          "subtitle": "Numbers 0-20 and your age",
+          "level": "A0",
+          "goals": [
+            "Count from 0 to 20",
+            "Say and ask your age",
+            "Give your phone number"
+          ],
+          "words": 29,
+          "exercises": 20
+        },
+        {
+          "id": "u01-l04",
+          "title": "Ik spreek een beetje Nederlands",
+          "subtitle": "Countries, languages and regular verbs",
+          "level": "A0",
+          "goals": [
+            "Say which languages you speak",
+            "Ask if someone speaks English",
+            "Say where you live"
+          ],
+          "words": 25,
+          "exercises": 20
+        },
+        {
+          "id": "u01-l05",
+          "title": "Een koffie, graag",
+          "subtitle": "Ordering in a café",
+          "level": "A0",
+          "goals": [
+            "Order a drink politely",
+            "Say please and thank you",
+            "Ask for the bill"
+          ],
+          "words": 28,
+          "exercises": 24
+        }
+      ]
+    },
+    {
+      "id": "u02",
+      "title": "Over mij",
+      "subtitle": "All about me",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u02-l01",
+          "title": "Mijn familie",
+          "subtitle": "Family and possessives",
+          "level": "A1",
+          "goals": [
+            "Talk about your family",
+            "Say who someone is",
+            "Use my, your, his, her"
+          ],
+          "words": 23,
+          "exercises": 19
+        },
+        {
+          "id": "u02-l02",
+          "title": "Hoeveel kost het?",
+          "subtitle": "Numbers 20-100 and prices",
+          "level": "A1",
+          "goals": [
+            "Count to 100",
+            "Ask and understand prices",
+            "Say amounts in euros"
+          ],
+          "words": 25,
+          "exercises": 23
+        },
+        {
+          "id": "u02-l03",
+          "title": "Wat doe je?",
+          "subtitle": "Work, study and spelling rules",
+          "level": "A1",
+          "goals": [
+            "Say what you do for a living or study",
+            "Ask someone about their job",
+            "Conjugate verbs with spelling changes"
+          ],
+          "words": 19,
+          "exercises": 20
+        },
+        {
+          "id": "u02-l04",
+          "title": "Hoe laat is het?",
+          "subtitle": "Time, days and inversion",
+          "level": "A1",
+          "goals": [
+            "Tell the time",
+            "Name the days of the week",
+            "Describe your daily routine"
+          ],
+          "words": 30,
+          "exercises": 20
+        },
+        {
+          "id": "u02-l05",
+          "title": "Wie, wat, waar?",
+          "subtitle": "Asking questions",
+          "level": "A1",
+          "goals": [
+            "Ask open questions",
+            "Understand question words",
+            "Keep a simple conversation going"
+          ],
+          "words": 24,
+          "exercises": 21
+        },
+        {
+          "id": "u02-l06",
+          "title": "Niet of geen?",
+          "subtitle": "Saying no",
+          "level": "A1",
+          "goals": [
+            "Make negative sentences",
+            "Choose between niet and geen",
+            "Politely refuse something"
+          ],
+          "words": 25,
+          "exercises": 22
+        }
+      ]
+    },
+    {
+      "id": "u03",
+      "title": "Eten en boodschappen",
+      "subtitle": "Food and shopping",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u03-l01",
+          "title": "In de supermarkt",
+          "subtitle": "Groceries and plurals",
+          "level": "A1",
+          "goals": [
+            "Name common groceries",
+            "Ask where something is",
+            "Make plurals"
+          ],
+          "words": 27,
+          "exercises": 21
+        },
+        {
+          "id": "u03-l02",
+          "title": "Op de markt",
+          "subtitle": "Quantities and big numbers",
+          "level": "A1",
+          "goals": [
+            "Buy food in specific quantities",
+            "Understand numbers up to 1000",
+            "Handle 'anything else?'"
+          ],
+          "words": 25,
+          "exercises": 20
+        },
+        {
+          "id": "u03-l03",
+          "title": "Lekker!",
+          "subtitle": "Meals and likes",
+          "level": "A1",
+          "goals": [
+            "Talk about meals",
+            "Say what you like and dislike",
+            "Describe Dutch food"
+          ],
+          "words": 25,
+          "exercises": 22
+        },
+        {
+          "id": "u03-l04",
+          "title": "In het restaurant",
+          "subtitle": "Restaurants and modal verbs",
+          "level": "A1",
+          "goals": [
+            "Make a reservation",
+            "Order a meal",
+            "Ask for something politely"
+          ],
+          "words": 25,
+          "exercises": 23
+        },
+        {
+          "id": "u03-l05",
+          "title": "Samen koken",
+          "subtitle": "Cooking and the imperative",
+          "level": "A1",
+          "goals": [
+            "Follow a simple recipe",
+            "Give instructions",
+            "Describe food with adjectives"
+          ],
+          "words": 28,
+          "exercises": 20
+        }
+      ]
+    },
+    {
+      "id": "u04",
+      "title": "Thuis en in de stad",
+      "subtitle": "Home and town",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u04-l01",
+          "title": "Mijn huis",
+          "subtitle": "Rooms, furniture and prepositions",
+          "level": "A1",
+          "goals": [
+            "Describe your home",
+            "Say where things are",
+            "Use er is and er zijn"
+          ],
+          "words": 27,
+          "exercises": 20
+        },
+        {
+          "id": "u04-l02",
+          "title": "Een groot huis",
+          "subtitle": "Adjective endings and colours",
+          "level": "A1",
+          "goals": [
+            "Describe things with adjectives",
+            "Name colours",
+            "Add -e to adjectives correctly"
+          ],
+          "words": 28,
+          "exercises": 22
+        },
+        {
+          "id": "u04-l03",
+          "title": "Waar is het station?",
+          "subtitle": "Asking for directions",
+          "level": "A1",
+          "goals": [
+            "Ask for directions",
+            "Understand simple directions",
+            "Use ordinal numbers"
+          ],
+          "words": 30,
+          "exercises": 20
+        },
+        {
+          "id": "u04-l04",
+          "title": "In de stad",
+          "subtitle": "Places and opening hours",
+          "level": "A1",
+          "goals": [
+            "Name places in town",
+            "Ask about opening hours",
+            "Say where you are going"
+          ],
+          "words": 26,
+          "exercises": 20
+        },
+        {
+          "id": "u04-l05",
+          "title": "Met de trein",
+          "subtitle": "Transport and separable verbs",
+          "level": "A1",
+          "goals": [
+            "Buy a ticket",
+            "Talk about transport",
+            "Use separable verbs"
+          ],
+          "words": 26,
+          "exercises": 22
+        },
+        {
+          "id": "u04-l06",
+          "title": "Op de fiets",
+          "subtitle": "Bikes and plans with gaan",
+          "level": "A1",
+          "goals": [
+            "Talk about cycling",
+            "Talk about plans with gaan",
+            "Use more separable verbs"
+          ],
+          "words": 23,
+          "exercises": 24
+        }
+      ]
+    },
+    {
+      "id": "u05",
+      "title": "Vrije tijd",
+      "subtitle": "Free time",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u05-l01",
+          "title": "Mijn hobby's",
+          "subtitle": "Hobbies and preferences",
+          "level": "A1",
+          "goals": [
+            "Talk about your hobbies",
+            "Say what you like more or most",
+            "Ask about someone's free time"
+          ],
+          "words": 28,
+          "exercises": 20
+        },
+        {
+          "id": "u05-l02",
+          "title": "Zullen we afspreken?",
+          "subtitle": "Making plans with friends",
+          "level": "A1",
+          "goals": [
+            "Suggest an activity",
+            "Accept or decline politely",
+            "Agree on a time and place"
+          ],
+          "words": 24,
+          "exercises": 24
+        },
+        {
+          "id": "u05-l03",
+          "title": "Wat voor weer is het?",
+          "subtitle": "Weather, months and dates",
+          "level": "A1",
+          "goals": [
+            "Talk about the weather",
+            "Name months and seasons",
+            "Say dates"
+          ],
+          "words": 30,
+          "exercises": 20
+        },
+        {
+          "id": "u05-l04",
+          "title": "Mag ik dit passen?",
+          "subtitle": "Clothes and demonstratives",
+          "level": "A1",
+          "goals": [
+            "Shop for clothes",
+            "Ask for another size or colour",
+            "Compare two items"
+          ],
+          "words": 28,
+          "exercises": 20
+        },
+        {
+          "id": "u05-l05",
+          "title": "Gefeliciteerd!",
+          "subtitle": "Parties, holidays and diminutives",
+          "level": "A1",
+          "goals": [
+            "Congratulate someone",
+            "Talk about Dutch celebrations",
+            "Use diminutives"
+          ],
+          "words": 24,
+          "exercises": 20
+        }
+      ]
+    },
+    {
+      "id": "u06",
+      "title": "Gezondheid",
+      "subtitle": "Health and feelings",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "u06-l01",
+          "title": "Mijn hoofd doet pijn",
+          "subtitle": "Body parts and pain",
+          "level": "A1",
+          "goals": [
+            "Name body parts",
+            "Say where it hurts",
+            "Ask how someone feels"
+          ],
+          "words": 26,
+          "exercises": 21
+        },
+        {
+          "id": "u06-l02",
+          "title": "Bij de huisarts",
+          "subtitle": "At the doctor's",
+          "level": "A1",
+          "goals": [
+            "Make a doctor's appointment",
+            "Describe symptoms",
+            "Understand simple advice"
+          ],
+          "words": 25,
+          "exercises": 22
+        },
+        {
+          "id": "u06-l03",
+          "title": "Bij de apotheek",
+          "subtitle": "Medicine and instructions",
+          "level": "A1",
+          "goals": [
+            "Pick up medicine",
+            "Understand dosage instructions",
+            "Ask questions about medicine"
+          ],
+          "words": 27,
+          "exercises": 20
+        },
+        {
+          "id": "u06-l04",
+          "title": "Hoe voel je je?",
+          "subtitle": "Feelings and reflexive verbs",
+          "level": "A1",
+          "goals": [
+            "Say how you feel",
+            "Ask about someone's feelings",
+            "Use reflexive verbs"
+          ],
+          "words": 25,
+          "exercises": 20
+        },
+        {
+          "id": "u06-l05",
+          "title": "Gezond leven",
+          "subtitle": "Healthy habits and comparisons",
+          "level": "A1",
+          "goals": [
+            "Talk about healthy habits",
+            "Compare things",
+            "Say what is best"
+          ],
+          "words": 25,
+          "exercises": 20
+        }
+      ]
+    },
+    {
+      "id": "u07",
+      "title": "Het verleden",
+      "subtitle": "Talking about the past",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "u07-l01",
+          "title": "Wat heb je gedaan?",
+          "subtitle": "The perfect tense with hebben",
+          "level": "A2",
+          "goals": [
+            "Say what you did",
+            "Form regular past participles",
+            "Ask what someone did"
+          ],
+          "words": 24,
+          "exercises": 20
+        },
+        {
+          "id": "u07-l02",
+          "title": "Ik ben naar Parijs gegaan",
+          "subtitle": "The perfect tense with zijn",
+          "level": "A2",
+          "goals": [
+            "Use zijn as auxiliary",
+            "Talk about trips and movement",
+            "Tell what happened"
+          ],
+          "words": 24,
+          "exercises": 23
+        },
+        {
+          "id": "u07-l03",
+          "title": "Gegeten en gedronken",
+          "subtitle": "Irregular past participles",
+          "level": "A2",
+          "goals": [
+            "Use common irregular participles",
+            "Talk about what you ate, saw and read",
+            "Ask 'have you ever...?'"
+          ],
+          "words": 23,
+          "exercises": 20
+        },
+        {
+          "id": "u07-l04",
+          "title": "Mijn weekend",
+          "subtitle": "Telling a story in the perfect",
+          "level": "A2",
+          "goals": [
+            "Tell a short story in the past",
+            "Use separable verbs in the perfect",
+            "Use verbs with be-, ver-, ont-"
+          ],
+          "words": 24,
+          "exercises": 21
+        },
+        {
+          "id": "u07-l05",
+          "title": "Vroeger",
+          "subtitle": "The simple past (regular)",
+          "level": "A2",
+          "goals": [
+            "Talk about your childhood",
+            "Use was/waren and had/hadden",
+            "Form the regular simple past"
+          ],
+          "words": 24,
+          "exercises": 20
+        },
+        {
+          "id": "u07-l06",
+          "title": "Toen ging ik...",
+          "subtitle": "Irregular simple past and choosing tenses",
+          "level": "A2",
+          "goals": [
+            "Use the most common irregular simple pasts",
+            "Choose between perfect and simple past",
+            "Retell an event"
+          ],
+          "words": 24,
+          "exercises": 20
+        }
+      ]
+    },
+    {
+      "id": "u08",
+      "title": "Werk en studie",
+      "subtitle": "Work and study",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "u08-l01",
+          "title": "Mijn werk",
+          "subtitle": "Work and giving reasons",
+          "level": "A2",
+          "goals": [
+            "Describe your job and workplace",
+            "Give reasons with want and omdat",
+            "Talk about working hours"
+          ],
+          "words": 25,
+          "exercises": 20
+        },
+        {
+          "id": "u08-l02",
+          "title": "Ik solliciteer",
+          "subtitle": "Applying for a job",
+          "level": "A2",
+          "goals": [
+            "Talk about experience and skills",
+            "Answer basic interview questions",
+            "Talk about how long you have done something"
+          ],
+          "words": 23,
+          "exercises": 21
+        },
+        {
+          "id": "u08-l03",
+          "title": "Beste meneer De Vries",
+          "subtitle": "Emails and polite requests",
+          "level": "A2",
+          "goals": [
+            "Write a short formal email",
+            "Make polite requests",
+            "Use zou/zouden"
+          ],
+          "words": 22,
+          "exercises": 20
+        },
+        {
+          "id": "u08-l04",
+          "title": "Ik denk dat...",
+          "subtitle": "Subordinate clauses",
+          "level": "A2",
+          "goals": [
+            "Say what you think",
+            "Connect sentences with dat, als, wanneer, terwijl",
+            "Put the verb at the end of a subordinate clause"
+          ],
+          "words": 24,
+          "exercises": 21
+        },
+        {
+          "id": "u08-l05",
+          "title": "Om Nederlands te leren",
+          "subtitle": "Learning and te + infinitive",
+          "level": "A2",
+          "goals": [
+            "Talk about learning Dutch",
+            "Express a purpose with om ... te",
+            "Use verbs followed by te"
+          ],
+          "words": 24,
+          "exercises": 23
+        }
+      ]
+    },
+    {
+      "id": "u09",
+      "title": "Wonen",
+      "subtitle": "Living in the Netherlands",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "u09-l01",
+          "title": "Een huis huren",
+          "subtitle": "Renting a place",
+          "level": "A2",
+          "goals": [
+            "Understand a rental ad",
+            "Ask questions about a room or apartment",
+            "Talk about costs"
+          ],
+          "words": 25,
+          "exercises": 20
+        },
+        {
+          "id": "u09-l02",
+          "title": "Naar de gemeente",
+          "subtitle": "The town hall and official tasks",
+          "level": "A2",
+          "goals": [
+            "Register at the municipality",
+            "Make an official appointment",
+            "Understand forms"
+          ],
+          "words": 26,
+          "exercises": 20
+        },
+        {
+          "id": "u09-l03",
+          "title": "De verwarming is kapot",
+          "subtitle": "Problems at home and er + preposition",
+          "level": "A2",
+          "goals": [
+            "Report a problem in your home",
+            "Talk to neighbours about issues",
+            "Use er/daar/waar + preposition"
+          ],
+          "words": 27,
+          "exercises": 24
+        },
+        {
+          "id": "u09-l04",
+          "title": "Afval en buren",
+          "subtitle": "Rules, waste and obligations",
+          "level": "A2",
+          "goals": [
+            "Understand house and neighbourhood rules",
+            "Talk about recycling",
+            "Express obligation and no obligation"
+          ],
+          "words": 23,
+          "exercises": 20
+        },
+        {
+          "id": "u09-l05",
+          "title": "De man die naast mij woont",
+          "subtitle": "Bank, post and relative clauses",
+          "level": "A2",
+          "goals": [
+            "Open a bank account and send a parcel",
+            "Describe people and things with relative clauses",
+            "Use die and dat as relatives"
+          ],
+          "words": 24,
+          "exercises": 20
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "title": "Op reis",
+      "subtitle": "Travel",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "u10-l01",
+          "title": "Vakantieplannen",
+          "subtitle": "Future plans",
+          "level": "A2",
+          "goals": [
+            "Talk about holiday plans",
+            "Use different ways to talk about the future",
+            "Say what you intend to do"
+          ],
+          "words": 24,
+          "exercises": 20
+        },
+        {
+          "id": "u10-l02",
+          "title": "In het hotel",
+          "subtitle": "Hotels and if-then",
+          "level": "A2",
+          "goals": [
+            "Check in at a hotel",
+            "Make a complaint politely",
+            "Use als ... dan"
+          ],
+          "words": 29,
+          "exercises": 23
+        },
+        {
+          "id": "u10-l03",
+          "title": "Vertraging!",
+          "subtitle": "Delays and indirect questions",
+          "level": "A2",
+          "goals": [
+            "Understand station announcements",
+            "Ask for help when plans change",
+            "Ask indirect questions politely"
+          ],
+          "words": 24,
+          "exercises": 20
+        },
+        {
+          "id": "u10-l04",
+          "title": "Hoe was je reis?",
+          "subtitle": "Telling about a trip",
+          "level": "A2",
+          "goals": [
+            "Tell a longer story about a trip",
+            "Mix perfect and simple past",
+            "Use linking words"
+          ],
+          "words": 25,
+          "exercises": 20
+        },
+        {
+          "id": "u10-l05",
+          "title": "Nederland en België",
+          "subtitle": "Geography and culture",
+          "level": "A2",
+          "goals": [
+            "Talk about Dutch and Belgian places",
+            "Compare countries and cities",
+            "Understand Dutch vs Flemish differences"
+          ],
+          "words": 27,
+          "exercises": 22
+        }
+      ]
+    },
+    {
+      "id": "u11",
+      "title": "Meningen",
+      "subtitle": "Opinions and society",
+      "level": "A2+",
+      "lessons": [
+        {
+          "id": "u11-l01",
+          "title": "Volgens mij...",
+          "subtitle": "Giving your opinion",
+          "level": "A2+",
+          "goals": [
+            "Give and ask for opinions",
+            "Agree and disagree politely",
+            "Give arguments"
+          ],
+          "words": 26,
+          "exercises": 20
+        },
+        {
+          "id": "u11-l02",
+          "title": "In het nieuws",
+          "subtitle": "News and the passive",
+          "level": "A2+",
+          "goals": [
+            "Understand short news items",
+            "Recognise and use the passive",
+            "Talk about what happened in the news"
+          ],
+          "words": 30,
+          "exercises": 21
+        },
+        {
+          "id": "u11-l03",
+          "title": "Echt Nederlands",
+          "subtitle": "Customs and little words",
+          "level": "A2+",
+          "goals": [
+            "Understand Dutch habits",
+            "Use particles like even, maar, toch, wel",
+            "Sound more natural"
+          ],
+          "words": 27,
+          "exercises": 20
+        },
+        {
+          "id": "u11-l04",
+          "title": "Aan de telefoon",
+          "subtitle": "Phone calls",
+          "level": "A2+",
+          "goals": [
+            "Make and receive phone calls",
+            "Spell your name",
+            "Leave and take a message"
+          ],
+          "words": 26,
+          "exercises": 24
+        },
+        {
+          "id": "u11-l05",
+          "title": "Ik wil dit ruilen",
+          "subtitle": "Complaints and returns",
+          "level": "A2+",
+          "goals": [
+            "Return or exchange a product",
+            "Complain politely but firmly",
+            "Negotiate a solution"
+          ],
+          "words": 24,
+          "exercises": 22
+        }
+      ]
+    },
+    {
+      "id": "u12",
+      "title": "Eindstation A2+",
+      "subtitle": "Putting it all together",
+      "level": "A2+",
+      "lessons": [
+        {
+          "id": "u12-l01",
+          "title": "Schrijven",
+          "subtitle": "Notes, messages and emails",
+          "level": "A2+",
+          "goals": [
+            "Write short notes and messages",
+            "Write an informal and a formal email",
+            "Use correct openings, closings and word order"
+          ],
+          "words": 26,
+          "exercises": 20
+        },
+        {
+          "id": "u12-l02",
+          "title": "Spreken",
+          "subtitle": "Talking about yourself in depth",
+          "level": "A2+",
+          "goals": [
+            "Introduce yourself in detail",
+            "Talk about your past, present and future",
+            "Explain your reasons and wishes"
+          ],
+          "words": 23,
+          "exercises": 20
+        },
+        {
+          "id": "u12-l03",
+          "title": "Het, die, dat, er",
+          "subtitle": "Small words, big rules",
+          "level": "A2+",
+          "goals": [
+            "Choose correctly between het, die and dat",
+            "Recognise the main uses of er",
+            "Fix common A2 mistakes"
+          ],
+          "words": 25,
+          "exercises": 22
+        },
+        {
+          "id": "u12-l04",
+          "title": "Alles op zijn plek",
+          "subtitle": "Dutch word order masterclass",
+          "level": "A2+",
+          "goals": [
+            "Combine all word-order rules",
+            "Build longer sentences with confidence",
+            "Use time-manner-place order"
+          ],
+          "words": 22,
+          "exercises": 20
+        },
+        {
+          "id": "u12-l05",
+          "title": "Klaar voor A2",
+          "subtitle": "Final review and exam practice",
+          "level": "A2+",
+          "goals": [
+            "Handle typical A2 exam situations",
+            "Read short practical texts",
+            "Respond in everyday conversations"
+          ],
+          "words": 24,
+          "exercises": 22
+        }
+      ]
+    }
+  ]
+}

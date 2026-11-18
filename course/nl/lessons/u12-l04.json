@@ -1,0 +1,1031 @@
+{
+  "id": "u12-l04",
+  "title": "Alles op zijn plek",
+  "subtitle": "Dutch word order masterclass",
+  "level": "A2+",
+  "intro": "This lesson pulls all the word-order rules together. You will build longer sentences with time, manner and place in the right slots, start sentences with a subordinate clause, and recognise verb groups at the end. By the end you can plan a whole day out in Dutch without losing track of the verb.",
+  "words": [
+    {
+      "nl": "meestal",
+      "en": "usually",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ga meestal met de fiets naar mijn werk.",
+        "en": "I usually go to work by bike."
+      },
+      "note": "A time word: in a neutral sentence it comes right after the verb."
+    },
+    {
+      "nl": "gewoonlijk",
+      "en": "usually, as a rule",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We vertrekken gewoonlijk om acht uur.",
+        "en": "We usually leave at eight."
+      },
+      "note": "A little more formal than **meestal**."
+    },
+    {
+      "nl": "waarschijnlijk",
+      "en": "probably",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hij komt waarschijnlijk wat later.",
+        "en": "He is probably coming a bit later."
+      },
+      "note": "Use it when you are not one hundred percent sure."
+    },
+    {
+      "nl": "snel",
+      "en": "fast, quickly",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "snel, snelle, sneller, het snelst",
+      "example": {
+        "nl": "De trein is snel.",
+        "en": "The train is fast."
+      },
+      "note": "As an adverb it takes no ending: **Hij loopt snel.**"
+    },
+    {
+      "nl": "langzaam",
+      "en": "slow, slowly",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "langzaam, langzame, langzamer, het langzaamst",
+      "example": {
+        "nl": "Je praat te langzaam.",
+        "en": "You speak too slowly."
+      },
+      "note": "The opposite of **snel**."
+    },
+    {
+      "nl": "daarom",
+      "en": "that's why, therefore",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het regent, daarom nemen we de bus.",
+        "en": "It's raining, that's why we're taking the bus."
+      },
+      "note": "The verb comes straight after it: **Daarom nemen we** de bus."
+    },
+    {
+      "nl": "toch",
+      "en": "still, after all, anyway",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is duur, maar we gaan toch.",
+        "en": "It's expensive, but we're going anyway."
+      },
+      "note": "It softens a sentence or contradicts what came before."
+    },
+    {
+      "nl": "ten slotte",
+      "en": "finally, lastly",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ten slotte betalen we samen de rekening.",
+        "en": "Finally we pay the bill together."
+      },
+      "note": "The last item in a list: **eerst, daarna, ten slotte**."
+    },
+    {
+      "nl": "zelfs",
+      "en": "even",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zelfs op zondag rijdt de bus.",
+        "en": "The bus runs even on Sundays."
+      },
+      "note": "It stresses something surprising."
+    },
+    {
+      "nl": "bijna",
+      "en": "almost",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We zijn bijna in Groningen.",
+        "en": "We are almost in Groningen."
+      },
+      "note": null
+    },
+    {
+      "nl": "ongeveer",
+      "en": "about, approximately",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We zijn ongeveer twee uur onderweg.",
+        "en": "We are on our way for about two hours."
+      },
+      "note": "Also with numbers: **ongeveer tien mensen**."
+    },
+    {
+      "nl": "tenminste",
+      "en": "at least, in any case",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We zijn om twaalf uur daar, tenminste, dat is het plan.",
+        "en": "We'll be there at twelve, at least, that's the plan."
+      },
+      "note": "It adds a condition: if all goes well."
+    },
+    {
+      "nl": "eindelijk",
+      "en": "finally, at last",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Daar is eindelijk de trein!",
+        "en": "There's the train at last!"
+      },
+      "note": "Use it after a long wait; **ten slotte** only ends a list."
+    },
+    {
+      "nl": "onmiddellijk",
+      "en": "immediately",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We moeten onmiddellijk instappen.",
+        "en": "We have to get on immediately."
+      },
+      "note": "Stronger than **snel**: right now, with no delay."
+    },
+    {
+      "nl": "reis",
+      "en": "trip, journey",
+      "pos": "noun",
+      "article": "de",
+      "plural": "reizen",
+      "forms": null,
+      "example": {
+        "nl": "De reis naar Groningen is ongeveer twee uur.",
+        "en": "The trip to Groningen takes about two hours."
+      },
+      "note": null
+    },
+    {
+      "nl": "binnenstad",
+      "en": "city centre, old town",
+      "pos": "noun",
+      "article": "de",
+      "plural": "binnensteden",
+      "forms": null,
+      "example": {
+        "nl": "De binnenstad van Groningen is gezellig.",
+        "en": "Groningen's city centre is cosy."
+      },
+      "note": null
+    },
+    {
+      "nl": "uitje",
+      "en": "day out, outing",
+      "pos": "noun",
+      "article": "het",
+      "plural": "uitjes",
+      "forms": null,
+      "example": {
+        "nl": "We maken een uitje naar Groningen.",
+        "en": "We're making a day trip to Groningen."
+      },
+      "note": "A short, fun trip with other people."
+    },
+    {
+      "nl": "lunchen",
+      "en": "to have lunch",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik lunch, jij luncht, wij lunchen (heeft geluncht)",
+      "example": {
+        "nl": "We lunchen om één uur op het terras.",
+        "en": "We have lunch at one o'clock on the terrace."
+      },
+      "note": "The verb comes from **de lunch**."
+    },
+    {
+      "nl": "Martinitoren",
+      "en": "Martini Tower",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De Martinitoren staat in het centrum van Groningen.",
+        "en": "The Martini Tower stands in the centre of Groningen."
+      },
+      "note": "The best-known tower of the city."
+    },
+    {
+      "nl": "tussenstop",
+      "en": "stopover, stop",
+      "pos": "noun",
+      "article": "de",
+      "plural": "tussenstops",
+      "forms": null,
+      "example": {
+        "nl": "We maken een tussenstop in Zwolle.",
+        "en": "We make a stopover in Zwolle."
+      },
+      "note": null
+    },
+    {
+      "nl": "wandeling",
+      "en": "walk, stroll",
+      "pos": "noun",
+      "article": "de",
+      "plural": "wandelingen",
+      "forms": null,
+      "example": {
+        "nl": "We maken een wandeling door de binnenstad.",
+        "en": "We take a walk through the city centre."
+      },
+      "note": "From the verb **wandelen**."
+    },
+    {
+      "nl": "kans",
+      "en": "chance",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kansen",
+      "forms": null,
+      "example": {
+        "nl": "De kans is groot dat we te laat komen.",
+        "en": "There's a good chance we'll be late."
+      },
+      "note": "**De kans is groot dat...** is a fixed pattern."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Zullen we met de trein gaan?",
+      "en": "Shall we go by train?",
+      "note": null
+    },
+    {
+      "nl": "Hoe laat vertrekt de trein?",
+      "en": "What time does the train leave?",
+      "note": null
+    },
+    {
+      "nl": "We nemen de trein van negen uur.",
+      "en": "We'll take the nine o'clock train.",
+      "note": "**van negen uur** = the ... o'clock one."
+    },
+    {
+      "nl": "Tenminste, als alles op tijd gaat.",
+      "en": "At least, if everything runs on time.",
+      "note": null
+    },
+    {
+      "nl": "Eerst koffie, daarna de stad in.",
+      "en": "Coffee first, then into town.",
+      "note": "Short and natural: no verb needed."
+    },
+    {
+      "nl": "Het komt wel goed.",
+      "en": "It'll be fine.",
+      "note": "A very common way to reassure someone."
+    },
+    {
+      "nl": "Ik ben waarschijnlijk iets later.",
+      "en": "I'll probably be a little later.",
+      "note": "**iets** softens it: a little."
+    },
+    {
+      "nl": "Op zijn vroegst om tien uur.",
+      "en": "At the earliest at ten.",
+      "note": "The opposite is **op zijn laatst** (at the latest)."
+    },
+    {
+      "nl": "We zien wel.",
+      "en": "We'll see.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "De hoofdzin: persoon - werkwoord - tijd - manier - plaats",
+      "explanation": "In a neutral Dutch main clause the finite verb comes second, right after the subject. If you start with another word (time, place, manner), the verb still comes second and the subject follows it. Then come **time**, **manner** (how) and **place**, in that order; any other verbs go to the end.",
+      "table": {
+        "headers": [
+          "Position",
+          "What",
+          "Example 1",
+          "Example 2"
+        ],
+        "rows": [
+          [
+            "1",
+            "subject",
+            "Ik",
+            "Ik"
+          ],
+          [
+            "2",
+            "finite verb",
+            "ga",
+            "wil"
+          ],
+          [
+            "3",
+            "time",
+            "morgen",
+            "morgen"
+          ],
+          [
+            "4",
+            "manner",
+            "met de trein",
+            "met de trein"
+          ],
+          [
+            "5",
+            "place",
+            "naar Groningen",
+            "naar Groningen"
+          ],
+          [
+            "6",
+            "other verbs",
+            "—",
+            "gaan"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ga morgen met de trein naar Groningen.",
+          "en": "I'm going to Groningen by train tomorrow."
+        },
+        {
+          "nl": "We willen zaterdag graag samen lunchen.",
+          "en": "We'd like to have lunch together on Saturday."
+        },
+        {
+          "nl": "Hij komt waarschijnlijk wat later.",
+          "en": "He's probably coming a bit later."
+        }
+      ],
+      "tip": "Time before place: **morgen naar Groningen**, never ~~naar Groningen morgen~~."
+    },
+    {
+      "title": "Eerst de bijzin, dan de hoofdzin",
+      "explanation": "Words like **omdat, als, wanneer, dat, terwijl, of** send all the verbs to the end of their clause. If that clause comes first, the main clause starts with its verb: **Omdat het regende, zijn we thuisgebleven.**",
+      "table": {
+        "headers": [
+          "Soort zin",
+          "Voorbeeld"
+        ],
+        "rows": [
+          [
+            "Bijzin eerst",
+            "Omdat het regende, zijn we thuisgebleven."
+          ],
+          [
+            "Bijzin eerst",
+            "Als we vroeg vertrekken, zijn we om twaalf uur in Groningen."
+          ],
+          [
+            "Hoofdzin + bijzin",
+            "Ik denk dat we te laat komen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Omdat het regende, zijn we thuisgebleven.",
+          "en": "Because it was raining, we stayed at home."
+        },
+        {
+          "nl": "Als we vroeg vertrekken, zijn we om twaalf uur in Groningen.",
+          "en": "If we leave early, we'll be in Groningen at twelve."
+        },
+        {
+          "nl": "Ik weet niet of we nog tijd hebben.",
+          "en": "I don't know whether we still have time."
+        }
+      ],
+      "tip": "After the comma the main clause starts with the verb: **Omdat het regent, blijven we thuis.**"
+    },
+    {
+      "title": "Werkwoorden achteraan: de werkwoordgroep",
+      "explanation": "At A2+ you often hear two infinitives together at the end. The modal or auxiliary infinitive comes first and the main verb comes last: **Ik heb het niet kunnen vinden.** The finite verb (**heb, wil**) stays in second position.",
+      "table": {
+        "headers": [
+          "Werkwoordgroep",
+          "Betekenis"
+        ],
+        "rows": [
+          [
+            "Ik heb het niet kunnen vinden.",
+            "I haven't been able to find it."
+          ],
+          [
+            "Ik wil morgen gaan zwemmen.",
+            "I want to go swimming tomorrow."
+          ],
+          [
+            "We hebben de trein niet willen missen.",
+            "We didn't want to miss the train."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb het niet kunnen vinden.",
+          "en": "I haven't been able to find it."
+        },
+        {
+          "nl": "Zij wil morgen gaan zwemmen.",
+          "en": "She wants to go swimming tomorrow."
+        },
+        {
+          "nl": "We hebben de trein niet willen missen.",
+          "en": "We didn't want to miss the train."
+        }
+      ],
+      "tip": "You only need to recognise these for now. In your own sentences, keep the finite verb second and put the main verb at the end: **Ik wil morgen gaan zwemmen.**"
+    }
+  ],
+  "dialogue": {
+    "title": "Een uitje naar Groningen",
+    "setting": "Sanne and Youssef are planning a Saturday trip to Groningen by train, with a few friends.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Youssef",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Zullen we zaterdag naar Groningen gaan?",
+        "en": "Shall we go to Groningen on Saturday?"
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Goed idee! Hoe laat vertrekt de trein?",
+        "en": "Good idea! What time does the train leave?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Meestal om acht uur. We moeten eerst naar het station fietsen.",
+        "en": "Usually at eight. First we have to cycle to the station."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Goed. Ik ben waarschijnlijk iets te laat, want ik werk tot zeven uur.",
+        "en": "Right. I'll probably be a little late, because I work until seven."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Geen probleem. We wachten op je bij het station.",
+        "en": "No problem. We'll wait for you at the station."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Hoe lang doet de trein erover? Ongeveer twee uur, toch?",
+        "en": "How long does the train take? About two hours, right?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ongeveer twee uur en tien minuten. We stappen in Zwolle over.",
+        "en": "About two hours and ten minutes. We change in Zwolle."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "En daarna? Wat gaan we in de stad doen?",
+        "en": "And after that? What are we going to do in the city?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Eerst koffie in de binnenstad, daarna de Martinitoren.",
+        "en": "Coffee in the city centre first, then the Martini Tower."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Leuk. Daarna lunchen we samen, tenminste als het niet regent.",
+        "en": "Nice. After that we have lunch together, at least if it doesn't rain."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Als het regent, gaan we gewoon binnen zitten. Het komt wel goed.",
+        "en": "If it rains, we'll just sit inside. It'll be fine."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Mooi. Ik neem de fiets naar het station en zie jullie zaterdag.",
+        "en": "Great. I'll take the bike to the station and see you Saturday."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "meestal",
+          "usually"
+        ],
+        [
+          "gewoonlijk",
+          "as a rule"
+        ],
+        [
+          "waarschijnlijk",
+          "probably"
+        ],
+        [
+          "eindelijk",
+          "finally, at last"
+        ],
+        [
+          "onmiddellijk",
+          "immediately"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "daarom",
+          "that's why"
+        ],
+        [
+          "toch",
+          "still, after all"
+        ],
+        [
+          "zelfs",
+          "even"
+        ],
+        [
+          "ten slotte",
+          "finally, lastly"
+        ],
+        [
+          "bijna",
+          "almost"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence has the correct word order?",
+      "nl": null,
+      "options": [
+        "Ik ga morgen met de trein naar Groningen.",
+        "Ik ga met de trein morgen naar Groningen.",
+        "Ik morgen ga met de trein naar Groningen."
+      ],
+      "answer": 0,
+      "explain": "Time (**morgen**) comes right after the verb, then manner (**met de trein**), then place (**naar Groningen**)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Omdat het regende, zijn we thuisgebleven.",
+        "Omdat het regende, we zijn thuisgebleven.",
+        "Omdat het regende, zijn we gebleven thuis."
+      ],
+      "answer": 0,
+      "explain": "After a first subordinate clause the main clause starts with the verb: **zijn we**. The separable verb stays together as **thuisgebleven**."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik heb het niet kunnen vinden.",
+        "Ik heb het niet gevonden kunnen.",
+        "Ik heb kunnen het niet vinden."
+      ],
+      "answer": 0,
+      "explain": "In a verb group the main verb comes last: **kunnen vinden**."
+    },
+    {
+      "type": "article",
+      "word": "reis",
+      "en": "the trip",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "uitje",
+      "en": "the outing",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I'm going to Groningen by train tomorrow.",
+      "answer": "Ik ga morgen met de trein naar Groningen.",
+      "accept": [
+        "Morgen ga ik met de trein naar Groningen.",
+        "Met de trein ga ik morgen naar Groningen."
+      ],
+      "extra": [
+        "gaat",
+        "gisteren"
+      ],
+      "explain": "In a main clause the finite verb comes second; time (**morgen**) comes before manner (**met de trein**) and place (**naar Groningen**)."
+    },
+    {
+      "type": "build",
+      "en": "We'd like to have lunch together tomorrow.",
+      "answer": "We willen morgen graag samen lunchen.",
+      "accept": [
+        "Morgen willen we graag samen lunchen.",
+        "Graag willen we morgen samen lunchen."
+      ],
+      "extra": [
+        "wil",
+        "geluncht"
+      ],
+      "explain": "With a modal verb the infinitive (**lunchen**) goes to the end; **graag** comes before **samen**."
+    },
+    {
+      "type": "build",
+      "en": "I haven't been able to find it.",
+      "answer": "Ik heb het niet kunnen vinden.",
+      "accept": [
+        "Het heb ik niet kunnen vinden."
+      ],
+      "extra": [
+        "geen",
+        "hebt"
+      ],
+      "explain": "With a modal verb the finite verb (**heb**) stays second and the infinitives go to the end: **kunnen vinden**."
+    },
+    {
+      "type": "gap",
+      "text": "Het regent, ___ nemen we de bus.",
+      "en": "It's raining, that's why we're taking the bus.",
+      "answers": [
+        "daarom"
+      ],
+      "hint": "that's why",
+      "explain": "**Daarom** at the start is followed by the verb and then the subject: **Daarom nemen we** de bus."
+    },
+    {
+      "type": "gap",
+      "text": "We zijn ___ in Groningen, nog tien minuten.",
+      "en": "We're almost in Groningen, ten more minutes.",
+      "answers": [
+        "bijna"
+      ],
+      "hint": "almost",
+      "explain": "**Bijna** means 'almost' and comes before the place: **bijna in Groningen**."
+    },
+    {
+      "type": "gap",
+      "text": "Ik wil morgen met de trein naar Groningen ___.",
+      "en": "I want to go to Groningen by train tomorrow.",
+      "answers": [
+        "gaan"
+      ],
+      "hint": "the verb goes at the end",
+      "explain": "After the modal **wil**, the infinitive **gaan** goes at the end of the sentence."
+    },
+    {
+      "type": "translate",
+      "en": "We are probably a little late.",
+      "answers": [
+        "We zijn waarschijnlijk iets te laat.",
+        "Waarschijnlijk zijn we iets te laat.",
+        "We zijn waarschijnlijk wat te laat.",
+        "Waarschijnlijk zijn we wat te laat.",
+        "We komen waarschijnlijk iets te laat.",
+        "Waarschijnlijk komen we iets te laat."
+      ],
+      "focus": "position of the adverb after the verb, and inversion",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the adverb after 'te laat' or at the end (We zijn iets te laat waarschijnlijk.)",
+          "explain": "**Waarschijnlijk** comes right after the verb, or at the start with inversion: 'We zijn waarschijnlijk iets te laat.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Starts with 'Waarschijnlijk' but keeps the subject before the verb (Waarschijnlijk we zijn iets te laat.)",
+          "explain": "After a first word like **waarschijnlijk**, the verb comes before the subject: 'Waarschijnlijk zijn we iets te laat.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits 'te' before 'laat' (We zijn waarschijnlijk iets laat.)",
+          "explain": "Use **te laat** for 'late': 'We zijn waarschijnlijk iets te laat.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I have not been able to find it.",
+      "answers": [
+        "Ik heb het niet kunnen vinden.",
+        "Het heb ik niet kunnen vinden.",
+        "Dat heb ik niet kunnen vinden."
+      ],
+      "focus": "verb group at the end of the sentence",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the participle before the infinitive (Ik heb het niet gevonden kunnen.)",
+          "explain": "At the end the main verb comes last: 'kunnen vinden'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitives right after 'heb' (Ik heb kunnen het niet vinden.)",
+          "explain": "The finite verb stays second; the infinitives go to the end: 'Ik heb het niet kunnen vinden.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a finite form after 'kunnen' (Ik heb het niet kunnen vond.)",
+          "explain": "After **kunnen** use the infinitive: 'vinden'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "That's why we're going by train.",
+      "answers": [
+        "Daarom gaan we met de trein.",
+        "Daarom nemen we de trein."
+      ],
+      "focus": "daarom + verb + subject",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the subject before the verb after 'daarom' (Daarom we gaan met de trein.)",
+          "explain": "After **daarom** the verb comes before the subject: 'Daarom gaan we met de trein.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'de' before 'trein' (Daarom gaan we met trein.)",
+          "explain": "Use **de trein**: 'met de trein'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the verb at the end after 'daarom' (Daarom we met de trein gaan.)",
+          "explain": "In a main clause the verb comes second: 'Daarom gaan we met de trein.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "We vertrekken morgen om acht uur.",
+      "en": "We leave tomorrow at eight."
+    },
+    {
+      "type": "listen",
+      "nl": "Daarom nemen we meestal de fiets.",
+      "en": "That's why we usually take the bike."
+    },
+    {
+      "type": "reply",
+      "context": "You are planning a trip with your friend Daan.",
+      "say": {
+        "nl": "Zullen we zaterdag naar Groningen gaan?",
+        "en": "Shall we go to Groningen on Saturday?"
+      },
+      "task": "Say yes, enthusiastically, and ask what time you leave.",
+      "examples": [
+        "Goed idee! Hoe laat vertrekken we?",
+        "Leuk! Hoe laat gaat de trein?",
+        "Ja, gezellig. Hoe laat nemen we de trein?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the subject before the verb in a question with 'hoe laat' (Hoe laat we vertrekken?)",
+          "explain": "After a question word the verb comes before the subject: 'Hoe laat vertrekken we?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Answers yes but does not ask the time (Ja, gezellig.)",
+          "explain": "The task asks for a time question too: 'Hoe laat vertrekken we?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the subject before the modal in a question (Hoe laat we zullen vertrekken?)",
+          "explain": "With a modal the verb still comes first: 'Hoe laat zullen we vertrekken?'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Daan is worried about being late.",
+      "say": {
+        "nl": "Ik ben waarschijnlijk iets te laat.",
+        "en": "I'll probably be a little late."
+      },
+      "task": "Say it's no problem and that you will wait for him at the station.",
+      "examples": [
+        "Geen probleem. Ik wacht op je bij het station.",
+        "Dat is goed hoor. Ik ben toch wat vroeger bij het station.",
+        "Geen probleem, we hebben nog tijd. Ik wacht bij het station."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'voor' instead of 'op' with wachten (Ik wacht voor je bij het station.)",
+          "explain": "Wait for someone is **op iemand wachten**: 'Ik wacht op je bij het station.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'op' after wachten (Ik wacht je bij het station.)",
+          "explain": "Use **wachten op**: 'Ik wacht op je.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'ben wachten' instead of 'wacht' (Ik ben wachten op je.)",
+          "explain": "Use the simple present: 'Ik wacht op je.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Naar Groningen of toch niet?",
+    "setting": "You are planning a Saturday day trip to Groningen with your friend Daan, who is a bit chaotic.",
+    "partner": {
+      "name": "Daan",
+      "gender": "m",
+      "role": "your friend and travel companion"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Zullen we zaterdag naar Groningen gaan?",
+          "en": "Shall we go to Groningen on Saturday?"
+        },
+        "task": "Say yes enthusiastically and ask what time you leave.",
+        "examples": [
+          "Goed idee! Hoe laat vertrekken we?",
+          "Leuk! Hoe laat gaat de trein?",
+          "Ja, gezellig. Hoe laat nemen we de trein?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the subject before the verb in a question with 'hoe laat' (Hoe laat we vertrekken?)",
+            "explain": "After a question word the verb comes before the subject: 'Hoe laat vertrekken we?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Answers yes but does not ask the time (Ja, gezellig.)",
+            "explain": "The task asks for a time question too: 'Hoe laat vertrekken we?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the subject before the modal in a question (Hoe laat we zullen vertrekken?)",
+            "explain": "With a modal the verb still comes first: 'Hoe laat zullen we vertrekken?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De trein gaat meestal om acht uur. Kun jij zo vroeg opstaan?",
+          "en": "The train usually goes at eight. Can you get up that early?"
+        },
+        "task": "Say you usually get up early, but that you want coffee first.",
+        "examples": [
+          "Ja hoor, ik sta meestal vroeg op. Maar ik wil eerst koffie.",
+          "Geen probleem, ik sta gewoonlijk om zes uur op. Eerst koffie, graag.",
+          "Ja, dat lukt wel. Maar eerst koffie, daarna de trein."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts 'meestal' in the wrong place (Ik sta vroeg meestal op.)",
+            "explain": "Time words like **meestal** come right after the verb: 'Ik sta meestal vroeg op.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses the separable verb 'opstaan' wrongly (Ik sta gewoonlijk om zes uur opstaan.)",
+            "explain": "With **opstaan** the prefix **op** goes to the end and the finite verb is **sta**: 'Ik sta om zes uur op.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "After 'eerst' keeps the subject before the verb (Maar eerst ik wil koffie.)",
+            "explain": "If the clause starts with **eerst**, the verb comes before the subject: 'Maar eerst wil ik koffie.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En als het regent? Gaan we dan toch?",
+          "en": "And if it rains? Are we still going?"
+        },
+        "task": "Say that if it rains you will sit inside anyway, and suggest lunch together.",
+        "examples": [
+          "Als het regent, gaan we gewoon binnen zitten. Daarna lunchen we samen.",
+          "Ook als het regent, gaan we toch. We lunchen daar wel.",
+          "Dan blijven we binnen. We lunchen samen in de binnenstad."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "After an 'als'-clause keeps the subject before the verb (Als het regent, we gaan binnen zitten.)",
+            "explain": "After a first **als**-clause the main clause starts with the verb: 'Als het regent, gaan we binnen zitten.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the subject after 'samen' after 'daarna' (Daarna lunchen samen we.)",
+            "explain": "After **daarna** the verb comes before the subject: 'Daarna lunchen we samen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits 'de' before 'binnenstad' (We lunchen samen in binnenstad.)",
+            "explain": "Use **in de binnenstad**: 'We lunchen samen in de binnenstad.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Mooi. Ik zie je zaterdag op het station.",
+          "en": "Great. See you Saturday at the station."
+        },
+        "task": "Confirm and say you will be there at about ten to eight.",
+        "examples": [
+          "Prima, tot zaterdag. Ik ben er om ongeveer tien voor acht.",
+          "Oké, tot zaterdag. Ik ben er om tien voor acht, ongeveer.",
+          "Afgesproken. Ik ben er om ongeveer tien voor acht op het station."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'op' with a clock time (Ik ben er op tien voor acht.)",
+            "explain": "Use **om** with clock times: 'om tien voor acht'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets 'er' (Ik ben om tien voor acht.)",
+            "explain": "For 'be there' use **er**: 'Ik ben er om tien voor acht.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts place before time (Ik ben op het station om ongeveer tien voor acht.)",
+            "explain": "Time comes before place: 'Ik ben om ongeveer tien voor acht op het station.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot zaterdag, het komt wel goed!",
+      "en": "See you Saturday, it'll be fine!"
+    }
+  },
+  "culture": {
+    "title": "Groningen: students, bikes and the Martini Tower",
+    "text": "Groningen lies in the north of the Netherlands and is a real student city: tens of thousands of students live and cycle here. In the centre stands the Martinitoren, almost 97 metres tall, which locals call 'd'n Olle Grieze' (the old grey one). The city is famous for its bicycles, and at the market you may still hear the local dialect, Gronings, which sounds quite different from standard Dutch."
+  },
+  "summary": [
+    "In a main clause the finite verb comes second; then come time, manner and place, and any other verbs go to the end.",
+    "A first subordinate clause (omdat, als, wanneer) puts its verbs last, and the main clause then starts with the verb.",
+    "Verb groups at the end are normal at A2+: the infinitive (modal/auxiliary) comes first, the main verb last; the finite verb stays second.",
+    "Time words like **meestal, waarschijnlijk, daarna, ten slotte** slot in right after the verb or at the start with inversion.",
+    "**tenminste** adds a condition, **eindelijk** shows relief, **ten slotte** ends a list."
+  ]
+}

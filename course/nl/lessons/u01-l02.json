@@ -1,0 +1,1230 @@
+{
+  "id": "u01-l02",
+  "title": "Ik ben Sanne",
+  "subtitle": "Introducing yourself",
+  "level": "A0",
+  "intro": "After this lesson you can introduce yourself in Dutch: say your name, ask someone else's name, and say where you come from. You will also learn when to use **je** and **u**.",
+  "words": [
+    {
+      "nl": "ik",
+      "en": "I",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben Sanne.",
+        "en": "I am Sanne."
+      },
+      "note": null
+    },
+    {
+      "nl": "jij",
+      "en": "you (informal)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoe heet jij?",
+        "en": "What is your name?"
+      },
+      "note": "Unstressed: **je**."
+    },
+    {
+      "nl": "u",
+      "en": "you (polite)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoe heet u?",
+        "en": "What is your name?"
+      },
+      "note": "Polite; use with older strangers and officials."
+    },
+    {
+      "nl": "hij",
+      "en": "he",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hij is Daan.",
+        "en": "He is Daan."
+      },
+      "note": null
+    },
+    {
+      "nl": "zij",
+      "en": "she; they",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij is Sanne.",
+        "en": "She is Sanne."
+      },
+      "note": "Can mean 'she' or 'they'; unstressed: **ze**."
+    },
+    {
+      "nl": "het",
+      "en": "it",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is goed.",
+        "en": "It is good."
+      },
+      "note": "Also the neuter article: **het land**."
+    },
+    {
+      "nl": "wij",
+      "en": "we",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wij zijn Sanne en Daan.",
+        "en": "We are Sanne and Daan."
+      },
+      "note": "Unstressed: **we**."
+    },
+    {
+      "nl": "jullie",
+      "en": "you (plural)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Jullie zijn Daan en Sanne.",
+        "en": "You are Daan and Sanne."
+      },
+      "note": "Used for more than one person."
+    },
+    {
+      "nl": "zijn",
+      "en": "to be",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ben, jij bent, u bent, hij/zij/het is, wij zijn, jullie zijn, zij zijn",
+      "example": {
+        "nl": "Wij zijn Sanne en Daan.",
+        "en": "We are Sanne and Daan."
+      },
+      "note": "Irregular verb; learn all forms."
+    },
+    {
+      "nl": "heten",
+      "en": "to be called",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik heet, jij heet, u heet, hij/zij/het heet, wij heten, jullie heten, zij heten",
+      "example": {
+        "nl": "Ik heet Sanne.",
+        "en": "My name is Sanne."
+      },
+      "note": "Use **heten**, not **zijn**, in the question **Hoe heet je?**."
+    },
+    {
+      "nl": "naam",
+      "en": "the name",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de namen",
+      "forms": null,
+      "example": {
+        "nl": "De naam is Sanne.",
+        "en": "The name is Sanne."
+      },
+      "note": null
+    },
+    {
+      "nl": "voornaam",
+      "en": "the first name",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de voornamen",
+      "forms": null,
+      "example": {
+        "nl": "De voornaam is Sanne.",
+        "en": "The first name is Sanne."
+      },
+      "note": null
+    },
+    {
+      "nl": "achternaam",
+      "en": "the surname",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de achternamen",
+      "forms": null,
+      "example": {
+        "nl": "De achternaam is De Vries.",
+        "en": "The surname is De Vries."
+      },
+      "note": null
+    },
+    {
+      "nl": "komen uit",
+      "en": "to come from",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom uit, jij komt uit, u komt uit, hij/zij komt uit, wij/jullie/zij komen uit",
+      "example": {
+        "nl": "Ik kom uit Nederland.",
+        "en": "I come from the Netherlands."
+      },
+      "note": "The question is **Waar kom je vandaan?**."
+    },
+    {
+      "nl": "waar",
+      "en": "where",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Waar kom je vandaan?",
+        "en": "Where are you from?"
+      },
+      "note": null
+    },
+    {
+      "nl": "wie",
+      "en": "who",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wie is de leraar?",
+        "en": "Who is the teacher?"
+      },
+      "note": null
+    },
+    {
+      "nl": "Nederland",
+      "en": "the Netherlands",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik kom uit Nederland.",
+        "en": "I come from the Netherlands."
+      },
+      "note": "Normally used without an article."
+    },
+    {
+      "nl": "Spanje",
+      "en": "Spain",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik kom uit Spanje.",
+        "en": "I come from Spain."
+      },
+      "note": null
+    },
+    {
+      "nl": "Engeland",
+      "en": "England",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik kom uit Engeland.",
+        "en": "I come from England."
+      },
+      "note": null
+    },
+    {
+      "nl": "Duitsland",
+      "en": "Germany",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik kom uit Duitsland.",
+        "en": "I come from Germany."
+      },
+      "note": null
+    },
+    {
+      "nl": "land",
+      "en": "the country",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de landen",
+      "forms": null,
+      "example": {
+        "nl": "Het land is Nederland.",
+        "en": "The country is the Netherlands."
+      },
+      "note": null
+    },
+    {
+      "nl": "klas",
+      "en": "the class",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de klassen",
+      "forms": null,
+      "example": {
+        "nl": "De klas is goed.",
+        "en": "The class is good."
+      },
+      "note": "Can mean the group of students or the room."
+    },
+    {
+      "nl": "leraar",
+      "en": "the teacher",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de leraren",
+      "forms": null,
+      "example": {
+        "nl": "Meneer De Vries is de leraar.",
+        "en": "Mr De Vries is the teacher."
+      },
+      "note": null
+    },
+    {
+      "nl": "cursus",
+      "en": "the course",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de cursussen",
+      "forms": null,
+      "example": {
+        "nl": "De cursus is goed.",
+        "en": "The course is good."
+      },
+      "note": null
+    },
+    {
+      "nl": "mevrouw",
+      "en": "Mrs; madam",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Goedemorgen, mevrouw De Vries.",
+        "en": "Good morning, Mrs De Vries."
+      },
+      "note": "Title for a woman; use with a surname or alone."
+    },
+    {
+      "nl": "meneer",
+      "en": "Mr; sir",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Meneer De Vries is de leraar.",
+        "en": "Mr De Vries is the teacher."
+      },
+      "note": "Title for a man; use with a surname or alone."
+    },
+    {
+      "nl": "aangenaam",
+      "en": "pleased to meet you",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Aangenaam, ik ben Sanne.",
+        "en": "Pleased to meet you, I am Sanne."
+      },
+      "note": "A polite way to say 'pleased to meet you'."
+    },
+    {
+      "nl": "leuk je te ontmoeten",
+      "en": "nice to meet you",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoi, leuk je te ontmoeten.",
+        "en": "Hi, nice to meet you."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hoe heet je?",
+      "en": "What is your name? (informal)",
+      "note": "Use with classmates and friends."
+    },
+    {
+      "nl": "Hoe heet u?",
+      "en": "What is your name? (polite)",
+      "note": "Use with older strangers and officials."
+    },
+    {
+      "nl": "Ik heet ...",
+      "en": "My name is ...",
+      "note": "Fill in your name."
+    },
+    {
+      "nl": "Ik ben ...",
+      "en": "I am ...",
+      "note": "Also used to give your name."
+    },
+    {
+      "nl": "Mijn naam is ...",
+      "en": "My name is ...",
+      "note": "Also correct; **mijn** means 'my'."
+    },
+    {
+      "nl": "Waar kom je vandaan?",
+      "en": "Where are you from? (informal)",
+      "note": "The word **vandaan** stays at the end."
+    },
+    {
+      "nl": "Waar komt u vandaan?",
+      "en": "Where are you from? (polite)",
+      "note": null
+    },
+    {
+      "nl": "Ik kom uit ...",
+      "en": "I come from ...",
+      "note": "Fill in a country."
+    },
+    {
+      "nl": "Leuk je te ontmoeten.",
+      "en": "Nice to meet you.",
+      "note": null
+    },
+    {
+      "nl": "Aangenaam.",
+      "en": "Pleased to meet you.",
+      "note": "Slightly formal; common when you meet someone new."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Subject pronouns: ik, jij, u",
+      "explanation": "Dutch verbs change with the subject. Learn these pronouns first. **jij** and **zij** are stressed; **je** and **ze** are common unstressed forms. **u** is the polite form of 'you'.",
+      "table": {
+        "headers": [
+          "Person",
+          "Pronoun",
+          "English"
+        ],
+        "rows": [
+          [
+            "1st singular",
+            "ik",
+            "I"
+          ],
+          [
+            "2nd singular informal",
+            "jij / je",
+            "you"
+          ],
+          [
+            "2nd singular formal",
+            "u",
+            "you (polite)"
+          ],
+          [
+            "3rd singular masculine",
+            "hij",
+            "he"
+          ],
+          [
+            "3rd singular feminine",
+            "zij / ze",
+            "she"
+          ],
+          [
+            "3rd singular neuter",
+            "het",
+            "it"
+          ],
+          [
+            "1st plural",
+            "wij / we",
+            "we"
+          ],
+          [
+            "2nd plural",
+            "jullie",
+            "you (plural)"
+          ],
+          [
+            "3rd plural",
+            "zij / ze",
+            "they"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben Sanne.",
+          "en": "I am Sanne."
+        },
+        {
+          "nl": "Jij heet Daan.",
+          "en": "Your name is Daan."
+        },
+        {
+          "nl": "Zij is Sanne.",
+          "en": "She is Sanne."
+        }
+      ],
+      "tip": "Use **u** with older strangers and officials. With classmates, use **je**."
+    },
+    {
+      "title": "**Zijn**: ik ben, jij bent, hij is",
+      "explanation": "**Zijn** means 'to be'. The forms are irregular, so learn them as a block. The polite **u** uses **bent**, just like **jij**.",
+      "table": {
+        "headers": [
+          "Pronoun",
+          "Form of zijn",
+          "English"
+        ],
+        "rows": [
+          [
+            "ik",
+            "ben",
+            "I am"
+          ],
+          [
+            "jij / je",
+            "bent",
+            "you are"
+          ],
+          [
+            "u",
+            "bent",
+            "you are (polite)"
+          ],
+          [
+            "hij / zij / het",
+            "is",
+            "he / she / it is"
+          ],
+          [
+            "wij / we",
+            "zijn",
+            "we are"
+          ],
+          [
+            "jullie",
+            "zijn",
+            "you are (plural)"
+          ],
+          [
+            "zij / ze",
+            "zijn",
+            "they are"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben Sanne.",
+          "en": "I am Sanne."
+        },
+        {
+          "nl": "Jij bent Daan.",
+          "en": "You are Daan."
+        },
+        {
+          "nl": "Meneer De Vries is de leraar.",
+          "en": "Mr De Vries is the teacher."
+        }
+      ],
+      "tip": "**U bent** is the polite form; **jij bent** is informal."
+    },
+    {
+      "title": "**Heten**: ik heet, jij heet",
+      "explanation": "Use **heten** to give your name. The question **Hoe heet je?** means 'What is your name?'. Do not use **zijn** for the question: **Hoe ben je?** is not used for names. The polite question is **Hoe heet u?**.",
+      "table": {
+        "headers": [
+          "Pronoun",
+          "Form of heten",
+          "English"
+        ],
+        "rows": [
+          [
+            "ik",
+            "heet",
+            "my name is"
+          ],
+          [
+            "jij / je",
+            "heet",
+            "your name is"
+          ],
+          [
+            "u",
+            "heet",
+            "your name is (polite)"
+          ],
+          [
+            "hij / zij / het",
+            "heet",
+            "his / her / its name is"
+          ],
+          [
+            "wij / we",
+            "heten",
+            "our names are"
+          ],
+          [
+            "jullie",
+            "heten",
+            "your names are"
+          ],
+          [
+            "zij / ze",
+            "heten",
+            "their names are"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heet Sanne.",
+          "en": "My name is Sanne."
+        },
+        {
+          "nl": "Hoe heet jij?",
+          "en": "What is your name?"
+        },
+        {
+          "nl": "Hoe heet u?",
+          "en": "What is your name? (polite)"
+        }
+      ],
+      "tip": "**Ik ben Sanne** is also fine, but the question is **Hoe heet je?**."
+    }
+  ],
+  "dialogue": {
+    "title": "Eerste dag in de klas",
+    "setting": "First day of a Dutch course in Utrecht; two students meet before the teacher arrives.",
+    "speakers": [
+      {
+        "name": "Daan",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Meneer De Vries",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Daan",
+        "nl": "Hallo, ik ben Daan. Hoe heet jij?",
+        "en": "Hi, I am Daan. What is your name?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Daan, ik heet Sanne. Leuk je te ontmoeten.",
+        "en": "Hi Daan, my name is Sanne. Nice to meet you."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Aangenaam. Waar kom je vandaan?",
+        "en": "Pleased to meet you. Where are you from?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik kom uit Nederland. En jij?",
+        "en": "I come from the Netherlands. And you?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ik kom uit Duitsland.",
+        "en": "I come from Germany."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Is meneer De Vries de leraar?",
+        "en": "Is Mr De Vries the teacher?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, hij is de leraar.",
+        "en": "Yes, he is the teacher."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Goedemorgen. Ik ben meneer De Vries.",
+        "en": "Good morning. I am Mr De Vries."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemorgen, meneer. Ik heet Sanne. Aangenaam.",
+        "en": "Good morning, sir. My name is Sanne. Pleased to meet you."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Aangenaam, Sanne. Waar kom je vandaan?",
+        "en": "Pleased to meet you, Sanne. Where are you from?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik kom uit Nederland.",
+        "en": "I come from the Netherlands."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Prima. En jij, Daan?",
+        "en": "Good. And you, Daan?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ik kom uit Duitsland.",
+        "en": "I come from Germany."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Goed. Dank je.",
+        "en": "Good. Thank you."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "heten",
+          "to be called"
+        ],
+        [
+          "zijn",
+          "to be"
+        ],
+        [
+          "komen uit",
+          "to come from"
+        ],
+        [
+          "de naam",
+          "the name"
+        ],
+        [
+          "het land",
+          "the country"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "Nederland",
+          "the Netherlands"
+        ],
+        [
+          "Duitsland",
+          "Germany"
+        ],
+        [
+          "Engeland",
+          "England"
+        ],
+        [
+          "Spanje",
+          "Spain"
+        ],
+        [
+          "waar",
+          "where"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence asks for someone's name informally?",
+      "nl": null,
+      "options": [
+        "Hoe heet je?",
+        "Waar kom je vandaan?",
+        "Hoe gaat het?"
+      ],
+      "answer": 0,
+      "explain": "**Hoe heet je?** asks for a name; the other sentences ask where someone is from or how they are."
+    },
+    {
+      "type": "choice",
+      "prompt": "You speak to an older official for the first time. Which word for 'you' is best?",
+      "nl": null,
+      "options": [
+        "jij",
+        "u",
+        "jullie"
+      ],
+      "answer": 1,
+      "explain": "**U** is the polite form; **jij** is for peers and **jullie** means 'you' plural."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete the sentence.",
+      "nl": "Hij ___ de leraar.",
+      "options": [
+        "ben",
+        "bent",
+        "is"
+      ],
+      "answer": 2,
+      "explain": "With **hij** (he), the form of **zijn** is **is**."
+    },
+    {
+      "type": "article",
+      "word": "naam",
+      "en": "name",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "land",
+      "en": "country",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I am called Sanne.",
+      "answer": "Ik heet Sanne.",
+      "accept": [],
+      "extra": [
+        "bent"
+      ],
+      "explain": "Use **heten** for names: **Ik heet Sanne.**"
+    },
+    {
+      "type": "build",
+      "en": "Where do you come from? (informal)",
+      "answer": "Waar kom je vandaan?",
+      "accept": [],
+      "extra": [
+        "u"
+      ],
+      "explain": "Use **komen uit** and put **vandaan** at the end: **Waar kom je vandaan?**"
+    },
+    {
+      "type": "build",
+      "en": "I come from England.",
+      "answer": "Ik kom uit Engeland.",
+      "accept": [],
+      "extra": [
+        "ben"
+      ],
+      "explain": "Use **komen uit** for origin: **Ik kom uit Engeland.**"
+    },
+    {
+      "type": "gap",
+      "text": "Hoe ___ je?",
+      "en": "What is your name?",
+      "answers": [
+        "heet"
+      ],
+      "hint": "heten (jij-vorm: heet)",
+      "explain": "With **je** (jij), **heten** becomes **heet**: 'Hoe heet je?'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ uit Nederland.",
+      "en": "I come from the Netherlands.",
+      "answers": [
+        "kom"
+      ],
+      "hint": "komen uit (ik-vorm)",
+      "explain": "With **ik**, **komen** becomes **kom**: 'Ik kom uit Nederland.'"
+    },
+    {
+      "type": "gap",
+      "text": "Hij ___ de leraar.",
+      "en": "He is the teacher.",
+      "answers": [
+        "is"
+      ],
+      "hint": "zijn (hij/zij/het-vorm)",
+      "explain": "With **hij**, **zijn** becomes **is**: 'Hij is de leraar.'"
+    },
+    {
+      "type": "translate",
+      "en": "My name is Sanne.",
+      "answers": [
+        "Ik heet Sanne.",
+        "Ik ben Sanne.",
+        "Mijn naam is Sanne."
+      ],
+      "focus": "heten, zijn and de naam",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Forgets the subject pronoun ('Heet Sanne.' / 'Ben Sanne.')",
+          "explain": "Start with the subject: 'Ik heet Sanne.' or 'Ik ben Sanne.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses both verbs together ('Ik ben heet Sanne.')",
+          "explain": "Choose one verb: 'Ik heet Sanne' or 'Ik ben Sanne.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'bent' with 'ik' ('Ik bent Sanne.')",
+          "explain": "With **ik** use **ben**: 'Ik ben Sanne.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'heten' with 'ik' ('Ik heten Sanne.')",
+          "explain": "With **ik** the form is **heet**: 'Ik heet Sanne.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Where are you from? (informal)",
+      "answers": [
+        "Waar kom je vandaan?",
+        "Waar kom jij vandaan?"
+      ],
+      "focus": "waar + komen uit",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'komt' with 'je' ('Waar komt je vandaan?')",
+          "explain": "With **je** use **kom**: 'Waar kom je vandaan?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts **vandaan** before **je** ('Waar kom vandaan je?')",
+          "explain": "**vandaan** goes at the end: 'Waar kom je vandaan?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses formal **u** for the informal prompt ('Waar komt u vandaan?')",
+          "explain": "The prompt is informal, so use **je**: 'Waar kom je vandaan?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets **vandaan** ('Waar kom je?')",
+          "explain": "Add **vandaan** for 'from': 'Waar kom je vandaan?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "He is the teacher.",
+      "answers": [
+        "Hij is de leraar.",
+        "Hij is leraar."
+      ],
+      "focus": "hij + zijn",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **bent** with **hij** ('Hij bent de leraar.')",
+          "explain": "With **hij** use **is**: 'Hij is de leraar.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts **de leraar** before **is** ('Hij de leraar is.')",
+          "explain": "The verb **is** comes second: 'Hij is de leraar.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **ben** with **hij** ('Hij ben de leraar.')",
+          "explain": "The form for **hij** is **is**: 'Hij is de leraar.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik kom uit Duitsland.",
+      "en": "I come from Germany."
+    },
+    {
+      "type": "listen",
+      "nl": "Hoe heet jij?",
+      "en": "What is your name?"
+    },
+    {
+      "type": "reply",
+      "context": "You meet a new classmate. She says:",
+      "say": {
+        "nl": "Hallo, ik ben Lotte. Hoe heet jij?",
+        "en": "Hi, I'm Lotte. What's your name?"
+      },
+      "task": "Say hello and give your name.",
+      "examples": [
+        "Hoi Lotte, ik ben Alex.",
+        "Hallo, ik heet Alex.",
+        "Hoi Lotte, mijn naam is Alex."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Does not greet Lotte ('Ik heet Alex.')",
+          "explain": "Start with **Hoi** or **Hallo**: 'Hoi Lotte, ik heet Alex.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses both **ben** and **heet** ('Hoi Lotte, ik ben heet Alex.')",
+          "explain": "Choose one: 'Ik ben Alex' or 'Ik heet Alex'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **bent** with **ik** ('Hoi Lotte, ik bent Alex.')",
+          "explain": "With **ik** use **ben**: 'Ik ben Alex.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets the verb with **mijn naam** ('Hoi Lotte, mijn naam Alex.')",
+          "explain": "Say 'Mijn naam is Alex' or 'Ik heet Alex.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "A teacher asks you:",
+      "say": {
+        "nl": "Waar kom je vandaan?",
+        "en": "Where are you from?"
+      },
+      "task": "Say you come from England.",
+      "examples": [
+        "Ik kom uit Engeland.",
+        "Ik kom uit Engeland. En jij?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **ben** for origin ('Ik ben uit Engeland.')",
+          "explain": "Use **kom uit**: 'Ik kom uit Engeland.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **van** instead of **uit** ('Ik kom van Engeland.')",
+          "explain": "For countries use **uit**: 'Ik kom uit Engeland.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts **uit Engeland** before the verb ('Ik uit Engeland kom.')",
+          "explain": "The verb comes second: 'Ik kom uit Engeland.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **komt** with **ik** ('Ik komt uit Engeland.')",
+          "explain": "With **ik** use **kom**: 'Ik kom uit Engeland.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "First day in the language class",
+    "setting": "You are new in a Dutch class in Utrecht. You meet a classmate before the lesson.",
+    "partner": {
+      "name": "Daan",
+      "gender": "m",
+      "role": "a friendly classmate"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hallo! Ik ben Daan. Hoe heet jij?",
+          "en": "Hi! I'm Daan. What's your name?"
+        },
+        "task": "Say hello and give your name.",
+        "examples": [
+          "Hoi Daan, ik ben Alex.",
+          "Hallo, ik heet Alex.",
+          "Hoi Daan, mijn naam is Alex."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Does not greet Daan ('Ik ben Alex.')",
+            "explain": "Start with **Hoi** or **Hallo**: 'Hoi Daan, ik ben Alex.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses both **ben** and **heet** ('Ik ben heet Alex.')",
+            "explain": "Choose one: 'Ik ben Alex' or 'Ik heet Alex'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses **bent** with **ik** ('Ik bent Alex.')",
+            "explain": "With **ik** use **ben**: 'Ik ben Alex.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Forgets the verb with **mijn naam** ('Mijn naam Alex.')",
+            "explain": "Say 'Mijn naam is Alex' or 'Ik heet Alex.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Leuk je te ontmoeten. Waar kom je vandaan?",
+          "en": "Nice to meet you. Where are you from?"
+        },
+        "task": "Say where you come from.",
+        "examples": [
+          "Ik kom uit Engeland.",
+          "Ik kom uit Nederland."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **ben** for origin ('Ik ben uit Engeland.')",
+            "explain": "Use **kom uit**: 'Ik kom uit Engeland.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses **van** instead of **uit** ('Ik kom van Engeland.')",
+            "explain": "For countries use **uit**: 'Ik kom uit Engeland.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets **uit** ('Ik kom Engeland.')",
+            "explain": "Say 'Ik kom uit Engeland.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses **komt** with **ik** ('Ik komt uit Engeland.')",
+            "explain": "With **ik** use **kom**: 'Ik kom uit Engeland.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Aangenaam. Ik kom uit Nederland. Hoe gaat het?",
+          "en": "Pleased to meet you. I'm from the Netherlands. How are you?"
+        },
+        "task": "Say how you are.",
+        "examples": [
+          "Goed, dank je.",
+          "Prima, dank je. En met jou?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'Ik ben goed' for 'I am well'.",
+            "explain": "Use 'Goed' or 'Het gaat goed', not 'Ik ben goed'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Says 'En jou?' instead of 'En jij?' / 'En met jou?'.",
+            "explain": "The subject form is **jij**: 'En jij?' or 'En met jou?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'Ik gaat goed' ('I goes well') instead of 'Het gaat goed'.",
+            "explain": "Do not say 'Ik gaat goed'; say 'Het gaat goed' or just 'Goed'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Goed, dank je. Is meneer De Vries de leraar?",
+          "en": "Good, thanks. Is Mr De Vries the teacher?"
+        },
+        "task": "Say yes, he is the teacher.",
+        "examples": [
+          "Ja, hij is de leraar.",
+          "Ja, meneer De Vries is de leraar.",
+          "Ja, hij is leraar."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **bent** with **hij** ('Ja, hij bent de leraar.')",
+            "explain": "With **hij** use **is**: 'Ja, hij is de leraar.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Keeps question order ('Ja, is hij de leraar?')",
+            "explain": "Answer with statement order: 'Ja, hij is de leraar.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts **de leraar** before **is** ('Ja, hij de leraar is.')",
+            "explain": "The verb **is** comes second: 'Ja, hij is de leraar.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses **ben** with **hij** ('Ja, hij ben de leraar.')",
+            "explain": "The form for **hij** is **is**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Prima. Tot straks!",
+          "en": "Great. See you soon!"
+        },
+        "task": "Say goodbye.",
+        "examples": [
+          "Doei!",
+          "Tot ziens!",
+          "Tot straks!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses a morning greeting as goodbye ('Goedemorgen!')",
+            "explain": "Use **Doei** or **Tot ziens** to say goodbye."
+          },
+          {
+            "id": "m2",
+            "pattern": "Says **Tot morgen** after **Tot straks**.",
+            "explain": "**Tot straks** means later today; reply **Tot straks** or **Doei**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Says **Welterusten** in the daytime.",
+            "explain": "**Welterusten** is only for bedtime; use **Doei** or **Tot ziens**."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot ziens!",
+      "en": "See you!"
+    }
+  },
+  "culture": {
+    "title": "Using je and u",
+    "text": "In the Netherlands, **je/jij** is normal with classmates, colleagues, children and most people you meet socially. Use **u** with older strangers, officials and in formal service situations. Many Dutch people quickly say 'Zeg maar je' ('Just call me je'), so do not worry if you start with **u**."
+  },
+  "summary": [
+    "Use **ik ben ...**, **ik heet ...** or **mijn naam is ...** to give your name.",
+    "Ask **Hoe heet je?** informally and **Hoe heet u?** politely.",
+    "Use **ik kom uit ...** for your country.",
+    "**Zijn** is irregular: **ik ben, jij bent, hij is**.",
+    "Use **je** with peers and **u** with older strangers or officials."
+  ]
+}

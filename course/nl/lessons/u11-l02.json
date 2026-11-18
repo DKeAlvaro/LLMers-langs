@@ -1,0 +1,1133 @@
+{
+  "id": "u11-l02",
+  "title": "In het nieuws",
+  "subtitle": "News and the passive",
+  "level": "A2+",
+  "intro": "In this lesson you learn to understand short news items in Dutch. You practise the passive: things that are closed, built or repaired, and who does it with door. After this lesson you can follow a simple local news story and talk about what happened.",
+  "words": [
+    {
+      "nl": "nieuws",
+      "en": "news",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Heb je het nieuws van vandaag gezien?",
+        "en": "Have you seen today's news?"
+      },
+      "note": "Use 'het nieuws' only in the singular; there is no plural."
+    },
+    {
+      "nl": "artikel",
+      "en": "article",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de artikelen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een goed artikel gelezen.",
+        "en": "I read a good article."
+      },
+      "note": "Plural: de artikelen."
+    },
+    {
+      "nl": "krant",
+      "en": "newspaper",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de kranten",
+      "forms": null,
+      "example": {
+        "nl": "De krant komt elke ochtend.",
+        "en": "The newspaper arrives every morning."
+      },
+      "note": null
+    },
+    {
+      "nl": "journalist",
+      "en": "journalist",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de journalisten",
+      "forms": null,
+      "example": {
+        "nl": "De journalist schrijft over de verkiezingen.",
+        "en": "The journalist writes about the elections."
+      },
+      "note": null
+    },
+    {
+      "nl": "verslaggever",
+      "en": "reporter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de verslaggevers",
+      "forms": null,
+      "example": {
+        "nl": "De verslaggever is bij het ongeluk.",
+        "en": "The reporter is at the accident."
+      },
+      "note": "A verslaggever reports live; a journalist also writes."
+    },
+    {
+      "nl": "journaal",
+      "en": "news broadcast, the news",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de journaals",
+      "forms": null,
+      "example": {
+        "nl": "Het journaal begint om acht uur.",
+        "en": "The news broadcast starts at eight o'clock."
+      },
+      "note": "Het NOS Journaal is the main Dutch news programme."
+    },
+    {
+      "nl": "regering",
+      "en": "government",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de regeringen",
+      "forms": null,
+      "example": {
+        "nl": "De regering wil meer huizen bouwen.",
+        "en": "The government wants to build more houses."
+      },
+      "note": null
+    },
+    {
+      "nl": "minister",
+      "en": "minister",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de ministers",
+      "forms": null,
+      "example": {
+        "nl": "De minister was gisteren in onze stad.",
+        "en": "The minister was in our city yesterday."
+      },
+      "note": null
+    },
+    {
+      "nl": "gemeente",
+      "en": "municipality, local council",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de gemeenten",
+      "forms": null,
+      "example": {
+        "nl": "De gemeente repareert de weg.",
+        "en": "The municipality is repairing the road."
+      },
+      "note": "The gemeente handles roads, waste and permits."
+    },
+    {
+      "nl": "verkiezingen",
+      "en": "elections",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de verkiezingen",
+      "forms": null,
+      "example": {
+        "nl": "De verkiezingen zijn in maart.",
+        "en": "The elections are in March."
+      },
+      "note": "Almost always plural: de verkiezingen."
+    },
+    {
+      "nl": "politie",
+      "en": "police",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De politie meldt dat de weg open is.",
+        "en": "The police report that the road is open."
+      },
+      "note": "No plural: de politie is singular."
+    },
+    {
+      "nl": "ongeluk",
+      "en": "accident",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de ongelukken",
+      "forms": null,
+      "example": {
+        "nl": "Er is een ongeluk gebeurd.",
+        "en": "There has been an accident."
+      },
+      "note": "Common: 'er is een ongeluk gebeurd'."
+    },
+    {
+      "nl": "brand",
+      "en": "fire",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de branden",
+      "forms": null,
+      "example": {
+        "nl": "De politie meldt een brand in het centrum.",
+        "en": "The police report a fire in the centre."
+      },
+      "note": null
+    },
+    {
+      "nl": "brandweer",
+      "en": "fire brigade",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De brandweer is onderweg.",
+        "en": "The fire brigade is on its way."
+      },
+      "note": "No plural: de brandweer is singular."
+    },
+    {
+      "nl": "staking",
+      "en": "strike",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de stakingen",
+      "forms": null,
+      "example": {
+        "nl": "De krant schrijft over de staking.",
+        "en": "The newspaper writes about the strike."
+      },
+      "note": null
+    },
+    {
+      "nl": "onderzoek",
+      "en": "investigation, research",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de onderzoeken",
+      "forms": null,
+      "example": {
+        "nl": "De politie doet onderzoek naar het ongeluk.",
+        "en": "The police are investigating the accident."
+      },
+      "note": "Fixed combination: 'onderzoek doen naar ...'."
+    },
+    {
+      "nl": "bewoner",
+      "en": "resident",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de bewoners",
+      "forms": null,
+      "example": {
+        "nl": "De bewoners van de straat zijn boos.",
+        "en": "The residents of the street are angry."
+      },
+      "note": null
+    },
+    {
+      "nl": "slachtoffer",
+      "en": "victim",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de slachtoffers",
+      "forms": null,
+      "example": {
+        "nl": "Er zijn twee slachtoffers.",
+        "en": "There are two victims."
+      },
+      "note": null
+    },
+    {
+      "nl": "maatregel",
+      "en": "measure",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de maatregelen",
+      "forms": null,
+      "example": {
+        "nl": "De gemeente neemt een maatregel.",
+        "en": "The council is taking a measure."
+      },
+      "note": "Fixed combination: 'een maatregel nemen'."
+    },
+    {
+      "nl": "afsluiting",
+      "en": "closure",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de afsluitingen",
+      "forms": null,
+      "example": {
+        "nl": "De afsluiting is van maandag tot vrijdag.",
+        "en": "The closure is from Monday to Friday."
+      },
+      "note": null
+    },
+    {
+      "nl": "werkzaamheden",
+      "en": "works, roadworks",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de werkzaamheden",
+      "forms": null,
+      "example": {
+        "nl": "Er zijn werkzaamheden op de weg.",
+        "en": "There are roadworks on the road."
+      },
+      "note": "Plural only."
+    },
+    {
+      "nl": "sluiten",
+      "en": "to close",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik sluit, jij sluit, wij sluiten (gesloten)",
+      "example": {
+        "nl": "De gemeente sluit de brug.",
+        "en": "The municipality closes the bridge."
+      },
+      "note": "Past participle: 'gesloten', not 'gesluit'."
+    },
+    {
+      "nl": "openen",
+      "en": "to open",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik open, jij opent, wij openen (geopend)",
+      "example": {
+        "nl": "De minister opent de nieuwe brug.",
+        "en": "The minister opens the new bridge."
+      },
+      "note": null
+    },
+    {
+      "nl": "bouwen",
+      "en": "to build",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bouw, jij bouwt, wij bouwen (gebouwd)",
+      "example": {
+        "nl": "Ze bouwen een nieuw huis.",
+        "en": "They are building a new house."
+      },
+      "note": null
+    },
+    {
+      "nl": "repareren",
+      "en": "to repair",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik repareer, jij repareert, wij repareren (gerepareerd)",
+      "example": {
+        "nl": "De gemeente repareert de weg.",
+        "en": "The municipality is repairing the road."
+      },
+      "note": null
+    },
+    {
+      "nl": "melden",
+      "en": "to report, to announce",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik meld, jij meldt, wij melden (gemeld)",
+      "example": {
+        "nl": "De politie meldt dat de weg open is.",
+        "en": "The police report that the road is open."
+      },
+      "note": "Common in the news: 'De politie meldt dat ...'."
+    },
+    {
+      "nl": "ontdekken",
+      "en": "to discover",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ontdek, jij ontdekt, wij ontdekken (ontdekt)",
+      "example": {
+        "nl": "De journalist ontdekt een fout.",
+        "en": "The journalist discovers a mistake."
+      },
+      "note": "No 'ge-': the participle is 'ontdekt', not 'geontdekt'."
+    },
+    {
+      "nl": "raken",
+      "en": "to hit, to touch",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik raak, jij raakt, wij raken (geraakt)",
+      "example": {
+        "nl": "De auto raakt de fietser.",
+        "en": "The car hits the cyclist."
+      },
+      "note": "'gewond raken' = to be or become injured."
+    },
+    {
+      "nl": "gewond",
+      "en": "injured",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De fietser is gewond.",
+        "en": "The cyclist is injured."
+      },
+      "note": "Common combinations: 'gewond raken', 'gewond zijn'."
+    },
+    {
+      "nl": "door",
+      "en": "by",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De weg wordt door de gemeente gerepareerd.",
+        "en": "The road is repaired by the municipality."
+      },
+      "note": "In a passive sentence, 'door' names the person or organisation."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Wat is er gebeurd?",
+      "en": "What happened?",
+      "note": null
+    },
+    {
+      "nl": "Het staat in de krant.",
+      "en": "It's in the newspaper.",
+      "note": null
+    },
+    {
+      "nl": "Volgens de politie ...",
+      "en": "According to the police ...",
+      "note": null
+    },
+    {
+      "nl": "De weg is afgesloten.",
+      "en": "The road is closed.",
+      "note": "Perfect passive: 'is' + 'afgesloten'."
+    },
+    {
+      "nl": "Er wordt gebouwd aan een nieuwe brug.",
+      "en": "A new bridge is being built.",
+      "note": null
+    },
+    {
+      "nl": "De gemeente laat weten dat ...",
+      "en": "The council announces that ...",
+      "note": "'laat weten' = officially announces."
+    },
+    {
+      "nl": "Ik heb het op het journaal gezien.",
+      "en": "I saw it on the news.",
+      "note": null
+    },
+    {
+      "nl": "Een fietser is gewond geraakt.",
+      "en": "A cyclist was injured.",
+      "note": null
+    },
+    {
+      "nl": "Het slachtoffer is naar het ziekenhuis gebracht.",
+      "en": "The victim was taken to hospital.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "The passive with worden",
+      "explanation": "In a passive sentence the action is important, not who does it. Dutch builds the passive with **worden** + the past participle at the end. Present: **wordt** (singular), **worden** (plural). Past: **werd** (singular), **werden** (plural).",
+      "table": {
+        "headers": [
+          "",
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "Present",
+            "wordt",
+            "worden"
+          ],
+          [
+            "Past",
+            "werd",
+            "werden"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De weg wordt gerepareerd.",
+          "en": "The road is being repaired."
+        },
+        {
+          "nl": "De brieven worden vandaag bezorgd.",
+          "en": "The letters are delivered today."
+        },
+        {
+          "nl": "Het museum werd in 1990 gesloten.",
+          "en": "The museum was closed in 1990."
+        }
+      ],
+      "tip": "The past participle comes at the end: De weg wordt morgen gerepareerd."
+    },
+    {
+      "title": "Perfect passive: is / zijn + participle",
+      "explanation": "For the result you use **is** or **zijn** + the past participle. Compare **De weg wordt afgesloten** (they are closing it now) with **De weg is afgesloten** (it is closed now). With a time expression, the perfect passive often focuses on the completed result.",
+      "table": {
+        "headers": [
+          "Type",
+          "Example",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "worden + participle",
+            "De brug wordt geopend.",
+            "The bridge is being opened (now)."
+          ],
+          [
+            "zijn + participle",
+            "De brug is geopend.",
+            "The bridge is open / has been opened."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Het museum is gesloten.",
+          "en": "The museum is closed."
+        },
+        {
+          "nl": "De brug is nog niet geopend.",
+          "en": "The bridge has not been opened yet."
+        }
+      ],
+      "tip": "Wordt = it happens/is happening; is = it has been done/is done."
+    },
+    {
+      "title": "Door: who does it?",
+      "explanation": "In a passive sentence you can name the doer with **door** + a person or organisation. **Door** comes before the doer and the participle stays at the end. **Door** also means 'through', so look at the whole sentence.",
+      "table": {
+        "headers": [
+          "Active",
+          "Passive"
+        ],
+        "rows": [
+          [
+            "De gemeente repareert de weg.",
+            "De weg wordt door de gemeente gerepareerd."
+          ],
+          [
+            "De politie meldt het ongeluk.",
+            "Het ongeluk wordt door de politie gemeld."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De weg wordt door de gemeente gerepareerd.",
+          "en": "The road is repaired by the municipality."
+        },
+        {
+          "nl": "Het artikel werd door een journalist geschreven.",
+          "en": "The article was written by a journalist."
+        }
+      ],
+      "tip": "The noun after door keeps its article: door de gemeente, door een journalist."
+    }
+  ],
+  "dialogue": {
+    "title": "In de pauze",
+    "setting": "Sanne and Bram are on a break at work. Sanne has just read the local news.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Bram",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Heb je het nieuws van vandaag gezien?",
+        "en": "Have you seen today's news?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Nee, wat is er gebeurd?",
+        "en": "No, what happened?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Het staat in de krant: de weg naar het centrum is afgesloten.",
+        "en": "It's in the newspaper: the road to the centre is closed."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Waarom? Is er een ongeluk gebeurd?",
+        "en": "Why? Has there been an accident?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, er wordt gebouwd aan een nieuwe brug.",
+        "en": "No, a new bridge is being built."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Mooi. En wanneer is het klaar?",
+        "en": "Nice. And when will it be finished?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Volgens de gemeente in juni. De omleiding staat op de kaart.",
+        "en": "According to the council in June. The diversion is on the map."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Dan neem ik morgen de fiets.",
+        "en": "Then I'll take the bike tomorrow."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed idee. Ik heb ook een artikel over de brug gelezen.",
+        "en": "Good idea. I also read an article about the bridge."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Ik heb het gisteren op het journaal gezien. De minister was in onze stad.",
+        "en": "I saw it on the news yesterday. The minister was in our city."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Echt? Dat is goed nieuws voor de bewoners.",
+        "en": "Really? That's good news for the residents."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Zeker. De politie meldt dat er niets is gebeurd.",
+        "en": "Definitely. The police report that nothing happened."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het nieuws",
+          "the news"
+        ],
+        [
+          "de krant",
+          "the newspaper"
+        ],
+        [
+          "de journalist",
+          "the journalist"
+        ],
+        [
+          "het ongeluk",
+          "the accident"
+        ],
+        [
+          "de staking",
+          "the strike"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "sluiten",
+          "to close"
+        ],
+        [
+          "openen",
+          "to open"
+        ],
+        [
+          "bouwen",
+          "to build"
+        ],
+        [
+          "repareren",
+          "to repair"
+        ],
+        [
+          "melden",
+          "to report"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which form is correct?",
+      "nl": "De weg ___ door de gemeente gerepareerd.",
+      "options": [
+        "wordt",
+        "worden",
+        "geworden"
+      ],
+      "answer": 0,
+      "explain": "De weg is singular, so use 'wordt' + past participle."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which form is correct?",
+      "nl": "Het ongeluk ___ gisteren gemeld.",
+      "options": [
+        "werd",
+        "wordt",
+        "geworden"
+      ],
+      "answer": 0,
+      "explain": "Gisteren refers to the past, so use 'werd'."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which form is correct?",
+      "nl": "Het nieuwe fietspad is nog niet ___.",
+      "options": [
+        "geopend",
+        "openen",
+        "opent"
+      ],
+      "answer": 0,
+      "explain": "After 'is' you need the past participle: 'geopend'."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which form is correct?",
+      "nl": "Het artikel is door een journalist ___.",
+      "options": [
+        "geschreven",
+        "schrijven",
+        "schrijft"
+      ],
+      "answer": 0,
+      "explain": "The perfect passive uses 'is' + past participle: 'geschreven'."
+    },
+    {
+      "type": "article",
+      "word": "onderzoek",
+      "en": "investigation",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "staking",
+      "en": "strike",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "A new bridge is being built.",
+      "answer": "Er wordt een nieuwe brug gebouwd",
+      "accept": [
+        "Een nieuwe brug wordt gebouwd"
+      ],
+      "extra": [
+        "worden",
+        "bouwen"
+      ],
+      "explain": "Use 'wordt' with a singular subject and put the past participle at the end."
+    },
+    {
+      "type": "build",
+      "en": "The road is repaired by the council.",
+      "answer": "De weg wordt door de gemeente gerepareerd",
+      "accept": [
+        "De weg wordt gerepareerd door de gemeente",
+        "Door de gemeente wordt de weg gerepareerd"
+      ],
+      "extra": [
+        "van",
+        "repareert"
+      ],
+      "explain": "In a passive sentence use 'wordt' + past participle; 'door' introduces the doer."
+    },
+    {
+      "type": "build",
+      "en": "The article was written by a journalist.",
+      "answer": "Het artikel werd door een journalist geschreven",
+      "accept": [
+        "Het artikel werd geschreven door een journalist",
+        "Door een journalist werd het artikel geschreven"
+      ],
+      "extra": [
+        "van",
+        "schrijft"
+      ],
+      "explain": "Use 'werd' for the past passive and put the past participle at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Het ongeluk ___ gisteren gemeld.",
+      "en": "The accident was reported yesterday.",
+      "answers": [
+        "werd"
+      ],
+      "hint": "worden – past tense, singular",
+      "explain": "Use 'werd' for a singular past passive."
+    },
+    {
+      "type": "gap",
+      "text": "De bewoners ___ vandaag gebeld door de gemeente.",
+      "en": "The residents are called by the council today.",
+      "answers": [
+        "worden"
+      ],
+      "hint": "worden – present tense, plural",
+      "explain": "The subject 'de bewoners' is plural and the time is now, so use 'worden'."
+    },
+    {
+      "type": "gap",
+      "text": "De weg wordt ___ de gemeente gerepareerd.",
+      "en": "The road is repaired by the council.",
+      "answers": [
+        "door"
+      ],
+      "hint": "the word for 'by' before the doer",
+      "explain": "Use 'door' before the person or organisation that does the action."
+    },
+    {
+      "type": "translate",
+      "en": "The road is closed.",
+      "answers": [
+        "De weg is afgesloten",
+        "De weg is gesloten",
+        "De weg is dicht"
+      ],
+      "focus": "perfect passive: is + past participle",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'wordt' for a closed result. Wrong: 'De weg wordt afgesloten.'",
+          "explain": "For 'is closed' as a result, use 'is' + past participle: 'De weg is afgesloten'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive after 'is'. Wrong: 'De weg is afsluiten.'",
+          "explain": "After 'is' you need the past participle: 'afgesloten', not 'afsluiten'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the wrong participle 'gesluit'. Wrong: 'De weg is gesluit.'",
+          "explain": "The correct participle is 'gesloten': 'De weg is gesloten'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets the article before 'weg'. Wrong: 'Weg is afgesloten.'",
+          "explain": "Use 'de weg': 'De weg is afgesloten'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "A new bridge is being built.",
+      "answers": [
+        "Er wordt een nieuwe brug gebouwd",
+        "Een nieuwe brug wordt gebouwd",
+        "De nieuwe brug wordt gebouwd",
+        "Er wordt aan een nieuwe brug gebouwd"
+      ],
+      "focus": "present passive with wordt; past participle at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses an infinitive instead of the participle. Wrong: 'Er wordt een nieuwe brug bouwen.'",
+          "explain": "The passive needs the past participle: 'gebouwd'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses plural 'worden' with singular 'brug'. Wrong: 'Er worden een nieuwe brug gebouwd.'",
+          "explain": "The subject 'een nieuwe brug' is singular, so use 'wordt'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the participle before the object. Wrong: 'Er wordt gebouwd een nieuwe brug.'",
+          "explain": "In the passive the participle comes at the end: 'Er wordt een nieuwe brug gebouwd'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Writes 'gebouwt'. Wrong: 'Er wordt een nieuwe brug gebouwt.'",
+          "explain": "The participle of 'bouwen' is 'gebouwd'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The museum was closed in 1990.",
+      "answers": [
+        "Het museum werd in 1990 gesloten",
+        "In 1990 werd het museum gesloten",
+        "Het museum is in 1990 gesloten",
+        "In 1990 is het museum gesloten"
+      ],
+      "focus": "past passive with werd; time first = verb second",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses present 'wordt' for a past event. Wrong: 'Het museum wordt in 1990 gesloten.'",
+          "explain": "For a past event use 'werd': 'Het museum werd in 1990 gesloten'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the subject before the verb after the time phrase. Wrong: 'In 1990 het museum werd gesloten.'",
+          "explain": "After 'In 1990' the verb comes second: 'In 1990 werd het museum gesloten'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the infinitive after 'werd'. Wrong: 'Het museum werd in 1990 sluiten.'",
+          "explain": "Use the past participle: 'gesloten'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'gesluit'. Wrong: 'Het museum werd in 1990 gesluit.'",
+          "explain": "The correct participle is 'gesloten'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Er is een ongeluk gebeurd.",
+      "en": "There has been an accident."
+    },
+    {
+      "type": "listen",
+      "nl": "De brug wordt volgende week geopend.",
+      "en": "The bridge will be opened next week."
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague tells you that the road to the centre is closed.",
+      "say": {
+        "nl": "De weg naar het centrum is afgesloten.",
+        "en": "The road to the centre is closed."
+      },
+      "task": "Ask why, and whether there was an accident.",
+      "examples": [
+        "Waarom? Is er een ongeluk gebeurd?",
+        "Waarom is de weg dicht? Is er iets gebeurd?",
+        "Is er een ongeluk gebeurd?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "No inversion after 'waarom'. Wrong: 'Waarom de weg is afgesloten?'",
+          "explain": "After a question word the verb comes first: 'Waarom is de weg afgesloten?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Wrong participle 'gebeurt' instead of 'gebeurd'. Wrong: 'Is er een ongeluk gebeurt?'",
+          "explain": "The participle of 'gebeuren' is 'gebeurd': 'Is er een ongeluk gebeurd?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'of' in a direct question. Wrong: 'Waarom of de weg is afgesloten?'",
+          "explain": "Do not use 'of' in a direct question; ask 'Waarom is de weg afgesloten?'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your neighbour tells you about the new bridge in your street.",
+      "say": {
+        "nl": "Er wordt een nieuwe brug gebouwd.",
+        "en": "A new bridge is being built."
+      },
+      "task": "Say that it is good news and ask when it will be ready.",
+      "examples": [
+        "Dat is goed nieuws! Wanneer is de brug klaar?",
+        "Mooi. En wanneer is het klaar?",
+        "Goed nieuws. Is het in juni klaar?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "No inversion after 'wanneer'. Wrong: 'Wanneer de brug is klaar?'",
+          "explain": "After 'wanneer' the verb comes first: 'Wanneer is de brug klaar?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'wordt klaar' for a result. Wrong: 'Wanneer wordt de brug klaar?'",
+          "explain": "For 'ready' use 'is': 'Wanneer is de brug klaar?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Wrong adjective ending with 'nieuws'. Wrong: 'Dat is goede nieuws.'",
+          "explain": "'Het nieuws' is a het-word, so use 'goed nieuws': 'Dat is goed nieuws'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets the verb 'is'. Wrong: 'Dat goed nieuws.'",
+          "explain": "Use a full sentence: 'Dat is goed nieuws'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Wat is er gebeurd?",
+    "setting": "You are on a break at work. Your colleague Femke tells you about a local news item: the road to the centre is closed and a new bridge is being built.",
+    "partner": {
+      "name": "Femke",
+      "gender": "f",
+      "role": "your colleague"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Heb je het nieuws van vandaag gezien? De weg naar het centrum is afgesloten.",
+          "en": "Have you seen today's news? The road to the centre is closed."
+        },
+        "task": "Say no, and ask what happened.",
+        "examples": [
+          "Nee. Wat is er gebeurd?",
+          "Nee, dat wist ik niet. Wat is er gebeurd?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "No inversion after 'wat'. Wrong: 'Wat er is gebeurd?'",
+            "explain": "After 'wat' the verb comes first: 'Wat is er gebeurd?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Wrong participle 'gebeurt'. Wrong: 'Wat is er gebeurt?'",
+            "explain": "The participle is 'gebeurd': 'Wat is er gebeurd?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'of' in a direct question. Wrong: 'Wat of er is gebeurd?'",
+            "explain": "Do not use 'of' here; ask 'Wat is er gebeurd?'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Omits 'er' after 'wat is'. Wrong: 'Wat is gebeurd?'",
+            "explain": "Natural Dutch uses 'er': 'Wat is er gebeurd?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Er wordt een nieuwe brug gebouwd.",
+          "en": "A new bridge is being built."
+        },
+        "task": "React positively and ask when it will be finished.",
+        "examples": [
+          "Mooi! Wanneer is het klaar?",
+          "Wat goed! Wanneer is de brug klaar?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "No inversion after 'wanneer'. Wrong: 'Wanneer het is klaar?'",
+            "explain": "After 'wanneer' the verb comes first: 'Wanneer is het klaar?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'wordt' with 'klaar'. Wrong: 'Wanneer wordt het klaar?'",
+            "explain": "Use 'is' for the result: 'Wanneer is het klaar?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses subordinate order in a direct question. Wrong: 'Wanneer de brug klaar is?'",
+            "explain": "In a direct question use verb before subject: 'Wanneer is de brug klaar?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Volgens de gemeente in juni. De omleiding staat op de kaart.",
+          "en": "According to the council in June. The diversion is on the map."
+        },
+        "task": "Say that you will take the bike tomorrow, and that you read an article about it.",
+        "examples": [
+          "Dan neem ik morgen de fiets. Ik heb een artikel over de brug gelezen.",
+          "Goed idee. Ik neem morgen de fiets. Ik heb er een artikel over gelezen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Starts with time and keeps subject before verb. Wrong: 'Morgen ik neem de fiets.'",
+            "explain": "After 'morgen' the verb comes second: 'Morgen neem ik de fiets'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Places participle before object. Wrong: 'Ik heb gelezen een artikel over de brug.'",
+            "explain": "Put the past participle at the end: 'Ik heb een artikel over de brug gelezen'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'ben' with 'gelezen'. Wrong: 'Ik ben een artikel over de brug gelezen.'",
+            "explain": "Use 'heb' with 'lezen': 'Ik heb een artikel gelezen'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Forgets 'de' before 'fiets'. Wrong: 'Ik neem morgen fiets.'",
+            "explain": "Use 'de fiets': 'Ik neem morgen de fiets'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik heb het ook op het journaal gezien. De bewoners zijn blij met de nieuwe brug.",
+          "en": "I saw it on the news too. The residents are happy with the new bridge."
+        },
+        "task": "Say that it is good news for the residents, and say goodbye.",
+        "examples": [
+          "Dat is goed nieuws voor de bewoners. Tot morgen!",
+          "Mooi voor de bewoners. Tot straks!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Wrong adjective ending with 'nieuws'. Wrong: 'Dat is goede nieuws voor de bewoners.'",
+            "explain": "'Het nieuws' is a het-word, so use 'goed nieuws': 'Dat is goed nieuws'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Plural subject with singular verb. Wrong: 'De bewoners is blij met de nieuwe brug.'",
+            "explain": "Use 'zijn' with plural: 'De bewoners zijn blij'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'voor' instead of 'met' after 'blij'. Wrong: 'De bewoners zijn blij voor de nieuwe brug.'",
+            "explain": "Use 'blij met': 'blij met de nieuwe brug'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot straks!",
+      "en": "See you later!"
+    }
+  },
+  "culture": {
+    "title": "Het NOS Journaal",
+    "text": "Het NOS Journaal is het belangrijkste nieuwsprogramma van de Nederlandse publieke omroep NOS. De grote uitzending is 's avonds om acht uur op NPO 1, en overdag zijn er kortere journaals en nieuws op NPO Radio 1. De redactie is onafhankelijk van de regering: ministers en de politie komen in het nieuws voor, maar maken het journaal niet. Regionaal nieuws komt van regionale omroepen zoals RTV Utrecht of Omroep Brabant."
+  },
+  "summary": [
+    "News words: het nieuws, de krant, het artikel, de journalist, het journaal.",
+    "Passive present: wordt / worden + voltooid deelwoord: De weg wordt gerepareerd.",
+    "Passive past: werd / werden + voltooid deelwoord: Het museum werd gesloten.",
+    "Perfect passive: is / zijn + voltooid deelwoord: De weg is afgesloten.",
+    "Use door for the doer: door de gemeente, door een journalist."
+  ]
+}

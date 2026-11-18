@@ -1,0 +1,1117 @@
+{
+  "id": "u03-l01",
+  "title": "In de supermarkt",
+  "subtitle": "Groceries and plurals",
+  "level": "A1",
+  "intro": "In this lesson you learn to name common groceries in Dutch. You can ask where something is in the supermarket and understand the answer. You also learn how to make Dutch plurals with -en and -s.",
+  "words": [
+    {
+      "nl": "supermarkt",
+      "en": "supermarket",
+      "pos": "noun",
+      "article": "de",
+      "plural": "supermarkten",
+      "forms": null,
+      "example": {
+        "nl": "Ik ben in de supermarkt.",
+        "en": "I am in the supermarket."
+      },
+      "note": null
+    },
+    {
+      "nl": "brood",
+      "en": "bread",
+      "pos": "noun",
+      "article": "het",
+      "plural": "broden",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb brood.",
+        "en": "I have bread."
+      },
+      "note": "**De broden** means loaves of bread."
+    },
+    {
+      "nl": "kaas",
+      "en": "cheese",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kazen",
+      "forms": null,
+      "example": {
+        "nl": "De kaas is duur.",
+        "en": "The cheese is expensive."
+      },
+      "note": "As a product usually uncountable; **de kazen** = types of cheese."
+    },
+    {
+      "nl": "melk",
+      "en": "milk",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb melk.",
+        "en": "I have milk."
+      },
+      "note": "Uncountable."
+    },
+    {
+      "nl": "ei",
+      "en": "egg",
+      "pos": "noun",
+      "article": "het",
+      "plural": "eieren",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een ei.",
+        "en": "I have an egg."
+      },
+      "note": "Plural: **de eieren**."
+    },
+    {
+      "nl": "appel",
+      "en": "apple",
+      "pos": "noun",
+      "article": "de",
+      "plural": "appels",
+      "forms": null,
+      "example": {
+        "nl": "De appel is lekker.",
+        "en": "The apple is tasty."
+      },
+      "note": null
+    },
+    {
+      "nl": "banaan",
+      "en": "banana",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bananen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een banaan.",
+        "en": "I have a banana."
+      },
+      "note": null
+    },
+    {
+      "nl": "aardappel",
+      "en": "potato",
+      "pos": "noun",
+      "article": "de",
+      "plural": "aardappelen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een aardappel.",
+        "en": "I have a potato."
+      },
+      "note": "You also hear **de aardappels**."
+    },
+    {
+      "nl": "tomaat",
+      "en": "tomato",
+      "pos": "noun",
+      "article": "de",
+      "plural": "tomaten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een tomaat.",
+        "en": "I have a tomato."
+      },
+      "note": null
+    },
+    {
+      "nl": "groente",
+      "en": "vegetable(s)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "groenten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb groente.",
+        "en": "I have vegetables."
+      },
+      "note": "Often used as a mass word; plural **de groenten**."
+    },
+    {
+      "nl": "fruit",
+      "en": "fruit",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het fruit is duur.",
+        "en": "The fruit is expensive."
+      },
+      "note": "Uncountable in this meaning."
+    },
+    {
+      "nl": "vlees",
+      "en": "meat",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik eet vlees.",
+        "en": "I eat meat."
+      },
+      "note": "Uncountable in this meaning."
+    },
+    {
+      "nl": "kip",
+      "en": "chicken",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kippen",
+      "forms": null,
+      "example": {
+        "nl": "Ik eet kip.",
+        "en": "I eat chicken."
+      },
+      "note": "As meat usually uncountable; **de kippen** = chickens."
+    },
+    {
+      "nl": "vis",
+      "en": "fish",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vissen",
+      "forms": null,
+      "example": {
+        "nl": "Ik eet vis.",
+        "en": "I eat fish."
+      },
+      "note": "**De vis** can be food or a fish; **de vissen** = fish (animals)."
+    },
+    {
+      "nl": "rijst",
+      "en": "rice",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb rijst.",
+        "en": "I have rice."
+      },
+      "note": "Uncountable."
+    },
+    {
+      "nl": "pasta",
+      "en": "pasta",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De pasta is lekker.",
+        "en": "The pasta is tasty."
+      },
+      "note": "Uncountable; **de pasta's** = types of pasta."
+    },
+    {
+      "nl": "boter",
+      "en": "butter",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb boter.",
+        "en": "I have butter."
+      },
+      "note": "Uncountable."
+    },
+    {
+      "nl": "yoghurt",
+      "en": "yoghurt",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb yoghurt.",
+        "en": "I have yoghurt."
+      },
+      "note": "Uncountable."
+    },
+    {
+      "nl": "pak",
+      "en": "pack",
+      "pos": "noun",
+      "article": "het",
+      "plural": "pakken",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een pak melk.",
+        "en": "I have a pack of milk."
+      },
+      "note": null
+    },
+    {
+      "nl": "fles",
+      "en": "bottle",
+      "pos": "noun",
+      "article": "de",
+      "plural": "flessen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een fles melk.",
+        "en": "I have a bottle of milk."
+      },
+      "note": null
+    },
+    {
+      "nl": "blik",
+      "en": "tin, can",
+      "pos": "noun",
+      "article": "het",
+      "plural": "blikken",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een blik vis.",
+        "en": "I have a tin of fish."
+      },
+      "note": null
+    },
+    {
+      "nl": "kassa",
+      "en": "checkout",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kassa's",
+      "forms": null,
+      "example": {
+        "nl": "Ik betaal bij de kassa.",
+        "en": "I pay at the checkout."
+      },
+      "note": null
+    },
+    {
+      "nl": "tas",
+      "en": "bag",
+      "pos": "noun",
+      "article": "de",
+      "plural": "tassen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een tas.",
+        "en": "I have a bag."
+      },
+      "note": null
+    },
+    {
+      "nl": "zoeken",
+      "en": "to look for",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zoek, jij zoekt, wij zoeken",
+      "example": {
+        "nl": "Ik zoek de kaas.",
+        "en": "I am looking for the cheese."
+      },
+      "note": null
+    },
+    {
+      "nl": "vinden",
+      "en": "to find",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vind, jij vindt, wij vinden",
+      "example": {
+        "nl": "Ik vind de melk.",
+        "en": "I find the milk."
+      },
+      "note": null
+    },
+    {
+      "nl": "staan",
+      "en": "to stand",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik sta, jij staat, wij staan",
+      "example": {
+        "nl": "De kaas staat daar.",
+        "en": "The cheese is there."
+      },
+      "note": "Use **staan** for things standing on a shelf."
+    },
+    {
+      "nl": "liggen",
+      "en": "to lie",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik lig, jij ligt, wij liggen",
+      "example": {
+        "nl": "De eieren liggen daar.",
+        "en": "The eggs are there."
+      },
+      "note": "Use **liggen** for things lying down."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Waar staat de kaas?",
+      "en": "Where is the cheese?",
+      "note": "Use **staan** for things standing on a shelf."
+    },
+    {
+      "nl": "Waar liggen de eieren?",
+      "en": "Where are the eggs?",
+      "note": "Use **liggen** for things lying down."
+    },
+    {
+      "nl": "Ik zoek het brood.",
+      "en": "I am looking for the bread.",
+      "note": null
+    },
+    {
+      "nl": "Heeft u ook melk?",
+      "en": "Do you also have milk?",
+      "note": "**Heeft u** is polite."
+    },
+    {
+      "nl": "De kaas staat daar.",
+      "en": "The cheese is there.",
+      "note": null
+    },
+    {
+      "nl": "Dat is alles.",
+      "en": "That is all.",
+      "note": "Useful at the checkout."
+    },
+    {
+      "nl": "Graag gedaan.",
+      "en": "You're welcome.",
+      "note": "Reply to **dank u wel**."
+    },
+    {
+      "nl": "Ik betaal bij de kassa.",
+      "en": "I pay at the checkout.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Plurals: -en and -s",
+      "explanation": "Most Dutch nouns make the plural with **-en**: **het boek** -> **de boeken**, **de tomaat** -> **de tomaten**. If a noun ends in an unstressed **-el, -er, -en, -em** or **-je**, add **-s**: **de tafel** -> **de tafels**, **de appel** -> **de appels**. Learn the plural together with the article.",
+      "table": {
+        "headers": [
+          "Singular",
+          "Plural",
+          "Rule"
+        ],
+        "rows": [
+          [
+            "het boek",
+            "de boeken",
+            "+ en"
+          ],
+          [
+            "de tomaat",
+            "de tomaten",
+            "+ en"
+          ],
+          [
+            "de appel",
+            "de appels",
+            "+ s after unstressed -el"
+          ],
+          [
+            "de tafel",
+            "de tafels",
+            "+ s after unstressed -el"
+          ],
+          [
+            "de ober",
+            "de obers",
+            "+ s after unstressed -er"
+          ],
+          [
+            "het kopje",
+            "de kopjes",
+            "+ s after -je"
+          ],
+          [
+            "de jongen",
+            "de jongens",
+            "+ s after unstressed -en"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Het boek is duur. De boeken zijn duur.",
+          "en": "The book is expensive. The books are expensive."
+        },
+        {
+          "nl": "De appel is lekker. De appels zijn lekker.",
+          "en": "The apple is tasty. The apples are tasty."
+        }
+      ],
+      "tip": "Say the plural aloud: **appel -> appels**, **tomaat -> tomaten**."
+    },
+    {
+      "title": "Spelling in plurals",
+      "explanation": "When you add **-en**, the spelling can change. A long vowel stays long: **de tomaat** -> **de tomaten**, **de banaan** -> **de bananen**. A short vowel needs a double consonant: **de kat** -> **de katten**, **de kip** -> **de kippen**, **het blik** -> **de blikken**. Listen carefully to the vowel sound.",
+      "table": {
+        "headers": [
+          "Singular",
+          "Plural",
+          "Spelling"
+        ],
+        "rows": [
+          [
+            "de tomaat",
+            "de tomaten",
+            "long a stays long; one a before -en"
+          ],
+          [
+            "de banaan",
+            "de bananen",
+            "long a stays long; one a before -en"
+          ],
+          [
+            "de kat",
+            "de katten",
+            "short a; double t"
+          ],
+          [
+            "de kip",
+            "de kippen",
+            "short i; double p"
+          ],
+          [
+            "de fles",
+            "de flessen",
+            "short e; double s"
+          ],
+          [
+            "het blik",
+            "de blikken",
+            "short i; double k"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De tomaat is lekker. De tomaten zijn lekker.",
+          "en": "The tomato is tasty. The tomatoes are tasty."
+        },
+        {
+          "nl": "Het blik is duur. De blikken zijn duur.",
+          "en": "The tin is expensive. The tins are expensive."
+        }
+      ],
+      "tip": "Say the plural aloud: **tomaat -> tomaten**, **kat -> katten**."
+    },
+    {
+      "title": "All plurals take de",
+      "explanation": "All Dutch plurals take **de**. A **het**-word becomes **de** in the plural: **het brood** -> **de broden**, **het ei** -> **de eieren**. A **de**-word keeps **de**: **de appel** -> **de appels**.",
+      "table": {
+        "headers": [
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "het brood",
+            "de broden"
+          ],
+          [
+            "het ei",
+            "de eieren"
+          ],
+          [
+            "de appel",
+            "de appels"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Het brood is duur. De broden zijn duur.",
+          "en": "The bread is expensive. The loaves are expensive."
+        },
+        {
+          "nl": "Het ei is lekker. De eieren zijn lekker.",
+          "en": "The egg is tasty. The eggs are tasty."
+        }
+      ],
+      "tip": "If the singular has **het**, the plural has **de**."
+    }
+  ],
+  "dialogue": {
+    "title": "Waar is de kaas?",
+    "setting": "In a supermarket in Utrecht. Sanne is looking for cheese, eggs and bread.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mark",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemorgen.",
+        "en": "Good morning."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Goedemorgen.",
+        "en": "Good morning."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik zoek de kaas.",
+        "en": "I am looking for the cheese."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "De kaas staat daar, bij de melk.",
+        "en": "The cheese is there, by the milk."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. En waar liggen de eieren?",
+        "en": "Thank you. And where are the eggs?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "De eieren liggen bij de melk.",
+        "en": "The eggs are by the milk."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Heeft u ook brood?",
+        "en": "Do you also have bread?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja, het brood ligt bij de kassa.",
+        "en": "Yes, the bread is at the checkout."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En waar staat de yoghurt?",
+        "en": "And where is the yoghurt?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "De yoghurt staat bij de melk.",
+        "en": "The yoghurt is by the milk."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik heb een pak melk en een fles jus d'orange.",
+        "en": "I have a pack of milk and a bottle of orange juice."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Is dat alles?",
+        "en": "Is that all?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, dat is alles. Dank u wel.",
+        "en": "Yes, that is all. Thank you."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Graag gedaan.",
+        "en": "You're welcome."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de supermarkt",
+          "the supermarket"
+        ],
+        [
+          "het brood",
+          "the bread"
+        ],
+        [
+          "de kaas",
+          "the cheese"
+        ],
+        [
+          "de kassa",
+          "the checkout"
+        ],
+        [
+          "de tas",
+          "the bag"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "zoeken",
+          "to look for"
+        ],
+        [
+          "vinden",
+          "to find"
+        ],
+        [
+          "staan",
+          "to stand"
+        ],
+        [
+          "liggen",
+          "to lie"
+        ],
+        [
+          "de fles",
+          "the bottle"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word is a drink?",
+      "nl": null,
+      "options": [
+        "de melk",
+        "het brood",
+        "de kaas",
+        "de appel"
+      ],
+      "answer": 0,
+      "explain": "**De melk** is something you drink."
+    },
+    {
+      "type": "choice",
+      "prompt": "Where do you pay in the supermarket?",
+      "nl": null,
+      "options": [
+        "bij de kassa",
+        "bij de melk",
+        "bij de kaas",
+        "bij de tas"
+      ],
+      "answer": 0,
+      "explain": "You pay **bij de kassa**."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which plural is correct?",
+      "nl": "het ei -> ___",
+      "options": [
+        "de eieren",
+        "de eiers",
+        "het eieren",
+        "de ei"
+      ],
+      "answer": 0,
+      "explain": "**Het ei** becomes **de eieren** in the plural."
+    },
+    {
+      "type": "article",
+      "word": "supermarkt",
+      "en": "supermarket",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "brood",
+      "en": "bread",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I am looking for the cheese.",
+      "answer": "Ik zoek de kaas.",
+      "accept": [],
+      "extra": [
+        "het",
+        "zoeken",
+        "is"
+      ],
+      "explain": "Use **ik zoek** (stem) and the de-word **de kaas**."
+    },
+    {
+      "type": "build",
+      "en": "Where are the eggs?",
+      "answer": "Waar liggen de eieren?",
+      "accept": [],
+      "extra": [
+        "het",
+        "ligt",
+        "is"
+      ],
+      "explain": "Question word **waar** + plural verb **liggen** + **de eieren**."
+    },
+    {
+      "type": "build",
+      "en": "The bread is at the checkout.",
+      "answer": "Het brood is bij de kassa.",
+      "accept": [
+        "Bij de kassa is het brood."
+      ],
+      "extra": [
+        "en",
+        "twee"
+      ],
+      "explain": "**Het brood** is a het-word; the fixed chunk is **bij de kassa**."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ de melk.",
+      "en": "I am looking for the milk.",
+      "answers": [
+        "zoek"
+      ],
+      "hint": "zoeken",
+      "explain": "After **ik** the verb is the stem: **ik zoek**."
+    },
+    {
+      "type": "gap",
+      "text": "De melk ___ duur.",
+      "en": "The milk is expensive.",
+      "answers": [
+        "is"
+      ],
+      "hint": "zijn",
+      "explain": "The subject **de melk** is singular, so the verb is **is**."
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb twee ___.",
+      "en": "I have two eggs.",
+      "answers": [
+        "eieren"
+      ],
+      "hint": "ei",
+      "explain": "The plural of **het ei** is **de eieren**."
+    },
+    {
+      "type": "gap",
+      "text": "De ___ zijn duur.",
+      "en": "The tomatoes are expensive.",
+      "answers": [
+        "tomaten"
+      ],
+      "hint": "tomaat (plural)",
+      "explain": "**De tomaat** becomes **de tomaten**: the long a keeps one letter before -en."
+    },
+    {
+      "type": "translate",
+      "en": "Where is the cheese?",
+      "answers": [
+        "Waar staat de kaas?",
+        "Waar is de kaas?",
+        "Waar vind ik de kaas?"
+      ],
+      "focus": "**Waar** + **staan** or **zijn**",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the verb before **waar**: 'Staat de kaas waar?'",
+          "explain": "In a WH-question the question word comes first: 'Waar staat de kaas?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **ligt** for cheese on a shelf: 'Waar ligt de kaas?'",
+          "explain": "Cheese stands on a shelf: use **staan**: 'Waar staat de kaas?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **het** with **kaas**: 'Waar staat het kaas?'",
+          "explain": "**Kaas** is a de-word: 'Waar staat de kaas?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I am looking for the eggs.",
+      "answers": [
+        "Ik zoek de eieren.",
+        "Ik zoek de eieren",
+        "Ik zoek naar de eieren."
+      ],
+      "focus": "present tense of **zoeken**: **ik zoek**",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **zoeken** with **ik**: 'Ik zoeken de eieren.'",
+          "explain": "With **ik** the verb is the stem: 'Ik zoek de eieren.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **het** with a plural: 'Ik zoek het eieren.'",
+          "explain": "Plurals take **de**: 'Ik zoek de eieren.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the singular **ei**: 'Ik zoek de ei.'",
+          "explain": "The plural of **het ei** is **de eieren**: 'Ik zoek de eieren.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **vinden** instead of **zoeken**: 'Ik vind de eieren.'",
+          "explain": "**Zoeken** = to look for; **vinden** = to find: 'Ik zoek de eieren.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The apples are expensive.",
+      "answers": [
+        "De appels zijn duur.",
+        "De appels zijn duur",
+        "De appels zijn niet goedkoop."
+      ],
+      "focus": "plural **de appels** + **zijn**",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **is** with a plural: 'De appels is duur.'",
+          "explain": "Plurals take **zijn**: 'De appels zijn duur.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **het** with a plural: 'Het appels zijn duur.'",
+          "explain": "Plurals take **de**: 'De appels zijn duur.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the singular **appel**: 'De appel zijn duur.'",
+          "explain": "The plural is **de appels**: 'De appels zijn duur.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts the adjective first: 'Duur de appels zijn.'",
+          "explain": "Start with the subject: 'De appels zijn duur.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Waar staat de kaas?",
+      "en": "Where is the cheese?"
+    },
+    {
+      "type": "listen",
+      "nl": "De eieren liggen bij de melk.",
+      "en": "The eggs are by the milk."
+    },
+    {
+      "type": "reply",
+      "context": "You are in the supermarket. You want to find the bread.",
+      "say": {
+        "nl": "Goedemorgen.",
+        "en": "Good morning."
+      },
+      "task": "Greet the shop assistant and ask where the bread is.",
+      "examples": [
+        "Goedemorgen. Waar is het brood?",
+        "Goedemorgen! Waar ligt het brood?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **de** with **brood**: 'Waar is de brood?'",
+          "explain": "**Brood** is a het-word: 'Waar is het brood?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the subject before the verb: 'Waar het brood is?'",
+          "explain": "After **waar** comes the verb, then the subject: 'Waar is het brood?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Asks without a greeting: 'Waar is het brood?'",
+          "explain": "Start with a greeting: 'Goedemorgen. Waar is het brood?'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You are at the checkout. The shop assistant asks if that is all.",
+      "say": {
+        "nl": "Is dat alles?",
+        "en": "Is that all?"
+      },
+      "task": "Say yes, that's all, and thank them.",
+      "examples": [
+        "Ja, dat is alles. Dank u wel.",
+        "Ja, dat is alles, dank u wel."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **dank je** to a shop assistant: 'Dank je wel.'",
+          "explain": "Say 'Dank u wel' to be polite to Mark."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts **alles** before **is**: 'Dat alles is.'",
+          "explain": "The fixed phrase is 'Dat is alles.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Answers with only **Ja**: 'Ja.'",
+          "explain": "Say the full phrase: 'Ja, dat is alles. Dank u wel.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "In de supermarkt",
+    "setting": "You are in a supermarket in Utrecht. You are looking for cheese and eggs, and later for bread.",
+    "partner": {
+      "name": "Mark",
+      "gender": "m",
+      "role": "shop assistant"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen.",
+          "en": "Good morning."
+        },
+        "task": "Greet Mark and say you are looking for the cheese.",
+        "examples": [
+          "Goedemorgen. Ik zoek de kaas.",
+          "Hallo. Ik zoek de kaas."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **het** with **kaas**: 'Ik zoek het kaas.'",
+            "explain": "**Kaas** is a de-word: 'Ik zoek de kaas.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses **vinden** instead of **zoeken**: 'Ik vind de kaas.'",
+            "explain": "**Zoeken** = to look for: 'Ik zoek de kaas.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the verb at the end: 'Ik de kaas zoek.'",
+            "explain": "The verb comes second: 'Ik zoek de kaas.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De kaas staat daar, bij de melk.",
+          "en": "The cheese is there, by the milk."
+        },
+        "task": "Thank him and ask where the eggs are.",
+        "examples": [
+          "Dank u wel. Waar liggen de eieren?",
+          "Dank u. En waar liggen de eieren?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **ligt** with plural **eieren**: 'Waar ligt de eieren?'",
+            "explain": "Use **liggen** with a plural: 'Waar liggen de eieren?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses **het** with a plural: 'Waar liggen het eieren?'",
+            "explain": "Plurals take **de**: 'Waar liggen de eieren?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts **waar** after the verb: 'Liggen de eieren waar?'",
+            "explain": "The question word comes first: 'Waar liggen de eieren?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De eieren liggen daar, bij de melk.",
+          "en": "The eggs are there, by the milk."
+        },
+        "task": "Ask if he also has bread.",
+        "examples": [
+          "Heeft u ook brood?",
+          "En heeft u ook brood?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **de** with **brood**: 'Heeft u ook de brood?'",
+            "explain": "**Brood** is a het-word: 'Heeft u ook brood?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the subject before the verb: 'U heeft ook brood?'",
+            "explain": "In a yes/no question the verb comes first: 'Heeft u ook brood?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses **jij** to a shop assistant: 'Heb jij ook brood?'",
+            "explain": "Use **u** to be polite: 'Heeft u ook brood?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja, het brood ligt bij de kassa.",
+          "en": "Yes, the bread is at the checkout."
+        },
+        "task": "Thank him and say that is all.",
+        "examples": [
+          "Dank u wel. Dat is alles.",
+          "Dank u. Dat is alles."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses **dank je** to a shop assistant: 'Dank je wel. Dat is alles.'",
+            "explain": "Say 'Dank u wel. Dat is alles.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts **alles** before **is**: 'Dat alles is.'",
+            "explain": "The fixed phrase is 'Dat is alles.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Says **niet alles** (= not all): 'Dat is niet alles.'",
+            "explain": "For 'that is all' say 'Dat is alles.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Graag gedaan. Tot ziens.",
+      "en": "You're welcome. Goodbye."
+    }
+  },
+  "culture": {
+    "title": "Bring your own bag",
+    "text": "In the Netherlands, you often pay a small amount for a plastic bag at the shop. Since 2016, Dutch shops are not allowed to give free plastic bags. Many people bring their own bag or buy a reusable one. At the supermarket you usually pack your groceries yourself at the checkout."
+  },
+  "summary": [
+    "Name common groceries with **de** or **het**.",
+    "Most plurals add **-en**; after unstressed **-el, -er, -en, -em, -je** add **-s**.",
+    "All plurals take **de**.",
+    "Use **staan** for things standing and **liggen** for things lying.",
+    "Ask **Waar staat...?**, **Waar ligt...?**, **Waar staan...?** or **Waar liggen...?** to find products."
+  ]
+}

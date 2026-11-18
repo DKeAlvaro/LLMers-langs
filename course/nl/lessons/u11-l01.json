@@ -1,0 +1,1107 @@
+{
+  "id": "u11-l01",
+  "title": "Volgens mij...",
+  "subtitle": "Giving your opinion",
+  "level": "A2+",
+  "intro": "In this lesson you learn how to give your opinion in Dutch and how to ask other people what they think. You also practise agreeing and disagreeing politely, and you learn useful words to structure an argument. By the end you can have a friendly discussion and explain your point of view.",
+  "words": [
+    {
+      "nl": "mening",
+      "en": "opinion",
+      "pos": "noun",
+      "article": "de",
+      "plural": "meningen",
+      "forms": null,
+      "example": {
+        "nl": "Wat is jouw mening over auto's in het centrum?",
+        "en": "What is your opinion on cars in the centre?"
+      },
+      "note": null
+    },
+    {
+      "nl": "vinden",
+      "en": "to think (have an opinion); to find",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vind, jij vindt, wij vinden (heeft gevonden)",
+      "example": {
+        "nl": "Ik vind het centrum te druk.",
+        "en": "I think the centre is too busy."
+      },
+      "note": "You already know vinden as 'to find'. In opinions it means 'to think'."
+    },
+    {
+      "nl": "volgens",
+      "en": "according to",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Volgens mij is het een goed idee.",
+        "en": "In my opinion it's a good idea."
+      },
+      "note": "Volgens mij is the most common way to say 'in my opinion'."
+    },
+    {
+      "nl": "onderwerp",
+      "en": "topic, subject",
+      "pos": "noun",
+      "article": "het",
+      "plural": "onderwerpen",
+      "forms": null,
+      "example": {
+        "nl": "Dat is een ander onderwerp.",
+        "en": "That's another topic."
+      },
+      "note": null
+    },
+    {
+      "nl": "discussie",
+      "en": "discussion",
+      "pos": "noun",
+      "article": "de",
+      "plural": "discussies",
+      "forms": null,
+      "example": {
+        "nl": "We hebben een discussie over het centrum.",
+        "en": "We are having a discussion about the centre."
+      },
+      "note": null
+    },
+    {
+      "nl": "discussiëren",
+      "en": "to discuss",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik discussieer, jij discussieert, wij discussiëren (heeft gediscussieerd)",
+      "example": {
+        "nl": "We discussiëren over het centrum.",
+        "en": "We are discussing the centre."
+      },
+      "note": null
+    },
+    {
+      "nl": "argument",
+      "en": "argument",
+      "pos": "noun",
+      "article": "het",
+      "plural": "argumenten",
+      "forms": null,
+      "example": {
+        "nl": "Dat is een goed argument.",
+        "en": "That's a good argument."
+      },
+      "note": null
+    },
+    {
+      "nl": "voordeel",
+      "en": "advantage",
+      "pos": "noun",
+      "article": "het",
+      "plural": "voordelen",
+      "forms": null,
+      "example": {
+        "nl": "Het voordeel is dat het goedkoper is.",
+        "en": "The advantage is that it's cheaper."
+      },
+      "note": null
+    },
+    {
+      "nl": "nadeel",
+      "en": "disadvantage",
+      "pos": "noun",
+      "article": "het",
+      "plural": "nadelen",
+      "forms": null,
+      "example": {
+        "nl": "Het nadeel is dat het te duur is.",
+        "en": "The disadvantage is that it's too expensive."
+      },
+      "note": null
+    },
+    {
+      "nl": "eens",
+      "en": "agreed (in 'het eens zijn'); once",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben het met je eens.",
+        "en": "I agree with you."
+      },
+      "note": "In Het eens zijn it means 'agreed'; on its own, eens can also mean 'once'."
+    },
+    {
+      "nl": "oneens",
+      "en": "disagreeing",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben het oneens met je.",
+        "en": "I disagree with you."
+      },
+      "note": "Ik ben het niet met je eens is more common than Ik ben het oneens met je."
+    },
+    {
+      "nl": "gelijk hebben",
+      "en": "to be right",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": "ik heb gelijk, jij hebt gelijk, hij heeft gelijk",
+      "example": {
+        "nl": "Je hebt gelijk: het centrum is te druk.",
+        "en": "You're right: the centre is too busy."
+      },
+      "note": null
+    },
+    {
+      "nl": "kloppen",
+      "en": "to be correct, to be right (of facts)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het klopt, het klopte (heeft geklopt)",
+      "example": {
+        "nl": "Dat klopt: de winkel is vandaag dicht.",
+        "en": "That's right: the shop is closed today."
+      },
+      "note": "Kloppen is used for facts; for people use gelijk hebben."
+    },
+    {
+      "nl": "eigenlijk",
+      "en": "actually, really",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Eigenlijk ben ik het niet met je eens.",
+        "en": "Actually, I don't agree with you."
+      },
+      "note": "You already know eigenlijk; in a discussion it softens your opinion."
+    },
+    {
+      "nl": "natuurlijk",
+      "en": "of course, naturally",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Natuurlijk is dat belangrijk.",
+        "en": "Of course that's important."
+      },
+      "note": "You already know natuurlijk; it makes an argument sound friendly or obvious."
+    },
+    {
+      "nl": "absoluut",
+      "en": "absolutely",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Absoluut, dat is een goed idee.",
+        "en": "Absolutely, that's a good idea."
+      },
+      "note": null
+    },
+    {
+      "nl": "helemaal",
+      "en": "completely",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dat klopt niet helemaal.",
+        "en": "That's not completely right."
+      },
+      "note": "Helemaal niet means 'not at all'."
+    },
+    {
+      "nl": "toch",
+      "en": "yet, though; after all",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Toch vind ik het een nadeel.",
+        "en": "Still, I think it's a disadvantage."
+      },
+      "note": "Toch softens a disagreement: Maar toch..."
+    },
+    {
+      "nl": "ten eerste",
+      "en": "first of all",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ten eerste is het duur.",
+        "en": "First of all, it's expensive."
+      },
+      "note": null
+    },
+    {
+      "nl": "ten tweede",
+      "en": "secondly",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ten tweede is het ver.",
+        "en": "Secondly, it's far."
+      },
+      "note": null
+    },
+    {
+      "nl": "bovendien",
+      "en": "moreover, besides",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Bovendien is het beter voor de stad.",
+        "en": "Moreover, it's better for the city."
+      },
+      "note": null
+    },
+    {
+      "nl": "aan de ene kant",
+      "en": "on the one hand",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Aan de ene kant is het rustiger.",
+        "en": "On the one hand it's quieter."
+      },
+      "note": null
+    },
+    {
+      "nl": "aan de andere kant",
+      "en": "on the other hand",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Aan de andere kant is het duur.",
+        "en": "On the other hand it's expensive."
+      },
+      "note": null
+    },
+    {
+      "nl": "conclusie",
+      "en": "conclusion",
+      "pos": "noun",
+      "article": "de",
+      "plural": "conclusies",
+      "forms": null,
+      "example": {
+        "nl": "Mijn conclusie is dat we het niet eens zijn.",
+        "en": "My conclusion is that we don't agree."
+      },
+      "note": null
+    },
+    {
+      "nl": "compromis",
+      "en": "compromise",
+      "pos": "noun",
+      "article": "het",
+      "plural": "compromissen",
+      "forms": null,
+      "example": {
+        "nl": "Na de discussie vonden we een compromis.",
+        "en": "After the discussion we found a compromise."
+      },
+      "note": null
+    },
+    {
+      "nl": "standpunt",
+      "en": "point of view, position",
+      "pos": "noun",
+      "article": "het",
+      "plural": "standpunten",
+      "forms": null,
+      "example": {
+        "nl": "Wat is jouw standpunt?",
+        "en": "What is your position?"
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Wat vind jij ervan?",
+      "en": "What do you think of it?",
+      "note": "Use ervan about a thing or a situation."
+    },
+    {
+      "nl": "Ik ben het met je eens.",
+      "en": "I agree with you.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben het niet met je eens.",
+      "en": "I disagree with you.",
+      "note": "More common and softer than Ik ben het oneens met je."
+    },
+    {
+      "nl": "Daar heb je gelijk in.",
+      "en": "You're right about that.",
+      "note": "Daar points back to what the other person said."
+    },
+    {
+      "nl": "Dat klopt (niet).",
+      "en": "That's right / that's not right.",
+      "note": "Use it for facts, not for people."
+    },
+    {
+      "nl": "Volgens mij...",
+      "en": "In my opinion...",
+      "note": "Literally 'according to me'."
+    },
+    {
+      "nl": "Ik vind dat...",
+      "en": "I think that...",
+      "note": "The verb goes to the end after dat."
+    },
+    {
+      "nl": "Aan de ene kant..., aan de andere kant...",
+      "en": "On the one hand..., on the other hand...",
+      "note": null
+    },
+    {
+      "nl": "Laten we het erover hebben.",
+      "en": "Let's talk about it.",
+      "note": "From u09: er + over for things."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Giving your opinion: Ik vind dat..., Volgens mij...",
+      "explanation": "Use **Ik vind dat...** or **Ik denk dat...** to give your opinion. After **dat**, the verb goes to the end: **Ik vind dat het te druk is.** With **Volgens mij** the phrase comes first, so the verb comes second: **Volgens mij is het te druk.** To ask for an opinion, say **Wat vind jij ervan?**",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English",
+          "Word order"
+        ],
+        "rows": [
+          [
+            "Ik vind dat het te duur is.",
+            "I think that it's too expensive.",
+            "dat + verb at the end"
+          ],
+          [
+            "Ik denk dat we meer groen nodig hebben.",
+            "I think that we need more green.",
+            "dat + verb at the end"
+          ],
+          [
+            "Volgens mij is het te duur.",
+            "In my opinion it's too expensive.",
+            "volgens mij + verb + subject"
+          ],
+          [
+            "Wat vind jij ervan?",
+            "What do you think of it?",
+            "question"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik vind dat het centrum te druk is.",
+          "en": "I think that the centre is too busy."
+        },
+        {
+          "nl": "Volgens mij is het een goed idee.",
+          "en": "In my opinion it's a good idea."
+        },
+        {
+          "nl": "Ik denk dat we het niet eens zijn.",
+          "en": "I think that we don't agree."
+        }
+      ],
+      "tip": "After **volgens mij** the verb comes right after the phrase; after **dat** it goes to the end."
+    },
+    {
+      "title": "Agreeing and disagreeing",
+      "explanation": "Say **Ik ben het met je eens** to agree and **Ik ben het niet met je eens** to disagree. Use **Daar heb je gelijk in** when the other person makes a good point. Use **Dat klopt** or **Dat klopt niet** about facts. **Je hebt gelijk** is shorter and very common.",
+      "table": {
+        "headers": [
+          "Response",
+          "English",
+          "When"
+        ],
+        "rows": [
+          [
+            "Ik ben het met je eens.",
+            "I agree with you.",
+            "about an opinion"
+          ],
+          [
+            "Ik ben het niet met je eens.",
+            "I disagree with you.",
+            "about an opinion"
+          ],
+          [
+            "Daar heb je gelijk in.",
+            "You're right about that.",
+            "after a good argument"
+          ],
+          [
+            "Dat klopt.",
+            "That's correct.",
+            "about a fact"
+          ],
+          [
+            "Dat klopt niet.",
+            "That's not correct.",
+            "about a fact"
+          ],
+          [
+            "Je hebt (helemaal) gelijk.",
+            "You're (completely) right.",
+            "about a fact or opinion"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben het niet met je eens, maar ik begrijp je argument.",
+          "en": "I disagree with you, but I understand your argument."
+        },
+        {
+          "nl": "Daar heb je gelijk in. Dat is een goed argument.",
+          "en": "You're right about that. That's a good argument."
+        },
+        {
+          "nl": "Dat klopt: de winkel is vandaag dicht.",
+          "en": "That's right: the shop is closed today."
+        }
+      ],
+      "tip": "Use **met je** for a friend and **met u** in a formal situation: Ik ben het met u eens."
+    },
+    {
+      "title": "Structuring an argument",
+      "explanation": "List your arguments with **ten eerste**, **ten tweede** and **bovendien**. Use **aan de ene kant ... aan de andere kant** to show two sides. When these phrases start the sentence, the verb comes second: **Ten eerste is het duur.** **Bovendien** adds an extra argument: **Bovendien is het ver.**",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English",
+          "Use"
+        ],
+        "rows": [
+          [
+            "Ten eerste is het te duur.",
+            "First of all, it's too expensive.",
+            "argument 1"
+          ],
+          [
+            "Ten tweede is het te ver.",
+            "Secondly, it's too far.",
+            "argument 2"
+          ],
+          [
+            "Bovendien is het niet gezond.",
+            "Moreover, it's not healthy.",
+            "extra argument"
+          ],
+          [
+            "Aan de ene kant is het rustig.",
+            "On the one hand it's quiet.",
+            "one side"
+          ],
+          [
+            "Aan de andere kant is het duur.",
+            "On the other hand it's expensive.",
+            "other side"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ten eerste is het duur, en ten tweede is het ver.",
+          "en": "First of all it's expensive, and secondly it's far."
+        },
+        {
+          "nl": "Bovendien is het beter voor de stad.",
+          "en": "Moreover, it's better for the city."
+        },
+        {
+          "nl": "Aan de ene kant is het rustiger, aan de andere kant is het duur.",
+          "en": "On the one hand it's quieter, on the other hand it's expensive."
+        }
+      ],
+      "tip": "When **Bovendien** starts the sentence, the verb follows directly: **Bovendien is het...**, not **Bovendien het is...**."
+    }
+  ],
+  "dialogue": {
+    "title": "Aan tafel",
+    "setting": "Sanne and Mark are having dinner at home in Utrecht. They talk about whether cars should be banned from the city centre.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mark",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Ik vind dat er te veel auto's in het centrum zijn. Wat vind jij ervan, Mark?",
+        "en": "I think there are too many cars in the centre. What do you think, Mark?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Eigenlijk ben ik het niet met je eens. Aan de ene kant is het rustiger zonder auto's, maar aan de andere kant hebben mensen een auto nodig.",
+        "en": "Actually, I don't agree with you. On the one hand it's quieter without cars, but on the other hand people need a car."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Daar heb je gelijk in. Maar volgens mij is het centrum te druk.",
+        "en": "You're right about that. But in my opinion the centre is too busy."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Dat klopt. Toch zie ik een groot nadeel voor de winkels. Ten eerste komen er minder klanten, en ten tweede is het moeilijker om boodschappen te doen.",
+        "en": "That's true. Still, I see a big disadvantage for the shops. First of all, fewer customers come, and secondly it's more difficult to do groceries."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Bovendien is er een oplossing: mensen kunnen buiten het centrum parkeren.",
+        "en": "Moreover, there is a solution: people can park outside the centre."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Absoluut, maar de gemeente moet dat betalen. Ik denk dat het te duur is.",
+        "en": "Absolutely, but the municipality has to pay for that. I think that it's too expensive."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat klopt niet helemaal. Het voordeel is dat de stad gezonder wordt. En rustiger is ook beter voor kinderen.",
+        "en": "That's not completely right. The advantage is that the city becomes healthier. And quieter is also better for children."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Prima, daar ben ik het mee eens. Maar wat doen we met mensen die niet kunnen lopen?",
+        "en": "Fine, I agree with that. But what do we do with people who cannot walk?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Natuurlijk is dat belangrijk. Maar dat is een ander onderwerp.",
+        "en": "Of course that's important. But that's another topic."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Daar ben ik het helemaal mee eens. Zullen we nog een koffie nemen?",
+        "en": "I completely agree with that. Shall we have another coffee?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed idee. En dan praten we over het tweede argument.",
+        "en": "Good idea. And then we'll talk about the second argument."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Prima, ik luister.",
+        "en": "Fine, I'm listening."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de mening",
+          "the opinion"
+        ],
+        [
+          "het argument",
+          "the argument"
+        ],
+        [
+          "het voordeel",
+          "the advantage"
+        ],
+        [
+          "het nadeel",
+          "the disadvantage"
+        ],
+        [
+          "het onderwerp",
+          "the topic"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "eens",
+          "agreed (in 'het eens zijn')"
+        ],
+        [
+          "oneens",
+          "disagreeing"
+        ],
+        [
+          "volgens",
+          "according to"
+        ],
+        [
+          "bovendien",
+          "moreover"
+        ],
+        [
+          "aan de andere kant",
+          "on the other hand"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the opposite of 'het voordeel'?",
+      "nl": null,
+      "options": [
+        "het nadeel",
+        "de mening",
+        "het argument",
+        "de discussie"
+      ],
+      "answer": 0,
+      "explain": "Het nadeel is the opposite of het voordeel."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik vind dat het centrum te druk is.",
+        "Ik vind dat het centrum is te druk.",
+        "Ik vind dat is het centrum te druk.",
+        "Ik vind het centrum dat te druk is."
+      ],
+      "answer": 0,
+      "explain": "After dat, the verb goes to the end: ... dat het centrum te druk is."
+    },
+    {
+      "type": "choice",
+      "prompt": "You want to disagree politely. What do you say?",
+      "nl": null,
+      "options": [
+        "Ik ben het niet met je eens.",
+        "Daar heb je gelijk in.",
+        "Dat klopt.",
+        "Ik ben het met je eens."
+      ],
+      "answer": 0,
+      "explain": "Ik ben het niet met je eens means 'I disagree with you'."
+    },
+    {
+      "type": "article",
+      "word": "mening",
+      "en": "opinion",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "argument",
+      "en": "argument",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I agree with you.",
+      "answer": "Ik ben het met je eens.",
+      "accept": [
+        "Ik ben het eens met je."
+      ],
+      "extra": [
+        "mijn",
+        "jouw"
+      ],
+      "explain": "The fixed phrase is 'het met iemand eens zijn': 'Ik ben het met je eens.'"
+    },
+    {
+      "type": "build",
+      "en": "In my opinion the centre is too busy.",
+      "answer": "Volgens mij is het centrum te druk.",
+      "accept": [
+        "Het centrum is volgens mij te druk.",
+        "Het centrum is te druk volgens mij."
+      ],
+      "extra": [
+        "denk",
+        "vind"
+      ],
+      "explain": "After 'Volgens mij' the verb comes second: 'Volgens mij is het centrum te druk.'"
+    },
+    {
+      "type": "build",
+      "en": "Moreover, the disadvantage is that it is too expensive.",
+      "answer": "Bovendien is het nadeel dat het te duur is.",
+      "accept": [
+        "Het nadeel is bovendien dat het te duur is."
+      ],
+      "extra": [
+        "zijn",
+        "goedkoop"
+      ],
+      "explain": "After 'Bovendien' the verb comes second, and after 'dat' it goes to the end: 'Bovendien is het nadeel dat het te duur is.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ben het niet met je ___. Volgens mij is het te duur.",
+      "en": "I disagree with you. In my opinion it is too expensive.",
+      "answers": [
+        "eens"
+      ],
+      "hint": "agreed",
+      "explain": "The phrase is 'het met iemand eens zijn'; after 'niet' you still need 'eens'."
+    },
+    {
+      "type": "gap",
+      "text": "___ mij is het centrum te druk.",
+      "en": "In my opinion the centre is too busy.",
+      "answers": [
+        "Volgens"
+      ],
+      "hint": "according to",
+      "explain": "Use 'Volgens mij' for 'in my opinion'; the verb follows directly: 'Volgens mij is...'."
+    },
+    {
+      "type": "gap",
+      "text": "Ten eerste is het duur. ___ is het ook ver.",
+      "en": "First of all it is expensive. Moreover, it is also far.",
+      "answers": [
+        "Bovendien"
+      ],
+      "hint": "moreover",
+      "explain": "Bovendien adds an extra argument and is followed directly by the verb: 'Bovendien is...'."
+    },
+    {
+      "type": "translate",
+      "en": "I think that the centre is too busy.",
+      "answers": [
+        "Ik vind dat het centrum te druk is.",
+        "Ik denk dat het centrum te druk is.",
+        "Ik vind het centrum te druk.",
+        "Volgens mij is het centrum te druk."
+      ],
+      "focus": "Ik vind/denk dat + verb at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Leaves out dat and keeps a second verb, e.g. 'Ik vind het centrum is te druk.'",
+          "explain": "Say 'Ik vind dat het centrum te druk is.' Without dat, use no extra is: 'Ik vind het centrum te druk.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Keeps main-clause order after dat, e.g. 'Ik vind dat het centrum is te druk.'",
+          "explain": "After dat the verb goes to the end: '... dat het centrum te druk is.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the subject after the verb after dat, e.g. 'Ik denk dat is het centrum te druk.'",
+          "explain": "After dat the subject comes first: '... dat het centrum te druk is.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Says 'te veel druk' for 'too busy', e.g. 'Ik vind dat het centrum te veel druk is.'",
+          "explain": "Use 'te druk', not 'te veel druk'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "You are right about that.",
+      "answers": [
+        "Daar heb je gelijk in.",
+        "Daar heb jij gelijk in.",
+        "Je hebt gelijk.",
+        "Daar hebt u gelijk in.",
+        "U hebt gelijk."
+      ],
+      "focus": "gelijk hebben; daar + inversion",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses zijn instead of hebben, e.g. 'Je bent gelijk.'",
+          "explain": "In 'gelijk hebben' the verb is hebben: 'Je hebt gelijk.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "No inversion after daar, e.g. 'Daar je hebt gelijk in.'",
+          "explain": "After 'Daar' the verb comes first: 'Daar heb je gelijk in.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds 'in dat', e.g. 'Je hebt gelijk in dat.'",
+          "explain": "Say 'Daar heb je gelijk in' or 'Je hebt gelijk', not 'gelijk in dat'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "On the other hand, the advantage is that it is healthier.",
+      "answers": [
+        "Aan de andere kant is het voordeel dat het gezonder is.",
+        "Aan de andere kant is het een voordeel dat het gezonder is.",
+        "Maar aan de andere kant is het voordeel dat het gezonder is."
+      ],
+      "focus": "aan de andere kant + inversion; dat-clause",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "No inversion after aan de andere kant, e.g. 'Aan de andere kant het voordeel is dat het gezonder is.'",
+          "explain": "The phrase comes first, so the verb comes second: 'Aan de andere kant is het voordeel...'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Keeps main-clause order after dat, e.g. '... dat het is gezonder.'",
+          "explain": "After dat the verb goes to the end: '... dat het gezonder is.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses gezond instead of comparative gezonder, e.g. '... dat het gezond is.'",
+          "explain": "English 'healthier' is 'gezonder'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik ben het met je eens.",
+      "en": "I agree with you."
+    },
+    {
+      "type": "listen",
+      "nl": "Volgens mij heb je gelijk.",
+      "en": "In my opinion you are right."
+    },
+    {
+      "type": "reply",
+      "context": "You are talking to a colleague about working from home.",
+      "say": {
+        "nl": "Ik vind dat we thuis moeten werken.",
+        "en": "I think that we should work from home."
+      },
+      "task": "Agree and give one reason.",
+      "examples": [
+        "Daar heb je gelijk in. Thuiswerken is rustiger.",
+        "Ik ben het met je eens. Ik werk thuis beter.",
+        "Natuurlijk, en het is ook goedkoper."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Says 'Ik heb gelijk met je' for agreement, e.g. 'Ik heb gelijk met je.'",
+          "explain": "Agreeing is 'Ik ben het met je eens', not 'Ik heb gelijk' (= I am right)."
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out eens in the fixed phrase, e.g. 'Ik ben het met je.'",
+          "explain": "The full phrase is 'Ik ben het met je eens.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "No inversion after daar, e.g. 'Daar je hebt gelijk in.'",
+          "explain": "After 'Daar' the verb comes first: 'Daar heb je gelijk in.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "At dinner, a friend says:",
+      "say": {
+        "nl": "Ik vind dat auto's uit het centrum moeten.",
+        "en": "I think that cars should be out of the centre."
+      },
+      "task": "Disagree politely and give one disadvantage.",
+      "examples": [
+        "Ik ben het niet met je eens. Het nadeel is dat winkels minder klanten krijgen.",
+        "Dat klopt niet helemaal. Het nadeel is dat het te duur is.",
+        "Daar heb je gelijk in, maar het nadeel is dat mensen een auto nodig hebben."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places niet after met je, e.g. 'Ik ben het met je niet eens.'",
+          "explain": "The correct order is 'Ik ben het niet met je eens.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb before the object after dat, e.g. 'Het nadeel is dat winkels krijgen minder klanten.'",
+          "explain": "After dat the verb goes to the end: '... dat winkels minder klanten krijgen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Only agrees and gives no disadvantage, e.g. 'Daar heb je gelijk in.'",
+          "explain": "The task asks you to disagree politely and give one disadvantage."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Aan tafel met Mark",
+    "setting": "At a friend's dinner table in Utrecht. Mark disagrees with you politely about cars in the city centre.",
+    "partner": {
+      "name": "Mark",
+      "gender": "m",
+      "role": "friend who likes a good discussion"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Ik vind dat er te veel auto's in het centrum zijn. Wat vind jij ervan?",
+          "en": "I think that there are too many cars in the centre. What do you think?"
+        },
+        "task": "Give your opinion. Agree or disagree.",
+        "examples": [
+          "Volgens mij is het centrum te druk.",
+          "Ik ben het met je eens: er zijn te veel auto's.",
+          "Eigenlijk ben ik het niet met je eens. Auto's zijn nodig."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "No inversion after volgens mij, e.g. 'Volgens mij het centrum is te druk.'",
+            "explain": "After 'Volgens mij' the verb comes second: 'Volgens mij is het centrum te druk.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses two finite verbs with vinden, e.g. 'Ik vind het centrum is te druk.'",
+            "explain": "Say 'Ik vind dat het centrum te druk is' or 'Ik vind het centrum te druk'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'Ik heb gelijk met je' to agree, e.g. 'Ik heb gelijk met je.'",
+            "explain": "Agreeing is 'Ik ben het met je eens'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Aan de ene kant is het rustiger zonder auto's, maar aan de andere kant hebben mensen een auto nodig.",
+          "en": "On the one hand it's quieter without cars, but on the other hand people need a car."
+        },
+        "task": "Respond to his argument. Agree with one side and give your own opinion.",
+        "examples": [
+          "Daar heb je gelijk in. Maar ik denk dat het centrum te druk is.",
+          "Dat klopt, maar volgens mij is het beter voor de stad.",
+          "Aan de ene kant heb je gelijk, aan de andere kant is het niet goed voor de winkels."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "No inversion after aan de ene kant, e.g. 'Aan de ene kant je hebt gelijk.'",
+            "explain": "The phrase comes first, so the verb comes second: 'Aan de ene kant heb je gelijk.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Keeps main-clause order after dat, e.g. 'Ik denk dat het centrum is te druk.'",
+            "explain": "After dat the verb goes to the end: '... dat het centrum te druk is.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the object before the infinitive after a modal, e.g. 'mensen hebben nodig een auto.'",
+            "explain": "With a modal the infinitive goes to the end: 'mensen hebben een auto nodig'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik denk dat het te duur is. De gemeente moet dat betalen.",
+          "en": "I think that it's too expensive. The municipality has to pay for that."
+        },
+        "task": "Disagree politely and give a different argument.",
+        "examples": [
+          "Dat klopt niet helemaal. Het voordeel is dat de stad gezonder wordt.",
+          "Ik ben het niet met je eens. Volgens mij is er genoeg geld.",
+          "Daar heb je gelijk in, maar er is een oplossing."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Places niet after met je, e.g. 'Ik ben het met je niet eens.'",
+            "explain": "The correct order is 'Ik ben het niet met je eens.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Keeps main-clause order after dat, e.g. 'Ik denk dat het is niet te duur.'",
+            "explain": "After dat the verb goes to the end: '... dat het niet te duur is.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Keeps main-clause order after dat with worden, e.g. 'Het voordeel is dat de stad wordt gezonder.'",
+            "explain": "After dat the verb goes to the end: '... dat de stad gezonder wordt.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Prima, wat is jouw belangrijkste argument?",
+          "en": "Fine, what is your main argument?"
+        },
+        "task": "Give your main argument with ten eerste or bovendien.",
+        "examples": [
+          "Ten eerste is het beter voor kinderen.",
+          "Bovendien is het centrum dan rustiger.",
+          "Mijn belangrijkste argument is dat het gezonder is."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "No inversion after ten eerste, e.g. 'Ten eerste het is beter voor kinderen.'",
+            "explain": "After 'Ten eerste' the verb comes second: 'Ten eerste is het beter voor kinderen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Keeps main-clause order after dat, e.g. 'Mijn belangrijkste argument is dat het is gezonder.'",
+            "explain": "After dat the verb goes to the end: '... dat het gezonder is.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "No inversion after bovendien, e.g. 'Bovendien het centrum is rustiger.'",
+            "explain": "When bovendien starts the sentence, the verb follows: 'Bovendien is het centrum rustiger.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Daar ben ik het mee eens. Zullen we nog een koffie nemen?",
+      "en": "I agree with that. Shall we have another coffee?"
+    }
+  },
+  "culture": {
+    "title": "Polderen: talking until there is consensus",
+    "text": "In the Netherlands, difficult decisions are often made through **polderen**: talking and negotiating until everyone can live with the compromise. The word comes from the polders, low land that people had to manage together. In a Dutch discussion you will often hear **Daar heb je gelijk in** before someone gives a different opinion. It sounds friendly, but it does not always mean that the person agrees with everything."
+  },
+  "summary": [
+    "Use Ik vind dat..., Ik denk dat... and Volgens mij... to give your opinion.",
+    "After dat, the verb goes to the end; after volgens mij, the verb comes second.",
+    "Agree with Ik ben het met je eens and Daar heb je gelijk in; disagree with Ik ben het niet met je eens.",
+    "Build arguments with ten eerste, ten tweede, bovendien and aan de ene kant ... aan de andere kant.",
+    "Dutch discussions often aim for a compromise (polderen), so polite disagreement is normal."
+  ]
+}

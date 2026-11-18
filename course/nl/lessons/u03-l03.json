@@ -1,0 +1,1114 @@
+{
+  "id": "u03-l03",
+  "title": "Lekker!",
+  "subtitle": "Meals and likes",
+  "level": "A1",
+  "intro": "After this lesson you can talk about the meals of the day and say what you like and don't like. You can use ik vind ... lekker, ik hou van ... and ik eet graag ..., and you can ask someone else what they think. You will also meet typical Dutch lunch words such as hagelslag and pindakaas.",
+  "words": [
+    {
+      "nl": "ontbijt",
+      "en": "breakfast",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het ontbijt is om acht uur.",
+        "en": "Breakfast is at eight o'clock."
+      },
+      "note": "The verb is ontbijten: Ik ontbijt om acht uur."
+    },
+    {
+      "nl": "lunch",
+      "en": "lunch",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de lunches",
+      "forms": null,
+      "example": {
+        "nl": "De lunch is om één uur.",
+        "en": "Lunch is at one o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "avondeten",
+      "en": "dinner, evening meal",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het avondeten is warm.",
+        "en": "Dinner is hot."
+      },
+      "note": "Literally 'evening food'; it is the warm meal of the day."
+    },
+    {
+      "nl": "maaltijd",
+      "en": "meal",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de maaltijden",
+      "forms": null,
+      "example": {
+        "nl": "De maaltijd is lekker.",
+        "en": "The meal is tasty."
+      },
+      "note": null
+    },
+    {
+      "nl": "boterham",
+      "en": "sandwich, slice of bread",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de boterhammen",
+      "forms": null,
+      "example": {
+        "nl": "Ik eet een boterham met kaas.",
+        "en": "I eat a sandwich with cheese."
+      },
+      "note": "A boterham is a slice of bread with something on it, not a bread roll."
+    },
+    {
+      "nl": "broodje",
+      "en": "bread roll, sandwich",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de broodjes",
+      "forms": null,
+      "example": {
+        "nl": "Het broodje is vers.",
+        "en": "The roll is fresh."
+      },
+      "note": null
+    },
+    {
+      "nl": "hagelslag",
+      "en": "chocolate sprinkles",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik eet hagelslag op brood.",
+        "en": "I eat chocolate sprinkles on bread."
+      },
+      "note": "Very Dutch: on a boterham at breakfast or lunch."
+    },
+    {
+      "nl": "pindakaas",
+      "en": "peanut butter",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik hou van pindakaas.",
+        "en": "I love peanut butter."
+      },
+      "note": "Literally 'peanut cheese'."
+    },
+    {
+      "nl": "soep",
+      "en": "soup",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de soepen",
+      "forms": null,
+      "example": {
+        "nl": "De soep is warm.",
+        "en": "The soup is hot."
+      },
+      "note": null
+    },
+    {
+      "nl": "stamppot",
+      "en": "Dutch mashed-potato dish",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de stamppotten",
+      "forms": null,
+      "example": {
+        "nl": "Stamppot is warm en lekker.",
+        "en": "Stamppot is warm and tasty."
+      },
+      "note": "Potatoes mashed with vegetables, often eaten with sausage."
+    },
+    {
+      "nl": "friet",
+      "en": "fries",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Friet is zout.",
+        "en": "Fries are salty."
+      },
+      "note": "In the north and centre of the Netherlands many people say patat."
+    },
+    {
+      "nl": "snack",
+      "en": "snack",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de snacks",
+      "forms": null,
+      "example": {
+        "nl": "Ik eet graag een snack.",
+        "en": "I like eating a snack."
+      },
+      "note": null
+    },
+    {
+      "nl": "stroopwafel",
+      "en": "syrup waffle",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de stroopwafels",
+      "forms": null,
+      "example": {
+        "nl": "De stroopwafel is zoet.",
+        "en": "The syrup waffle is sweet."
+      },
+      "note": "Often eaten with coffee or tea."
+    },
+    {
+      "nl": "toetje",
+      "en": "dessert",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de toetjes",
+      "forms": null,
+      "example": {
+        "nl": "Het toetje is zoet.",
+        "en": "The dessert is sweet."
+      },
+      "note": "Literally 'little after'."
+    },
+    {
+      "nl": "zoet",
+      "en": "sweet",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hagelslag is zoet.",
+        "en": "Chocolate sprinkles are sweet."
+      },
+      "note": null
+    },
+    {
+      "nl": "zout",
+      "en": "salty",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De soep is zout.",
+        "en": "The soup is salty."
+      },
+      "note": "Het zout (with het) means 'salt'."
+    },
+    {
+      "nl": "zuur",
+      "en": "sour",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De appel is zuur.",
+        "en": "The apple is sour."
+      },
+      "note": null
+    },
+    {
+      "nl": "bitter",
+      "en": "bitter",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De koffie is bitter.",
+        "en": "The coffee is bitter."
+      },
+      "note": null
+    },
+    {
+      "nl": "warm",
+      "en": "warm, hot",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De soep is warm.",
+        "en": "The soup is hot."
+      },
+      "note": "For food warm means 'hot'; for weather it means 'warm'."
+    },
+    {
+      "nl": "koud",
+      "en": "cold",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De melk is koud.",
+        "en": "The milk is cold."
+      },
+      "note": null
+    },
+    {
+      "nl": "gezond",
+      "en": "healthy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Groente is gezond.",
+        "en": "Vegetables are healthy."
+      },
+      "note": null
+    },
+    {
+      "nl": "vinden",
+      "en": "to find; to think (something is)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vind, jij vindt, wij vinden",
+      "example": {
+        "nl": "Ik vind het lekker.",
+        "en": "I like it (it tastes good)."
+      },
+      "note": "You already know vinden as 'to find'. With lekker it means 'to think something tastes good'."
+    },
+    {
+      "nl": "houden van",
+      "en": "to love, to like",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": "ik hou van, jij houdt van, wij houden van",
+      "example": {
+        "nl": "Ik hou van kaas.",
+        "en": "I love cheese."
+      },
+      "note": "Van comes at the end: Ik hou van kaas. Both ik hou and ik houd are correct."
+    },
+    {
+      "nl": "honger",
+      "en": "hunger",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb honger.",
+        "en": "I'm hungry."
+      },
+      "note": "Dutch 'has' hunger: honger hebben."
+    },
+    {
+      "nl": "dorst",
+      "en": "thirst",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb dorst.",
+        "en": "I'm thirsty."
+      },
+      "note": "Also dorst hebben: Ik heb dorst."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Eet smakelijk!",
+      "en": "Enjoy your meal!",
+      "note": "Say it before eating. The answer is often Dank je wel! or Jij ook!"
+    },
+    {
+      "nl": "Ik vind het lekker.",
+      "en": "I like it (it tastes good).",
+      "note": null
+    },
+    {
+      "nl": "Ik vind het niet lekker.",
+      "en": "I don't like it.",
+      "note": null
+    },
+    {
+      "nl": "Ik hou van kaas.",
+      "en": "I love cheese.",
+      "note": "Swap kaas for any food: Ik hou van soep."
+    },
+    {
+      "nl": "Ik eet graag brood.",
+      "en": "I like eating bread.",
+      "note": "graag means 'gladly'; it shows you like doing something."
+    },
+    {
+      "nl": "Wat eet je graag?",
+      "en": "What do you like to eat?",
+      "note": null
+    },
+    {
+      "nl": "Vind je het lekker?",
+      "en": "Do you like it?",
+      "note": "Answer: Ja, ik vind het lekker. / Nee, ik vind het niet lekker."
+    },
+    {
+      "nl": "Ik heb honger.",
+      "en": "I'm hungry.",
+      "note": null
+    },
+    {
+      "nl": "Ik heb dorst.",
+      "en": "I'm thirsty.",
+      "note": null
+    },
+    {
+      "nl": "Dat is gezond.",
+      "en": "That's healthy.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Zeggen wat je lekker vindt: saying what you like",
+      "explanation": "Use **ik vind** + the thing + **lekker** to say you like the taste: **Ik vind de soep lekker.** The word **lekker** goes at the end. For 'not tasty', put **niet** before lekker: **Ik vind de soep niet lekker.** **Ik hou van** + noun means you love something: **Ik hou van kaas.** **Ik eet graag** + noun means you like eating it: **Ik eet graag vis.**",
+      "table": {
+        "headers": [
+          "structuur",
+          "voorbeeld",
+          "Engels"
+        ],
+        "rows": [
+          [
+            "ik vind + ding + lekker",
+            "Ik vind de soep lekker.",
+            "I like the soup."
+          ],
+          [
+            "ik vind + ding + niet lekker",
+            "Ik vind de soep niet lekker.",
+            "I don't like the soup."
+          ],
+          [
+            "ik hou van + ding",
+            "Ik hou van kaas.",
+            "I love cheese."
+          ],
+          [
+            "ik eet graag + ding",
+            "Ik eet graag vis.",
+            "I like eating fish."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik vind het brood lekker.",
+          "en": "I like the bread."
+        },
+        {
+          "nl": "Ik vind het toetje niet lekker.",
+          "en": "I don't like the dessert."
+        },
+        {
+          "nl": "Ik hou van pindakaas.",
+          "en": "I love peanut butter."
+        }
+      ],
+      "tip": "Don't say 'Ik vind lekker de soep': lekker comes at the end of the sentence."
+    },
+    {
+      "title": "Object pronouns: hem, haar, het, ons",
+      "explanation": "When you don't repeat the thing, use an object pronoun: **Ik vind hem lekker** (de soep), **Ik vind het lekker** (het brood). For people and things after a preposition Dutch uses **mij, jou, u, hem, haar, het, ons, jullie, hen**.",
+      "table": {
+        "headers": [
+          "onderwerp",
+          "object",
+          "na een voorzetsel"
+        ],
+        "rows": [
+          [
+            "ik",
+            "me / mij",
+            "mij"
+          ],
+          [
+            "jij / je",
+            "je / jou",
+            "jou"
+          ],
+          [
+            "u",
+            "u",
+            "u"
+          ],
+          [
+            "hij",
+            "hem",
+            "hem"
+          ],
+          [
+            "zij / ze",
+            "haar",
+            "haar"
+          ],
+          [
+            "het",
+            "het",
+            "het"
+          ],
+          [
+            "wij / we",
+            "ons",
+            "ons"
+          ],
+          [
+            "jullie",
+            "jullie",
+            "jullie"
+          ],
+          [
+            "zij / ze",
+            "ze / hen",
+            "hen"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De soep? Ik vind hem lekker.",
+          "en": "The soup? I like it."
+        },
+        {
+          "nl": "Het brood? Ik vind het lekker.",
+          "en": "The bread? I like it."
+        },
+        {
+          "nl": "De stroopwafel? Ik vind hem zoet.",
+          "en": "The syrup waffle? I think it's sweet."
+        }
+      ],
+      "tip": "hem for de-words, het for het-words — just like hij and het as subjects."
+    },
+    {
+      "title": "Vind je het lekker? Asking about food",
+      "explanation": "To ask if someone likes something, start with **vind**: **Vind je het lekker?** With **je** the verb loses its -t: **vind**, not vindt. Answer with the same pattern: **Ja, ik vind het lekker.** or **Nee, ik vind het niet lekker.** You can also ask **Hou je van ...?** — **Hou je van vis?**",
+      "table": {
+        "headers": [
+          "vraag",
+          "antwoord"
+        ],
+        "rows": [
+          [
+            "Vind je het lekker?",
+            "Ja, ik vind het lekker."
+          ],
+          [
+            "Vind je het lekker?",
+            "Nee, ik vind het niet lekker."
+          ],
+          [
+            "Hou je van kaas?",
+            "Ja, ik hou van kaas."
+          ],
+          [
+            "Wat eet je graag?",
+            "Ik eet graag brood."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Vind je de soep lekker?",
+          "en": "Do you like the soup?"
+        },
+        {
+          "nl": "Hou je van pindakaas?",
+          "en": "Do you like peanut butter?"
+        },
+        {
+          "nl": "Wat eet je graag?",
+          "en": "What do you like to eat?"
+        }
+      ],
+      "tip": "In yes/no questions with je there is no -t: Vind je..., Eet je..., Hou je..."
+    }
+  ],
+  "dialogue": {
+    "title": "Lunch op het werk",
+    "setting": "It is lunchtime at the office, and a Dutch colleague offers you typical Dutch lunch items.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Jij",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi! Ik heb een boterham met kaas. En jij?",
+        "en": "Hi! I have a sandwich with cheese. And you?"
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Ik heb ook een boterham. Maar wat is dat?",
+        "en": "I have a sandwich too. But what is that?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is pindakaas. Ik hou van pindakaas.",
+        "en": "That's peanut butter. I love peanut butter."
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Is het zoet?",
+        "en": "Is it sweet?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, het is een beetje zout. Vind je het lekker?",
+        "en": "No, it's a little salty. Do you like it?"
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Ja, ik vind het lekker! Ik hou van brood.",
+        "en": "Yes, I like it! I love bread."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hier is een stroopwafel. Hij is zoet.",
+        "en": "Here's a syrup waffle. It's sweet."
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Lekker! Maar het is niet gezond.",
+        "en": "Tasty! But it's not healthy."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, het is niet gezond, maar het is lekker.",
+        "en": "No, it's not healthy, but it's tasty."
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Ik heb dorst. Heb je melk?",
+        "en": "I'm thirsty. Do you have milk?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, hier. Eet smakelijk!",
+        "en": "Yes, here. Enjoy your meal!"
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Dank je wel! Eet smakelijk!",
+        "en": "Thank you! Enjoy your meal!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het ontbijt",
+          "breakfast"
+        ],
+        [
+          "de lunch",
+          "lunch"
+        ],
+        [
+          "het avondeten",
+          "dinner"
+        ],
+        [
+          "de boterham",
+          "sandwich, slice of bread"
+        ],
+        [
+          "het toetje",
+          "dessert"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "zoet",
+          "sweet"
+        ],
+        [
+          "zout",
+          "salty"
+        ],
+        [
+          "zuur",
+          "sour"
+        ],
+        [
+          "bitter",
+          "bitter"
+        ],
+        [
+          "gezond",
+          "healthy"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'healthy'?",
+      "nl": null,
+      "options": [
+        "zoet",
+        "zout",
+        "gezond",
+        "zuur"
+      ],
+      "answer": 2,
+      "explain": "Gezond means healthy; zoet is sweet, zout is salty and zuur is sour."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the opposite of 'warm'?",
+      "nl": null,
+      "options": [
+        "koud",
+        "bitter",
+        "zoet",
+        "gezond"
+      ],
+      "answer": 0,
+      "explain": "Koud (cold) is the opposite of warm."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik vind lekker het brood.",
+        "Ik vind het brood lekker.",
+        "Ik vind het lekker brood.",
+        "Ik lekker vind het brood."
+      ],
+      "answer": 1,
+      "explain": "The thing you like comes after vind, and lekker goes at the end."
+    },
+    {
+      "type": "choice",
+      "prompt": "De soep is lekker. Ik vind ___ lekker.",
+      "nl": null,
+      "options": [
+        "hem",
+        "het",
+        "haar",
+        "ons"
+      ],
+      "answer": 0,
+      "explain": "De soep is a de-word, so you use hem."
+    },
+    {
+      "type": "article",
+      "word": "boterham",
+      "en": "sandwich, slice of bread",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "toetje",
+      "en": "dessert",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "hagelslag",
+      "en": "chocolate sprinkles",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I like the soup.",
+      "answer": "Ik vind de soep lekker",
+      "accept": [
+        "De soep vind ik lekker"
+      ],
+      "extra": [
+        "het",
+        "hem",
+        "zout"
+      ],
+      "explain": "The thing you like comes after vind, and lekker goes at the end."
+    },
+    {
+      "type": "build",
+      "en": "I don't like it.",
+      "answer": "Ik vind het niet lekker",
+      "accept": [
+        "Het vind ik niet lekker"
+      ],
+      "extra": [
+        "geen",
+        "zout"
+      ],
+      "explain": "Put niet before lekker; the object het comes right after vind."
+    },
+    {
+      "type": "build",
+      "en": "I love bread with cheese.",
+      "answer": "Ik hou van brood met kaas",
+      "accept": [],
+      "extra": [
+        "en",
+        "de",
+        "op"
+      ],
+      "explain": "houden van + noun; met kaas comes after brood."
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb ___.",
+      "en": "I am thirsty.",
+      "answers": [
+        "dorst"
+      ],
+      "hint": "thirst (noun)",
+      "explain": "Honger and dorst go with hebben: Ik heb dorst."
+    },
+    {
+      "type": "gap",
+      "text": "De stroopwafel is ___, niet zout.",
+      "en": "The syrup waffle is sweet, not salty.",
+      "answers": [
+        "zoet"
+      ],
+      "hint": "sweet",
+      "explain": "Zoet is the opposite of zout."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ van pindakaas.",
+      "en": "I love peanut butter.",
+      "answers": [
+        "hou",
+        "houd"
+      ],
+      "hint": "houden van – ik ...",
+      "explain": "With ik you say hou or houd, without -t: Ik hou van pindakaas."
+    },
+    {
+      "type": "translate",
+      "en": "I like the soup.",
+      "answers": [
+        "Ik vind de soep lekker",
+        "Ik vind soep lekker"
+      ],
+      "focus": "vinden + object + lekker",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds -t to the verb after ik: 'Ik vindt de soep lekker.'",
+          "explain": "With 'ik' the verb has no -t: 'Ik vind de soep lekker.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts lekker before the food: 'Ik vind lekker de soep.'",
+          "explain": "Lekker goes at the end: 'Ik vind de soep lekker.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses het with soep: 'Ik vind het soep lekker.'",
+          "explain": "Soep is a de-word: 'de soep'. Say 'Ik vind de soep lekker.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Do you like fish?",
+      "answers": [
+        "Vind je vis lekker",
+        "Hou je van vis",
+        "Vind jij vis lekker",
+        "Hou jij van vis"
+      ],
+      "focus": "yes/no question with jij: no -t",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps -t after je/jij in a question: 'Vindt je vis lekker?'",
+          "explain": "In yes/no questions with je/jij the verb loses the -t: 'Vind je vis lekker?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts lekker before vis: 'Vind je lekker vis?'",
+          "explain": "Lekker comes at the end: 'Vind je vis lekker?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out van with houden: 'Hou je vis lekker?'",
+          "explain": "With houden you need van: 'Hou je van vis?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I don't like it.",
+      "answers": [
+        "Ik vind het niet lekker",
+        "Ik vind het niet zo lekker"
+      ],
+      "focus": "niet before lekker",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses geen before the adjective: 'Ik vind het geen lekker.'",
+          "explain": "Use niet with adjectives: 'Ik vind het niet lekker.' Geen goes before nouns."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts niet at the end: 'Ik vind het lekker niet.'",
+          "explain": "Niet comes before lekker: 'Ik vind het niet lekker.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds -t after ik: 'Ik vindt het niet lekker.'",
+          "explain": "With 'ik' the verb is vind: 'Ik vind het niet lekker.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik hou van pindakaas.",
+      "en": "I love peanut butter."
+    },
+    {
+      "type": "listen",
+      "nl": "Het avondeten is warm.",
+      "en": "Dinner is hot."
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague hands you a sandwich and says:",
+      "say": {
+        "nl": "Eet smakelijk!",
+        "en": "Enjoy your meal!"
+      },
+      "task": "Thank them and say that you like bread.",
+      "examples": [
+        "Dank je wel! Ik vind brood lekker.",
+        "Dank je! Ik hou van brood.",
+        "Dank je wel, eet smakelijk!"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Says 'Ik vind lekker brood' (lekker before the noun).",
+          "explain": "Put lekker at the end: 'Ik vind brood lekker.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out van with houden: 'Ik hou brood lekker.'",
+          "explain": "Say 'Ik hou van brood' for 'I love bread.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses hebben instead of vinden: 'Ik heb brood lekker.'",
+          "explain": "For liking use vinden: 'Ik vind brood lekker.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague asks you about hagelslag.",
+      "say": {
+        "nl": "Vind je hagelslag lekker?",
+        "en": "Do you like chocolate sprinkles?"
+      },
+      "task": "Say no, you don't like it, but you love cheese.",
+      "examples": [
+        "Nee, ik vind het niet lekker. Ik hou van kaas.",
+        "Nee, niet lekker. Maar ik hou van kaas.",
+        "Ik vind het niet lekker. Kaas is lekker!"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses geen before lekker: 'Ik vind het geen lekker.'",
+          "explain": "Use niet with adjectives: 'Ik vind het niet lekker.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts niet at the end: 'Ik vind het lekker niet.'",
+          "explain": "Niet comes before lekker: 'Ik vind het niet lekker.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out van with houden: 'Ik hou kaas.'",
+          "explain": "Say 'Ik hou van kaas.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Lunch met een collega",
+    "setting": "It is lunchtime at work. Your Dutch colleague Sanne offers you typical Dutch lunch items.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "colleague at work"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Ik heb een boterham met kaas. Wil je ook iets?",
+          "en": "Hi! I have a sandwich with cheese. Do you want something too?"
+        },
+        "task": "Say yes please, you are hungry.",
+        "examples": [
+          "Ja, graag! Ik heb honger.",
+          "Graag, ik heb honger.",
+          "Ja, graag. Ik wil graag een boterham."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'Ik ben honger' instead of 'Ik heb honger.'",
+            "explain": "In Dutch you 'have' hunger: 'Ik heb honger.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds an article: 'Ik heb een honger.'",
+            "explain": "Honger takes no article: 'Ik heb honger.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Confuses dorst and honger: 'Ik heb dorst' when hungry.",
+            "explain": "Dorst is thirst; for hunger say 'Ik heb honger.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Hier is een boterham. Vind je pindakaas lekker?",
+          "en": "Here's a sandwich. Do you like peanut butter?"
+        },
+        "task": "Say that you love peanut butter.",
+        "examples": [
+          "Ja, ik hou van pindakaas.",
+          "Ja, ik vind pindakaas lekker.",
+          "Ja, lekker! Ik hou van pindakaas."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Leaves out van: 'Ik hou pindakaas.'",
+            "explain": "Houden needs van: 'Ik hou van pindakaas.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds -t after ik: 'Ik houdt van pindakaas.'",
+            "explain": "With ik it is 'Ik hou/houd van pindakaas', without -t."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts lekker before the noun: 'Ik vind lekker pindakaas.'",
+            "explain": "Lekker goes at the end: 'Ik vind pindakaas lekker.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En hagelslag? Dat is zoet.",
+          "en": "And chocolate sprinkles? That's sweet."
+        },
+        "task": "Say that you don't like it, because it is sweet.",
+        "examples": [
+          "Nee, ik vind het niet lekker. Het is zoet.",
+          "Ik hou niet van zoet.",
+          "Nee, het is zoet. Ik vind het niet lekker."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses geen before lekker: 'Ik vind het geen lekker.'",
+            "explain": "Niet goes before lekker: 'Ik vind het niet lekker.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts niet at the end: 'Ik vind het lekker niet.'",
+            "explain": "Niet comes before lekker: 'Ik vind het niet lekker.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses zijn instead of vinden: 'Ik ben niet lekker.'",
+            "explain": "For taste use vinden: 'Ik vind het niet lekker.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wil je een stroopwafel bij de koffie?",
+          "en": "Do you want a syrup waffle with your coffee?"
+        },
+        "task": "Say yes please, and ask if it is healthy.",
+        "examples": [
+          "Ja, graag! Is het gezond?",
+          "Graag. Maar is het gezond?",
+          "Ja, lekker! Is een stroopwafel gezond?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Makes a statement, not a question: 'Het is gezond?'",
+            "explain": "A yes/no question starts with the verb: 'Is het gezond?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses ben with het: 'Ben het gezond?'",
+            "explain": "Het takes is: 'Is het gezond?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets Ja, graag and only asks the question.",
+            "explain": "First say 'Ja, graag', then ask: 'Ja, graag! Is het gezond?'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Nee, het is niet gezond. Maar het is lekker! Eet smakelijk!",
+      "en": "No, it's not healthy. But it's tasty! Enjoy your meal!"
+    }
+  },
+  "culture": {
+    "title": "De Nederlandse lunch",
+    "text": "A Dutch lunch at work is often simple: one or two boterhammen with cheese, or a boterham with hagelslag, and a glass of milk. The warm meal (het avondeten) is usually in the evening, around six o'clock. Many colleagues bring their own lunch from home."
+  },
+  "summary": [
+    "Use ik vind ... lekker to say you like the taste, and ik vind ... niet lekker to say you don't.",
+    "Ik hou van ... means you love something; ik eet graag ... means you like eating it.",
+    "Use hem for de-words and het for het-words when you don't repeat the noun.",
+    "The meals: het ontbijt, de lunch, het avondeten. Say eet smakelijk! before you eat.",
+    "honger and dorst go with hebben: Ik heb honger, Ik heb dorst."
+  ]
+}

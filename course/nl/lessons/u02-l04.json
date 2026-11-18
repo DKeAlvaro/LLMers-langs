@@ -1,0 +1,1132 @@
+{
+  "id": "u02-l04",
+  "title": "Hoe laat is het?",
+  "subtitle": "Time, days and inversion",
+  "level": "A1",
+  "intro": "After this lesson you can ask and tell the time, name the days of the week and talk about your daily routine. You will also learn the Dutch way of telling time, where half vier means 3:30, and how to keep the verb in second place when a sentence starts with a time.",
+  "words": [
+    {
+      "nl": "hoe laat",
+      "en": "what time",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoe laat is het?",
+        "en": "What time is it?"
+      },
+      "note": null
+    },
+    {
+      "nl": "uur",
+      "en": "hour, o'clock",
+      "pos": "noun",
+      "article": "het",
+      "plural": "uren",
+      "forms": null,
+      "example": {
+        "nl": "Het is drie uur.",
+        "en": "It is three o'clock."
+      },
+      "note": "The plural is de uren."
+    },
+    {
+      "nl": "minuut",
+      "en": "minute",
+      "pos": "noun",
+      "article": "de",
+      "plural": "minuten",
+      "forms": null,
+      "example": {
+        "nl": "Het is drie minuten over vier.",
+        "en": "It is three minutes past four."
+      },
+      "note": null
+    },
+    {
+      "nl": "kwartier",
+      "en": "quarter of an hour",
+      "pos": "noun",
+      "article": "het",
+      "plural": "kwartieren",
+      "forms": null,
+      "example": {
+        "nl": "Een kwartier is vijftien minuten.",
+        "en": "A quarter of an hour is fifteen minutes."
+      },
+      "note": null
+    },
+    {
+      "nl": "kwart",
+      "en": "quarter",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is kwart over drie.",
+        "en": "It is quarter past three."
+      },
+      "note": "In times: kwart over and kwart voor."
+    },
+    {
+      "nl": "half",
+      "en": "half",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is half vier.",
+        "en": "It is half past three (3:30)."
+      },
+      "note": "Half vier means 3:30, not 4:30."
+    },
+    {
+      "nl": "over",
+      "en": "past (in times)",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is kwart over twee.",
+        "en": "It is quarter past two."
+      },
+      "note": "With times, over means past: kwart over twee."
+    },
+    {
+      "nl": "voor",
+      "en": "to, before (in times)",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is kwart voor vier.",
+        "en": "It is quarter to four."
+      },
+      "note": "It also means for, as in voor de kinderen."
+    },
+    {
+      "nl": "laat",
+      "en": "late",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het is laat.",
+        "en": "It is late."
+      },
+      "note": null
+    },
+    {
+      "nl": "vroeg",
+      "en": "early",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik sta vroeg op.",
+        "en": "I get up early."
+      },
+      "note": null
+    },
+    {
+      "nl": "vandaag",
+      "en": "today",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Vandaag werk ik in de stad.",
+        "en": "Today I work in the city."
+      },
+      "note": "When a sentence starts with vandaag, the verb comes second: Vandaag werk ik."
+    },
+    {
+      "nl": "morgen",
+      "en": "tomorrow",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Tot morgen!",
+        "en": "See you tomorrow!"
+      },
+      "note": "Morgen means tomorrow; for 'in the morning' use 's ochtends."
+    },
+    {
+      "nl": "dag",
+      "en": "day",
+      "pos": "noun",
+      "article": "de",
+      "plural": "dagen",
+      "forms": null,
+      "example": {
+        "nl": "De dag begint vroeg.",
+        "en": "The day starts early."
+      },
+      "note": null
+    },
+    {
+      "nl": "week",
+      "en": "week",
+      "pos": "noun",
+      "article": "de",
+      "plural": "weken",
+      "forms": null,
+      "example": {
+        "nl": "De week begint op maandag.",
+        "en": "The week starts on Monday."
+      },
+      "note": null
+    },
+    {
+      "nl": "maandag",
+      "en": "Monday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "maandagen",
+      "forms": null,
+      "example": {
+        "nl": "Op maandag werk ik.",
+        "en": "On Monday I work."
+      },
+      "note": "In a sentence we usually say op maandag."
+    },
+    {
+      "nl": "dinsdag",
+      "en": "Tuesday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "dinsdagen",
+      "forms": null,
+      "example": {
+        "nl": "Op dinsdag studeer ik.",
+        "en": "On Tuesday I study."
+      },
+      "note": null
+    },
+    {
+      "nl": "woensdag",
+      "en": "Wednesday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "woensdagen",
+      "forms": null,
+      "example": {
+        "nl": "Op woensdag begin ik vroeg.",
+        "en": "On Wednesday I start early."
+      },
+      "note": null
+    },
+    {
+      "nl": "donderdag",
+      "en": "Thursday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "donderdagen",
+      "forms": null,
+      "example": {
+        "nl": "Op donderdag werk ik in de stad.",
+        "en": "On Thursday I work in the city."
+      },
+      "note": null
+    },
+    {
+      "nl": "vrijdag",
+      "en": "Friday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vrijdagen",
+      "forms": null,
+      "example": {
+        "nl": "Op vrijdag eten wij bij mijn ouders.",
+        "en": "On Friday we eat at my parents'."
+      },
+      "note": null
+    },
+    {
+      "nl": "zaterdag",
+      "en": "Saturday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "zaterdagen",
+      "forms": null,
+      "example": {
+        "nl": "Op zaterdag ontbijt ik laat.",
+        "en": "On Saturday I have a late breakfast."
+      },
+      "note": null
+    },
+    {
+      "nl": "zondag",
+      "en": "Sunday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "zondagen",
+      "forms": null,
+      "example": {
+        "nl": "Op zondag ben ik bij mijn familie.",
+        "en": "On Sunday I am with my family."
+      },
+      "note": null
+    },
+    {
+      "nl": "'s ochtends",
+      "en": "in the morning",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "'s Ochtends werk ik.",
+        "en": "In the morning I work."
+      },
+      "note": "The 's is short for des and is written with an apostrophe: 's ochtends. At the start of a sentence: 's Ochtends."
+    },
+    {
+      "nl": "'s middags",
+      "en": "in the afternoon",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "'s Middags werk ik in de stad.",
+        "en": "In the afternoon I work in the city."
+      },
+      "note": null
+    },
+    {
+      "nl": "'s avonds",
+      "en": "in the evening",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "'s Avonds eten wij om half zeven.",
+        "en": "In the evening we eat at half past six."
+      },
+      "note": null
+    },
+    {
+      "nl": "'s nachts",
+      "en": "at night",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "'s Nachts slaap ik.",
+        "en": "At night I sleep."
+      },
+      "note": null
+    },
+    {
+      "nl": "opstaan",
+      "en": "to get up",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik sta op, jij staat op, wij staan op",
+      "example": {
+        "nl": "Ik sta om zeven uur op.",
+        "en": "I get up at seven o'clock."
+      },
+      "note": "Separable verb: op goes to the end of the sentence."
+    },
+    {
+      "nl": "ontbijten",
+      "en": "to have breakfast",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ontbijt, jij ontbijt, wij ontbijten",
+      "example": {
+        "nl": "Wij ontbijten om acht uur.",
+        "en": "We have breakfast at eight o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "beginnen",
+      "en": "to begin, to start",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik begin, jij begint, wij beginnen",
+      "example": {
+        "nl": "Het werk begint om negen uur.",
+        "en": "Work begins at nine o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "eten",
+      "en": "to eat",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik eet, jij eet, wij eten",
+      "example": {
+        "nl": "Wij eten om half zeven.",
+        "en": "We eat at half past six."
+      },
+      "note": null
+    },
+    {
+      "nl": "slapen",
+      "en": "to sleep",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik slaap, jij slaapt, wij slapen",
+      "example": {
+        "nl": "Het kind slaapt.",
+        "en": "The child is sleeping."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hoe laat is het?",
+      "en": "What time is it?",
+      "note": null
+    },
+    {
+      "nl": "Het is drie uur.",
+      "en": "It is three o'clock.",
+      "note": "Use het is + number + uur."
+    },
+    {
+      "nl": "kwart over drie",
+      "en": "quarter past three (3:15)",
+      "note": null
+    },
+    {
+      "nl": "half vier",
+      "en": "half past three (3:30)",
+      "note": "Half an hour before four."
+    },
+    {
+      "nl": "kwart voor vier",
+      "en": "quarter to four (3:45)",
+      "note": null
+    },
+    {
+      "nl": "om acht uur",
+      "en": "at eight o'clock",
+      "note": "om is the word for at with times."
+    },
+    {
+      "nl": "Hoe laat begint het?",
+      "en": "What time does it start?",
+      "note": null
+    },
+    {
+      "nl": "Ik sta om zeven uur op.",
+      "en": "I get up at seven o'clock.",
+      "note": "opstaan splits: op goes to the end."
+    },
+    {
+      "nl": "op maandag",
+      "en": "on Monday",
+      "note": "Days take op."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Telling the time",
+      "explanation": "Ask **Hoe laat is het?** and answer with **Het is ... uur**. For minutes after the hour use **over**: **kwart over drie** is 3:15. For minutes before the next hour use **voor**: **kwart voor vier** is 3:45. The surprising one is **half**: **half vier** means half an hour before four, so 3:30.",
+      "table": {
+        "headers": [
+          "Tijd",
+          "Nederlands"
+        ],
+        "rows": [
+          [
+            "3:00",
+            "Het is drie uur."
+          ],
+          [
+            "3:15",
+            "Het is kwart over drie."
+          ],
+          [
+            "3:30",
+            "Het is half vier."
+          ],
+          [
+            "3:45",
+            "Het is kwart voor vier."
+          ],
+          [
+            "4:10",
+            "Het is tien over vier."
+          ],
+          [
+            "4:40",
+            "Het is tien over half vijf."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Hoe laat is het?",
+          "en": "What time is it?"
+        },
+        {
+          "nl": "Het is half negen.",
+          "en": "It is 8:30."
+        },
+        {
+          "nl": "Het is kwart voor vijf.",
+          "en": "It is quarter to five."
+        }
+      ],
+      "tip": "Half vier is 3:30, not 4:30: Dutch counts towards the next hour."
+    },
+    {
+      "title": "Time first? Then verb second",
+      "explanation": "If a sentence starts with a time word like **Om acht uur**, **Vandaag** or **Morgen**, the verb comes straight after it and the subject moves behind the verb. So **Ik werk om acht uur** becomes **Om acht uur werk ik**. The verb always stays in the second position.",
+      "table": {
+        "headers": [
+          "Normaal",
+          "Tijd eerst"
+        ],
+        "rows": [
+          [
+            "Ik sta om zeven uur op.",
+            "Om zeven uur sta ik op."
+          ],
+          [
+            "Wij eten om half zeven.",
+            "Om half zeven eten wij."
+          ],
+          [
+            "Ik begin morgen om acht uur.",
+            "Morgen begin ik om acht uur."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Om acht uur begin ik.",
+          "en": "At eight o'clock I start."
+        },
+        {
+          "nl": "Vandaag werk ik in de stad.",
+          "en": "Today I work in the city."
+        },
+        {
+          "nl": "Morgen sta ik vroeg op.",
+          "en": "Tomorrow I get up early."
+        }
+      ],
+      "tip": "Time first? Then verb, then subject: Om acht uur werk ik."
+    },
+    {
+      "title": "Days and parts of the day",
+      "explanation": "Days are de-words and take **op**: **op maandag**, **op vrijdag**. For parts of the day Dutch uses **'s**: **'s ochtends**, **'s middags**, **'s avonds**, **'s nachts**. These words already mean in the morning and so on, so you do not add another preposition.",
+      "table": {
+        "headers": [
+          "Wanneer",
+          "Voorbeeld"
+        ],
+        "rows": [
+          [
+            "op maandag",
+            "Op maandag werk ik."
+          ],
+          [
+            "'s ochtends",
+            "'s Ochtends ontbijt ik."
+          ],
+          [
+            "'s avonds",
+            "'s Avonds eten wij om half zeven."
+          ],
+          [
+            "'s nachts",
+            "'s Nachts slaap ik."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Op vrijdag eten wij bij mijn ouders.",
+          "en": "On Friday we eat at my parents'."
+        },
+        {
+          "nl": "'s Middags werk ik in de stad.",
+          "en": "In the afternoon I work in the city."
+        },
+        {
+          "nl": "Op zaterdag ontbijt ik laat.",
+          "en": "On Saturday I have a late breakfast."
+        }
+      ],
+      "tip": "Days take op, parts of the day take 's: op maandag, 's avonds."
+    }
+  ],
+  "dialogue": {
+    "title": "Tot straks!",
+    "setting": "It is the end of the working day at the office. Sanne and Youssef are colleagues and want to eat together tonight.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Youssef",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoe laat is het?",
+        "en": "What time is it?"
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Het is kwart over vier.",
+        "en": "It is quarter past four."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank je. Ik werk vandaag tot vijf uur.",
+        "en": "Thanks. Today I work until five o'clock."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Ik ook. Wij eten om half zeven. Kom je ook?",
+        "en": "Me too. We eat at half past six. Are you coming too?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, graag! Waar?",
+        "en": "Yes, please! Where?"
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "In de stad, in een café.",
+        "en": "In the city, in a café."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed. Tot straks!",
+        "en": "Good. See you later!"
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Tot straks! Hoe laat begin je morgen?",
+        "en": "See you later! What time do you start tomorrow?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Om acht uur. Ik sta om zes uur op.",
+        "en": "At eight o'clock. I get up at six."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Om zes uur? Dat is vroeg!",
+        "en": "At six? That is early!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik ontbijt om half zeven. En jij?",
+        "en": "Yes, I have breakfast at half past six. And you?"
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Ik sta om half acht op. Tot morgen!",
+        "en": "I get up at half past seven. See you tomorrow!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Tot morgen!",
+        "en": "See you tomorrow!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het uur",
+          "the hour"
+        ],
+        [
+          "de minuut",
+          "the minute"
+        ],
+        [
+          "vroeg",
+          "early"
+        ],
+        [
+          "laat",
+          "late"
+        ],
+        [
+          "de week",
+          "the week"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "maandag",
+          "Monday"
+        ],
+        [
+          "donderdag",
+          "Thursday"
+        ],
+        [
+          "zaterdag",
+          "Saturday"
+        ],
+        [
+          "zondag",
+          "Sunday"
+        ],
+        [
+          "'s avonds",
+          "in the evening"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is 3:30?",
+      "nl": null,
+      "options": [
+        "half drie",
+        "half vier",
+        "kwart voor vier"
+      ],
+      "answer": 1,
+      "explain": "Half vier is half an hour before four, so 3:30."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Om acht uur ik begin.",
+        "Om acht uur begin ik.",
+        "Om acht uur begint ik."
+      ],
+      "answer": 1,
+      "explain": "After a time word the verb comes second: om acht uur begin ik."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which day comes after woensdag?",
+      "nl": null,
+      "options": [
+        "dinsdag",
+        "donderdag",
+        "zaterdag"
+      ],
+      "answer": 1,
+      "explain": "The order is maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag."
+    },
+    {
+      "type": "article",
+      "word": "minuut",
+      "en": "minute",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "uur",
+      "en": "hour",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I get up at seven o'clock.",
+      "answer": "Ik sta om zeven uur op.",
+      "accept": [
+        "Om zeven uur sta ik op."
+      ],
+      "extra": [
+        "staat",
+        "opstaan"
+      ],
+      "explain": "With a time phrase the verb comes second: **Ik sta om zeven uur op**; **Om zeven uur sta ik op** is also correct."
+    },
+    {
+      "type": "build",
+      "en": "Work begins at half past eight.",
+      "answer": "Het werk begint om half negen.",
+      "accept": [
+        "Om half negen begint het werk."
+      ],
+      "extra": [
+        "begin",
+        "de"
+      ],
+      "explain": "Use **om half negen** for 8:30; after a time phrase the verb comes second: **Om half negen begint het werk**."
+    },
+    {
+      "type": "build",
+      "en": "It is quarter past three.",
+      "answer": "Het is kwart over drie.",
+      "accept": [],
+      "extra": [
+        "half",
+        "vier"
+      ],
+      "explain": "Quarter past is **kwart over** + hour: **Het is kwart over drie**."
+    },
+    {
+      "type": "gap",
+      "text": "Het is ___ vier: 3:30.",
+      "en": "It is half past three.",
+      "answers": [
+        "half"
+      ],
+      "hint": "Think: half an hour before four.",
+      "explain": "**Half vier** means half an hour before four: 3:30."
+    },
+    {
+      "type": "gap",
+      "text": "Ik sta om zeven uur ___.",
+      "en": "I get up at seven o'clock.",
+      "answers": [
+        "op"
+      ],
+      "hint": "opstaan (the separable part goes at the end)",
+      "explain": "**Opstaan** is separable: **op** goes to the end: **Ik sta om zeven uur op**."
+    },
+    {
+      "type": "gap",
+      "text": "Wij eten ___ half zeven.",
+      "en": "We eat at half past six.",
+      "answers": [
+        "om"
+      ],
+      "hint": "the little word for at with clock times",
+      "explain": "Use **om** before a clock time: **om half zeven**."
+    },
+    {
+      "type": "translate",
+      "en": "What time is it?",
+      "answers": [
+        "Hoe laat is het?",
+        "Hoe laat?"
+      ],
+      "focus": "asking the time",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'Wat is de tijd?' for 'What time is it?' (Wat is de tijd?)",
+          "explain": "Dutch asks the time with **hoe laat**: 'Hoe laat is het?' Not 'Wat is de tijd?'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Drops 'het' from the fixed question (Hoe laat is?)",
+          "explain": "The fixed question is 'Hoe laat is **het**?' with **het**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'hoeveel uur' instead of 'hoe laat' (Hoeveel uur is het?)",
+          "explain": "**Hoeveel** asks how many; for the time use **hoe laat**: 'Hoe laat is het?'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts the subject before the verb in the question (Hoe laat het is?)",
+          "explain": "In a question the verb comes before the subject: 'Hoe laat **is het**?'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I get up at seven o'clock.",
+      "answers": [
+        "Ik sta om zeven uur op.",
+        "Om zeven uur sta ik op."
+      ],
+      "focus": "opstaan + verb second after a time word",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Does not split the separable verb opstaan (Ik opsta om zeven uur.)",
+          "explain": "**Opstaan** splits: 'Ik sta om zeven uur **op**.' The prefix **op** goes to the end."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits the separable prefix op (Ik sta om zeven uur.)",
+          "explain": "Without **op** the verb is just staan (to stand). Use 'Ik sta om zeven uur **op**.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Keeps subject before verb after a time phrase (Om zeven uur ik sta op.)",
+          "explain": "After a time phrase the verb comes second: 'Om zeven uur **sta ik op**.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses op instead of om before a clock time (Ik sta op zeven uur.)",
+          "explain": "Use **om** before clock times: 'Ik sta **om** zeven uur op.'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "It is half past three.",
+      "answers": [
+        "Het is half vier.",
+        "Half vier.",
+        "Het is drie uur dertig.",
+        "Drie uur dertig."
+      ],
+      "focus": "half counts towards the next hour",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses half drie for 3:30 (Het is half drie.)",
+          "explain": "**Half vier** means 3:30; **half drie** is 2:30."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts half after the hour (Het is vier uur half.)",
+          "explain": "Say 'Het is **half vier**', with **half** before the next hour."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'drie en een half' for 3:30 (Het is drie en een half.)",
+          "explain": "For clock time use 'Het is half vier', not 'drie en een half'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Het is kwart voor vijf.",
+      "en": "It is quarter to five."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik ontbijt om half acht.",
+      "en": "I have breakfast at half past seven."
+    },
+    {
+      "type": "reply",
+      "context": "Your neighbour is at your door and asks you the time.",
+      "say": {
+        "nl": "Hoe laat is het?",
+        "en": "What time is it?"
+      },
+      "task": "Say that it is quarter past two.",
+      "examples": [
+        "Het is kwart over twee.",
+        "Kwart over twee."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses kwart voor instead of kwart over (Het is kwart voor twee.)",
+          "explain": "Quarter past is **kwart over**: 'Het is kwart over twee.' **Kwart voor** means quarter to."
+        },
+        {
+          "id": "m2",
+          "pattern": "Confuses quarter past with half (Het is half drie.)",
+          "explain": "2:15 is 'Het is kwart over twee', not 'half drie' (2:30)."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits over after kwart (Het is kwart twee.)",
+          "explain": "The pattern is **kwart over** + hour: 'Het is kwart over twee.'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "A colleague asks about your morning.",
+      "say": {
+        "nl": "Hoe laat begin je morgen?",
+        "en": "What time do you start tomorrow?"
+      },
+      "task": "Say that you start at nine o'clock and that you get up at seven.",
+      "examples": [
+        "Ik begin om negen uur. Ik sta om zeven uur op.",
+        "Om negen uur begin ik, en ik sta om zeven uur op."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Omits op at the end of opstaan (Ik sta om zeven uur.)",
+          "explain": "**Opstaan** splits: 'Ik sta om zeven uur **op**.'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Does not split opstaan (Ik opsta om zeven uur.)",
+          "explain": "Say 'Ik sta om zeven uur **op**', with **op** at the end."
+        },
+        {
+          "id": "m3",
+          "pattern": "Keeps subject before verb after a time phrase (Om negen uur ik begin.)",
+          "explain": "After a time phrase the verb comes second: 'Om negen uur **begin ik**.'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses half negen for 8:30 instead of negen uur (Ik begin om half negen.)",
+          "explain": "**Half negen** is 8:30; nine o'clock is 'om negen uur'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Eten om half zeven",
+    "setting": "It is the end of the working day. Your colleague Bram wants to have dinner together and asks you about your day and your routine.",
+    "partner": {
+      "name": "Bram",
+      "gender": "m",
+      "role": "colleague"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoe laat is het?",
+          "en": "What time is it?"
+        },
+        "task": "Answer that it is ten past five.",
+        "examples": [
+          "Het is tien over vijf.",
+          "Tien over vijf."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'tien over half vijf' for 5:10 (Het is tien over half vijf.)",
+            "explain": "5:10 is 'Het is tien over vijf', not 'tien over half vijf' (4:40)."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'tien voor vijf' for 5:10 (Het is tien voor vijf.)",
+            "explain": "Past the hour uses **over**: 'Het is tien over vijf.' **Voor** means to the hour."
+          },
+          {
+            "id": "m3",
+            "pattern": "Swaps the hour and minutes (Het is vijf over tien.)",
+            "explain": "For 5:10 say 'Het is tien over vijf': minutes first, then **over**, then the hour."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik eet om half zeven. Kom je ook?",
+          "en": "I am eating at half past six. Are you coming too?"
+        },
+        "task": "Say yes please, and ask where.",
+        "examples": [
+          "Ja, graag! Waar?",
+          "Ja, graag. Waar eten wij?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps subject before verb in a question (Waar wij eten?)",
+            "explain": "In a question the verb comes before the subject: 'Waar **eten wij**?'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'Waar is?' instead of 'Waar?' or 'Waar eten wij?' (Ja, graag. Waar is?)",
+            "explain": "To ask where, say 'Waar?' or 'Waar eten wij?' not 'Waar is?'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "In de stad, in een café. En hoe laat sta je morgen op?",
+          "en": "In the city, in a café. And what time do you get up tomorrow?"
+        },
+        "task": "Say that you get up at seven and start work at half past eight.",
+        "examples": [
+          "Ik sta om zeven uur op. Ik begin om half negen.",
+          "Om zeven uur sta ik op, en om half negen begin ik."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Does not split opstaan (Ik opsta om zeven uur.)",
+            "explain": "**Opstaan** splits: 'Ik sta om zeven uur **op**.'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits the separable prefix op (Ik sta om zeven uur.)",
+            "explain": "Without **op** the verb is staan; say 'Ik sta om zeven uur **op**.'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses half acht for 8:30 (Ik begin om half acht.)",
+            "explain": "**Half negen** is 8:30; **half acht** is 7:30."
+          },
+          {
+            "id": "m4",
+            "pattern": "Keeps subject before verb after a time phrase (Om zeven uur ik sta op.)",
+            "explain": "After a time phrase the verb comes second: 'Om zeven uur **sta ik op**.'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dat is vroeg! Tot straks.",
+          "en": "That is early! See you later."
+        },
+        "task": "Say goodbye and repeat the time: half past six.",
+        "examples": [
+          "Tot straks! Om half zeven.",
+          "Goed, tot straks, om half zeven!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses half zes for 6:30 (Tot straks! Om half zes.)",
+            "explain": "6:30 is 'half zeven', not 'half zes' (5:30)."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts half after the hour (Om zes uur half.)",
+            "explain": "Say 'om half zeven', with **half** before the next hour."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses zeven uur for 6:30 (Tot straks! Om zeven uur.)",
+            "explain": "Half past six is 'half zeven', not 'zeven uur'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Goed, tot straks! Het is vijf uur.",
+      "en": "OK, see you later! It is five o'clock."
+    }
+  },
+  "culture": {
+    "title": "Half vier is 3:30",
+    "text": "Dutch counts towards the next hour, so **half vier** means half an hour before four: 3:30, not 4:30. The same logic gives **kwart voor vier** (3:45) and **tien over half vier** (3:40). Timetables, apps and train boards usually use digits like **15:30**, so listen carefully when people say the time out loud."
+  },
+  "summary": [
+    "Ask **Hoe laat is het?** and answer with **Het is ... uur**, **kwart over**, **half** and **kwart voor**.",
+    "**Half vier** means 3:30: Dutch counts towards the next hour.",
+    "When a sentence starts with time, the verb comes second: **Om acht uur werk ik**.",
+    "Days take **op** (**op maandag**); parts of the day take **'s** (**'s avonds**).",
+    "Daily routine: **opstaan**, **ontbijten**, **beginnen**, **eten**, **slapen**."
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "id": "u01-l01",
+  "title": "Hallo!",
+  "subtitle": "Greetings and goodbyes",
+  "level": "A0",
+  "intro": "In this first lesson you learn to greet people at any time of day and to say goodbye. You also learn to ask 'How are you?' and to answer. By the end you can have a short, friendly chat with a neighbour in the stairwell.",
+  "words": [
+    {
+      "nl": "hallo",
+      "en": "hello",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hallo! Hoe gaat het?",
+        "en": "Hello! How are you?"
+      },
+      "note": null
+    },
+    {
+      "nl": "hoi",
+      "en": "hi (informal)",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoi, buurman!",
+        "en": "Hi, neighbour!"
+      },
+      "note": "Informal and very common."
+    },
+    {
+      "nl": "goedemorgen",
+      "en": "good morning",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Goedemorgen! Hoe gaat het?",
+        "en": "Good morning! How are you?"
+      },
+      "note": null
+    },
+    {
+      "nl": "goedemiddag",
+      "en": "good afternoon",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Goedemiddag!",
+        "en": "Good afternoon!"
+      },
+      "note": null
+    },
+    {
+      "nl": "goedenavond",
+      "en": "good evening",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Goedenavond!",
+        "en": "Good evening!"
+      },
+      "note": null
+    },
+    {
+      "nl": "welterusten",
+      "en": "good night (before sleeping)",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Welterusten!",
+        "en": "Good night!"
+      },
+      "note": "You say this when someone goes to bed, not when you leave a party."
+    },
+    {
+      "nl": "doei",
+      "en": "bye (informal)",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Doei! Tot morgen!",
+        "en": "Bye! See you tomorrow!"
+      },
+      "note": null
+    },
+    {
+      "nl": "tot ziens",
+      "en": "goodbye",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Tot ziens!",
+        "en": "Goodbye!"
+      },
+      "note": "A little more formal than doei."
+    },
+    {
+      "nl": "tot straks",
+      "en": "see you later",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Tot straks!",
+        "en": "See you later!"
+      },
+      "note": null
+    },
+    {
+      "nl": "tot morgen",
+      "en": "see you tomorrow",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Tot morgen!",
+        "en": "See you tomorrow!"
+      },
+      "note": null
+    },
+    {
+      "nl": "hoe gaat het?",
+      "en": "how are you?",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoe gaat het?",
+        "en": "How are you?"
+      },
+      "note": "Literally 'how goes it?'."
+    },
+    {
+      "nl": "goed",
+      "en": "good, well",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Goed, dank je.",
+        "en": "Good, thanks."
+      },
+      "note": null
+    },
+    {
+      "nl": "heel goed",
+      "en": "very good",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Heel goed, dank je.",
+        "en": "Very good, thanks."
+      },
+      "note": null
+    },
+    {
+      "nl": "prima",
+      "en": "fine, great",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Prima, dank je.",
+        "en": "Fine, thanks."
+      },
+      "note": null
+    },
+    {
+      "nl": "slecht",
+      "en": "bad",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het gaat slecht, dank je.",
+        "en": "Things are bad, thanks."
+      },
+      "note": null
+    },
+    {
+      "nl": "niet zo goed",
+      "en": "not so good",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Niet zo goed, dank je.",
+        "en": "Not so good, thanks."
+      },
+      "note": null
+    },
+    {
+      "nl": "dank je",
+      "en": "thanks",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dank je!",
+        "en": "Thanks!"
+      },
+      "note": "Dank je wel is also common and a little warmer."
+    },
+    {
+      "nl": "en met jou?",
+      "en": "and you? (informal)",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Goed, dank je. En met jou?",
+        "en": "Good, thanks. And you?"
+      },
+      "note": null
+    },
+    {
+      "nl": "ja",
+      "en": "yes",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ja, goed.",
+        "en": "Yes, good."
+      },
+      "note": null
+    },
+    {
+      "nl": "nee",
+      "en": "no",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Nee, slecht.",
+        "en": "No, bad."
+      },
+      "note": null
+    },
+    {
+      "nl": "dag",
+      "en": "bye (also: day)",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dag! Tot ziens!",
+        "en": "Bye! Goodbye!"
+      },
+      "note": "Also a noun: de dag (the day)."
+    },
+    {
+      "nl": "buurman",
+      "en": "neighbour",
+      "pos": "noun",
+      "article": "de",
+      "plural": "buurmannen",
+      "forms": null,
+      "example": {
+        "nl": "Hallo, buurman!",
+        "en": "Hello, neighbour!"
+      },
+      "note": null
+    },
+    {
+      "nl": "buurvrouw",
+      "en": "neighbour (female)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "buurvrouwen",
+      "forms": null,
+      "example": {
+        "nl": "Hallo, buurvrouw!",
+        "en": "Hello, neighbour!"
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hallo! Hoe gaat het?",
+      "en": "Hello! How are you?",
+      "note": null
+    },
+    {
+      "nl": "Goed, dank je. En met jou?",
+      "en": "Good, thanks. And you?",
+      "note": null
+    },
+    {
+      "nl": "Prima, dank je wel.",
+      "en": "Fine, thanks.",
+      "note": "Dank je wel is a little warmer than dank je."
+    },
+    {
+      "nl": "Niet zo goed.",
+      "en": "Not so good.",
+      "note": null
+    },
+    {
+      "nl": "Tot straks!",
+      "en": "See you later!",
+      "note": null
+    },
+    {
+      "nl": "Doei, tot morgen!",
+      "en": "Bye, see you tomorrow!",
+      "note": null
+    },
+    {
+      "nl": "Welterusten!",
+      "en": "Good night!",
+      "note": "Say this before sleeping."
+    },
+    {
+      "nl": "Tot ziens!",
+      "en": "Goodbye!",
+      "note": "More formal than doei."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Dutch sounds: spelling and pronunciation",
+      "explanation": "Dutch spelling is quite regular: long vowels are written double (**aa**, **ee**, **oo**, **uu**), short vowels single. The combinations **ui**, **ij/ei**, **oe**, **eu** and **g/ch** are new for most English speakers. Listen and repeat the example words; for now you only need the sounds, not the words.",
+      "table": {
+        "headers": [
+          "Spelling",
+          "Sounds like",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ui",
+            "No English equivalent: say 'ay' as in 'say' and round your lips",
+            "huis (house)"
+          ],
+          [
+            "ij / ei",
+            "Like 'ay' in 'say', but shorter",
+            "mijn (my), klein (small)"
+          ],
+          [
+            "oe",
+            "Like 'oo' in 'boot', but shorter",
+            "goed (good), boek (book)"
+          ],
+          [
+            "eu",
+            "Like 'u' in 'hurt', with round lips",
+            "neus (nose), deur (door)"
+          ],
+          [
+            "g / ch",
+            "Throaty, like a soft cough",
+            "goed (good), acht (eight)"
+          ],
+          [
+            "aa, ee, oo, uu",
+            "Long vowels: hold them longer",
+            "maan (moon), nee (no), boot (boat), uur (hour)"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Goed, dank je.",
+          "en": "Good, thanks."
+        },
+        {
+          "nl": "Welterusten!",
+          "en": "Good night!"
+        },
+        {
+          "nl": "Goedenavond!",
+          "en": "Good evening!"
+        }
+      ],
+      "tip": "The Dutch **g** is not like English **g**. It comes from the throat: **goed** sounds a bit like 'khood' to English ears."
+    },
+    {
+      "title": "Informal and formal greetings",
+      "explanation": "Dutch has informal and more formal greetings. Use **hoi** and **doei** with friends, family and neighbours you know well. Use **goedemorgen**, **goedemiddag** and **goedenavond** in most other situations: at work, in shops, to strangers. **Tot ziens** is a little more formal than **doei**.",
+      "table": {
+        "headers": [
+          "Informal",
+          "Neutral / more formal",
+          "When"
+        ],
+        "rows": [
+          [
+            "hoi",
+            "goedemorgen / hallo",
+            "when you meet"
+          ],
+          [
+            "doei",
+            "tot ziens",
+            "when you leave"
+          ],
+          [
+            "dank je",
+            "dank u wel",
+            "when you thank someone"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Hoi! Hoe gaat het?",
+          "en": "Hi! How are you?"
+        },
+        {
+          "nl": "Goedemorgen! Hoe gaat het?",
+          "en": "Good morning! How are you?"
+        },
+        {
+          "nl": "Doei! Tot morgen!",
+          "en": "Bye! See you tomorrow!"
+        }
+      ],
+      "tip": "Common mistake: **welterusten** is not 'goodbye in the evening'. Use it only when someone goes to bed."
+    }
+  ],
+  "dialogue": {
+    "title": "In the stairwell",
+    "setting": "Early morning in the stairwell of an apartment building; two neighbours meet on their way out.",
+    "speakers": [
+      {
+        "name": "Daan",
+        "gender": "m"
+      },
+      {
+        "name": "Fatima",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Fatima",
+        "nl": "Hoi, goedemorgen!",
+        "en": "Hi, good morning!"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Goedemorgen! Hoe gaat het?",
+        "en": "Good morning! How are you?"
+      },
+      {
+        "speaker": "Fatima",
+        "nl": "Goed, dank je. En met jou?",
+        "en": "Good, thanks. And you?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Prima, dank je.",
+        "en": "Fine, thanks."
+      },
+      {
+        "speaker": "Fatima",
+        "nl": "Tot straks!",
+        "en": "See you later!"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, tot straks. Doei!",
+        "en": "Yes, see you later. Bye!"
+      },
+      {
+        "speaker": "Fatima",
+        "nl": "Doei, tot morgen!",
+        "en": "Bye, see you tomorrow!"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Tot morgen! Tot ziens!",
+        "en": "See you tomorrow! Goodbye!"
+      },
+      {
+        "speaker": "Fatima",
+        "nl": "Tot ziens!",
+        "en": "Goodbye!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "goedemorgen",
+          "good morning"
+        ],
+        [
+          "goedemiddag",
+          "good afternoon"
+        ],
+        [
+          "goedenavond",
+          "good evening"
+        ],
+        [
+          "welterusten",
+          "good night"
+        ],
+        [
+          "tot ziens",
+          "goodbye"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "hoe gaat het?",
+          "how are you?"
+        ],
+        [
+          "goed",
+          "good"
+        ],
+        [
+          "prima",
+          "fine"
+        ],
+        [
+          "slecht",
+          "bad"
+        ],
+        [
+          "dank je",
+          "thanks"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "It is 9 a.m. and you meet your neighbour. What do you say?",
+      "nl": null,
+      "options": [
+        "Goedemorgen!",
+        "Goedenavond!",
+        "Welterusten!"
+      ],
+      "answer": 0,
+      "explain": "Goedemorgen is used in the morning; goedenavond is for the evening."
+    },
+    {
+      "type": "choice",
+      "prompt": "It is 11 p.m. and you are going to bed. What do you say?",
+      "nl": null,
+      "options": [
+        "Goedemorgen!",
+        "Welterusten!",
+        "Goedemiddag!"
+      ],
+      "answer": 1,
+      "explain": "Welterusten means 'good night' when you go to sleep."
+    },
+    {
+      "type": "choice",
+      "prompt": "Your neighbour asks: 'Hoe gaat het?' What is a good answer?",
+      "nl": "Hoe gaat het?",
+      "options": [
+        "Tot ziens!",
+        "Goed, dank je.",
+        "Goedenavond!"
+      ],
+      "answer": 1,
+      "explain": "You answer how you are and thank them: 'Goed, dank je.'"
+    },
+    {
+      "type": "article",
+      "word": "buurman",
+      "en": "neighbour",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "buurvrouw",
+      "en": "neighbour (female)",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "Good, thanks. And you?",
+      "answer": "Goed, dank je. En met jou?",
+      "accept": [],
+      "extra": [
+        "welterusten",
+        "de"
+      ],
+      "explain": "Answer first with **Goed, dank je**, then ask back: **En met jou?**"
+    },
+    {
+      "type": "build",
+      "en": "Fine, thanks.",
+      "answer": "Prima, dank je.",
+      "accept": [],
+      "extra": [
+        "de",
+        "welterusten"
+      ],
+      "explain": "**Prima, dank je** is a fixed chunk: the answer comes first, then **dank je**."
+    },
+    {
+      "type": "build",
+      "en": "Yes, see you tomorrow!",
+      "answer": "Ja, tot morgen!",
+      "accept": [],
+      "extra": [
+        "slecht",
+        "de"
+      ],
+      "explain": "Start with **Ja**, then use the fixed phrase **tot morgen**."
+    },
+    {
+      "type": "gap",
+      "text": "Goedemorgen! Hoe gaat ___?",
+      "en": "Good morning! How are you?",
+      "answers": [
+        "het"
+      ],
+      "hint": "it (part of the fixed phrase)",
+      "explain": "The fixed question is **Hoe gaat het?**; **het** is the subject and never changes."
+    },
+    {
+      "type": "gap",
+      "text": "Prima, ___ je!",
+      "en": "Fine, thanks!",
+      "answers": [
+        "dank"
+      ],
+      "hint": "thanks",
+      "explain": "The fixed phrase is **dank je**; fill in **dank**."
+    },
+    {
+      "type": "gap",
+      "text": "Nee, ___ zo goed.",
+      "en": "No, not so good.",
+      "answers": [
+        "niet"
+      ],
+      "hint": "not",
+      "explain": "Use **niet** before **zo goed** to mean 'not so good'."
+    },
+    {
+      "type": "translate",
+      "en": "Good morning, how are you?",
+      "answers": [
+        "Goedemorgen, hoe gaat het?",
+        "Goedemorgen! Hoe gaat het?",
+        "Goedemorgen. Hoe gaat het?",
+        "Goedemorgen hoe gaat het"
+      ],
+      "focus": "greeting + question",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Writes 'goedenmorgen' or 'goede morgen' instead of 'goedemorgen'",
+          "explain": "It is one word with one **n**: **goedemorgen**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'Hoe gaat je?' or 'Hoe gaat jou?' instead of 'Hoe gaat het?'",
+          "explain": "The phrase is fixed: **Hoe gaat het?** — the word **het** never changes."
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out 'het': 'Hoe gaat?'",
+          "explain": "**Hoe gaat het?** needs **het**; without it the question is incomplete."
+        },
+        {
+          "id": "m4",
+          "pattern": "Translates 'how are you' word for word as 'Hoe ben je?'",
+          "explain": "Dutch does not use **zijn** here; the question is **Hoe gaat het?**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Fine, thanks. And you?",
+      "answers": [
+        "Prima, dank je. En met jou?",
+        "Goed, dank je. En met jou?",
+        "Prima, dank je wel. En met jou?",
+        "Prima, dank je. En jij?",
+        "Prima dank je en met jou"
+      ],
+      "focus": "answering and asking back",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Writes 'dank jij' instead of 'dank je'",
+          "explain": "After **dank** use **je**: **dank je**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Writes 'En met jouw?' (possessive) instead of 'En met jou?'",
+          "explain": "Use **jou** (object), not **jouw** (possessive): **En met jou?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Writes 'En met jij?' instead of 'En met jou?'",
+          "explain": "After **met** use **jou**: **En met jou?**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Says 'Ik ben goed' for 'I am fine'",
+          "explain": "In Dutch you say **Goed** or **Het gaat goed**, not 'Ik ben goed'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "See you tomorrow. Bye!",
+      "answers": [
+        "Tot morgen. Doei!",
+        "Doei, tot morgen!",
+        "Tot morgen! Doei!",
+        "Tot morgen doei"
+      ],
+      "focus": "goodbyes",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Translates literally 'Zie je morgen' instead of 'Tot morgen'",
+          "explain": "Dutch uses **Tot morgen**, literally 'until tomorrow'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Spells 'doei' as 'doey' or 'dooi'",
+          "explain": "The word is **doei**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves the English 'Bye' in the sentence",
+          "explain": "Use the Dutch word **doei** or **tot ziens**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'Welterusten' as a goodbye",
+          "explain": "**Welterusten** is only for bedtime; say **doei** when you leave."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Good evening! Good night!",
+      "answers": [
+        "Goedenavond! Welterusten!",
+        "Goedenavond, welterusten!",
+        "Goedenavond. Welterusten."
+      ],
+      "focus": "evening and bedtime greetings",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Writes 'goedeavond' or 'goede avond' instead of 'goedenavond'",
+          "explain": "It is one word with **n**: **goedenavond**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Translates 'good night' as 'tot ziens' or 'doei'",
+          "explain": "Before sleeping you say **welterusten**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Writes 'wel te rusten' as three words",
+          "explain": "It is one word: **welterusten**."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Goedemiddag!",
+      "en": "Good afternoon!"
+    },
+    {
+      "type": "listen",
+      "nl": "Hoe gaat het?",
+      "en": "How are you?"
+    },
+    {
+      "type": "reply",
+      "context": "You meet your neighbour in the stairwell in the morning. She says:",
+      "say": {
+        "nl": "Goedemorgen!",
+        "en": "Good morning!"
+      },
+      "task": "Greet her back and ask how she is.",
+      "examples": [
+        "Goedemorgen! Hoe gaat het?",
+        "Hoi! Hoe gaat het?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Answers with 'Hoe gaat je?' or 'Hoe gaat jou?' instead of 'Hoe gaat het?'",
+          "explain": "The phrase is fixed: **Hoe gaat het?** — use **het**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Word order: 'Hoe het gaat?'",
+          "explain": "In a question the verb comes first: **Hoe gaat het?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Only greets back ('Goedemorgen!') without asking how she is",
+          "explain": "The task asks you to greet **and** ask: **Goedemorgen! Hoe gaat het?**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Writes 'goedenmorgen' instead of 'goedemorgen'",
+          "explain": "**Goedemorgen** has one **n** in the middle."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your neighbour asks:",
+      "say": {
+        "nl": "Hoe gaat het?",
+        "en": "How are you?"
+      },
+      "task": "Say you are fine, thank her, and ask her back.",
+      "examples": [
+        "Goed, dank je. En met jou?",
+        "Prima, dank je. En met jou?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Writes 'dank jij' instead of 'dank je'",
+          "explain": "After **dank** use **je**: **dank je**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Says 'Ik ben goed' or 'Ik ben prima'",
+          "explain": "Say **Goed** or **Prima**, not 'Ik ben goed'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Forgets to ask back, e.g. only 'Prima, dank je.'",
+          "explain": "The task says ask her back: **En met jou?**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Writes 'En met jouw?' or 'En met jij?'",
+          "explain": "Use **jou** after **met**: **En met jou?**"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You are leaving and your neighbour says:",
+      "say": {
+        "nl": "Tot straks!",
+        "en": "See you later!"
+      },
+      "task": "Say see you later and bye.",
+      "examples": [
+        "Ja, tot straks. Doei!",
+        "Tot straks. Doei!"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Translates 'see you later' as 'Zie je straks'",
+          "explain": "Use the fixed phrase **Tot straks**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Answers 'Welterusten'",
+          "explain": "**Welterusten** is for bedtime; say **doei**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Word order: 'Straks tot!'",
+          "explain": "**Tot straks** is a fixed phrase: **tot** comes first."
+        },
+        {
+          "id": "m4",
+          "pattern": "Only says 'Tot straks!' and forgets the goodbye",
+          "explain": "The task asks for both: **Tot straks. Doei!**"
+        },
+        {
+          "id": "m5",
+          "pattern": "Only says 'Doei!' and forgets 'tot straks'",
+          "explain": "The task asks for both: **Tot straks. Doei!**"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your neighbour says:",
+      "say": {
+        "nl": "Doei! Tot morgen!",
+        "en": "Bye! See you tomorrow!"
+      },
+      "task": "Say see you tomorrow and goodbye.",
+      "examples": [
+        "Tot morgen! Tot ziens!",
+        "Ja, tot morgen. Doei!"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Translates 'see you tomorrow' as 'Zie je morgen'",
+          "explain": "Use the fixed phrase **Tot morgen**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Answers 'Welterusten'",
+          "explain": "**Welterusten** is only for bedtime; say **tot ziens** or **doei**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Word order: 'Morgen tot!'",
+          "explain": "**Tot morgen** is fixed: **tot** comes before the time word."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Meeting your neighbour",
+    "setting": "You meet your neighbour, mevrouw De Vries, in the stairwell of your apartment building in the morning.",
+    "partner": {
+      "name": "Mevrouw De Vries",
+      "gender": "f",
+      "role": "your neighbour"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen!",
+          "en": "Good morning!"
+        },
+        "task": "Greet her back and ask how she is.",
+        "examples": [
+          "Goedemorgen! Hoe gaat het?",
+          "Hoi! Hoe gaat het?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Asks 'Hoe gaat je?' or 'Hoe gaat jou?'",
+            "explain": "The fixed phrase is **Hoe gaat het?** — use **het**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Word order: 'Hoe het gaat?'",
+            "explain": "In a question the verb comes first: **Hoe gaat het?**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Writes 'goedenmorgen'",
+            "explain": "**Goedemorgen** has one **n** in the middle."
+          },
+          {
+            "id": "m4",
+            "pattern": "Only greets back without asking a question",
+            "explain": "Greet and ask: **Goedemorgen! Hoe gaat het?**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Goed, dank je. En met jou?",
+          "en": "Good, thanks. And you?"
+        },
+        "task": "Say you are fine and thank her.",
+        "examples": [
+          "Prima, dank je.",
+          "Goed, dank je."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'Ik ben goed' or 'Ik ben prima'",
+            "explain": "Say **Prima** or **Goed**, not 'Ik ben goed'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Writes 'dank jij' instead of 'dank je'",
+            "explain": "After **dank** use **je**: **dank je**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Answers only 'Prima.' without thanking",
+            "explain": "Add **dank je**: **Prima, dank je.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Tot straks!",
+          "en": "See you later!"
+        },
+        "task": "Say see you later and bye.",
+        "examples": [
+          "Ja, tot straks. Doei!",
+          "Tot straks. Doei!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Translates 'see you later' as 'Zie je straks'",
+            "explain": "Use the fixed phrase **Tot straks**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Answers 'Welterusten'",
+            "explain": "**Welterusten** is for bedtime; say **doei**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Word order: 'Straks tot!'",
+            "explain": "**Tot straks** is a fixed phrase: **tot** comes first."
+          },
+          {
+            "id": "m4",
+            "pattern": "Only says 'Tot straks!' and forgets the goodbye",
+            "explain": "The task asks for both: **Tot straks. Doei!**"
+          },
+          {
+            "id": "m5",
+            "pattern": "Only says 'Doei!' and forgets 'tot straks'",
+            "explain": "The task asks for both: **Tot straks. Doei!**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Doei! Tot morgen!",
+          "en": "Bye! See you tomorrow!"
+        },
+        "task": "Say see you tomorrow and goodbye.",
+        "examples": [
+          "Tot morgen! Tot ziens!",
+          "Ja, tot morgen. Doei!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Translates 'see you tomorrow' as 'Zie je morgen'",
+            "explain": "Use the fixed phrase **Tot morgen**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Answers 'Welterusten'",
+            "explain": "**Welterusten** is only for bedtime; say **tot ziens** or **doei**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Word order: 'Morgen tot!'",
+            "explain": "**Tot morgen** is fixed: **tot** comes before the time word."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot ziens!",
+      "en": "Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Brief and direct greetings",
+    "text": "In the Netherlands people greet briefly and directly: a quick **hoi** or **goedemorgen** in the stairwell is normal, and you do not need a long conversation. **Hoi** and **doei** are everyday informal words; you hear them at work, at school and between neighbours. In shops and at official desks you more often hear **goedemorgen** and **tot ziens**. **Welterusten** is only for bedtime, not for leaving a party."
+  },
+  "summary": [
+    "Use **goedemorgen**, **goedemiddag** and **goedenavond** for morning, afternoon and evening.",
+    "**Hoe gaat het?** means 'how are you?'; answer with **goed**, **prima** or **niet zo goed**, then **dank je**.",
+    "Ask back with **en met jou?**.",
+    "**Doei** is informal; **tot ziens** is a little more formal. **Welterusten** is only for bedtime.",
+    "Dutch **g** is throaty, and **ui**, **oe**, **eu** and **ij/ei** need practice."
+  ]
+}

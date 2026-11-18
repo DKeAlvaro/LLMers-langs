@@ -1,0 +1,1136 @@
+{
+  "id": "u04-l01",
+  "title": "Mijn huis",
+  "subtitle": "Rooms, furniture and prepositions",
+  "level": "A1",
+  "intro": "In this lesson you will learn the Dutch words for rooms and furniture, and how to say what is in your home. You will use er is and er zijn, prepositions of place, and the verbs staan, liggen, zitten and hangen. By the end you can describe your apartment and say where things are.",
+  "words": [
+    {
+      "nl": "huis",
+      "en": "house",
+      "pos": "noun",
+      "article": "het",
+      "plural": "huizen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn huis is groot.",
+        "en": "My house is big."
+      },
+      "note": null
+    },
+    {
+      "nl": "appartement",
+      "en": "apartment",
+      "pos": "noun",
+      "article": "het",
+      "plural": "appartementen",
+      "forms": null,
+      "example": {
+        "nl": "Het appartement is klein.",
+        "en": "The apartment is small."
+      },
+      "note": null
+    },
+    {
+      "nl": "kamer",
+      "en": "room",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kamers",
+      "forms": null,
+      "example": {
+        "nl": "Er zijn twee kamers.",
+        "en": "There are two rooms."
+      },
+      "note": null
+    },
+    {
+      "nl": "woonkamer",
+      "en": "living room",
+      "pos": "noun",
+      "article": "de",
+      "plural": "woonkamers",
+      "forms": null,
+      "example": {
+        "nl": "De woonkamer is groot.",
+        "en": "The living room is big."
+      },
+      "note": null
+    },
+    {
+      "nl": "slaapkamer",
+      "en": "bedroom",
+      "pos": "noun",
+      "article": "de",
+      "plural": "slaapkamers",
+      "forms": null,
+      "example": {
+        "nl": "De slaapkamer is boven.",
+        "en": "The bedroom is upstairs."
+      },
+      "note": null
+    },
+    {
+      "nl": "keuken",
+      "en": "kitchen",
+      "pos": "noun",
+      "article": "de",
+      "plural": "keukens",
+      "forms": null,
+      "example": {
+        "nl": "Er is een keuken.",
+        "en": "There is a kitchen."
+      },
+      "note": null
+    },
+    {
+      "nl": "badkamer",
+      "en": "bathroom",
+      "pos": "noun",
+      "article": "de",
+      "plural": "badkamers",
+      "forms": null,
+      "example": {
+        "nl": "Waar is de badkamer?",
+        "en": "Where is the bathroom?"
+      },
+      "note": null
+    },
+    {
+      "nl": "toilet",
+      "en": "toilet",
+      "pos": "noun",
+      "article": "het",
+      "plural": "toiletten",
+      "forms": null,
+      "example": {
+        "nl": "Het toilet is naast de badkamer.",
+        "en": "The toilet is next to the bathroom."
+      },
+      "note": null
+    },
+    {
+      "nl": "tuin",
+      "en": "garden",
+      "pos": "noun",
+      "article": "de",
+      "plural": "tuinen",
+      "forms": null,
+      "example": {
+        "nl": "De tuin is achter het huis.",
+        "en": "The garden is behind the house."
+      },
+      "note": null
+    },
+    {
+      "nl": "balkon",
+      "en": "balcony",
+      "pos": "noun",
+      "article": "het",
+      "plural": "balkons",
+      "forms": null,
+      "example": {
+        "nl": "Het balkon is boven.",
+        "en": "The balcony is upstairs."
+      },
+      "note": null
+    },
+    {
+      "nl": "trap",
+      "en": "stairs",
+      "pos": "noun",
+      "article": "de",
+      "plural": "trappen",
+      "forms": null,
+      "example": {
+        "nl": "De trap is naast de deur.",
+        "en": "The stairs are next to the door."
+      },
+      "note": null
+    },
+    {
+      "nl": "deur",
+      "en": "door",
+      "pos": "noun",
+      "article": "de",
+      "plural": "deuren",
+      "forms": null,
+      "example": {
+        "nl": "De deur is achter de kast.",
+        "en": "The door is behind the cupboard."
+      },
+      "note": null
+    },
+    {
+      "nl": "raam",
+      "en": "window",
+      "pos": "noun",
+      "article": "het",
+      "plural": "ramen",
+      "forms": null,
+      "example": {
+        "nl": "Er is een groot raam.",
+        "en": "There is a big window."
+      },
+      "note": null
+    },
+    {
+      "nl": "tafel",
+      "en": "table",
+      "pos": "noun",
+      "article": "de",
+      "plural": "tafels",
+      "forms": null,
+      "example": {
+        "nl": "De tafel staat bij het raam.",
+        "en": "The table stands by the window."
+      },
+      "note": "You already know de tafel from the restaurant; here it is the table at home."
+    },
+    {
+      "nl": "stoel",
+      "en": "chair",
+      "pos": "noun",
+      "article": "de",
+      "plural": "stoelen",
+      "forms": null,
+      "example": {
+        "nl": "De stoel staat naast de tafel.",
+        "en": "The chair stands next to the table."
+      },
+      "note": null
+    },
+    {
+      "nl": "bank",
+      "en": "couch",
+      "pos": "noun",
+      "article": "de",
+      "plural": "banken",
+      "forms": null,
+      "example": {
+        "nl": "De bank staat in de woonkamer.",
+        "en": "The couch is in the living room."
+      },
+      "note": "Here bank means couch, not a financial bank."
+    },
+    {
+      "nl": "bed",
+      "en": "bed",
+      "pos": "noun",
+      "article": "het",
+      "plural": "bedden",
+      "forms": null,
+      "example": {
+        "nl": "Het bed staat in de slaapkamer.",
+        "en": "The bed is in the bedroom."
+      },
+      "note": null
+    },
+    {
+      "nl": "kast",
+      "en": "cupboard, wardrobe",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kasten",
+      "forms": null,
+      "example": {
+        "nl": "De kast staat in de woonkamer.",
+        "en": "The cupboard is in the living room."
+      },
+      "note": null
+    },
+    {
+      "nl": "lamp",
+      "en": "lamp",
+      "pos": "noun",
+      "article": "de",
+      "plural": "lampen",
+      "forms": null,
+      "example": {
+        "nl": "De lamp hangt boven de tafel.",
+        "en": "The lamp hangs above the table."
+      },
+      "note": null
+    },
+    {
+      "nl": "muur",
+      "en": "wall",
+      "pos": "noun",
+      "article": "de",
+      "plural": "muren",
+      "forms": null,
+      "example": {
+        "nl": "De muur is achter de bank.",
+        "en": "The wall is behind the couch."
+      },
+      "note": null
+    },
+    {
+      "nl": "vloer",
+      "en": "floor",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vloeren",
+      "forms": null,
+      "example": {
+        "nl": "De stoel staat op de vloer.",
+        "en": "The chair stands on the floor."
+      },
+      "note": null
+    },
+    {
+      "nl": "staan",
+      "en": "to stand",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik sta, jij staat, wij staan",
+      "example": {
+        "nl": "De stoel staat bij het raam.",
+        "en": "The chair stands by the window."
+      },
+      "note": "Use staan for things that are upright."
+    },
+    {
+      "nl": "liggen",
+      "en": "to lie",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik lig, jij ligt, wij liggen",
+      "example": {
+        "nl": "Het boek ligt op de tafel.",
+        "en": "The book lies on the table."
+      },
+      "note": "Use liggen for things flat on a surface."
+    },
+    {
+      "nl": "zitten",
+      "en": "to sit",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zit, jij zit, wij zitten",
+      "example": {
+        "nl": "De kat zit onder de tafel.",
+        "en": "The cat sits under the table."
+      },
+      "note": "Notice: hij zit, with no extra t."
+    },
+    {
+      "nl": "hangen",
+      "en": "to hang",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik hang, jij hangt, wij hangen",
+      "example": {
+        "nl": "De lamp hangt boven de tafel.",
+        "en": "The lamp hangs above the table."
+      },
+      "note": "Use hangen for things on a wall or from above."
+    },
+    {
+      "nl": "groot",
+      "en": "big",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De woonkamer is groot.",
+        "en": "The living room is big."
+      },
+      "note": null
+    },
+    {
+      "nl": "klein",
+      "en": "small",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De keuken is klein.",
+        "en": "The kitchen is small."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Er is een keuken.",
+      "en": "There is a kitchen.",
+      "note": "Use er is with one thing."
+    },
+    {
+      "nl": "Er zijn twee slaapkamers.",
+      "en": "There are two bedrooms.",
+      "note": "Use er zijn with more than one thing."
+    },
+    {
+      "nl": "De keuken is naast de woonkamer.",
+      "en": "The kitchen is next to the living room.",
+      "note": null
+    },
+    {
+      "nl": "De lamp hangt boven de tafel.",
+      "en": "The lamp hangs above the table.",
+      "note": null
+    },
+    {
+      "nl": "De stoel staat bij het raam.",
+      "en": "The chair stands by the window.",
+      "note": "bij = by, next to."
+    },
+    {
+      "nl": "Het bed staat in de slaapkamer.",
+      "en": "The bed is in the bedroom.",
+      "note": null
+    },
+    {
+      "nl": "Is er een toilet?",
+      "en": "Is there a toilet?",
+      "note": "A yes/no question with er."
+    },
+    {
+      "nl": "Waar is de badkamer?",
+      "en": "Where is the bathroom?",
+      "note": null
+    },
+    {
+      "nl": "Wat staat er in de woonkamer?",
+      "en": "What is in the living room?",
+      "note": "A fixed question with er: what is in the living room?"
+    },
+    {
+      "nl": "Kom binnen!",
+      "en": "Come in!",
+      "note": "Use this when you welcome someone into your home."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Er is and er zijn",
+      "explanation": "Use **er is** when there is one thing: **Er is een keuken.** Use **er zijn** when there are two or more things: **Er zijn twee slaapkamers.** In a statement **er** comes first; in a yes/no question the verb comes first: **Is er een toilet?**",
+      "table": {
+        "headers": [
+          "Use",
+          "Dutch",
+          "Example"
+        ],
+        "rows": [
+          [
+            "one thing",
+            "er is",
+            "Er is een keuken."
+          ],
+          [
+            "more things",
+            "er zijn",
+            "Er zijn twee kamers."
+          ],
+          [
+            "yes/no question",
+            "is er / zijn er",
+            "Is er een toilet?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Er is een keuken.",
+          "en": "There is a kitchen."
+        },
+        {
+          "nl": "Er zijn twee kamers.",
+          "en": "There are two rooms."
+        },
+        {
+          "nl": "Is er een toilet?",
+          "en": "Is there a toilet?"
+        }
+      ],
+      "tip": "If you can count it and the number is more than one, use er zijn."
+    },
+    {
+      "title": "Prepositions of place",
+      "explanation": "Prepositions say where something is. **in** = inside, **op** = on top, **onder** = under. Learn them with a noun: **op de tafel**, **naast de kast**.",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English",
+          "Example"
+        ],
+        "rows": [
+          [
+            "in",
+            "in",
+            "Het bed staat in de slaapkamer."
+          ],
+          [
+            "op",
+            "on",
+            "Het boek ligt op de tafel."
+          ],
+          [
+            "onder",
+            "under",
+            "De kat zit onder de tafel."
+          ],
+          [
+            "naast",
+            "next to",
+            "De stoel staat naast de tafel."
+          ],
+          [
+            "achter",
+            "behind",
+            "De deur is achter de kast."
+          ],
+          [
+            "voor",
+            "in front of",
+            "De auto staat voor de deur."
+          ],
+          [
+            "tussen",
+            "between",
+            "De lamp hangt tussen de ramen."
+          ],
+          [
+            "boven",
+            "above, upstairs",
+            "De lamp hangt boven de tafel."
+          ],
+          [
+            "bij",
+            "by, next to",
+            "De stoel staat bij het raam."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Het boek ligt op de tafel.",
+          "en": "The book lies on the table."
+        },
+        {
+          "nl": "De stoel staat naast de tafel.",
+          "en": "The chair stands next to the table."
+        },
+        {
+          "nl": "De lamp hangt boven de tafel.",
+          "en": "The lamp hangs above the table."
+        },
+        {
+          "nl": "De stoel staat bij het raam.",
+          "en": "The chair stands by the window."
+        }
+      ],
+      "tip": "Many prepositions are short words; say them together with the noun: op de tafel."
+    },
+    {
+      "title": "Staan, liggen, zitten, hangen",
+      "explanation": "Dutch often uses a position verb where English uses is. Use **staan** for things that are upright, **liggen** for things flat on a surface, **zitten** for sitting people or animals, and **hangen** for things on a wall or from above. The verb comes after the subject: **De stoel staat bij het raam.**",
+      "table": {
+        "headers": [
+          "Dutch",
+          "Use for",
+          "Example"
+        ],
+        "rows": [
+          [
+            "staan",
+            "things that are upright",
+            "De stoel staat bij het raam."
+          ],
+          [
+            "liggen",
+            "things flat on a surface",
+            "Het boek ligt op de tafel."
+          ],
+          [
+            "zitten",
+            "people or animals that sit",
+            "De kat zit onder de tafel."
+          ],
+          [
+            "hangen",
+            "things on a wall or from above",
+            "De lamp hangt boven de tafel."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De stoel staat bij het raam.",
+          "en": "The chair stands by the window."
+        },
+        {
+          "nl": "Het boek ligt op de tafel.",
+          "en": "The book lies on the table."
+        },
+        {
+          "nl": "De lamp hangt boven de tafel.",
+          "en": "The lamp hangs above the table."
+        }
+      ],
+      "tip": "Don't translate is automatically. Ask: is it upright, flat, sitting, or hanging?"
+    }
+  ],
+  "dialogue": {
+    "title": "Mijn appartement",
+    "setting": "Tim visits Noor's new apartment and she shows him around.",
+    "speakers": [
+      {
+        "name": "Noor",
+        "gender": "f"
+      },
+      {
+        "name": "Tim",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Noor",
+        "nl": "Hoi Tim! Kom binnen.",
+        "en": "Hi Tim! Come in."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Dank je. Is je appartement groot?",
+        "en": "Thank you. Is your apartment big?"
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Ja, het is groot. Er zijn twee kamers.",
+        "en": "Yes, it is big. There are two rooms."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Is er een keuken?",
+        "en": "Is there a kitchen?"
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Ja, er is een keuken. De keuken is naast de woonkamer.",
+        "en": "Yes, there is a kitchen. The kitchen is next to the living room."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Is de slaapkamer groot?",
+        "en": "Is the bedroom big?"
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Nee, de slaapkamer is klein. Maar er is een groot raam.",
+        "en": "No, the bedroom is small. But there is a big window."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Waar is de badkamer?",
+        "en": "Where is the bathroom?"
+      },
+      {
+        "speaker": "Noor",
+        "nl": "De badkamer is achter de keuken. Het toilet is naast de badkamer.",
+        "en": "The bathroom is behind the kitchen. The toilet is next to the bathroom."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "En de woonkamer? Wat staat er in de woonkamer?",
+        "en": "And the living room? What is in the living room?"
+      },
+      {
+        "speaker": "Noor",
+        "nl": "De tafel staat bij het raam. De lamp hangt boven de tafel.",
+        "en": "The table stands by the window. The lamp hangs above the table."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Leuk! Dank je.",
+        "en": "Nice! Thank you."
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Geen dank!",
+        "en": "You're welcome!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de keuken",
+          "kitchen"
+        ],
+        [
+          "de slaapkamer",
+          "bedroom"
+        ],
+        [
+          "het raam",
+          "window"
+        ],
+        [
+          "de trap",
+          "stairs"
+        ],
+        [
+          "de kast",
+          "cupboard"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "onder",
+          "under"
+        ],
+        [
+          "naast",
+          "next to"
+        ],
+        [
+          "achter",
+          "behind"
+        ],
+        [
+          "tussen",
+          "between"
+        ],
+        [
+          "boven",
+          "above"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "Er ___ een keuken.",
+      "options": [
+        "is",
+        "zijn",
+        "heb"
+      ],
+      "answer": 0,
+      "explain": "One kitchen is singular, so use er is."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "Er ___ twee slaapkamers.",
+      "options": [
+        "is",
+        "zijn",
+        "heeft"
+      ],
+      "answer": 1,
+      "explain": "Two bedrooms is plural, so use er zijn."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct verb.",
+      "nl": "De lamp ___ boven de tafel.",
+      "options": [
+        "hangt",
+        "ligt",
+        "staat"
+      ],
+      "answer": 0,
+      "explain": "A lamp hangs, so use hangen: de lamp hangt."
+    },
+    {
+      "type": "article",
+      "word": "keuken",
+      "en": "kitchen",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "raam",
+      "en": "window",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "There is a big window.",
+      "answer": "Er is een groot raam.",
+      "accept": [],
+      "extra": [
+        "zijn",
+        "de",
+        "op"
+      ],
+      "explain": "Use **er is** for one thing. **Groot** takes no -e before the **het**-word **raam**: **een groot raam**."
+    },
+    {
+      "type": "build",
+      "en": "The kitchen is next to the living room.",
+      "answer": "De keuken is naast de woonkamer.",
+      "accept": [
+        "Naast de woonkamer is de keuken.",
+        "De woonkamer is naast de keuken."
+      ],
+      "extra": [
+        "op",
+        "en"
+      ],
+      "explain": "Use **is** with the singular subject **de keuken**. **Naast** means next to: **naast de woonkamer**."
+    },
+    {
+      "type": "build",
+      "en": "The bed is in the bedroom.",
+      "answer": "Het bed staat in de slaapkamer.",
+      "accept": [
+        "In de slaapkamer staat het bed."
+      ],
+      "extra": [
+        "ligt",
+        "op"
+      ],
+      "explain": "Use **staat** for a bed as furniture. The place phrase comes after the verb: **staat in de slaapkamer**."
+    },
+    {
+      "type": "gap",
+      "text": "Er ___ twee kamers in het huis.",
+      "en": "There are two rooms in the house.",
+      "answers": [
+        "zijn"
+      ],
+      "hint": "er zijn (plural)",
+      "explain": "**Twee kamers** is plural, so use **er zijn**."
+    },
+    {
+      "type": "gap",
+      "text": "De stoel staat ___ de tafel.",
+      "en": "The chair stands next to the table.",
+      "answers": [
+        "naast",
+        "bij"
+      ],
+      "hint": "next to",
+      "explain": "Use **naast** or **bij** for next to; **de tafel** keeps **de**."
+    },
+    {
+      "type": "gap",
+      "text": "De lamp hangt ___ de tafel.",
+      "en": "The lamp hangs above the table.",
+      "answers": [
+        "boven"
+      ],
+      "hint": "above",
+      "explain": "Use **boven** for above; **de tafel** keeps **de**."
+    },
+    {
+      "type": "translate",
+      "en": "There is a big window.",
+      "answers": [
+        "Er is een groot raam.",
+        "Er is een groot raam"
+      ],
+      "focus": "er is + een groot raam (het-word)",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds -e to groot before a het-word after een (Er is een grote raam).",
+          "explain": "After **een**, a **het**-word takes no -e: **een groot raam**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses zijn with one thing (Er zijn een groot raam).",
+          "explain": "With one thing use **er is**: **Er is een groot raam**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the adjective after the noun (Er is een raam groot).",
+          "explain": "The adjective comes before the noun: **een groot raam**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The lamp hangs above the table.",
+      "answers": [
+        "De lamp hangt boven de tafel.",
+        "Boven de tafel hangt de lamp.",
+        "De lamp hangt boven de tafel",
+        "Boven de tafel hangt de lamp"
+      ],
+      "focus": "position verb hangen + boven",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses staat for a lamp (De lamp staat boven de tafel).",
+          "explain": "A lamp hangs, so use **hangt**: **De lamp hangt boven de tafel**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out de before tafel (De lamp hangt boven tafel).",
+          "explain": "Use **de** before **tafel**: **boven de tafel**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses op for above (De lamp hangt op de tafel).",
+          "explain": "**op** means on; above is **boven**: **boven de tafel**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Where is the bathroom?",
+      "answers": [
+        "Waar is de badkamer?",
+        "Waar is de badkamer"
+      ],
+      "focus": "question word waar + is",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps subject before verb in a question (Waar de badkamer is?).",
+          "explain": "In a question the verb comes before the subject: **Waar is de badkamer?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out de before badkamer (Waar is badkamer?).",
+          "explain": "Use **de** before **badkamer**: **de badkamer**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses het with badkamer (Waar is het badkamer?).",
+          "explain": "**badkamer** is a **de**-word: **de badkamer**."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Er zijn twee slaapkamers.",
+      "en": "There are two bedrooms."
+    },
+    {
+      "type": "listen",
+      "nl": "De keuken is naast de woonkamer.",
+      "en": "The kitchen is next to the living room."
+    },
+    {
+      "type": "reply",
+      "context": "You are showing your friend your living room. Your friend asks:",
+      "say": {
+        "nl": "Wat staat er in de woonkamer?",
+        "en": "What is in the living room?"
+      },
+      "task": "Say that the table stands by the window and the lamp hangs above the table.",
+      "examples": [
+        "De tafel staat bij het raam. De lamp hangt boven de tafel.",
+        "Er staat een tafel bij het raam. De lamp hangt boven de tafel.",
+        "De tafel staat bij het raam en de lamp hangt boven de tafel."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses ligt for a table (De tafel ligt bij het raam).",
+          "explain": "A table stands upright, so use **staat**: **De tafel staat bij het raam**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses staat for a hanging lamp (De lamp staat boven de tafel).",
+          "explain": "A lamp hangs, so use **hangt**: **De lamp hangt boven de tafel**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out de before tafel (De lamp hangt boven tafel).",
+          "explain": "Use **de** before **tafel**: **boven de tafel**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses op for position by the window (De tafel staat op het raam).",
+          "explain": "Use **bij** or **naast** for by: **De tafel staat bij het raam**."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your friend is asking about your apartment. Your friend asks:",
+      "say": {
+        "nl": "Is er een toilet?",
+        "en": "Is there a toilet?"
+      },
+      "task": "Say yes, there is a toilet next to the bathroom.",
+      "examples": [
+        "Ja, er is een toilet naast de badkamer.",
+        "Ja, er is een toilet. Het is naast de badkamer.",
+        "Ja, er is een toilet bij de badkamer."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses er zijn with one toilet (Ja, er zijn een toilet naast de badkamer).",
+          "explain": "With one toilet use **er is**: **Er is een toilet**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out een before toilet (Ja, er is toilet naast de badkamer).",
+          "explain": "Use **een** before **toilet**: **een toilet**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out de before badkamer (Ja, er is een toilet naast badkamer).",
+          "explain": "Use **de** before **badkamer**: **naast de badkamer**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses het is for there is (Het is een toilet naast de badkamer).",
+          "explain": "For 'there is' use **er is**: **Er is een toilet**."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Mijn huis",
+    "setting": "You are giving your friend Sanne a video tour of your new apartment.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "your friend"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Is het appartement groot?",
+          "en": "Hi! Is the apartment big?"
+        },
+        "task": "Say that it is small, but there are two rooms.",
+        "examples": [
+          "Het is klein, maar er zijn twee kamers.",
+          "Nee, het is klein. Er zijn twee kamers.",
+          "Het appartement is klein. Er zijn twee kamers."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses er is with a plural (Het is klein, maar er is twee kamers).",
+            "explain": "With **twee kamers** use **er zijn**: **er zijn twee kamers**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves the plural ending off kamer after twee (Het is klein, maar er zijn twee kamer).",
+            "explain": "After **twee** use the plural **kamers**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses hij for het appartement (Hij is klein).",
+            "explain": "**het appartement** is a **het**-word: **Het is klein**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Is er een keuken?",
+          "en": "Is there a kitchen?"
+        },
+        "task": "Say yes, there is a kitchen next to the living room.",
+        "examples": [
+          "Ja, er is een keuken. De keuken is naast de woonkamer.",
+          "Ja, er is een keuken naast de woonkamer.",
+          "Ja, en de keuken is naast de woonkamer."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses er zijn with one kitchen (Ja, er zijn een keuken naast de woonkamer).",
+            "explain": "With one kitchen use **er is**: **Er is een keuken**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves out een before keuken (Ja, er is keuken naast de woonkamer).",
+            "explain": "Use **een** before **keuken**: **een keuken**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Leaves out de before woonkamer (Ja, de keuken is naast woonkamer).",
+            "explain": "Use **de** before **woonkamer**: **naast de woonkamer**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Waar is de slaapkamer?",
+          "en": "Where is the bedroom?"
+        },
+        "task": "Say the bedroom is upstairs; the stairs are by the door.",
+        "examples": [
+          "De slaapkamer is boven. De trap is bij de deur.",
+          "De slaapkamer is boven en de trap is bij de deur.",
+          "Boven. De trap is bij de deur."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses op for position by the door (De slaapkamer is boven. De trap is op de deur).",
+            "explain": "Use **bij** for by the door: **De trap is bij de deur**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses op for upstairs (De slaapkamer is op. De trap is bij de deur).",
+            "explain": "Upstairs is **boven**: **De slaapkamer is boven**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Leaves out de before deur (De slaapkamer is boven. De trap is bij deur).",
+            "explain": "Use **de** before **deur**: **bij de deur**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat staat er in de woonkamer?",
+          "en": "What is in the living room?"
+        },
+        "task": "Say the table stands by the window and the lamp hangs above the table.",
+        "examples": [
+          "De tafel staat bij het raam. De lamp hangt boven de tafel.",
+          "Er staat een tafel bij het raam. De lamp hangt boven de tafel.",
+          "De tafel staat bij het raam en de lamp hangt boven de tafel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses ligt for a table (De tafel ligt bij het raam).",
+            "explain": "A table stands upright, so use **staat**: **De tafel staat bij het raam**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses staat for a hanging lamp (De lamp staat boven de tafel).",
+            "explain": "A lamp hangs, so use **hangt**: **De lamp hangt boven de tafel**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Leaves out the articles before raam and tafel (De tafel staat bij raam. De lamp hangt boven tafel).",
+            "explain": "Use **het raam** and **de tafel**: **bij het raam**, **boven de tafel**."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Leuk! Dank je.",
+      "en": "Nice! Thank you."
+    }
+  },
+  "culture": {
+    "title": "Trappen en ramen",
+    "text": "Dutch city houses often have steep, narrow stairs. Hold the handrail and take one step at a time, especially with a bag. Many Dutch homes have large front windows without curtains, and people often leave them open in the evening. It is normal to see into a living room from the street."
+  },
+  "summary": [
+    "Use er is for one thing and er zijn for more than one thing.",
+    "Use prepositions like in, op, onder, naast, achter, voor, tussen, boven and bij to say where things are.",
+    "Dutch often uses staan, liggen, zitten or hangen where English uses is.",
+    "Learn the article with each home word: de keuken, het raam."
+  ]
+}

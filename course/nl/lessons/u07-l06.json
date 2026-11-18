@@ -1,0 +1,1182 @@
+{
+  "id": "u07-l06",
+  "title": "Toen ging ik...",
+  "subtitle": "Irregular simple past and choosing tenses",
+  "level": "A2",
+  "intro": "In this lesson you learn the most common irregular simple past forms, such as ging, kwam, zag and kon. You also learn when to start with the perfect and when to switch to the simple past to tell a story. By the end you can tell a colleague what happened on your way to work.",
+  "words": [
+    {
+      "nl": "ongeluk",
+      "en": "accident",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de ongelukken",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een ongeluk gezien.",
+        "en": "I saw an accident."
+      },
+      "note": null
+    },
+    {
+      "nl": "politie",
+      "en": "police",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De politie kwam later.",
+        "en": "The police came later."
+      },
+      "note": "Always singular in Dutch: de politie komt."
+    },
+    {
+      "nl": "verhaal",
+      "en": "story",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de verhalen",
+      "forms": null,
+      "example": {
+        "nl": "Het verhaal was mooi.",
+        "en": "The story was beautiful."
+      },
+      "note": null
+    },
+    {
+      "nl": "toen",
+      "en": "then, at that moment",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Toen ging ik naar huis.",
+        "en": "Then I went home."
+      },
+      "note": "When it starts the sentence, the verb comes second."
+    },
+    {
+      "nl": "terwijl",
+      "en": "while",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Terwijl ik wachtte, zag ik het ongeluk.",
+        "en": "While I was waiting, I saw the accident."
+      },
+      "note": "In a terwijl-clause the verb goes to the end."
+    },
+    {
+      "nl": "opeens",
+      "en": "suddenly",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Opeens zag ik een kind op straat.",
+        "en": "Suddenly I saw a child on the street."
+      },
+      "note": null
+    },
+    {
+      "nl": "gaan",
+      "en": "to go",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ga, jij gaat, wij gaan; ging/gingen; is gegaan",
+      "example": {
+        "nl": "Toen ging ik naar huis.",
+        "en": "Then I went home."
+      },
+      "note": null
+    },
+    {
+      "nl": "komen",
+      "en": "to come",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom, jij komt, wij komen; kwam/kwamen; is gekomen",
+      "example": {
+        "nl": "De politie kwam later.",
+        "en": "The police came later."
+      },
+      "note": null
+    },
+    {
+      "nl": "zien",
+      "en": "to see",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zie, jij ziet, wij zien; zag/zagen; heeft gezien",
+      "example": {
+        "nl": "Opeens zag ik een ongeluk.",
+        "en": "Suddenly I saw an accident."
+      },
+      "note": null
+    },
+    {
+      "nl": "eten",
+      "en": "to eat",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik eet, jij eet, wij eten; at/aten; heeft gegeten",
+      "example": {
+        "nl": "Wij aten samen.",
+        "en": "We ate together."
+      },
+      "note": null
+    },
+    {
+      "nl": "drinken",
+      "en": "to drink",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik drink, jij drinkt, wij drinken; dronk/dronken; heeft gedronken",
+      "example": {
+        "nl": "Ik dronk koffie.",
+        "en": "I drank coffee."
+      },
+      "note": null
+    },
+    {
+      "nl": "nemen",
+      "en": "to take",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik neem, jij neemt, wij nemen; nam/namen; heeft genomen",
+      "example": {
+        "nl": "Ik nam de bus naar mijn werk.",
+        "en": "I took the bus to work."
+      },
+      "note": null
+    },
+    {
+      "nl": "geven",
+      "en": "to give",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik geef, jij geeft, wij geven; gaf/gaven; heeft gegeven",
+      "example": {
+        "nl": "Ik gaf de politie mijn naam.",
+        "en": "I gave the police my name."
+      },
+      "note": null
+    },
+    {
+      "nl": "kunnen",
+      "en": "to be able to, can",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kan, jij kunt/kan, wij kunnen; kon/konden; heeft gekund",
+      "example": {
+        "nl": "Ik kon niet slapen.",
+        "en": "I couldn't sleep."
+      },
+      "note": null
+    },
+    {
+      "nl": "willen",
+      "en": "to want",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik wil, jij wilt, wij willen; wilde/wilden; heeft gewild",
+      "example": {
+        "nl": "Ik wilde de politie bellen.",
+        "en": "I wanted to call the police."
+      },
+      "note": null
+    },
+    {
+      "nl": "moeten",
+      "en": "to have to, must",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik moet, jij moet, wij moeten; moest/moesten; heeft gemoeten",
+      "example": {
+        "nl": "Ik moest naar huis.",
+        "en": "I had to go home."
+      },
+      "note": null
+    },
+    {
+      "nl": "mogen",
+      "en": "to be allowed to, may",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik mag, jij mag, wij mogen; mocht/mochten; heeft gemogen",
+      "example": {
+        "nl": "Ik mocht niet roken.",
+        "en": "I was not allowed to smoke."
+      },
+      "note": null
+    },
+    {
+      "nl": "doen",
+      "en": "to do",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik doe, jij doet, wij doen; deed/deden; heeft gedaan",
+      "example": {
+        "nl": "Wat deed je toen?",
+        "en": "What did you do then?"
+      },
+      "note": null
+    },
+    {
+      "nl": "weten",
+      "en": "to know",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik weet, jij weet, wij weten; wist/wisten; heeft geweten",
+      "example": {
+        "nl": "Ik wist het niet.",
+        "en": "I didn't know."
+      },
+      "note": null
+    },
+    {
+      "nl": "vinden",
+      "en": "to find, to think",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vind, jij vindt, wij vinden; vond/vonden; heeft gevonden",
+      "example": {
+        "nl": "Ik vond het verhaal mooi.",
+        "en": "I found the story beautiful."
+      },
+      "note": null
+    },
+    {
+      "nl": "staan",
+      "en": "to stand",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik sta, jij staat, wij staan; stond/stonden; heeft gestaan",
+      "example": {
+        "nl": "Ik stond voor het stoplicht.",
+        "en": "I was standing in front of the traffic light."
+      },
+      "note": null
+    },
+    {
+      "nl": "zitten",
+      "en": "to sit",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zit, jij zit, wij zitten; zat/zaten; heeft gezeten",
+      "example": {
+        "nl": "Wij zaten op de bank.",
+        "en": "We were sitting on the sofa."
+      },
+      "note": null
+    },
+    {
+      "nl": "liggen",
+      "en": "to lie, to be lying",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik lig, jij ligt, wij liggen; lag/lagen; heeft gelegen",
+      "example": {
+        "nl": "Het kind lag op straat.",
+        "en": "The child was lying on the street."
+      },
+      "note": null
+    },
+    {
+      "nl": "roepen",
+      "en": "to call, to shout",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik roep, jij roept, wij roepen; riep/riepen; heeft geroepen",
+      "example": {
+        "nl": "De man riep mijn naam.",
+        "en": "The man called my name."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Wat is er gebeurd?",
+      "en": "What happened?",
+      "note": "Fixed phrase; useful when someone is late or upset."
+    },
+    {
+      "nl": "Toen ging ik naar huis.",
+      "en": "Then I went home.",
+      "note": "Toen starts the sentence and the verb comes second."
+    },
+    {
+      "nl": "Opeens zag ik een ongeluk.",
+      "en": "Suddenly I saw an accident.",
+      "note": null
+    },
+    {
+      "nl": "Terwijl ik wachtte, zag ik het ongeluk.",
+      "en": "While I was waiting, I saw the accident.",
+      "note": "In a terwijl-clause the verb goes to the end."
+    },
+    {
+      "nl": "Ik wist het niet.",
+      "en": "I didn't know.",
+      "note": "wist = simple past of weten."
+    },
+    {
+      "nl": "De politie kwam later.",
+      "en": "The police came later.",
+      "note": null
+    },
+    {
+      "nl": "Ik heb de politie mijn verhaal verteld.",
+      "en": "I told the police my story.",
+      "note": "Perfect for one completed action."
+    },
+    {
+      "nl": "Gelukkig was alles goed.",
+      "en": "Luckily everything was fine.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Irregular simple past: ging, kwam, zag...",
+      "explanation": "Many common verbs have their own simple past forms. You use one form for **ik, jij, hij, zij, het** and one form for **wij, jullie, zij**. Learn the two forms together: **ging/gingen**, **kwam/kwamen**.",
+      "table": {
+        "headers": [
+          "Infinitief",
+          "ik / jij / hij / zij / het",
+          "wij / jullie / zij"
+        ],
+        "rows": [
+          [
+            "gaan",
+            "ging",
+            "gingen"
+          ],
+          [
+            "komen",
+            "kwam",
+            "kwamen"
+          ],
+          [
+            "zien",
+            "zag",
+            "zagen"
+          ],
+          [
+            "eten",
+            "at",
+            "aten"
+          ],
+          [
+            "drinken",
+            "dronk",
+            "dronken"
+          ],
+          [
+            "nemen",
+            "nam",
+            "namen"
+          ],
+          [
+            "geven",
+            "gaf",
+            "gaven"
+          ],
+          [
+            "kunnen",
+            "kon",
+            "konden"
+          ],
+          [
+            "willen",
+            "wilde",
+            "wilden"
+          ],
+          [
+            "moeten",
+            "moest",
+            "moesten"
+          ],
+          [
+            "mogen",
+            "mocht",
+            "mochten"
+          ],
+          [
+            "doen",
+            "deed",
+            "deden"
+          ],
+          [
+            "weten",
+            "wist",
+            "wisten"
+          ],
+          [
+            "vinden",
+            "vond",
+            "vonden"
+          ],
+          [
+            "staan",
+            "stond",
+            "stonden"
+          ],
+          [
+            "zitten",
+            "zat",
+            "zaten"
+          ],
+          [
+            "liggen",
+            "lag",
+            "lagen"
+          ],
+          [
+            "roepen",
+            "riep",
+            "riepen"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Toen ging ik naar huis.",
+          "en": "Then I went home."
+        },
+        {
+          "nl": "Opeens zag ik een ongeluk.",
+          "en": "Suddenly I saw an accident."
+        },
+        {
+          "nl": "Wij aten samen en wij dronken koffie.",
+          "en": "We ate together and we drank coffee."
+        }
+      ],
+      "tip": "Learn the plural together with the singular: ging -> gingen, kwam -> kwamen. The plural often has -en."
+    },
+    {
+      "title": "Perfect or simple past?",
+      "explanation": "Use the perfect for one completed event, especially at the start of a story: **Ik heb een ongeluk gezien.** Use the simple past for background and for what happened next: **Ik stond voor het stoplicht. Opeens zag ik een kind.** In a longer story you often start with the perfect and then switch to the simple past.",
+      "table": {
+        "headers": [
+          "Function",
+          "Form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Start / one event",
+            "perfect",
+            "Ik heb een ongeluk gezien."
+          ],
+          [
+            "Background",
+            "simple past",
+            "Ik stond voor het stoplicht."
+          ],
+          [
+            "Next event",
+            "simple past",
+            "Toen ging ik naar huis."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb een ongeluk gezien. Ik stond voor het stoplicht.",
+          "en": "I saw an accident. I was standing in front of the traffic light."
+        },
+        {
+          "nl": "Opeens zag ik een kind op straat.",
+          "en": "Suddenly I saw a child on the street."
+        },
+        {
+          "nl": "Toen ging ik naar mijn werk.",
+          "en": "Then I went to work."
+        }
+      ],
+      "tip": "Both are correct in speech. If you are not sure, start with the perfect, then continue with the simple past."
+    },
+    {
+      "title": "Toen + verb second",
+      "explanation": "**Toen** means 'then, at that moment'. When it starts the sentence, the verb comes second and the subject comes after the verb: **Toen ging ik naar huis.** Do not say 'Toen ik ging naar huis' when you mean 'then I went home'.",
+      "table": {
+        "headers": [
+          "Normal order",
+          "With toen"
+        ],
+        "rows": [
+          [
+            "Ik ging naar huis.",
+            "Toen ging ik naar huis."
+          ],
+          [
+            "De politie kwam.",
+            "Toen kwam de politie."
+          ],
+          [
+            "Wij zagen het ongeluk.",
+            "Toen zagen wij het ongeluk."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Toen kwam de politie.",
+          "en": "Then the police came."
+        },
+        {
+          "nl": "Toen ging ik naar mijn werk.",
+          "en": "Then I went to work."
+        },
+        {
+          "nl": "Toen wist ik het niet.",
+          "en": "Then I didn't know."
+        }
+      ],
+      "tip": "Think: toen + verb + subject. Toen ging ik, not toen ik ging."
+    }
+  ],
+  "dialogue": {
+    "title": "Wat is er gebeurd?",
+    "setting": "It is Monday morning at the office. Sanne is late and tells her colleague Mehmet what happened on her way to work.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mehmet",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Mehmet",
+        "nl": "Goedemorgen, Sanne. Je bent laat. Wat is er gebeurd?",
+        "en": "Good morning, Sanne. You're late. What happened?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik ben laat. Ik zag een ongeluk.",
+        "en": "Yes, I'm late. I saw an accident."
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Een ongeluk? Wat zag je?",
+        "en": "An accident? What did you see?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik stond voor het stoplicht. Opeens zag ik een kind op de fiets. Het kind lag op straat.",
+        "en": "I was standing in front of the traffic light. Suddenly I saw a child on a bike. The child was lying on the street."
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Wat deed je toen?",
+        "en": "What did you do then?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik belde de politie. Gelukkig kwam de politie.",
+        "en": "I called the police. Luckily the police came."
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "En het kind?",
+        "en": "And the child?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Het kind ging naar huis.",
+        "en": "The child went home."
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Gelukkig. En jij?",
+        "en": "Luckily. And you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik heb de politie mijn verhaal verteld. Toen ging ik naar mijn werk.",
+        "en": "I told the police my story. Then I went to work."
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Ik heb ook ooit een ongeluk gezien. Ik was bang.",
+        "en": "I have also seen an accident once. I was scared."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Echt? Wat deed je toen?",
+        "en": "Really? What did you do then?"
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Ik wachtte en ik belde de politie.",
+        "en": "I waited and I called the police."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed gedaan.",
+        "en": "Well done."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het ongeluk",
+          "the accident"
+        ],
+        [
+          "de politie",
+          "the police"
+        ],
+        [
+          "het verhaal",
+          "the story"
+        ],
+        [
+          "toen",
+          "then"
+        ],
+        [
+          "opeens",
+          "suddenly"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "zag",
+          "saw"
+        ],
+        [
+          "kwam",
+          "came"
+        ],
+        [
+          "kon",
+          "could"
+        ],
+        [
+          "deed",
+          "did"
+        ],
+        [
+          "wist",
+          "knew"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct simple past: 'gaan'.",
+      "nl": "Toen ___ ik naar huis.",
+      "options": [
+        "ging",
+        "ga",
+        "gegaan",
+        "gingen"
+      ],
+      "answer": 0,
+      "explain": "The simple past of gaan is ging for ik; gingen is for wij/jullie/zij."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence uses the simple past of 'staan' correctly?",
+      "nl": null,
+      "options": [
+        "Ik stond voor het stoplicht.",
+        "Ik sta voor het stoplicht.",
+        "Ik heb voor het stoplicht gestaan.",
+        "Ik stond voor het stoplicht ben."
+      ],
+      "answer": 0,
+      "explain": "Stond is the simple past of staan; the other options are present, perfect or not Dutch."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence has the correct word order after 'toen'?",
+      "nl": null,
+      "options": [
+        "Toen ging ik naar huis.",
+        "Toen ik ging naar huis.",
+        "Toen ging naar huis ik.",
+        "Toen ga ik naar huis."
+      ],
+      "answer": 0,
+      "explain": "After toen, the verb comes second: Toen ging ik..."
+    },
+    {
+      "type": "article",
+      "word": "ongeluk",
+      "en": "accident",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "politie",
+      "en": "police",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "Then I went to work.",
+      "answer": "Toen ging ik naar mijn werk.",
+      "accept": [
+        "Ik ging toen naar mijn werk."
+      ],
+      "extra": [
+        "ga",
+        "gegaan"
+      ],
+      "explain": "After **toen** the verb comes second: 'Toen ging ik naar mijn werk.' Use **ging** for the simple past."
+    },
+    {
+      "type": "build",
+      "en": "I saw an accident.",
+      "answer": "Ik zag een ongeluk.",
+      "accept": [],
+      "extra": [
+        "zie",
+        "gezien"
+      ],
+      "explain": "Use **zag**, the simple past of zien, for a finished event: 'Ik zag een ongeluk.'"
+    },
+    {
+      "type": "build",
+      "en": "I had to go home.",
+      "answer": "Ik moest naar huis.",
+      "accept": [],
+      "extra": [
+        "moet",
+        "ga"
+      ],
+      "explain": "Use **moest** for 'had to' in the past: 'Ik moest naar huis.'"
+    },
+    {
+      "type": "gap",
+      "text": "Gisteren ___ ik mijn vriend in de stad.",
+      "en": "Yesterday I saw my friend in the city.",
+      "answers": [
+        "zag"
+      ],
+      "hint": "zien (simple past)",
+      "explain": "Use **zag**, the simple past of zien: 'Gisteren zag ik mijn vriend in de stad.'"
+    },
+    {
+      "type": "gap",
+      "text": "De politie ___ om drie uur.",
+      "en": "The police came at three o'clock.",
+      "answers": [
+        "kwam"
+      ],
+      "hint": "komen (simple past)",
+      "explain": "De politie is singular, so use **kwam**: 'De politie kwam om drie uur.'"
+    },
+    {
+      "type": "gap",
+      "text": "Hij ___ naar huis.",
+      "en": "He went home.",
+      "answers": [
+        "ging"
+      ],
+      "hint": "gaan (simple past)",
+      "explain": "Use **ging**, the simple past of gaan: 'Hij ging naar huis.'"
+    },
+    {
+      "type": "translate",
+      "en": "Then I went home.",
+      "answers": [
+        "Toen ging ik naar huis.",
+        "Toen ging ik naar huis",
+        "Ik ging toen naar huis.",
+        "Ik ging toen naar huis",
+        "Daarna ging ik naar huis.",
+        "Daarna ging ik naar huis"
+      ],
+      "focus": "toen + verb second; ging",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Starts with toen and then puts the subject before the verb (Toen ik ging naar huis).",
+          "explain": "After **toen** the verb comes second: 'Toen ging ik naar huis.' Do not say 'Toen ik ging...'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the present tense after toen (Toen ga ik naar huis).",
+          "explain": "Use the simple past for a completed past event: 'Toen ging ik naar huis.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a past participle after ging (Toen ging ik naar huis gegaan).",
+          "explain": "With **ging** you do not add a participle: 'Toen ging ik naar huis.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts the verb at the end after toen (Toen ik naar huis ging).",
+          "explain": "If **toen** means 'then' at the start, the verb comes second: 'Toen ging ik naar huis.' Use 'Toen ik naar huis ging' only when toen means 'when' inside a longer sentence."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I saw an accident.",
+      "answers": [
+        "Ik zag een ongeluk.",
+        "Ik zag een ongeluk",
+        "Ik heb een ongeluk gezien.",
+        "Ik heb een ongeluk gezien"
+      ],
+      "focus": "simple past vs perfect for one event",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the present instead of the past (Ik zie een ongeluk).",
+          "explain": "The sentence is about the past: 'Ik zag een ongeluk.' or 'Ik heb een ongeluk gezien.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses zijn instead of hebben with the perfect (Ik ben een ongeluk gezien).",
+          "explain": "The perfect of zien uses **hebben**: 'Ik heb een ongeluk gezien.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts gezien before the object (Ik heb gezien een ongeluk).",
+          "explain": "In the perfect, the participle goes at the end: 'Ik heb een ongeluk gezien.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses a wrong participle (Ik heb een ongeluk gezag).",
+          "explain": "The participle of zien is **gezien**, not 'gezag': 'Ik heb een ongeluk gezien.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I had to work yesterday.",
+      "answers": [
+        "Ik moest gisteren werken.",
+        "Ik moest gisteren werken",
+        "Gisteren moest ik werken.",
+        "Gisteren moest ik werken"
+      ],
+      "focus": "moest + infinitive; time first",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the present instead of the past (Ik moet gisteren werken).",
+          "explain": "For 'had to' use **moest**: 'Ik moest gisteren werken.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the subject before the verb after gisteren (Gisteren ik moest werken).",
+          "explain": "If the sentence starts with **gisteren**, the verb comes second: 'Gisteren moest ik werken.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a past participle after moest (Ik moest gisteren gewerkt).",
+          "explain": "After **moest** use the infinitive: 'Ik moest gisteren werken.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Toen zag ik het ongeluk.",
+      "en": "Then I saw the accident."
+    },
+    {
+      "type": "listen",
+      "nl": "Opeens kwam de politie.",
+      "en": "Suddenly the police came."
+    },
+    {
+      "type": "reply",
+      "context": "A colleague tells you they saw an accident this morning.",
+      "say": {
+        "nl": "Ik heb een ongeluk gezien.",
+        "en": "I saw an accident."
+      },
+      "task": "Ask what happened.",
+      "examples": [
+        "Wat is er gebeurd?",
+        "Wat deed de politie?",
+        "Ging het goed?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Omits er in the fixed question (Wat is gebeurd?).",
+          "explain": "The fixed question is 'Wat is er gebeurd?' with **er**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Spells the participle without -d (Wat is er gebeurt?).",
+          "explain": "The participle of gebeuren is **gebeurd** with -d: 'Wat is er gebeurd?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses heeft instead of is (Wat heeft er gebeurd?).",
+          "explain": "This fixed phrase uses **is**: 'Wat is er gebeurd?'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You are telling a friend about your day. You saw a small accident on your way to work.",
+      "say": {
+        "nl": "Wat heb je gedaan?",
+        "en": "What did you do?"
+      },
+      "task": "Say that you called the police.",
+      "examples": [
+        "Ik heb de politie gebeld.",
+        "Ik belde de politie.",
+        "Toen belde ik de politie."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses a wrong participle for bellen (Ik heb de politie gebelt).",
+          "explain": "The participle of bellen is **gebeld**: 'Ik heb de politie gebeld.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the participle before the object (Ik heb gebeld de politie).",
+          "explain": "In the perfect, the participle goes at the end: 'Ik heb de politie gebeld.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the infinitive instead of the participle (Ik heb de politie bellen).",
+          "explain": "Use **gebeld** after hebben: 'Ik heb de politie gebeld.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses zijn instead of hebben (Ik ben de politie gebeld).",
+          "explain": "The perfect of bellen uses **hebben**: 'Ik heb de politie gebeld.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op mijn weg naar het werk",
+    "setting": "You are at work and your colleague Mehmet asks why you are late. You tell him about a small bike accident you saw on your way to work.",
+    "partner": {
+      "name": "Mehmet",
+      "gender": "m",
+      "role": "your colleague"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen. Je bent laat. Wat is er gebeurd?",
+          "en": "Good morning. You're late. What happened?"
+        },
+        "task": "Say good morning and say that you saw an accident.",
+        "examples": [
+          "Goedemorgen. Ik heb een ongeluk gezien.",
+          "Goedemorgen. Ik zag een ongeluk.",
+          "Ja, ik heb een ongeluk gezien."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses a wrong participle for zien (Ik heb een ongeluk gezag).",
+            "explain": "The participle of zien is **gezien**: 'Ik heb een ongeluk gezien.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves out the participle in the perfect (Ik heb een ongeluk).",
+            "explain": "In the perfect, add **gezien** at the end: 'Ik heb een ongeluk gezien.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the present for a past event (Ik zie een ongeluk).",
+            "explain": "The accident is in the past: 'Ik zag een ongeluk.' or 'Ik heb een ongeluk gezien.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Puts the participle before the object (Ik heb gezien een ongeluk).",
+            "explain": "The participle goes at the end: 'Ik heb een ongeluk gezien.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat zag je?",
+          "en": "What did you see?"
+        },
+        "task": "Say you saw a child on a bike and that the child was lying on the street.",
+        "examples": [
+          "Ik zag een kind op de fiets. Het kind lag op straat.",
+          "Opeens zag ik een kind op de fiets. Het lag op straat.",
+          "Ik zag een kind op de fiets en het kind lag op straat."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses a plural verb with singular het kind (Het kind lagen op straat).",
+            "explain": "Het kind is singular: 'Het kind lag op straat.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits de before fiets (Ik zag een kind op fiets).",
+            "explain": "Use **op de fiets** for 'on the bike': 'Ik zag een kind op de fiets.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses an impossible compound tense for a state (Het kind was liggen op straat).",
+            "explain": "Use the simple past: 'Het kind lag op straat.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses the present for background in the past (Het kind ligt op straat).",
+            "explain": "The story is in the past: 'Het kind lag op straat.'"
+          },
+          {
+            "id": "m5",
+            "pattern": "Omits the bike (Ik zag een kind. Het lag op straat).",
+            "explain": "Mention the bike too: 'Ik zag een kind op de fiets. Het kind lag op straat.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat deed je toen?",
+          "en": "What did you do then?"
+        },
+        "task": "Say you called the police and that the police came later.",
+        "examples": [
+          "Ik belde de politie. De politie kwam later.",
+          "Toen belde ik de politie. De politie kwam later.",
+          "Ik heb de politie gebeld. De politie kwam later."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the present for a past event (De politie kom later).",
+            "explain": "Use **kwam** for the simple past: 'De politie kwam later.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses a wrong participle for bellen (Ik heb de politie gebelt).",
+            "explain": "The participle of bellen is **gebeld**: 'Ik heb de politie gebeld.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the participle before the object (Ik heb gebeld de politie).",
+            "explain": "The participle goes at the end: 'Ik heb de politie gebeld.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses zijn instead of hebben with bellen (Ik ben de politie gebeld).",
+            "explain": "The perfect of bellen uses **hebben**: 'Ik heb de politie gebeld.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En het kind?",
+          "en": "And the child?"
+        },
+        "task": "Say that the child went home and that you went to work.",
+        "examples": [
+          "Het kind ging naar huis. Toen ging ik naar mijn werk.",
+          "Het kind ging naar huis en ik ging naar mijn werk.",
+          "Het kind ging naar huis. Daarna ging ik naar mijn werk."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "After toen puts the subject before the verb (Toen ik ging naar mijn werk).",
+            "explain": "After **toen** the verb comes second: 'Toen ging ik naar mijn werk.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses a plural verb with singular het kind (Het kind gingen naar huis).",
+            "explain": "Het kind is singular: 'Het kind ging naar huis.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the present after daarna (Daarna ga ik naar mijn werk).",
+            "explain": "Use the simple past: 'Daarna ging ik naar mijn werk.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Gelukkig. Ik heb ook ooit een ongeluk gezien.",
+          "en": "Luckily. I have also seen an accident once."
+        },
+        "task": "Say that you didn't know that.",
+        "examples": [
+          "Dat wist ik niet.",
+          "Echt? Dat wist ik niet.",
+          "Ik wist dat niet."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the present instead of the past (Dat weet ik niet).",
+            "explain": "The context is past: 'Dat wist ik niet.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses geen instead of niet (Dat wist ik geen).",
+            "explain": "Use **niet** to negate the verb: 'Dat wist ik niet.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses a wrong participle for weten (Dat heb ik niet gewist).",
+            "explain": "The participle of weten is **geweten**: 'Dat heb ik niet geweten.' But in this story, 'Dat wist ik niet.' is more natural."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Gelukkig is alles goed. Kom, we gaan werken.",
+      "en": "Luckily everything is fine. Come on, let's get to work."
+    }
+  },
+  "culture": {
+    "title": "Perfect and simple past in Dutch news and stories",
+    "text": "In Dutch news and stories you often see a switch from the perfect to the simple past. The perfect introduces the news or the main event: **Ik heb een ongeluk gezien.** The simple past gives the background and the next steps: **Ik stond voor het stoplicht. Opeens zag ik een kind.** You will hear both forms in speech and see both in written stories."
+  },
+  "summary": [
+    "Learn irregular simple pasts in pairs: ging/gingen, kwam/kwamen, zag/zagen.",
+    "Use the perfect for one completed event and to start a story: Ik heb een ongeluk gezien.",
+    "Use the simple past for background and what happened next: Ik stond voor het stoplicht. Opeens zag ik een kind.",
+    "After toen, the verb comes second: Toen ging ik naar huis."
+  ]
+}

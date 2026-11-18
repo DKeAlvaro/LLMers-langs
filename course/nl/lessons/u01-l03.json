@@ -1,0 +1,1198 @@
+{
+  "id": "u01-l03",
+  "title": "Een, twee, drie",
+  "subtitle": "Numbers 0-20 and your age",
+  "level": "A0",
+  "intro": "In this lesson you learn to count from 0 to 20 and to say how old you are. You also learn to ask for and give a phone number.",
+  "words": [
+    {
+      "nl": "nul",
+      "en": "zero",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Nul, een, twee.",
+        "en": "Zero, one, two."
+      },
+      "note": null
+    },
+    {
+      "nl": "een",
+      "en": "one",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Een, twee, drie.",
+        "en": "One, two, three."
+      },
+      "note": "Also the indefinite article 'a/an'."
+    },
+    {
+      "nl": "twee",
+      "en": "two",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Twee, drie, vier.",
+        "en": "Two, three, four."
+      },
+      "note": null
+    },
+    {
+      "nl": "drie",
+      "en": "three",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Drie, vier, vijf.",
+        "en": "Three, four, five."
+      },
+      "note": null
+    },
+    {
+      "nl": "vier",
+      "en": "four",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Vier, vijf, zes.",
+        "en": "Four, five, six."
+      },
+      "note": null
+    },
+    {
+      "nl": "vijf",
+      "en": "five",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Vijf, zes, zeven.",
+        "en": "Five, six, seven."
+      },
+      "note": null
+    },
+    {
+      "nl": "zes",
+      "en": "six",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zes, zeven, acht.",
+        "en": "Six, seven, eight."
+      },
+      "note": null
+    },
+    {
+      "nl": "zeven",
+      "en": "seven",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zeven, acht, negen.",
+        "en": "Seven, eight, nine."
+      },
+      "note": null
+    },
+    {
+      "nl": "acht",
+      "en": "eight",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Acht, negen, tien.",
+        "en": "Eight, nine, ten."
+      },
+      "note": null
+    },
+    {
+      "nl": "negen",
+      "en": "nine",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Negen, tien, elf.",
+        "en": "Nine, ten, eleven."
+      },
+      "note": null
+    },
+    {
+      "nl": "tien",
+      "en": "ten",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Tien, elf, twaalf.",
+        "en": "Ten, eleven, twelve."
+      },
+      "note": null
+    },
+    {
+      "nl": "elf",
+      "en": "eleven",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Elf, twaalf, dertien.",
+        "en": "Eleven, twelve, thirteen."
+      },
+      "note": null
+    },
+    {
+      "nl": "twaalf",
+      "en": "twelve",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Twaalf, dertien, veertien.",
+        "en": "Twelve, thirteen, fourteen."
+      },
+      "note": null
+    },
+    {
+      "nl": "dertien",
+      "en": "thirteen",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dertien, veertien, vijftien.",
+        "en": "Thirteen, fourteen, fifteen."
+      },
+      "note": null
+    },
+    {
+      "nl": "veertien",
+      "en": "fourteen",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Veertien, vijftien, zestien.",
+        "en": "Fourteen, fifteen, sixteen."
+      },
+      "note": null
+    },
+    {
+      "nl": "vijftien",
+      "en": "fifteen",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Vijftien, zestien, zeventien.",
+        "en": "Fifteen, sixteen, seventeen."
+      },
+      "note": null
+    },
+    {
+      "nl": "zestien",
+      "en": "sixteen",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zestien, zeventien, achttien.",
+        "en": "Sixteen, seventeen, eighteen."
+      },
+      "note": null
+    },
+    {
+      "nl": "zeventien",
+      "en": "seventeen",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zeventien, achttien, negentien.",
+        "en": "Seventeen, eighteen, nineteen."
+      },
+      "note": null
+    },
+    {
+      "nl": "achttien",
+      "en": "eighteen",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Achttien, negentien, twintig.",
+        "en": "Eighteen, nineteen, twenty."
+      },
+      "note": null
+    },
+    {
+      "nl": "negentien",
+      "en": "nineteen",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Negentien, twintig.",
+        "en": "Nineteen, twenty."
+      },
+      "note": null
+    },
+    {
+      "nl": "twintig",
+      "en": "twenty",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben twintig jaar.",
+        "en": "I am twenty years old."
+      },
+      "note": null
+    },
+    {
+      "nl": "oud",
+      "en": "old",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoe oud ben je?",
+        "en": "How old are you?"
+      },
+      "note": null
+    },
+    {
+      "nl": "jong",
+      "en": "young",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben jong.",
+        "en": "I am young."
+      },
+      "note": null
+    },
+    {
+      "nl": "jaar",
+      "en": "year",
+      "pos": "noun",
+      "article": "het",
+      "plural": "jaren",
+      "forms": null,
+      "example": {
+        "nl": "Ik ben twintig jaar.",
+        "en": "I am twenty years old."
+      },
+      "note": "Used for age: **Ik ben twintig jaar**."
+    },
+    {
+      "nl": "telefoonnummer",
+      "en": "phone number",
+      "pos": "noun",
+      "article": "het",
+      "plural": "telefoonnummers",
+      "forms": null,
+      "example": {
+        "nl": "Het telefoonnummer is nul-zes.",
+        "en": "The phone number is zero-six."
+      },
+      "note": null
+    },
+    {
+      "nl": "nummer",
+      "en": "number",
+      "pos": "noun",
+      "article": "het",
+      "plural": "nummers",
+      "forms": null,
+      "example": {
+        "nl": "Het nummer is nul-zes.",
+        "en": "The number is zero-six."
+      },
+      "note": null
+    },
+    {
+      "nl": "hebben",
+      "en": "to have",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik heb, jij hebt, u hebt/heeft, hij heeft, wij hebben, jullie hebben, zij hebben",
+      "example": {
+        "nl": "Ik heb een telefoonnummer.",
+        "en": "I have a phone number."
+      },
+      "note": "In the present tense."
+    },
+    {
+      "nl": "hoeveel",
+      "en": "how many / how much",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoeveel jaar ben je?",
+        "en": "How old are you?"
+      },
+      "note": "For age, use **Hoe oud ben je?**."
+    },
+    {
+      "nl": "wat",
+      "en": "what",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wat is je nummer?",
+        "en": "What is your number?"
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hoe oud ben je?",
+      "en": "How old are you?",
+      "note": null
+    },
+    {
+      "nl": "Hoe oud bent u?",
+      "en": "How old are you? (formal)",
+      "note": "Use **u** in formal situations."
+    },
+    {
+      "nl": "Ik ben ... jaar (oud).",
+      "en": "I am ... years old.",
+      "note": "**oud** is optional."
+    },
+    {
+      "nl": "Hoeveel jaar ben je?",
+      "en": "How old are you?",
+      "note": "You may hear this, but **Hoe oud ben je?** is more common."
+    },
+    {
+      "nl": "Wat is het telefoonnummer?",
+      "en": "What is the phone number?",
+      "note": "In a sign-up form, this means 'What is your phone number?'."
+    },
+    {
+      "nl": "Het telefoonnummer is ...",
+      "en": "The phone number is ...",
+      "note": "Use this when you give the number."
+    },
+    {
+      "nl": "Het nummer is ...",
+      "en": "The number is ...",
+      "note": null
+    },
+    {
+      "nl": "Ik heb een nummer.",
+      "en": "I have a number.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Numbers 0-20",
+      "explanation": "Learn the numbers as fixed words. From 13 to 19, the ending is **-tien**. The number 20 is **twintig**.",
+      "table": {
+        "headers": [
+          "Number",
+          "Dutch"
+        ],
+        "rows": [
+          [
+            "0",
+            "nul"
+          ],
+          [
+            "1",
+            "een"
+          ],
+          [
+            "2",
+            "twee"
+          ],
+          [
+            "3",
+            "drie"
+          ],
+          [
+            "4",
+            "vier"
+          ],
+          [
+            "5",
+            "vijf"
+          ],
+          [
+            "6",
+            "zes"
+          ],
+          [
+            "7",
+            "zeven"
+          ],
+          [
+            "8",
+            "acht"
+          ],
+          [
+            "9",
+            "negen"
+          ],
+          [
+            "10",
+            "tien"
+          ],
+          [
+            "11",
+            "elf"
+          ],
+          [
+            "12",
+            "twaalf"
+          ],
+          [
+            "13",
+            "dertien"
+          ],
+          [
+            "14",
+            "veertien"
+          ],
+          [
+            "15",
+            "vijftien"
+          ],
+          [
+            "16",
+            "zestien"
+          ],
+          [
+            "17",
+            "zeventien"
+          ],
+          [
+            "18",
+            "achttien"
+          ],
+          [
+            "19",
+            "negentien"
+          ],
+          [
+            "20",
+            "twintig"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb twee nummers.",
+          "en": "I have two numbers."
+        },
+        {
+          "nl": "Ik ben twintig jaar.",
+          "en": "I am twenty years old."
+        },
+        {
+          "nl": "Zeven, acht, negen.",
+          "en": "Seven, eight, nine."
+        }
+      ],
+      "tip": "From 13 to 19, listen for **-tien**; 20 is **twintig**."
+    },
+    {
+      "title": "The verb hebben",
+      "explanation": "**Hebben** means 'to have'. The forms are irregular in the present: **ik heb**, **jij hebt**, **hij heeft**. **U** can take **hebt** or **heeft**; **heeft** is common in formal Dutch.",
+      "table": {
+        "headers": [
+          "Person",
+          "Form"
+        ],
+        "rows": [
+          [
+            "ik",
+            "heb"
+          ],
+          [
+            "jij/je",
+            "hebt"
+          ],
+          [
+            "u",
+            "hebt / heeft"
+          ],
+          [
+            "hij/zij/het",
+            "heeft"
+          ],
+          [
+            "wij/we",
+            "hebben"
+          ],
+          [
+            "jullie",
+            "hebben"
+          ],
+          [
+            "zij/ze",
+            "hebben"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb een telefoonnummer.",
+          "en": "I have a phone number."
+        },
+        {
+          "nl": "Jij hebt een nummer.",
+          "en": "You have a number."
+        },
+        {
+          "nl": "Hij heeft een nummer.",
+          "en": "He has a number."
+        }
+      ],
+      "tip": "Use **hebben** for things you have, not for your age."
+    },
+    {
+      "title": "Asking and giving your age",
+      "explanation": "Ask **Hoe oud ben je?** The verb **ben** comes before **je**. Answer with **Ik ben ... jaar (oud)**. For formal speech, use **Hoe oud bent u?**",
+      "table": {
+        "headers": [
+          "Question",
+          "Answer"
+        ],
+        "rows": [
+          [
+            "Hoe oud ben je?",
+            "Ik ben twintig jaar."
+          ],
+          [
+            "Hoe oud bent u?",
+            "Ik ben twintig jaar."
+          ],
+          [
+            "Hoe oud is hij?",
+            "Hij is twintig jaar."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Hoe oud ben je?",
+          "en": "How old are you?"
+        },
+        {
+          "nl": "Ik ben negentien jaar.",
+          "en": "I am nineteen years old."
+        },
+        {
+          "nl": "Hoe oud is hij?",
+          "en": "How old is he?"
+        }
+      ],
+      "tip": "Do not say **Ik heb twintig jaar**; use **Ik ben twintig jaar**."
+    }
+  ],
+  "dialogue": {
+    "title": "Hoe oud ben je?",
+    "setting": "At a sports club, Sam is filling in a sign-up card at the reception desk.",
+    "speakers": [
+      {
+        "name": "Marloes",
+        "gender": "f"
+      },
+      {
+        "name": "Sam",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Marloes",
+        "nl": "Hallo, hoe heet je?",
+        "en": "Hello, what is your name?"
+      },
+      {
+        "speaker": "Sam",
+        "nl": "Hoi, ik heet Sam.",
+        "en": "Hi, my name is Sam."
+      },
+      {
+        "speaker": "Marloes",
+        "nl": "En hoe oud ben je?",
+        "en": "And how old are you?"
+      },
+      {
+        "speaker": "Sam",
+        "nl": "Ik ben negentien jaar.",
+        "en": "I am nineteen years old."
+      },
+      {
+        "speaker": "Marloes",
+        "nl": "Negentien. En wat is het telefoonnummer?",
+        "en": "Nineteen. And what is the phone number?"
+      },
+      {
+        "speaker": "Sam",
+        "nl": "Het is nul-zes, een-twee, drie-vier, vijf-zes, zeven-acht.",
+        "en": "It is zero-six, one-two, three-four, five-six, seven-eight."
+      },
+      {
+        "speaker": "Marloes",
+        "nl": "Nul-zes, een-twee, drie-vier, vijf-zes, zeven-acht. Dank je.",
+        "en": "Zero-six, one-two, three-four, five-six, seven-eight. Thank you."
+      },
+      {
+        "speaker": "Sam",
+        "nl": "Is het goed?",
+        "en": "Is that okay?"
+      },
+      {
+        "speaker": "Marloes",
+        "nl": "Ja, het is goed. Tot ziens!",
+        "en": "Yes, that is fine. Goodbye!"
+      },
+      {
+        "speaker": "Sam",
+        "nl": "Tot ziens!",
+        "en": "Goodbye!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "nul",
+          "zero"
+        ],
+        [
+          "tien",
+          "ten"
+        ],
+        [
+          "twintig",
+          "twenty"
+        ],
+        [
+          "oud",
+          "old"
+        ],
+        [
+          "jong",
+          "young"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het jaar",
+          "the year"
+        ],
+        [
+          "het telefoonnummer",
+          "the phone number"
+        ],
+        [
+          "hebben",
+          "to have"
+        ],
+        [
+          "hoeveel",
+          "how many / how much"
+        ],
+        [
+          "wat",
+          "what"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'fourteen'?",
+      "nl": null,
+      "options": [
+        "veertien",
+        "vier",
+        "tien"
+      ],
+      "answer": 0,
+      "explain": "**Veertien** is 14; **vier** is 4 and **tien** is 10."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik heb twintig jaar.",
+        "Ik ben twintig jaar.",
+        "Ik is twintig jaar."
+      ],
+      "answer": 1,
+      "explain": "Age uses **ben**: **Ik ben twintig jaar**."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which question asks someone's age?",
+      "nl": null,
+      "options": [
+        "Hoeveel is het nummer?",
+        "Hoe oud ben je?",
+        "Wat is het jaar?"
+      ],
+      "answer": 1,
+      "explain": "**Hoe oud ben je?** asks age."
+    },
+    {
+      "type": "article",
+      "word": "jaar",
+      "en": "year",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "telefoonnummer",
+      "en": "phone number",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I am eighteen years old.",
+      "answer": "Ik ben achttien jaar oud.",
+      "accept": [
+        "Ik ben achttien jaar.",
+        "Ik ben achttien.",
+        "Achttien jaar oud ben ik."
+      ],
+      "extra": [
+        "heb",
+        "is"
+      ],
+      "explain": "Age uses **ben**, not **heb**: **Ik ben achttien jaar (oud)**."
+    },
+    {
+      "type": "build",
+      "en": "How old are you?",
+      "answer": "Hoe oud ben je?",
+      "accept": [
+        "Hoe oud ben jij?",
+        "Hoe oud bent u?"
+      ],
+      "extra": [
+        "is",
+        "heb",
+        "jij",
+        "bent",
+        "u"
+      ],
+      "explain": "Use **ben** with **je/jij** and **bent** with **u**: **Hoe oud ben je?** / **Hoe oud bent u?**"
+    },
+    {
+      "type": "build",
+      "en": "The phone number is zero-six.",
+      "answer": "Het telefoonnummer is nul-zes.",
+      "accept": [
+        "Het nummer is nul-zes.",
+        "Nul-zes is het telefoonnummer.",
+        "Nul-zes is het nummer."
+      ],
+      "extra": [
+        "heb",
+        "jaar",
+        "nummer"
+      ],
+      "explain": "Use **het** with **telefoonnummer** and **is** for the number: **Het telefoonnummer is nul-zes**."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ een telefoonnummer.",
+      "en": "I have a phone number.",
+      "answers": [
+        "heb"
+      ],
+      "hint": "hebben: ik ...",
+      "explain": "Use **heb** with **ik**: **Ik heb een telefoonnummer**."
+    },
+    {
+      "type": "gap",
+      "text": "Hoe ___ ben je?",
+      "en": "How old are you?",
+      "answers": [
+        "oud"
+      ],
+      "hint": "old",
+      "explain": "The phrase is **Hoe oud ben je?**"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ben twintig ___.",
+      "en": "I am twenty years old.",
+      "answers": [
+        "jaar"
+      ],
+      "hint": "year",
+      "explain": "For age use **jaar**: **Ik ben twintig jaar**."
+    },
+    {
+      "type": "translate",
+      "en": "I am eighteen years old.",
+      "answers": [
+        "Ik ben achttien jaar oud.",
+        "Ik ben achttien jaar.",
+        "Ik ben achttien."
+      ],
+      "focus": "Age with **ben** and **jaar**.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **heb** instead of **ben**: *Ik heb achttien jaar.*",
+          "explain": "Age uses **ben**, not **heb**: **Ik ben achttien jaar**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **is** with **ik**: *Ik is achttien jaar.*",
+          "explain": "With **ik** use **ben**: **Ik ben achttien jaar**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Places **jaar** before the number: *Ik ben jaar achttien.*",
+          "explain": "The number comes before **jaar**: **Ik ben achttien jaar**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses plural **jaren** after a number: *Ik ben achttien jaren.*",
+          "explain": "Use **jaar** after a number: **achttien jaar**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "How old are you?",
+      "answers": [
+        "Hoe oud ben je?",
+        "Hoe oud ben jij?",
+        "Hoe oud bent u?"
+      ],
+      "focus": "Question word order with **hoe oud**.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the subject before the verb: *Hoe oud je bent?*",
+          "explain": "In a question the verb comes before the subject: **Hoe oud ben je?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **heb** instead of **ben**: *Hoe oud heb je?*",
+          "explain": "Age uses **ben**: **Hoe oud ben je?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **hoeveel** for age: *Hoeveel oud ben je?*",
+          "explain": "The fixed question is **Hoe oud ben je?**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **ben** with formal **u**: *Hoe oud ben u?*",
+          "explain": "With **u** use **bent**: **Hoe oud bent u?**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The phone number is zero-six.",
+      "answers": [
+        "Het telefoonnummer is nul-zes.",
+        "Het nummer is nul-zes.",
+        "Nul-zes is het telefoonnummer.",
+        "Nul-zes is het nummer."
+      ],
+      "focus": "**Het telefoonnummer is** fixed phrase; say **nul-zes** for 06.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **heb** instead of **is**: *Het telefoonnummer heb nul-zes.*",
+          "explain": "Use **is**: **Het telefoonnummer is nul-zes**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits **is**: *Het telefoonnummer nul-zes.*",
+          "explain": "Say **Het telefoonnummer is nul-zes**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **ben** instead of **is**: *Het telefoonnummer ben nul-zes.*",
+          "explain": "Use **is** for a thing: **Het telefoonnummer is nul-zes**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses **de** with **telefoonnummer**: *De telefoonnummer is nul-zes.*",
+          "explain": "**Telefoonnummer** is a **het** word: **het telefoonnummer**."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik ben veertien jaar.",
+      "en": "I am fourteen years old."
+    },
+    {
+      "type": "listen",
+      "nl": "Het telefoonnummer is nul-zes.",
+      "en": "The phone number is zero-six."
+    },
+    {
+      "type": "reply",
+      "context": "A new friend at the sports club asks about your age.",
+      "say": {
+        "nl": "Hoe oud ben je?",
+        "en": "How old are you?"
+      },
+      "task": "Answer with your age.",
+      "examples": [
+        "Ik ben negentien jaar.",
+        "Ik ben twintig jaar oud.",
+        "Ik ben achttien."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Answers with **heb**: *Ik heb negentien jaar.*",
+          "explain": "Age uses **ben**: **Ik ben negentien jaar**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses **is** with **ik**: *Ik is negentien jaar.*",
+          "explain": "With **ik** use **ben**: **Ik ben negentien jaar**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts **jaar** before the number: *Ik ben jaar negentien.*",
+          "explain": "The number comes before **jaar**: **Ik ben negentien jaar**."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The receptionist asks for your phone number.",
+      "say": {
+        "nl": "Wat is het telefoonnummer?",
+        "en": "What is the phone number?"
+      },
+      "task": "Give a phone number that starts with 06.",
+      "examples": [
+        "Het is nul-zes, een-twee, drie-vier, vijf-zes, zeven-acht.",
+        "Nul-zes, een-twee, drie-vier, vijf-zes, zeven-acht.",
+        "Het telefoonnummer is nul-zes, een-twee, drie-vier, vijf-zes, zeven-acht."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses **heb** instead of **is**: *Het telefoonnummer heb nul-zes, ...*",
+          "explain": "Use **is**: **Het telefoonnummer is nul-zes, ...**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits **is**: *Het telefoonnummer nul-zes, ...*",
+          "explain": "Say **Het telefoonnummer is nul-zes, ...**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses **de** with **telefoonnummer**: *De telefoonnummer is nul-zes, ...*",
+          "explain": "**Telefoonnummer** is a **het** word: **het telefoonnummer**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Starts with **zes** instead of **nul-zes**: *Het telefoonnummer is zes, ...*",
+          "explain": "Start 06 with **nul-zes**."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Hoe oud ben je?",
+    "setting": "You are at a local sports club, filling in a sign-up card. Marloes asks for your details.",
+    "partner": {
+      "name": "Marloes",
+      "gender": "f",
+      "role": "receptionist at a sports club"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hallo, hoe heet je?",
+          "en": "Hello, what is your name?"
+        },
+        "task": "Say your name.",
+        "examples": [
+          "Ik heet Sam.",
+          "Hoi, ik ben Sam."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says **Ik ben heet Sam** (uses **heet** as an adjective).",
+            "explain": "Use **heten** as the verb: **Ik heet Sam**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Says **Ik heet ben Sam**.",
+            "explain": "Choose one verb: **Ik heet Sam** or **Ik ben Sam**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Says **Ik ben Sam heet**.",
+            "explain": "The name comes directly after **heet**: **Ik heet Sam**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Hoe oud ben je?",
+          "en": "How old are you?"
+        },
+        "task": "Say your age.",
+        "examples": [
+          "Ik ben achttien jaar.",
+          "Ik ben twintig jaar oud.",
+          "Ik ben achttien."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says **Ik heb achttien jaar**.",
+            "explain": "Age uses **ben**: **Ik ben achttien jaar**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Says **Ik is achttien jaar**.",
+            "explain": "With **ik** use **ben**: **Ik ben achttien jaar**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Says **Ik ben jaar achttien**.",
+            "explain": "The number comes before **jaar**: **Ik ben achttien jaar**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is het telefoonnummer?",
+          "en": "What is the phone number?"
+        },
+        "task": "Give a phone number starting with 06.",
+        "examples": [
+          "Het is nul-zes, een-twee, drie-vier, vijf-zes, zeven-acht.",
+          "Nul-zes, een-twee, drie-vier, vijf-zes, zeven-acht.",
+          "Het telefoonnummer is nul-zes, een-twee, drie-vier, vijf-zes, zeven-acht."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says **Het telefoonnummer heb nul-zes, ...**",
+            "explain": "Use **is**: **Het telefoonnummer is nul-zes, ...**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Says **Het telefoonnummer nul-zes, ...**",
+            "explain": "Include **is**: **Het telefoonnummer is nul-zes, ...**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Says **De telefoonnummer is nul-zes, ...**",
+            "explain": "**Telefoonnummer** is a **het** word: **het telefoonnummer**."
+          },
+          {
+            "id": "m4",
+            "pattern": "Says **Het telefoonnummer is zes, ...**",
+            "explain": "Start 06 with **nul-zes**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dank je. Tot ziens!",
+          "en": "Thank you. Goodbye!"
+        },
+        "task": "Say goodbye.",
+        "examples": [
+          "Tot ziens!",
+          "Doei!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says **Tot weerziens!**",
+            "explain": "The standard phrase is **Tot ziens!**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Says **Tot zien!**",
+            "explain": "Say **Tot ziens!** with **-s**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Says **Goedemorgen!** as a goodbye.",
+            "explain": "Use **Tot ziens!** or **Doei!** to say goodbye."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot ziens!",
+      "en": "Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Mobile numbers and 06",
+    "text": "Dutch mobile numbers begin with 06. People often say the digits in pairs: 06 12 34 56 78 becomes 'nul-zes, een-twee, drie-vier, vijf-zes, zeven-acht'. They may also say the digits one by one. When you give your number, speak clearly; the other person may repeat it to check."
+  },
+  "summary": [
+    "Count from 0 to 20 in Dutch.",
+    "Use **hebben** for 'to have': **ik heb**, **jij hebt**, **hij heeft**.",
+    "Ask age with **Hoe oud ben je?** and answer **Ik ben ... jaar (oud).**",
+    "Give a phone number with **Het telefoonnummer is ...** or just say the digits.",
+    "Dutch mobile numbers start with **06** and are often read in pairs."
+  ]
+}

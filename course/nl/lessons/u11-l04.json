@@ -1,0 +1,1292 @@
+{
+  "id": "u11-l04",
+  "title": "Aan de telefoon",
+  "subtitle": "Phone calls",
+  "level": "A2+",
+  "intro": "After this lesson you can make and answer phone calls in Dutch. You will learn how to say who you are, ask for someone, ask people to repeat or speak more slowly, and spell your name. You can also move or cancel an appointment by phone.",
+  "words": [
+    {
+      "nl": "bellen",
+      "en": "to call (by phone)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bel, jij belt, wij bellen",
+      "example": {
+        "nl": "Ik bel de tandarts.",
+        "en": "I'm calling the dentist."
+      },
+      "note": null
+    },
+    {
+      "nl": "opbellen",
+      "en": "to call (someone) up",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bel op, jij belt op, wij bellen op",
+      "example": {
+        "nl": "Ik bel je morgen op.",
+        "en": "I'll call you tomorrow."
+      },
+      "note": "Separable: op + bellen."
+    },
+    {
+      "nl": "terugbellen",
+      "en": "to call back",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bel terug, jij belt terug, wij bellen terug",
+      "example": {
+        "nl": "Ik bel u na de lunch terug.",
+        "en": "I'll call you back after lunch."
+      },
+      "note": "Separable: terug + bellen."
+    },
+    {
+      "nl": "telefoon",
+      "en": "telephone",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de telefoons",
+      "forms": null,
+      "example": {
+        "nl": "Mijn telefoon is kapot.",
+        "en": "My phone is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "telefoonnummer",
+      "en": "phone number",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de telefoonnummers",
+      "forms": null,
+      "example": {
+        "nl": "Wat is uw telefoonnummer?",
+        "en": "What is your phone number?"
+      },
+      "note": null
+    },
+    {
+      "nl": "voicemail",
+      "en": "voicemail",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de voicemails",
+      "forms": null,
+      "example": {
+        "nl": "Ik spreek een bericht in op de voicemail.",
+        "en": "I'm leaving a message on the voicemail."
+      },
+      "note": null
+    },
+    {
+      "nl": "bericht",
+      "en": "message",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de berichten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb uw bericht ontvangen.",
+        "en": "I received your message."
+      },
+      "note": null
+    },
+    {
+      "nl": "inspreken",
+      "en": "to leave (a voice message)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik spreek in, jij spreekt in, wij spreken in",
+      "example": {
+        "nl": "U kunt een bericht inspreken.",
+        "en": "You can leave a message."
+      },
+      "note": "Separable: in + spreken."
+    },
+    {
+      "nl": "doorverbinden",
+      "en": "to put through, connect",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verbind door, jij verbindt door, wij verbinden door",
+      "example": {
+        "nl": "Ik verbind u door naar de assistente.",
+        "en": "I'll put you through to the assistant."
+      },
+      "note": "Separable: door + verbinden."
+    },
+    {
+      "nl": "ophangen",
+      "en": "to hang up",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik hang op, jij hangt op, wij hangen op",
+      "example": {
+        "nl": "Hang niet op, alstublieft.",
+        "en": "Please don't hang up."
+      },
+      "note": "Separable: op + hangen."
+    },
+    {
+      "nl": "opnemen",
+      "en": "to answer (the phone), pick up",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik neem op, jij neemt op, wij nemen op",
+      "example": {
+        "nl": "De tandarts neemt niet op.",
+        "en": "The dentist isn't answering."
+      },
+      "note": "Separable: op + nemen."
+    },
+    {
+      "nl": "bereikbaar",
+      "en": "available, reachable",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "U bent morgen niet bereikbaar.",
+        "en": "You are not available tomorrow."
+      },
+      "note": "Often with zijn: bereikbaar zijn."
+    },
+    {
+      "nl": "lijn",
+      "en": "line (phone)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de lijnen",
+      "forms": null,
+      "example": {
+        "nl": "De lijn is in gesprek.",
+        "en": "The line is busy."
+      },
+      "note": null
+    },
+    {
+      "nl": "in gesprek",
+      "en": "busy (phone line), on a call",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben in gesprek.",
+        "en": "I'm on a call."
+      },
+      "note": "Word-for-word: 'in conversation'."
+    },
+    {
+      "nl": "spellen",
+      "en": "to spell",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik spel, jij spelt, wij spellen",
+      "example": {
+        "nl": "Kunt u uw achternaam spellen?",
+        "en": "Can you spell your surname?"
+      },
+      "note": null
+    },
+    {
+      "nl": "herhalen",
+      "en": "to repeat",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik herhaal, jij herhaalt, wij herhalen",
+      "example": {
+        "nl": "Kunt u dat herhalen?",
+        "en": "Can you repeat that?"
+      },
+      "note": null
+    },
+    {
+      "nl": "langzaam",
+      "en": "slow, slowly",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Kunt u langzaam praten?",
+        "en": "Can you speak slowly?"
+      },
+      "note": "Comparative: langzamer = more slowly."
+    },
+    {
+      "nl": "alfabet",
+      "en": "alphabet",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de alfabetten",
+      "forms": null,
+      "example": {
+        "nl": "Het Nederlandse alfabet heeft 26 letters.",
+        "en": "The Dutch alphabet has 26 letters."
+      },
+      "note": null
+    },
+    {
+      "nl": "letter",
+      "en": "letter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de letters",
+      "forms": null,
+      "example": {
+        "nl": "De letter g is moeilijk.",
+        "en": "The letter g is difficult."
+      },
+      "note": null
+    },
+    {
+      "nl": "afspraak",
+      "en": "appointment",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de afspraken",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een afspraak bij de tandarts.",
+        "en": "I have an appointment at the dentist."
+      },
+      "note": null
+    },
+    {
+      "nl": "afzeggen",
+      "en": "to cancel",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zeg af, jij zegt af, wij zeggen af",
+      "example": {
+        "nl": "Ik moet mijn afspraak afzeggen.",
+        "en": "I have to cancel my appointment."
+      },
+      "note": "Separable: af + zeggen."
+    },
+    {
+      "nl": "verzetten",
+      "en": "to move, reschedule",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verzet, jij verzet, wij verzetten",
+      "example": {
+        "nl": "Kan ik de afspraak verzetten?",
+        "en": "Can I move the appointment?"
+      },
+      "note": "Inseparable: no ge- in the perfect tense."
+    },
+    {
+      "nl": "bevestigen",
+      "en": "to confirm",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bevestig, jij bevestigt, wij bevestigen",
+      "example": {
+        "nl": "Ik bel om de afspraak te bevestigen.",
+        "en": "I'm calling to confirm the appointment."
+      },
+      "note": null
+    },
+    {
+      "nl": "momentje",
+      "en": "just a moment",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de momentjes",
+      "forms": null,
+      "example": {
+        "nl": "Een momentje, alstublieft.",
+        "en": "One moment, please."
+      },
+      "note": "Diminutive of moment."
+    },
+    {
+      "nl": "tandarts",
+      "en": "dentist",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de tandartsen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb pijn aan mijn tand.",
+        "en": "My tooth hurts."
+      },
+      "note": "Pijn aan mijn tand = pain in my tooth."
+    },
+    {
+      "nl": "praktijk",
+      "en": "practice (office)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de praktijken",
+      "forms": null,
+      "example": {
+        "nl": "De praktijk is om vijf uur dicht.",
+        "en": "The practice closes at five."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Met Sara.",
+      "en": "Sara speaking.",
+      "note": "Use Met + your name when you answer the phone."
+    },
+    {
+      "nl": "U spreekt met Sara Jansen.",
+      "en": "This is Sara Jansen.",
+      "note": "Formal; also used when you call someone."
+    },
+    {
+      "nl": "Kan ik meneer De Vries spreken?",
+      "en": "Can I speak to Mr De Vries?",
+      "note": null
+    },
+    {
+      "nl": "Ik verbind u door.",
+      "en": "I'll put you through.",
+      "note": null
+    },
+    {
+      "nl": "Kunt u dat herhalen?",
+      "en": "Can you repeat that?",
+      "note": null
+    },
+    {
+      "nl": "Kunt u wat langzamer praten?",
+      "en": "Can you speak a little more slowly?",
+      "note": null
+    },
+    {
+      "nl": "Een momentje, alstublieft.",
+      "en": "One moment, please.",
+      "note": null
+    },
+    {
+      "nl": "Ik bel u terug.",
+      "en": "I'll call you back.",
+      "note": null
+    },
+    {
+      "nl": "Hoe spelt u dat?",
+      "en": "How do you spell that?",
+      "note": null
+    },
+    {
+      "nl": "Ik wil graag een afspraak verzetten.",
+      "en": "I'd like to move an appointment.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Aan de telefoon: de juiste frasen",
+      "explanation": "You answer the phone with **Met** + your name. **Met Sara.** is short for **U spreekt met Sara.** and means 'Sara speaking'. In a formal call you can say **U spreekt met ...**. To ask for someone, use **Kan ik ... spreken?** The assistant says **Ik verbind u door** when she connects you.",
+      "table": {
+        "headers": [
+          "Situatie",
+          "Nederlands"
+        ],
+        "rows": [
+          [
+            "You answer",
+            "Met Sara."
+          ],
+          [
+            "Formal: this is ...",
+            "U spreekt met Sara Jansen."
+          ],
+          [
+            "You ask for someone",
+            "Kan ik meneer De Vries spreken?"
+          ],
+          [
+            "You connect someone",
+            "Ik verbind u door."
+          ],
+          [
+            "One moment",
+            "Een momentje, alstublieft."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Met de tandartspraktijk, goedemorgen.",
+          "en": "Dental practice, good morning."
+        },
+        {
+          "nl": "U spreekt met Adam Bakker.",
+          "en": "This is Adam Bakker."
+        },
+        {
+          "nl": "Kan ik de assistente spreken?",
+          "en": "Can I speak to the assistant?"
+        }
+      ],
+      "tip": "Don't say **Ik ben Sara** when you answer the phone; say **Met Sara**."
+    },
+    {
+      "title": "Kunt u dat herhalen?",
+      "explanation": "If you don't understand, ask **Kunt u dat herhalen?** To ask for slower speech, use **Kunt u wat langzamer praten?** **Kunt u** is the polite form with **u**; the verb comes first. **Wat** softens the request: 'a little'.",
+      "table": {
+        "headers": [
+          "English",
+          "Nederlands"
+        ],
+        "rows": [
+          [
+            "Can you repeat that?",
+            "Kunt u dat herhalen?"
+          ],
+          [
+            "Can you speak more slowly?",
+            "Kunt u wat langzamer praten?"
+          ],
+          [
+            "Can you spell that?",
+            "Kunt u dat spellen?"
+          ],
+          [
+            "One moment, please.",
+            "Een momentje, alstublieft."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Kunt u dat herhalen? Ik begrijp het niet.",
+          "en": "Can you repeat that? I don't understand."
+        },
+        {
+          "nl": "Kunt u wat langzamer praten?",
+          "en": "Can you speak a little more slowly?"
+        },
+        {
+          "nl": "Hoe spelt u dat?",
+          "en": "How do you spell that?"
+        }
+      ],
+      "tip": "**Langzamer** is the comparative of **langzaam**; use it when someone speaks too fast."
+    },
+    {
+      "title": "Spellen: het alfabet",
+      "explanation": "When you spell a name, say each letter separately. Some Dutch letter names are different from English: **ij** is *ei*, **g** is *gee* (with a Dutch g), **j** is *jee* ('yay'). Ask **Hoe spelt u dat?** and spell slowly.",
+      "table": {
+        "headers": [
+          "Letter",
+          "You say"
+        ],
+        "rows": [
+          [
+            "a",
+            "aa"
+          ],
+          [
+            "b",
+            "bee"
+          ],
+          [
+            "c",
+            "see"
+          ],
+          [
+            "d",
+            "dee"
+          ],
+          [
+            "e",
+            "ee"
+          ],
+          [
+            "f",
+            "ef"
+          ],
+          [
+            "g",
+            "gee"
+          ],
+          [
+            "h",
+            "haa"
+          ],
+          [
+            "i",
+            "ie"
+          ],
+          [
+            "j",
+            "jee"
+          ],
+          [
+            "k",
+            "kaa"
+          ],
+          [
+            "l",
+            "el"
+          ],
+          [
+            "m",
+            "em"
+          ],
+          [
+            "n",
+            "en"
+          ],
+          [
+            "o",
+            "oo"
+          ],
+          [
+            "p",
+            "pee"
+          ],
+          [
+            "q",
+            "kuu"
+          ],
+          [
+            "r",
+            "er"
+          ],
+          [
+            "s",
+            "es"
+          ],
+          [
+            "t",
+            "tee"
+          ],
+          [
+            "u",
+            "uu"
+          ],
+          [
+            "v",
+            "vee"
+          ],
+          [
+            "w",
+            "wee"
+          ],
+          [
+            "x",
+            "ix"
+          ],
+          [
+            "y",
+            "ypsilon (Griekse ij)"
+          ],
+          [
+            "z",
+            "zet"
+          ],
+          [
+            "ij (lettercombinatie)",
+            "ei"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Hoe spelt u uw achternaam?",
+          "en": "How do you spell your surname?"
+        },
+        {
+          "nl": "Bakker: bee-aa-kaa-kaa-ee-er.",
+          "en": "Bakker: B-A-K-K-E-R."
+        },
+        {
+          "nl": "Mijn naam is Smit: es-em-ie-tee.",
+          "en": "My name is Smit: S-M-I-T."
+        }
+      ],
+      "tip": "Say **ij** as **ei**, not as two letters."
+    }
+  ],
+  "dialogue": {
+    "title": "Bij de tandartspraktijk",
+    "setting": "You call the dentist's practice to move your appointment; the assistant answers.",
+    "speakers": [
+      {
+        "name": "Assistente",
+        "gender": "f"
+      },
+      {
+        "name": "Meneer Bakker",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Assistente",
+        "nl": "Met tandartspraktijk De Molen, goedemorgen.",
+        "en": "De Molen dental practice, good morning."
+      },
+      {
+        "speaker": "Meneer Bakker",
+        "nl": "Goedemorgen, u spreekt met Adam Bakker.",
+        "en": "Good morning, this is Adam Bakker."
+      },
+      {
+        "speaker": "Assistente",
+        "nl": "Goedemorgen, meneer Bakker. Wat kan ik voor u doen?",
+        "en": "Good morning, Mr Bakker. How can I help you?"
+      },
+      {
+        "speaker": "Meneer Bakker",
+        "nl": "Ik heb een afspraak op maandag, maar ik kan niet komen. Kan ik de afspraak verzetten?",
+        "en": "I have an appointment on Monday, but I can't come. Can I move the appointment?"
+      },
+      {
+        "speaker": "Assistente",
+        "nl": "Natuurlijk. Een momentje, alstublieft. ... Wanneer wilt u komen?",
+        "en": "Of course. One moment, please. ... When would you like to come?"
+      },
+      {
+        "speaker": "Meneer Bakker",
+        "nl": "Kan het op donderdag?",
+        "en": "Can it be on Thursday?"
+      },
+      {
+        "speaker": "Assistente",
+        "nl": "Donderdag om drie uur is nog vrij.",
+        "en": "Thursday at three is still free."
+      },
+      {
+        "speaker": "Meneer Bakker",
+        "nl": "Dat is goed. Kunt u dat bevestigen?",
+        "en": "That's good. Can you confirm that?"
+      },
+      {
+        "speaker": "Assistente",
+        "nl": "Ja, ik stuur u een e-mail. Hoe spelt u uw achternaam?",
+        "en": "Yes, I'll send you an email. How do you spell your surname?"
+      },
+      {
+        "speaker": "Meneer Bakker",
+        "nl": "Bakker: bee-aa-kaa-kaa-ee-er.",
+        "en": "Bakker: B-A-K-K-E-R."
+      },
+      {
+        "speaker": "Assistente",
+        "nl": "Dank u wel. En uw telefoonnummer?",
+        "en": "Thank you. And your phone number?"
+      },
+      {
+        "speaker": "Meneer Bakker",
+        "nl": "Dat is nul zes, een twee drie vier vijf zes zeven acht.",
+        "en": "That's 06 12345678."
+      },
+      {
+        "speaker": "Assistente",
+        "nl": "Dank u. Ik stuur u vandaag een e-mail. Tot donderdag!",
+        "en": "Thank you. I'll send you an email today. See you Thursday!"
+      },
+      {
+        "speaker": "Meneer Bakker",
+        "nl": "Tot donderdag. Dank u wel. Doei.",
+        "en": "See you Thursday. Thank you. Bye."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "bellen",
+          "to call"
+        ],
+        [
+          "opnemen",
+          "to answer (the phone)"
+        ],
+        [
+          "doorverbinden",
+          "to put through"
+        ],
+        [
+          "de afspraak",
+          "the appointment"
+        ],
+        [
+          "het bericht",
+          "the message"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "terugbellen",
+          "to call back"
+        ],
+        [
+          "afzeggen",
+          "to cancel"
+        ],
+        [
+          "verzetten",
+          "to move, reschedule"
+        ],
+        [
+          "bevestigen",
+          "to confirm"
+        ],
+        [
+          "inspreken",
+          "to leave a message"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "You answer your own phone. What do you say?",
+      "nl": "Met Sara.",
+      "options": [
+        "Met Sara.",
+        "Ik ben Sara.",
+        "Sara spreekt."
+      ],
+      "answer": 0,
+      "explain": "Met + your name is how you answer the phone."
+    },
+    {
+      "type": "choice",
+      "prompt": "You want to speak to Mr De Vries. What do you say?",
+      "nl": "Kan ik meneer De Vries spreken?",
+      "options": [
+        "Kan ik meneer De Vries spreken?",
+        "Spreek ik meneer De Vries?",
+        "Meneer De Vries is spreken."
+      ],
+      "answer": 0,
+      "explain": "Kan ik ... spreken? is the polite phone question."
+    },
+    {
+      "type": "choice",
+      "prompt": "You didn't hear a name. What do you ask?",
+      "nl": "Kunt u dat herhalen?",
+      "options": [
+        "Kunt u dat herhalen?",
+        "Kunt u dat spellen?",
+        "Kunt u dat verzetten?"
+      ],
+      "answer": 0,
+      "explain": "Herhalen means to repeat."
+    },
+    {
+      "type": "choice",
+      "prompt": "The assistant will connect you. What does she say?",
+      "nl": "Ik verbind u door.",
+      "options": [
+        "Ik verbind u door.",
+        "Ik bel u terug.",
+        "Ik hang op."
+      ],
+      "answer": 0,
+      "explain": "Doorverbinden means to put someone through."
+    },
+    {
+      "type": "article",
+      "word": "telefoonnummer",
+      "en": "phone number",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "afspraak",
+      "en": "appointment",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I am calling the dentist.",
+      "answer": "Ik bel de tandarts.",
+      "accept": [
+        "Ik bel de tandarts"
+      ],
+      "extra": [
+        "bellen",
+        "belt"
+      ],
+      "explain": "With **ik** use the finite form **bel**; **bellen** is the infinitive and **belt** is for jij/hij/zij."
+    },
+    {
+      "type": "build",
+      "en": "Can you repeat that?",
+      "answer": "Kunt u dat herhalen?",
+      "accept": [
+        "Kunt u dat herhalen"
+      ],
+      "extra": [
+        "herhaal",
+        "spelt"
+      ],
+      "explain": "After **Kunt u** the infinitive **herhalen** goes at the end; use **dat** for 'that'."
+    },
+    {
+      "type": "build",
+      "en": "I would like to move my appointment.",
+      "answer": "Ik wil graag mijn afspraak verzetten.",
+      "accept": [
+        "Ik wil mijn afspraak graag verzetten.",
+        "Graag wil ik mijn afspraak verzetten.",
+        "Ik verzet graag mijn afspraak.",
+        "Ik wil mijn afspraak graag verzetten",
+        "Graag wil ik mijn afspraak verzetten",
+        "Ik verzet graag mijn afspraak"
+      ],
+      "extra": [
+        "wilt",
+        "verzet"
+      ],
+      "explain": "After **wil** the infinitive **verzetten** goes at the end; **graag** can come before or after the object."
+    },
+    {
+      "type": "gap",
+      "text": "De lijn is in gesprek. Wilt u een ___ inspreken?",
+      "en": "The line is busy. Would you like to leave a message?",
+      "answers": [
+        "bericht"
+      ],
+      "hint": "message",
+      "explain": "Use **een bericht inspreken** = to leave a message; after **Wilt u** the infinitive **inspreken** goes at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Kunt u wat ___ praten? Ik begrijp u niet goed.",
+      "en": "Can you speak a little more slowly? I can't understand you well.",
+      "answers": [
+        "langzamer"
+      ],
+      "hint": "langzaam (comparative)",
+      "explain": "Use the comparative **langzamer** because the person is speaking too fast; **langzaam** is the positive form."
+    },
+    {
+      "type": "gap",
+      "text": "Ik moet mijn afspraak ___. Ik ben maandag ziek.",
+      "en": "I have to cancel my appointment. I'm ill on Monday.",
+      "answers": [
+        "afzeggen"
+      ],
+      "hint": "to cancel",
+      "explain": "After **moet** use the infinitive **afzeggen**; it means to cancel an appointment."
+    },
+    {
+      "type": "gap",
+      "text": "Hoe ___ u uw achternaam?",
+      "en": "How do you spell your surname?",
+      "answers": [
+        "spelt"
+      ],
+      "hint": "spellen",
+      "explain": "With **u** the verb is **spelt**: **Hoe spelt u ...?** means 'How do you spell ...?'"
+    },
+    {
+      "type": "translate",
+      "en": "Hello, this is Sara.",
+      "answers": [
+        "Hallo, met Sara.",
+        "Hoi, met Sara.",
+        "Goedemorgen, met Sara.",
+        "Hallo, u spreekt met Sara."
+      ],
+      "focus": "Answering the phone with Met + name.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'ik ben + name' instead of 'met + name' (e.g. 'Hallo, ik ben Sara.')",
+          "explain": "On the phone say **Met Sara**, not **Ik ben Sara**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'name + spreekt' alone (e.g. 'Hallo, Sara spreekt.')",
+          "explain": "Say **Met Sara** or **U spreekt met Sara**, not **Sara spreekt**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits 'met' before the name (e.g. 'Hallo, Sara.')",
+          "explain": "Add **met**: **Hallo, met Sara.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds extra 'spreekt' after 'met + name' (e.g. 'Hallo, met Sara spreekt.')",
+          "explain": "Keep it short: **Hallo, met Sara.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Can I speak to the doctor?",
+      "answers": [
+        "Kan ik de dokter spreken?",
+        "Mag ik de dokter spreken?",
+        "Kan ik met de dokter spreken?",
+        "Mag ik met de dokter spreken?",
+        "Zou ik de dokter kunnen spreken?",
+        "Zou ik met de dokter kunnen spreken?"
+      ],
+      "focus": "Kan ik ... spreken?",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the subject before the verb in a yes/no question (e.g. 'Ik kan de dokter spreken?')",
+          "explain": "Start with the verb: **Kan ik de dokter spreken?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitive before the object (e.g. 'Kan ik spreken de dokter?')",
+          "explain": "The infinitive goes at the end: **Kan ik de dokter spreken?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the verb 'spreken' (e.g. 'Kan ik de dokter?')",
+          "explain": "Add **spreken**: **Kan ik de dokter spreken?**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Can you speak more slowly?",
+      "answers": [
+        "Kunt u langzamer praten?",
+        "Kunt u wat langzamer praten?",
+        "Kunt u iets langzamer praten?",
+        "Kunt u alstublieft langzamer praten?",
+        "Kunt u wat langzamer spreken?"
+      ],
+      "focus": "Kunt u ...? + langzamer.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses positive 'langzaam' instead of comparative 'langzamer' for 'more slowly' (e.g. 'Kunt u langzaam praten?')",
+          "explain": "Use the comparative **langzamer**: **Kunt u wat langzamer praten?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitive before the adverb (e.g. 'Kunt u praten langzamer?')",
+          "explain": "The infinitive goes at the end: **Kunt u langzamer praten?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Keeps the subject before the verb in a question (e.g. 'U kunt langzamer praten?')",
+          "explain": "Start with **Kunt u**: **Kunt u langzamer praten?**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits the verb 'praten' (e.g. 'Kunt u langzamer?')",
+          "explain": "Add **praten**: **Kunt u langzamer praten?**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I'll call you back tomorrow.",
+      "answers": [
+        "Ik bel u morgen terug.",
+        "Ik bel je morgen terug.",
+        "Morgen bel ik u terug.",
+        "Morgen bel ik je terug.",
+        "Ik zal u morgen terugbellen.",
+        "Ik zal je morgen terugbellen.",
+        "Morgen zal ik u terugbellen.",
+        "Morgen zal ik je terugbellen."
+      ],
+      "focus": "Separable terugbellen; object before time.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the separable prefix with the verb (e.g. 'Ik terugbel u morgen.')",
+          "explain": "Split the separable verb: **Ik bel u morgen terug.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive after a finite verb without a modal (e.g. 'Ik bel u morgen terugbellen.')",
+          "explain": "Use the finite verb and split the prefix: **Ik bel u morgen terug.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Places 'morgen' after the prefix 'terug' (e.g. 'Ik bel u terug morgen.')",
+          "explain": "The time usually comes before the prefix: **Ik bel u morgen terug.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts the object after the prefix (e.g. 'Ik bel morgen terug u.')",
+          "explain": "Put the object before the time and prefix: **Ik bel u morgen terug.**"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Met tandartspraktijk De Molen, goedemorgen.",
+      "en": "De Molen dental practice, good morning."
+    },
+    {
+      "type": "listen",
+      "nl": "Kunt u dat herhalen, alstublieft?",
+      "en": "Can you repeat that, please?"
+    },
+    {
+      "type": "listen",
+      "nl": "Ik verbind u door naar de assistente.",
+      "en": "I'll put you through to the assistant."
+    },
+    {
+      "type": "reply",
+      "context": "You call the dentist's practice. The assistant answers.",
+      "say": {
+        "nl": "Met tandartspraktijk De Molen, goedemorgen.",
+        "en": "De Molen dental practice, good morning."
+      },
+      "task": "Say good morning and give your name.",
+      "examples": [
+        "Goedemorgen, u spreekt met Lisa Jansen.",
+        "Hoi, met Tom de Boer.",
+        "Goedemorgen, met Adam Bakker."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Answers with 'ik ben + name' instead of phone formula 'met + name' (e.g. 'Goedemorgen, ik ben Lisa.')",
+          "explain": "On the phone use **met + name**: **Goedemorgen, met Lisa.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'name + spreekt' as a phone answer (e.g. 'Goedemorgen, Lisa spreekt.')",
+          "explain": "Say **Met Lisa** or **U spreekt met Lisa**, not **Lisa spreekt**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds extra 'spreekt' after 'met + name' (e.g. 'Goedemorgen, met Lisa Jansen spreekt.')",
+          "explain": "Keep it short: **Goedemorgen, met Lisa Jansen.**"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You want to move your appointment. The assistant asks when you would like to come.",
+      "say": {
+        "nl": "Wanneer wilt u komen?",
+        "en": "When would you like to come?"
+      },
+      "task": "Say Thursday if possible.",
+      "examples": [
+        "Kan het op donderdag?",
+        "Donderdag is goed, als het kan.",
+        "Kan het donderdag om drie uur?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Omits 'het' after 'kan' (e.g. 'Kan op donderdag?')",
+          "explain": "Say **Kan het op donderdag?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the time before the verb and omits 'het' (e.g. 'Donderdag kan?')",
+          "explain": "Ask **Kan het op donderdag?** or say **Donderdag is goed.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Keeps statement order in a question (e.g. 'Het kan donderdag?')",
+          "explain": "In a yes/no question start with the verb: **Kan het op donderdag?**"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Een afspraak verzetten",
+    "setting": "You are Adam Bakker and you call the dentist's practice to move your appointment. The assistant answers the phone.",
+    "partner": {
+      "name": "Assistente",
+      "gender": "f",
+      "role": "assistant at the dental practice"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Met tandartspraktijk De Molen, goedemorgen.",
+          "en": "De Molen dental practice, good morning."
+        },
+        "task": "Say good morning and give your name.",
+        "examples": [
+          "Goedemorgen, u spreekt met Adam Bakker.",
+          "Hoi, met Adam Bakker.",
+          "Goedemorgen, met Adam Bakker."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'ik ben + name' instead of phone formula 'met + name' (e.g. 'Goedemorgen, ik ben Adam.')",
+            "explain": "On the phone say **Met Adam** or **U spreekt met Adam**, not **Ik ben Adam**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'name + spreekt' alone as a phone answer (e.g. 'Goedemorgen, Adam spreekt.')",
+            "explain": "Say **Met Adam** or **U spreekt met Adam**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Adds extra 'spreekt' after 'met + name' (e.g. 'Goedemorgen, met Adam Bakker spreekt.')",
+            "explain": "Keep it short: **Goedemorgen, met Adam Bakker.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Goedemorgen. Wat kan ik voor u doen?",
+          "en": "Good morning. How can I help you?"
+        },
+        "task": "Say you have an appointment on Monday, but you can't come. Ask if you can move it.",
+        "examples": [
+          "Ik heb een afspraak op maandag, maar ik kan niet. Kan ik de afspraak verzetten?",
+          "Ik kan maandag niet komen. Kan het op een andere dag?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits 'een' before 'afspraak' (e.g. 'Ik heb afspraak op maandag.')",
+            "explain": "Use **een afspraak**: **Ik heb een afspraak op maandag.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Places 'maandag' after 'komen' at the end (e.g. 'Ik kan niet komen maandag.')",
+            "explain": "Put the time before the infinitive or before **niet**: **Ik kan maandag niet komen.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the object after the infinitive (e.g. 'Kan ik verzetten de afspraak?')",
+            "explain": "The infinitive goes at the end: **Kan ik de afspraak verzetten?**"
+          },
+          {
+            "id": "m4",
+            "pattern": "Puts the object after the infinitive after 'wil' (e.g. 'Ik wil verzetten mijn afspraak.')",
+            "explain": "Say **Ik wil mijn afspraak verzetten.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Natuurlijk. Wanneer wilt u komen?",
+          "en": "Of course. When would you like to come?"
+        },
+        "task": "Say Thursday if possible.",
+        "examples": [
+          "Kan het op donderdag?",
+          "Donderdag is goed, als het kan.",
+          "Kan het donderdag om drie uur?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits 'het' after 'kan' (e.g. 'Kan op donderdag?')",
+            "explain": "Say **Kan het op donderdag?**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the time before the verb and omits 'het' (e.g. 'Donderdag kan?')",
+            "explain": "Ask **Kan het op donderdag?** or say **Donderdag is goed.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Keeps statement order in a question (e.g. 'Het kan op donderdag?')",
+            "explain": "Start with **Kan**: **Kan het op donderdag?**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Donderdag om drie uur is nog vrij. Hoe spelt u uw achternaam?",
+          "en": "Thursday at three is still free. How do you spell your surname?"
+        },
+        "task": "Spell your surname (Bakker).",
+        "examples": [
+          "Bakker: bee-aa-kaa-kaa-ee-er.",
+          "Mijn achternaam is Bakker: bee-aa-kaa-kaa-ee-er."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Gives the surname but does not spell it (e.g. 'Mijn achternaam is Bakker.')",
+            "explain": "Spell it letter by letter: **Bakker: bee-aa-kaa-kaa-ee-er.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses English letter names instead of Dutch ones (e.g. 'Bakker: b-a-k-k-e-r.')",
+            "explain": "Use Dutch letter names: **bee-aa-kaa-kaa-ee-er**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses wrong Dutch names for a and r (e.g. 'Bakker: bee-a-kaa-kaa-ee-r.')",
+            "explain": "Say **aa** and **er**: **bee-aa-kaa-kaa-ee-er**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dank u. En uw telefoonnummer?",
+          "en": "Thank you. And your phone number?"
+        },
+        "task": "Give your phone number.",
+        "examples": [
+          "Nul zes, een twee drie vier vijf zes zeven acht.",
+          "Nul zes, twee vier zes acht een drie vijf zeven."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'zes nul' instead of 'nul zes' for 06 (e.g. 'Zes nul, een twee drie...')",
+            "explain": "Start with **nul zes**: **Nul zes, een twee drie...**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Gives only seven digits after 06 (e.g. 'Nul zes, een twee drie vier vijf zes zeven.')",
+            "explain": "Give eight digits: **Nul zes, een twee drie vier vijf zes zeven acht.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Runs the digits together without pauses (e.g. 'Nul zes, een-twee-drie-vier-vijf-zes-zeven-acht.')",
+            "explain": "Say the digits one by one: **Nul zes, een twee drie vier vijf zes zeven acht.**"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Dank u wel. Tot donderdag!",
+      "en": "Thank you. See you Thursday!"
+    }
+  },
+  "culture": {
+    "title": "Met Jansen: je naam zeggen aan de telefoon",
+    "text": "In the Netherlands people usually answer the phone with their name rather than just 'hallo': **Met Jansen** or **Met Sara**. This is normal and considered polite, even when you don't know who is calling. In formal calls you may hear **U spreekt met ...**; the same phrase is used when you call someone and give your name. So don't wait for the other person to ask who you are."
+  },
+  "summary": [
+    "Answer the phone with **Met** + your name: **Met Sara.**",
+    "Use **Kan ik ... spreken?** to ask for someone and **Ik verbind u door** to connect.",
+    "Ask **Kunt u dat herhalen?** or **Kunt u wat langzamer praten?** when you don't understand.",
+    "Spell names letter by letter; **ij** is **ei**, **g** is **gee**, **j** is **jee**.",
+    "Use **verzetten**, **afzeggen** and **bevestigen** for appointments."
+  ]
+}

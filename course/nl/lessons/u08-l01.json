@@ -1,0 +1,1083 @@
+{
+  "id": "u08-l01",
+  "title": "Mijn werk",
+  "subtitle": "Work and giving reasons",
+  "level": "A2",
+  "intro": "In this lesson you will learn to describe your job and workplace, talk about working hours, and give reasons with want and omdat. You will also practise the conjunctions en, maar, of, want and dus in normal main-clause order.",
+  "words": [
+    {
+      "nl": "collega",
+      "en": "colleague",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de collega's",
+      "forms": null,
+      "example": {
+        "nl": "Mijn collega's zijn leuk.",
+        "en": "My colleagues are nice."
+      },
+      "note": "Plural: de collega's, with an apostrophe."
+    },
+    {
+      "nl": "baas",
+      "en": "boss",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de bazen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn baas is in een vergadering.",
+        "en": "My boss is in a meeting."
+      },
+      "note": null
+    },
+    {
+      "nl": "manager",
+      "en": "manager",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de managers",
+      "forms": null,
+      "example": {
+        "nl": "De manager is in een vergadering.",
+        "en": "The manager is in a meeting."
+      },
+      "note": null
+    },
+    {
+      "nl": "klant",
+      "en": "customer, client",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de klanten",
+      "forms": null,
+      "example": {
+        "nl": "De klant is belangrijk.",
+        "en": "The customer is important."
+      },
+      "note": null
+    },
+    {
+      "nl": "vergadering",
+      "en": "meeting",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vergaderingen",
+      "forms": null,
+      "example": {
+        "nl": "De vergadering begint om tien uur.",
+        "en": "The meeting starts at ten o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "project",
+      "en": "project",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de projecten",
+      "forms": null,
+      "example": {
+        "nl": "Het project is belangrijk.",
+        "en": "The project is important."
+      },
+      "note": null
+    },
+    {
+      "nl": "taak",
+      "en": "task",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de taken",
+      "forms": null,
+      "example": {
+        "nl": "Dit is mijn taak.",
+        "en": "This is my task."
+      },
+      "note": null
+    },
+    {
+      "nl": "rooster",
+      "en": "schedule, roster",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de roosters",
+      "forms": null,
+      "example": {
+        "nl": "Ik kijk naar mijn rooster.",
+        "en": "I look at my schedule."
+      },
+      "note": "A schedule at work or school."
+    },
+    {
+      "nl": "dienst",
+      "en": "shift, service",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de diensten",
+      "forms": null,
+      "example": {
+        "nl": "Ik werk vandaag een late dienst.",
+        "en": "I am working a late shift today."
+      },
+      "note": "dienst = shift at work; also service."
+    },
+    {
+      "nl": "fulltime",
+      "en": "full-time",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik werk fulltime.",
+        "en": "I work full-time."
+      },
+      "note": "In many jobs full-time means 36-40 hours a week."
+    },
+    {
+      "nl": "parttime",
+      "en": "part-time",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij werkt parttime.",
+        "en": "She works part-time."
+      },
+      "note": "Less than full-time, often 2-4 days a week."
+    },
+    {
+      "nl": "thuiswerken",
+      "en": "to work from home",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik werk thuis, jij werkt thuis, wij werken thuis, heeft thuisgewerkt",
+      "example": {
+        "nl": "Ik kan vandaag thuiswerken.",
+        "en": "I can work from home today."
+      },
+      "note": "Separable: ik werk thuis; perfect: ik heb thuisgewerkt."
+    },
+    {
+      "nl": "verdienen",
+      "en": "to earn",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verdien, jij verdient, wij verdienen, heeft verdiend",
+      "example": {
+        "nl": "Ik verdien niet zo veel.",
+        "en": "I do not earn very much."
+      },
+      "note": null
+    },
+    {
+      "nl": "salaris",
+      "en": "salary",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de salarissen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn salaris is goed.",
+        "en": "My salary is good."
+      },
+      "note": null
+    },
+    {
+      "nl": "pauze",
+      "en": "break",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de pauzes",
+      "forms": null,
+      "example": {
+        "nl": "Om twaalf uur heb ik pauze.",
+        "en": "At twelve o'clock I have a break."
+      },
+      "note": null
+    },
+    {
+      "nl": "werkdag",
+      "en": "working day",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de werkdagen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn werkdag begint om acht uur.",
+        "en": "My working day starts at eight o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "druk",
+      "en": "busy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "druk, drukke",
+      "example": {
+        "nl": "Ik ben vandaag heel druk.",
+        "en": "I am very busy today."
+      },
+      "note": "druk = busy (adjective); before a de-word it becomes 'drukke'."
+    },
+    {
+      "nl": "rustig",
+      "en": "calm, quiet",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "rustig, rustige",
+      "example": {
+        "nl": "Het kantoor is rustig.",
+        "en": "The office is quiet."
+      },
+      "note": null
+    },
+    {
+      "nl": "belangrijk",
+      "en": "important",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "belangrijk, belangrijke",
+      "example": {
+        "nl": "Dit is een belangrijke vergadering.",
+        "en": "This is an important meeting."
+      },
+      "note": null
+    },
+    {
+      "nl": "moeilijk",
+      "en": "difficult",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "moeilijk, moeilijke",
+      "example": {
+        "nl": "Nederlands is niet zo moeilijk.",
+        "en": "Dutch is not so difficult."
+      },
+      "note": null
+    },
+    {
+      "nl": "makkelijk",
+      "en": "easy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "makkelijk, makkelijke",
+      "example": {
+        "nl": "Dit werk is makkelijk.",
+        "en": "This work is easy."
+      },
+      "note": null
+    },
+    {
+      "nl": "want",
+      "en": "because, for",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben moe, want ik werk veel.",
+        "en": "I am tired, because I work a lot."
+      },
+      "note": "want = because; normal word order."
+    },
+    {
+      "nl": "omdat",
+      "en": "because",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben moe, omdat ik veel werk.",
+        "en": "I am tired, because I work a lot."
+      },
+      "note": "omdat = because; verb at the end."
+    },
+    {
+      "nl": "dus",
+      "en": "so, therefore",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik werk veel, dus ik ben moe.",
+        "en": "I work a lot, so I am tired."
+      },
+      "note": "dus = so/therefore; normal word order."
+    },
+    {
+      "nl": "maar",
+      "en": "but",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik werk parttime, maar ik verdien genoeg.",
+        "en": "I work part-time, but I earn enough."
+      },
+      "note": "maar = but; normal word order."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Wat doe je voor werk?",
+      "en": "What do you do for work?",
+      "note": null
+    },
+    {
+      "nl": "Ik werk als manager bij een groot bedrijf.",
+      "en": "I work as a manager at a big company.",
+      "note": null
+    },
+    {
+      "nl": "Ik werk fulltime.",
+      "en": "I work full-time.",
+      "note": null
+    },
+    {
+      "nl": "Ik werk drie dagen per week thuis.",
+      "en": "I work from home three days a week.",
+      "note": null
+    },
+    {
+      "nl": "Hoe laat begint je werkdag?",
+      "en": "What time does your working day start?",
+      "note": null
+    },
+    {
+      "nl": "Ik heb pauze om twaalf uur.",
+      "en": "I have a break at twelve o'clock.",
+      "note": null
+    },
+    {
+      "nl": "Mijn salaris is goed, maar ik heb een drukke baan.",
+      "en": "My salary is good, but I have a busy job.",
+      "note": null
+    },
+    {
+      "nl": "Ik kan vandaag niet thuiswerken, omdat ik een vergadering heb.",
+      "en": "I can't work from home today, because I have a meeting.",
+      "note": "omdat sends the verb to the end: ... omdat ik een vergadering heb."
+    },
+    {
+      "nl": "Ik werk veel, dus ik ben moe.",
+      "en": "I work a lot, so I am tired.",
+      "note": null
+    },
+    {
+      "nl": "Waarom werk je thuis?",
+      "en": "Why do you work from home?",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "want keeps normal word order",
+      "explanation": "**want** means because or for. It joins two main clauses, and the word order stays normal: subject first, then the verb. You do not send the verb to the end after **want**.",
+      "table": {
+        "headers": [
+          "Word order",
+          "Example"
+        ],
+        "rows": [
+          [
+            "onderwerp + werkwoord + rest",
+            "Ik werk veel."
+          ],
+          [
+            "want + onderwerp + werkwoord + rest",
+            "want ik werk veel."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben moe, want ik werk veel.",
+          "en": "I am tired, because I work a lot."
+        },
+        {
+          "nl": "Het is druk, want we hebben een project.",
+          "en": "It is busy, because we have a project."
+        },
+        {
+          "nl": "Ik werk thuis, want dat is rustig.",
+          "en": "I work from home, because that is quiet."
+        }
+      ],
+      "tip": "want = because, but the order stays normal: first subject, then verb."
+    },
+    {
+      "title": "omdat sends the verb to the end",
+      "explanation": "**omdat** also means because, but it is different: it sends the verb to the end of the clause. Compare **want ik werk veel** and **omdat ik veel werk**.",
+      "table": {
+        "headers": [
+          "Conjunction",
+          "Word order",
+          "Example"
+        ],
+        "rows": [
+          [
+            "want",
+            "normale volgorde",
+            "want ik werk veel"
+          ],
+          [
+            "omdat",
+            "werkwoord aan het eind",
+            "omdat ik veel werk"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben moe, omdat ik veel werk.",
+          "en": "I am tired, because I work a lot."
+        },
+        {
+          "nl": "Ik werk thuis, omdat het kantoor druk is.",
+          "en": "I work from home, because the office is busy."
+        },
+        {
+          "nl": "Ik heb pauze, omdat ik moe ben.",
+          "en": "I have a break, because I am tired."
+        }
+      ],
+      "tip": "Only **omdat** sends the verb to the end; **want** keeps normal order."
+    },
+    {
+      "title": "en, maar, of, want, dus keep the main-clause order",
+      "explanation": "**en**, **maar**, **of**, **want** and **dus** join two main clauses. Both clauses keep normal order: subject + verb. Only **omdat** changes the order.",
+      "table": {
+        "headers": [
+          "Conjunction",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "en",
+            "and",
+            "Ik werk en ik leer."
+          ],
+          [
+            "maar",
+            "but",
+            "Ik werk parttime, maar ik verdien genoeg."
+          ],
+          [
+            "of",
+            "or",
+            "Werk je fulltime of parttime?"
+          ],
+          [
+            "want",
+            "because",
+            "Ik ben moe, want ik werk veel."
+          ],
+          [
+            "dus",
+            "so",
+            "Ik werk veel, dus ik ben moe."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik werk parttime, maar ik verdien genoeg.",
+          "en": "I work part-time, but I earn enough."
+        },
+        {
+          "nl": "Werk je fulltime of parttime?",
+          "en": "Do you work full-time or part-time?"
+        },
+        {
+          "nl": "Ik werk veel, dus ik ben moe.",
+          "en": "I work a lot, so I am tired."
+        }
+      ],
+      "tip": "Only **omdat** sends the verb to the end; the other conjunctions keep the normal order."
+    }
+  ],
+  "dialogue": {
+    "title": "Welkom in de buurt",
+    "setting": "Mark has just moved in, and his neighbour Sanne asks him about his work.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mark",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Mark! Hoe gaat het?",
+        "en": "Hi Mark! How are you?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Goed, dank je. Ik woon hier sinds gisteren.",
+        "en": "Good, thank you. I have lived here since yesterday."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Leuk! Wat doe je voor werk?",
+        "en": "Nice! What do you do for work?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ik werk als manager bij een groot bedrijf.",
+        "en": "I work as a manager at a big company."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Werk je fulltime?",
+        "en": "Do you work full-time?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja, fulltime, maar ik werk twee dagen thuis.",
+        "en": "Yes, full-time, but I work from home two days a week."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Waarom werk je thuis?",
+        "en": "Why do you work from home?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Omdat ik dan rustig kan werken. Het is vaak druk op kantoor.",
+        "en": "Because then I can work quietly. It is often busy at the office."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hoe laat begint je werkdag?",
+        "en": "What time does your working day start?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Om acht uur. Dus ik sta vroeg op.",
+        "en": "At eight o'clock. So I get up early."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Heb je pauze?",
+        "en": "Do you have a break?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja, om twaalf uur. Dan eet ik een boterham.",
+        "en": "Yes, at twelve o'clock. Then I eat a sandwich."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Is je salaris goed?",
+        "en": "Is your salary good?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja, maar het werk is soms moeilijk. Mijn collega's zijn leuk.",
+        "en": "Yes, but the work is sometimes difficult. My colleagues are nice."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de baas",
+          "the boss"
+        ],
+        [
+          "de vergadering",
+          "the meeting"
+        ],
+        [
+          "het salaris",
+          "the salary"
+        ],
+        [
+          "de pauze",
+          "the break"
+        ],
+        [
+          "de werkdag",
+          "the working day"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "thuiswerken",
+          "to work from home"
+        ],
+        [
+          "verdienen",
+          "to earn"
+        ],
+        [
+          "druk",
+          "busy"
+        ],
+        [
+          "rustig",
+          "calm, quiet"
+        ],
+        [
+          "makkelijk",
+          "easy"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Ik werk ___ bij een klein bedrijf.",
+      "options": [
+        "fulltime",
+        "vergadering",
+        "salaris"
+      ],
+      "answer": 0,
+      "explain": "Fulltime means 36-40 hours a week in many jobs."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Mijn ___ is goed: ik verdien veel geld.",
+      "options": [
+        "salaris",
+        "pauze",
+        "rooster"
+      ],
+      "answer": 0,
+      "explain": "Salaris is the money you earn; it fits 'ik verdien veel geld'."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik ben moe, want ik werk veel.",
+        "Ik ben moe, want ik veel werk.",
+        "Ik ben moe, omdat ik werk veel."
+      ],
+      "answer": 0,
+      "explain": "Want keeps normal order; omdat needs the verb at the end: 'omdat ik veel werk'."
+    },
+    {
+      "type": "article",
+      "word": "collega",
+      "en": "colleague",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "project",
+      "en": "project",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I work full-time, but I work from home.",
+      "answer": "Ik werk fulltime maar ik werk thuis",
+      "accept": [
+        "Ik werk thuis maar ik werk fulltime"
+      ],
+      "extra": [
+        "omdat",
+        "druk",
+        "de"
+      ],
+      "explain": "Use **maar** between the two main clauses and keep normal order in both: 'Ik werk fulltime, maar ik werk thuis.'"
+    },
+    {
+      "type": "build",
+      "en": "I am tired, because I work a lot.",
+      "answer": "Ik ben moe omdat ik veel werk",
+      "accept": [
+        "Omdat ik veel werk ben ik moe"
+      ],
+      "extra": [
+        "de",
+        "het",
+        "fulltime"
+      ],
+      "explain": "**Omdat** sends the verb to the end: '... omdat ik veel werk.'"
+    },
+    {
+      "type": "build",
+      "en": "The meeting is important, so I am busy.",
+      "answer": "De vergadering is belangrijk dus ik ben druk",
+      "accept": [],
+      "extra": [
+        "maar",
+        "omdat",
+        "rustig"
+      ],
+      "explain": "**Dus** joins two main clauses and keeps normal order: 'De vergadering is belangrijk, dus ik ben druk.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik werk ___, want ik heb een kind.",
+      "en": "I work part-time, because I have a child.",
+      "answers": [
+        "parttime"
+      ],
+      "hint": "part-time",
+      "explain": "**Parttime** means working fewer hours than full-time."
+    },
+    {
+      "type": "gap",
+      "text": "De vergadering is ___, dus ik mag niet te laat komen.",
+      "en": "The meeting is important, so I must not be late.",
+      "answers": [
+        "belangrijk"
+      ],
+      "hint": "important",
+      "explain": "**Belangrijk** means important; after 'is' the adjective has no -e: 'De vergadering is belangrijk.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik kan vandaag niet thuiswerken, ___ ik een vergadering heb.",
+      "en": "I can't work from home today, because I have a meeting.",
+      "answers": [
+        "omdat"
+      ],
+      "hint": "because (verb at the end)",
+      "explain": "**Omdat** means because and sends the verb to the end: '... omdat ik een vergadering heb.'"
+    },
+    {
+      "type": "translate",
+      "en": "I work part-time.",
+      "answers": [
+        "Ik werk parttime.",
+        "Ik werk parttime"
+      ],
+      "focus": "parttime",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Writes 'part-time' or 'part time' with a hyphen or space (Ik werk part-time; Ik werk part time)",
+          "explain": "In Dutch **parttime** is one word: 'Ik werk parttime.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts 'parttime' before the verb (Ik parttime werk)",
+          "explain": "The verb comes second: 'Ik werk parttime.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'ben' instead of 'werk' (Ik ben parttime)",
+          "explain": "Use **werken** for work: 'Ik werk parttime.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I am busy, because I work a lot.",
+      "answers": [
+        "Ik ben druk, omdat ik veel werk.",
+        "Ik ben druk omdat ik veel werk.",
+        "Ik ben druk, want ik werk veel.",
+        "Ik ben druk want ik werk veel."
+      ],
+      "focus": "because: want + normal order or omdat + verb at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "After 'omdat', puts the verb before 'veel' (omdat ik werk veel)",
+          "explain": "After **omdat** the verb goes to the end: 'omdat ik veel werk', not 'omdat ik werk veel'."
+        },
+        {
+          "id": "m2",
+          "pattern": "After 'want', sends the verb to the end (want ik veel werk)",
+          "explain": "**Want** keeps normal order: 'want ik werk veel', not 'want ik veel werk'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the infinitive instead of the finite verb after 'omdat' (omdat ik veel werken)",
+          "explain": "Use the finite verb: 'omdat ik veel werk'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "My salary is good, but my work is difficult.",
+      "answers": [
+        "Mijn salaris is goed, maar mijn werk is moeilijk.",
+        "Mijn salaris is goed maar mijn werk is moeilijk.",
+        "Mijn salaris is goed, maar mijn baan is moeilijk.",
+        "Mijn salaris is goed maar mijn baan is moeilijk."
+      ],
+      "focus": "maar keeps normal order",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "After 'maar', sends the verb to the end (maar mijn werk moeilijk is)",
+          "explain": "**Maar** keeps normal order: 'maar mijn werk is moeilijk'."
+        },
+        {
+          "id": "m2",
+          "pattern": "After 'maar', makes a question order (maar is mijn werk moeilijk)",
+          "explain": "Use normal order after **maar**: 'maar mijn werk is moeilijk'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'duur' for 'difficult' (mijn werk is duur)",
+          "explain": "**Duur** means expensive; difficult is **moeilijk**."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik werk fulltime bij een groot bedrijf.",
+      "en": "I work full-time at a big company."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik werk thuis, omdat het kantoor druk is.",
+      "en": "I work from home, because the office is busy."
+    },
+    {
+      "type": "reply",
+      "context": "Your new neighbour asks you about your work.",
+      "say": {
+        "nl": "Wat doe je voor werk?",
+        "en": "What do you do for work?"
+      },
+      "task": "Say that you work as a manager at a big company.",
+      "examples": [
+        "Ik werk als manager bij een groot bedrijf.",
+        "Ik ben manager bij een groot bedrijf."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'als een manager' instead of 'als manager' (Ik werk als een manager bij een groot bedrijf)",
+          "explain": "'As a manager' is **als manager**, without **een**: 'Ik werk als manager.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out 'als' (Ik werk manager bij een groot bedrijf)",
+          "explain": "Use **als** before the job: 'Ik werk als manager.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'grote' before the het-word 'bedrijf' after 'een' (een grote bedrijf)",
+          "explain": "After **een** + het-word, the adjective has no -e: 'een groot bedrijf'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your neighbour asks why you sometimes work from home.",
+      "say": {
+        "nl": "Waarom werk je thuis?",
+        "en": "Why do you work from home?"
+      },
+      "task": "Say that you work from home because you can work quietly.",
+      "examples": [
+        "Ik werk thuis, omdat ik rustig kan werken.",
+        "Ik werk thuis, want ik kan rustig werken."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "After 'omdat', puts 'kan' before the adverb (omdat ik kan rustig werken)",
+          "explain": "After **omdat** the verbs go to the end: 'omdat ik rustig kan werken'."
+        },
+        {
+          "id": "m2",
+          "pattern": "After 'want', sends the verb to the end (want ik rustig kan werken)",
+          "explain": "**Want** keeps normal order: 'want ik kan rustig werken'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Starts with 'omdat' but forgets inversion in the main clause (Omdat ik rustig kan werken, ik werk thuis)",
+          "explain": "After a clause with **omdat**, the main clause starts with the verb: '... werk ik thuis.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Welkom in de buurt",
+    "setting": "You have just moved in. Your new neighbour Sanne asks you about your job and your working hours.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "new neighbour"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Wat doe je voor werk?",
+          "en": "Hi! What do you do for work?"
+        },
+        "task": "Say what your job is and where you work.",
+        "examples": [
+          "Ik werk als manager bij een groot bedrijf.",
+          "Ik werk bij een klein bedrijf in Utrecht."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'als een manager' instead of 'als manager' (Ik werk als een manager bij een groot bedrijf)",
+            "explain": "'As a manager' is **als manager**, without **een**: 'Ik werk als manager.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves out 'als' (Ik werk manager bij een groot bedrijf)",
+            "explain": "Use **als** before the job: 'Ik werk als manager.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'grote' before 'bedrijf' after 'een' (een grote bedrijf)",
+            "explain": "After **een** + het-word, the adjective has no -e: 'een groot bedrijf'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Werk je fulltime of parttime?",
+          "en": "Do you work full-time or part-time?"
+        },
+        "task": "Say whether you work full-time or part-time and give a reason.",
+        "examples": [
+          "Ik werk fulltime, want ik wil een goed salaris.",
+          "Ik werk parttime, omdat ik een kind heb."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "After 'omdat', puts 'wil' before the object (omdat ik wil een goed salaris)",
+            "explain": "After **omdat** the verb goes to the end: 'omdat ik een goed salaris wil'."
+          },
+          {
+            "id": "m2",
+            "pattern": "After 'want', puts the verb at the end (want ik een kind heb)",
+            "explain": "**Want** keeps normal order: 'want ik heb een kind'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Repeats the question with 'of' instead of choosing (Ik werk fulltime of parttime)",
+            "explain": "Choose one and give a reason: 'Ik werk fulltime, want...' or 'Ik werk parttime, omdat...'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Waarom werk je soms thuis?",
+          "en": "Why do you sometimes work from home?"
+        },
+        "task": "Say why you work from home sometimes.",
+        "examples": [
+          "Ik werk thuis, omdat ik dan rustig kan werken.",
+          "Ik werk thuis, omdat het kantoor druk is."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "After 'omdat', puts 'kan' before the adverb (Omdat ik dan kan rustig werken)",
+            "explain": "After **omdat** the verbs go to the end: 'omdat ik dan rustig kan werken'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'want' but sends the verb to the end (Want ik dan rustig kan werken)",
+            "explain": "**Want** keeps normal order: 'want ik kan dan rustig werken'."
+          },
+          {
+            "id": "m3",
+            "pattern": "After 'omdat', puts 'is' before 'druk' (omdat het kantoor is druk)",
+            "explain": "After **omdat** the verb goes to the end: 'omdat het kantoor druk is'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Hoe laat begint je werkdag?",
+          "en": "What time does your working day start?"
+        },
+        "task": "Say what time your working day starts and that you get up early.",
+        "examples": [
+          "Mijn werkdag begint om acht uur, dus ik sta vroeg op.",
+          "Om negen uur. Ik sta om zeven uur op."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts 'op' in the wrong place (dus ik sta op vroeg)",
+            "explain": "The separable verb is **opstaan**: 'ik sta vroeg op'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Sends the verb to the end after 'dus' (dus ik vroeg opsta)",
+            "explain": "**Dus** keeps normal order: 'dus ik sta vroeg op'."
+          },
+          {
+            "id": "m3",
+            "pattern": "After 'omdat', puts 'sta' before 'vroeg op' (omdat ik sta vroeg op)",
+            "explain": "After **omdat** the verb goes to the end: 'omdat ik vroeg opsta'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En je collega's?",
+          "en": "And your colleagues?"
+        },
+        "task": "Say something about your colleagues and your salary.",
+        "examples": [
+          "Mijn collega's zijn leuk en mijn salaris is goed.",
+          "Mijn collega's zijn leuk, maar mijn salaris is niet zo goed."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses singular 'is' with plural 'collega's' (Mijn collega's is leuk)",
+            "explain": "Plural **collega's** takes **zijn**: 'Mijn collega's zijn leuk.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'maar' when both statements are positive (Mijn collega's zijn leuk, maar mijn salaris is goed)",
+            "explain": "**Maar** signals contrast; if both are positive, use **en**: '... en mijn salaris is goed.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot ziens!",
+      "en": "See you!"
+    }
+  },
+  "culture": {
+    "title": "Parttime werken in Nederland",
+    "text": "Part-time work is very common in the Netherlands, also for men. Many parents work three or four days a week and combine work with care. In many jobs full-time means 36 to 40 hours a week."
+  },
+  "summary": [
+    "Use want for because, but keep normal order: Ik ben moe, want ik werk veel.",
+    "Use omdat for because and send the verb to the end: Ik ben moe, omdat ik veel werk.",
+    "en, maar, of, want and dus keep subject-verb order; only omdat changes it.",
+    "Use fulltime, parttime and thuiswerken to talk about working hours.",
+    "Useful questions: Wat doe je voor werk? and Waarom werk je thuis?"
+  ]
+}

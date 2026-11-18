@@ -1,0 +1,1100 @@
+{
+  "id": "u06-l03",
+  "title": "Bij de apotheek",
+  "subtitle": "Medicine and instructions",
+  "level": "A1",
+  "intro": "In this lesson you learn to pick up medicine at the pharmacy and understand simple dosage instructions. You can ask how often and when to take a tablet, and you can say that you are allergic to something. You also learn the difference between an apotheek and a drogist.",
+  "words": [
+    {
+      "nl": "apotheek",
+      "en": "pharmacy (for prescriptions)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de apotheken",
+      "forms": null,
+      "example": {
+        "nl": "De apotheek is naast de supermarkt.",
+        "en": "The pharmacy is next to the supermarket."
+      },
+      "note": "An apotheek fills prescriptions; a drogist sells simple medicines."
+    },
+    {
+      "nl": "apotheker",
+      "en": "pharmacist",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de apothekers",
+      "forms": null,
+      "example": {
+        "nl": "De apotheker helpt mij met mijn medicijn.",
+        "en": "The pharmacist helps me with my medicine."
+      },
+      "note": null
+    },
+    {
+      "nl": "drogist",
+      "en": "drugstore (simple medicines)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de drogisten",
+      "forms": null,
+      "example": {
+        "nl": "Ik koop een crème bij de drogist.",
+        "en": "I buy a cream at the drugstore."
+      },
+      "note": "A drogist (for example Kruidvat or Etos) does not fill prescriptions."
+    },
+    {
+      "nl": "tablet",
+      "en": "tablet",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de tabletten",
+      "forms": null,
+      "example": {
+        "nl": "Ik neem twee tabletten per dag.",
+        "en": "I take two tablets a day."
+      },
+      "note": null
+    },
+    {
+      "nl": "pil",
+      "en": "pill",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de pillen",
+      "forms": null,
+      "example": {
+        "nl": "De pil is klein en wit.",
+        "en": "The pill is small and white."
+      },
+      "note": "You saw de pil in the doctor's lesson; here it is any pill you take."
+    },
+    {
+      "nl": "druppel",
+      "en": "drop",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de druppels",
+      "forms": null,
+      "example": {
+        "nl": "Ik neem tien druppels per dag.",
+        "en": "I take ten drops a day."
+      },
+      "note": "Usually plural: de druppels. One drop is een druppel."
+    },
+    {
+      "nl": "zalf",
+      "en": "ointment",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de zalven",
+      "forms": null,
+      "example": {
+        "nl": "Ik smeer de zalf op mijn arm.",
+        "en": "I rub the ointment on my arm."
+      },
+      "note": "Zalf is thicker than crème; you smeer it."
+    },
+    {
+      "nl": "pleister",
+      "en": "plaster, band-aid",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de pleisters",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een pleister op mijn vinger.",
+        "en": "I have a plaster on my finger."
+      },
+      "note": null
+    },
+    {
+      "nl": "crème",
+      "en": "cream",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de crèmes",
+      "forms": null,
+      "example": {
+        "nl": "Deze crème is voor mijn handen.",
+        "en": "This cream is for my hands."
+      },
+      "note": "You smeer a crème; you do not slik it."
+    },
+    {
+      "nl": "bijwerking",
+      "en": "side effect",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de bijwerkingen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb geen bijwerking.",
+        "en": "I have no side effect."
+      },
+      "note": "Usually plural: de bijwerkingen."
+    },
+    {
+      "nl": "innemen",
+      "en": "to take (medicine)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik neem in, jij neemt in, hij neemt in, wij nemen in",
+      "example": {
+        "nl": "Ik neem de tablet na het eten in.",
+        "en": "I take the tablet after the meal."
+      },
+      "note": "Separable: ik neem ... in. Use innemen for medicine."
+    },
+    {
+      "nl": "slikken",
+      "en": "to swallow",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik slik, jij slikt, wij slikken",
+      "example": {
+        "nl": "Ik slik de tablet met water.",
+        "en": "I swallow the tablet with water."
+      },
+      "note": "Slikken is the physical action; innemen is 'to take' medicine."
+    },
+    {
+      "nl": "smeren",
+      "en": "to rub on, spread",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik smeer, jij smeert, wij smeren",
+      "example": {
+        "nl": "Ik smeer de zalf op mijn been.",
+        "en": "I rub the ointment on my leg."
+      },
+      "note": "Use smeren for zalf and crème, not for tablets."
+    },
+    {
+      "nl": "per dag",
+      "en": "per day, a day",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Twee keer per dag.",
+        "en": "Twice a day."
+      },
+      "note": "Also per week, per uur."
+    },
+    {
+      "nl": "keer",
+      "en": "time (occurrence)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de keren",
+      "forms": null,
+      "example": {
+        "nl": "Ik neem één keer per dag een tablet.",
+        "en": "I take a tablet once a day."
+      },
+      "note": "You know keer from één keer per week; here it goes with per dag."
+    },
+    {
+      "nl": "voor",
+      "en": "before",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Voor het eten neem ik een tablet.",
+        "en": "Before the meal I take a tablet."
+      },
+      "note": "You know voor from times (kwart voor vier); here it means 'before'."
+    },
+    {
+      "nl": "na",
+      "en": "after",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Na het eten neem ik een tablet.",
+        "en": "After the meal I take a tablet."
+      },
+      "note": "Na is the opposite of voor."
+    },
+    {
+      "nl": "eten",
+      "en": "the meal, the food",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het eten is klaar.",
+        "en": "The meal is ready."
+      },
+      "note": "Na het eten is a very common chunk."
+    },
+    {
+      "nl": "maag",
+      "en": "stomach",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de magen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb pijn in mijn maag.",
+        "en": "I have pain in my stomach."
+      },
+      "note": null
+    },
+    {
+      "nl": "allergie",
+      "en": "allergy",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de allergieën",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een allergie voor deze tabletten.",
+        "en": "I have an allergy to these tablets."
+      },
+      "note": "Allergie voor + the thing you react to."
+    },
+    {
+      "nl": "allergisch",
+      "en": "allergic",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "allergisch, allergische",
+      "example": {
+        "nl": "Ik ben allergisch voor deze crème.",
+        "en": "I am allergic to this cream."
+      },
+      "note": "Allergisch voor + the thing you react to."
+    },
+    {
+      "nl": "verzekeringspas",
+      "en": "insurance card",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de verzekeringspassen",
+      "forms": null,
+      "example": {
+        "nl": "Hier is mijn verzekeringspas.",
+        "en": "Here is my insurance card."
+      },
+      "note": null
+    },
+    {
+      "nl": "ophalen",
+      "en": "to pick up, collect",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik haal op, jij haalt op, wij halen op",
+      "example": {
+        "nl": "Ik kom mijn medicijn ophalen.",
+        "en": "I am here to pick up my medicine."
+      },
+      "note": "Separable: ik haal het op. You know it from the bike lesson."
+    },
+    {
+      "nl": "medicijn",
+      "en": "medicine",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de medicijnen",
+      "forms": null,
+      "example": {
+        "nl": "Het medicijn is klaar.",
+        "en": "The medicine is ready."
+      },
+      "note": "Usually plural: de medicijnen."
+    },
+    {
+      "nl": "ochtend",
+      "en": "morning",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de ochtenden",
+      "forms": null,
+      "example": {
+        "nl": "Elke ochtend neem ik een tablet.",
+        "en": "Every morning I take a tablet."
+      },
+      "note": "You know 's ochtends; de ochtend is the noun."
+    },
+    {
+      "nl": "elke",
+      "en": "every, each",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Elke ochtend slik ik een tablet.",
+        "en": "Every morning I swallow a tablet."
+      },
+      "note": "Elke + de-word; elk + het-word."
+    },
+    {
+      "nl": "helpen",
+      "en": "to help",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik help, jij helpt, wij helpen",
+      "example": {
+        "nl": "De apotheker helpt mij.",
+        "en": "The pharmacist helps me."
+      },
+      "note": "Kan ik u helpen? = Can I help you?"
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik kom mijn medicijn ophalen.",
+      "en": "I am here to pick up my medicine.",
+      "note": "A natural opening at the pharmacy counter."
+    },
+    {
+      "nl": "Hier is mijn verzekeringspas.",
+      "en": "Here is my insurance card.",
+      "note": null
+    },
+    {
+      "nl": "Hoe moet ik dit innemen?",
+      "en": "How should I take this?",
+      "note": "Use moeten for instructions."
+    },
+    {
+      "nl": "Twee keer per dag, na het eten.",
+      "en": "Twice a day, after meals.",
+      "note": null
+    },
+    {
+      "nl": "Kan ik dit met eten innemen?",
+      "en": "Can I take this with food?",
+      "note": null
+    },
+    {
+      "nl": "U mag geen alcohol drinken.",
+      "en": "You must not drink alcohol.",
+      "note": "mag geen = it is not allowed."
+    },
+    {
+      "nl": "U hoeft het niet in te nemen.",
+      "en": "You don't have to take it.",
+      "note": "hoeven ... niet = don't have to; the separable verb becomes in ... te nemen."
+    },
+    {
+      "nl": "Zijn er bijwerkingen?",
+      "en": "Are there any side effects?",
+      "note": "Zijn er = are there."
+    },
+    {
+      "nl": "Ik ben allergisch voor deze tabletten.",
+      "en": "I am allergic to these tablets.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Hoe vaak? — Frequency",
+      "explanation": "Use **per** + time word: **twee keer per dag**, **één keer per week**. Use **elke** + time word: **elke ochtend**, **elke dag**. Use **voor** and **na** + **het eten**: **voor het eten**, **na het eten**. For before sleeping we say **voor het slapen**.",
+      "table": {
+        "headers": [
+          "Hoe vaak?",
+          "Voorbeeld"
+        ],
+        "rows": [
+          [
+            "twee keer per dag",
+            "Ik neem twee keer per dag een tablet."
+          ],
+          [
+            "elke ochtend",
+            "Elke ochtend smeer ik de zalf."
+          ],
+          [
+            "na het eten",
+            "Na het eten neem ik een pil."
+          ],
+          [
+            "voor het slapen",
+            "Voor het slapen neem ik druppels."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik neem twee keer per dag een tablet.",
+          "en": "I take a tablet twice a day."
+        },
+        {
+          "nl": "Elke ochtend smeer ik de zalf.",
+          "en": "Every morning I rub on the ointment."
+        },
+        {
+          "nl": "Na het eten neem ik een pil.",
+          "en": "After the meal I take a pill."
+        }
+      ],
+      "tip": "**per** + time word: **per dag**, **per week**. **elke** + time word: **elke ochtend**, **elke dag**."
+    },
+    {
+      "title": "Instructions: mogen, moeten, hoeven",
+      "explanation": "**U mag geen alcohol drinken.** = You must not drink alcohol. **U moet dit na het eten innemen.** = You must take this after meals. **U hoeft het niet in te nemen.** = You don't have to take it. **hoeven** is used with **niet** (or **geen**): **hoeft niet**, **hoeft geen**.",
+      "table": {
+        "headers": [
+          "Woord",
+          "Voorbeeld",
+          "Betekenis"
+        ],
+        "rows": [
+          [
+            "mogen (mag geen)",
+            "U mag geen alcohol drinken.",
+            "must not / may not"
+          ],
+          [
+            "moeten",
+            "U moet veel water drinken.",
+            "must"
+          ],
+          [
+            "hoeven ... niet",
+            "U hoeft het niet in te nemen.",
+            "don't have to"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "U mag geen alcohol drinken.",
+          "en": "You must not drink alcohol."
+        },
+        {
+          "nl": "U moet dit na het eten innemen.",
+          "en": "You must take this after meals."
+        },
+        {
+          "nl": "U hoeft het niet in te nemen.",
+          "en": "You don't have to take it."
+        }
+      ],
+      "tip": "**mag geen** = it is not allowed; **hoeft niet** = it is not necessary."
+    },
+    {
+      "title": "Questions with kunnen",
+      "explanation": "Start a question with **Kan** or **Kunt**: **Kan ik dit met eten innemen?** **Kunt u mij helpen?** The verb comes first, then the subject. With a modal verb, the infinitive goes at the end.",
+      "table": {
+        "headers": [
+          "Vraag",
+          "Voorbeeld"
+        ],
+        "rows": [
+          [
+            "Kan ik ...?",
+            "Kan ik dit met eten innemen?"
+          ],
+          [
+            "Kunt u ...?",
+            "Kunt u mij helpen?"
+          ],
+          [
+            "Kan ik ... met ...?",
+            "Kan ik de tablet met water innemen?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Kan ik dit met eten innemen?",
+          "en": "Can I take this with food?"
+        },
+        {
+          "nl": "Kunt u mij helpen?",
+          "en": "Can you help me?"
+        },
+        {
+          "nl": "Kan ik de tablet met water innemen?",
+          "en": "Can I take the tablet with water?"
+        }
+      ],
+      "tip": "**Kan ik...?** and **Kunt u...?** are polite; the infinitive goes at the end."
+    }
+  ],
+  "dialogue": {
+    "title": "Bij de apotheek",
+    "setting": "Sanne is at the pharmacy to pick up a prescription for her allergy.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Daan",
+        "nl": "Goedemiddag, kan ik u helpen?",
+        "en": "Good afternoon, can I help you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemiddag. Ik kom mijn medicijn ophalen. Hier is mijn verzekeringspas.",
+        "en": "Good afternoon. I am here to pick up my medicine. Here is my insurance card."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Dank u. Alstublieft, hier is het. Het zijn tabletten.",
+        "en": "Thank you. Here it is. They are tablets."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hoe moet ik dit innemen?",
+        "en": "How should I take this?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Twee keer per dag, na het eten. Eén tablet.",
+        "en": "Twice a day, after the meal. One tablet."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Kan ik dit met eten innemen? Ik heb een allergie.",
+        "en": "Can I take this with food? I have an allergy."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, dat kan. Maar u mag geen alcohol drinken.",
+        "en": "Yes, that's possible. But you must not drink alcohol."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Moet ik het ook 's ochtends innemen?",
+        "en": "Do I also have to take it in the morning?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Nee, alleen na het eten. U hoeft het niet voor het slapen in te nemen.",
+        "en": "No, only after the meal. You don't have to take it before sleeping."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Zijn er bijwerkingen?",
+        "en": "Are there any side effects?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "U kunt een beetje misselijk zijn. Dat kan.",
+        "en": "You may be a bit nauseous. That's possible."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. En heeft u een pleister voor mijn vinger?",
+        "en": "Thank you. And do you have a plaster for my finger?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, hier heeft u pleisters.",
+        "en": "Yes, here are plasters for you."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel!",
+        "en": "Thank you!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de apotheek",
+          "pharmacy"
+        ],
+        [
+          "de drogist",
+          "drugstore"
+        ],
+        [
+          "de tablet",
+          "tablet"
+        ],
+        [
+          "de zalf",
+          "ointment"
+        ],
+        [
+          "de pleister",
+          "plaster"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de bijwerking",
+          "side effect"
+        ],
+        [
+          "innemen",
+          "to take (medicine)"
+        ],
+        [
+          "slikken",
+          "to swallow"
+        ],
+        [
+          "smeren",
+          "to rub on"
+        ],
+        [
+          "ophalen",
+          "to pick up"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'pharmacist'?",
+      "nl": null,
+      "options": [
+        "de apotheek",
+        "de apotheker",
+        "de drogist"
+      ],
+      "answer": 1,
+      "explain": "De apotheker works in the apotheek."
+    },
+    {
+      "type": "choice",
+      "prompt": "You have a prescription. Where do you go?",
+      "nl": null,
+      "options": [
+        "naar de drogist",
+        "naar de apotheek",
+        "naar de bakker"
+      ],
+      "answer": 1,
+      "explain": "An apotheek handles prescriptions."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "U mag geen alcohol drinken.",
+        "U mag niet alcohol drinken.",
+        "U mag geen alcohol te drinken."
+      ],
+      "answer": 0,
+      "explain": "Use geen before the noun, and the infinitive at the end."
+    },
+    {
+      "type": "article",
+      "word": "apotheek",
+      "en": "pharmacy",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "eten",
+      "en": "meal, food",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "Twice a day, after meals.",
+      "answer": "Twee keer per dag na het eten.",
+      "accept": [
+        "Na het eten twee keer per dag.",
+        "Twee keer per dag, na het eten.",
+        "Na het eten, twee keer per dag."
+      ],
+      "extra": [
+        "elke",
+        "op"
+      ],
+      "explain": "Frequency comes first: **twee keer per dag**; then **na het eten**."
+    },
+    {
+      "type": "build",
+      "en": "You must not drink alcohol.",
+      "answer": "U mag geen alcohol drinken.",
+      "accept": [],
+      "extra": [
+        "niet",
+        "hoeft"
+      ],
+      "explain": "Use **geen** before the noun **alcohol**; the infinitive **drinken** goes at the end."
+    },
+    {
+      "type": "build",
+      "en": "Can I take this with food?",
+      "answer": "Kan ik dit met eten innemen?",
+      "accept": [
+        "Kan ik dit innemen met eten?"
+      ],
+      "extra": [
+        "de",
+        "ochtend"
+      ],
+      "explain": "A yes/no question starts with **Kan**; the infinitive **innemen** goes at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Neem de tablet twee keer ___ dag.",
+      "en": "Take the tablet twice a day.",
+      "answers": [
+        "per"
+      ],
+      "hint": "per + dag = a day",
+      "explain": "Use **per** + time word: **per dag** = a day."
+    },
+    {
+      "type": "gap",
+      "text": "Na ___ eten neem ik een pil.",
+      "en": "After the meal I take a pill.",
+      "answers": [
+        "het"
+      ],
+      "hint": "het eten (het-word)",
+      "explain": "**het eten** is a het-word; after **na** the noun keeps **het**: **na het eten**."
+    },
+    {
+      "type": "gap",
+      "text": "U mag ___ alcohol drinken.",
+      "en": "You must not drink alcohol.",
+      "answers": [
+        "geen"
+      ],
+      "hint": "geen = not any",
+      "explain": "Use **geen** before a noun: **geen alcohol** = not any alcohol."
+    },
+    {
+      "type": "translate",
+      "en": "I am here to pick up my medicine.",
+      "answers": [
+        "Ik kom mijn medicijn ophalen.",
+        "Ik kom mijn medicijnen ophalen.",
+        "Ik ben hier om mijn medicijn op te halen.",
+        "Ik ben hier om mijn medicijnen op te halen."
+      ],
+      "focus": "ophalen (separable) + mijn",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the object after ophalen: 'Ik kom ophalen mijn medicijn.'",
+          "explain": "The object goes before the separable prefix: 'Ik kom mijn medicijn ophalen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds te before the infinitive: 'Ik kom mijn medicijn te ophalen.'",
+          "explain": "After komen use the bare infinitive: 'Ik kom mijn medicijn ophalen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Splits the infinitive ophalen as two words: 'Ik kom mijn medicijn op halen.'",
+          "explain": "In the infinitive ophalen is one word: 'ophalen'. It splits only in the present: 'Ik haal het op.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits mijn: 'Ik kom medicijn ophalen.'",
+          "explain": "Use the possessive: 'Ik kom mijn medicijn ophalen.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "How should I take this?",
+      "answers": [
+        "Hoe moet ik dit innemen?",
+        "Hoe moet ik het innemen?",
+        "Hoe moet ik dit medicijn innemen?"
+      ],
+      "focus": "hoe + moet + infinitive at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Splits innemen as 'in nemen': 'Hoe moet ik dit in nemen?'",
+          "explain": "innemen is one word in the infinitive: 'innemen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb before the subject: 'Hoe ik moet dit innemen?'",
+          "explain": "In a question the verb comes before the subject: 'Hoe moet ik dit innemen?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses nemen without in-: 'Hoe moet ik dit nemen?'",
+          "explain": "For medicine use innemen: 'Hoe moet ik dit innemen?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'moeten ik' instead of 'moet ik': 'Hoe moeten ik dit innemen?'",
+          "explain": "With ik use moet: 'Hoe moet ik dit innemen?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I am allergic to these tablets.",
+      "answers": [
+        "Ik ben allergisch voor deze tabletten.",
+        "Ik ben allergisch voor die tabletten.",
+        "Ik heb een allergie voor deze tabletten."
+      ],
+      "focus": "allergisch voor + deze/die",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses aan instead of voor: 'Ik ben allergisch aan deze tabletten.'",
+          "explain": "In Dutch say allergisch voor: 'Ik ben allergisch voor deze tabletten.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses hebben with allergisch: 'Ik heb allergisch voor deze tabletten.'",
+          "explain": "Use zijn with the adjective: 'Ik ben allergisch voor deze tabletten.' Or say 'Ik heb een allergie voor...'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses singular tablet: 'Ik ben allergisch voor deze tablet.'",
+          "explain": "These tablets is plural: 'deze tabletten'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets voor: 'Ik ben allergisch deze tabletten.'",
+          "explain": "Allergisch takes voor: 'allergisch voor deze tabletten'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Twee keer per dag.",
+      "en": "Twice a day."
+    },
+    {
+      "type": "listen",
+      "nl": "Na het eten neem ik een tablet.",
+      "en": "After the meal I take a tablet."
+    },
+    {
+      "type": "reply",
+      "context": "You are at the pharmacy. The pharmacist asks you a question.",
+      "say": {
+        "nl": "Heeft u een verzekeringspas?",
+        "en": "Do you have an insurance card?"
+      },
+      "task": "Say yes and give your card.",
+      "examples": [
+        "Ja, hier is mijn verzekeringspas.",
+        "Ja, alstublieft, hier is mijn verzekeringspas."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Says 'Ja, hier is mijn verzekering' without pas.",
+          "explain": "The card is de verzekeringspas: 'Hier is mijn verzekeringspas.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb last: 'Ja, hier mijn verzekeringspas is.'",
+          "explain": "In a statement the verb comes second: 'Hier is mijn verzekeringspas.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Splits the compound as 'pas verzekering': 'Ja, hier is mijn pas verzekering.'",
+          "explain": "verzekeringspas is one word: 'mijn verzekeringspas'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The pharmacist gives you instructions for your tablets.",
+      "say": {
+        "nl": "Neem de tablet twee keer per dag.",
+        "en": "Take the tablet twice a day."
+      },
+      "task": "Ask if you can take it with food.",
+      "examples": [
+        "Kan ik de tablet met eten innemen?",
+        "Kan ik dit met eten innemen?",
+        "Mag ik de tablet met eten innemen?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Splits innemen as 'in nemen': 'Kan ik de tablet met eten in nemen?'",
+          "explain": "innemen is one word in the infinitive: 'innemen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'Kunnen ik' instead of 'Kan ik': 'Kunnen ik de tablet met eten innemen?'",
+          "explain": "With ik use kan: 'Kan ik de tablet met eten innemen?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Forgets met: 'Kan ik de tablet eten innemen?'",
+          "explain": "Use met eten: 'Kan ik de tablet met eten innemen?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Bij de apotheek",
+    "setting": "You are at the pharmacy to pick up a prescription for your allergy. The pharmacist asks you a few questions.",
+    "partner": {
+      "name": "Daan",
+      "gender": "m",
+      "role": "apotheker"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag, kan ik u helpen?",
+          "en": "Good afternoon, can I help you?"
+        },
+        "task": "Say that you come to pick up your medicine and give your insurance card.",
+        "examples": [
+          "Ik kom mijn medicijn ophalen. Hier is mijn verzekeringspas.",
+          "Goedemiddag. Ik kom mijn medicijnen ophalen. Hier is mijn verzekeringspas."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the object after ophalen: 'Ik kom ophalen mijn medicijn.'",
+            "explain": "The object goes before the separable prefix: 'Ik kom mijn medicijn ophalen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds te before the infinitive: 'Ik kom mijn medicijn te ophalen.'",
+            "explain": "After komen use the bare infinitive: 'Ik kom mijn medicijn ophalen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Splits the infinitive ophalen as two words: 'Ik kom mijn medicijn op halen.'",
+            "explain": "In the infinitive ophalen is one word: 'ophalen'. It splits only in the present: 'Ik haal het op.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Omits mijn: 'Ik kom medicijn ophalen.'",
+            "explain": "Use the possessive: 'Ik kom mijn medicijn ophalen.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Hier is het. Het zijn tabletten. Neem ze twee keer per dag.",
+          "en": "Here it is. They are tablets. Take them twice a day."
+        },
+        "task": "Ask if you can take them with food. Say that you have an allergy.",
+        "examples": [
+          "Kan ik ze met eten innemen? Ik heb een allergie.",
+          "Kan ik dit met eten innemen? Ik heb een allergie."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Splits innemen as 'in nemen': 'Kan ik ze met eten in nemen?'",
+            "explain": "innemen is one word in the infinitive: 'innemen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits een before allergie: 'Ik heb allergie.'",
+            "explain": "Say 'Ik heb een allergie.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses zijn with allergie: 'Ik ben allergie.'",
+            "explain": "Use hebben: 'Ik heb een allergie.' Or use the adjective: 'Ik ben allergisch.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja, dat kan. Maar u mag geen alcohol drinken.",
+          "en": "Yes, that's possible. But you must not drink alcohol."
+        },
+        "task": "Ask if there are side effects.",
+        "examples": [
+          "Zijn er bijwerkingen?",
+          "Heeft het medicijn bijwerkingen?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses singular bijwerking: 'Zijn er bijwerking?'",
+            "explain": "Use the plural: 'Zijn er bijwerkingen?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'Is er bijwerkingen?'",
+            "explain": "With plural bijwerkingen use zijn er: 'Zijn er bijwerkingen?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Asks the pharmacist if he has side effects: 'Heeft u bijwerkingen?'",
+            "explain": "To ask if side effects exist, say 'Zijn er bijwerkingen?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "U kunt een beetje misselijk zijn.",
+          "en": "You may be a bit nauseous."
+        },
+        "task": "Ask if you can take a tablet before sleeping.",
+        "examples": [
+          "Kan ik voor het slapen een tablet innemen?",
+          "Mag ik voor het slapen een tablet innemen?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Forgets het before slapen: 'Kan ik voor slapen een tablet innemen?'",
+            "explain": "Say voor het slapen: 'Kan ik voor het slapen een tablet innemen?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Splits innemen as 'in nemen': 'Kan ik voor het slapen een tablet in nemen?'",
+            "explain": "innemen is one word in the infinitive: 'innemen'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the infinitive in the wrong place: 'Kan ik innemen voor het slapen een tablet?'",
+            "explain": "Put the time phrase before the object and the infinitive at the end: 'Kan ik voor het slapen een tablet innemen?'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Nee, dat hoeft niet. U hoeft het niet voor het slapen in te nemen. Tot ziens!",
+      "en": "No, that's not necessary. You don't have to take it before sleeping. Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Apotheek of drogist?",
+    "text": "In the Netherlands you pick up a prescription at the **apotheek**, and the apotheker explains how to take the medicine. At a **drogist** such as Kruidvat or Etos you can buy simple medicines, plasters and creams without a prescription. For stronger medicines you need a prescription and a verzekeringspas; basic insurance usually covers prescription medicine, but there is an annual 'eigen risico' (own risk) that you pay yourself."
+  },
+  "summary": [
+    "Pick up medicine with: Ik kom mijn medicijn ophalen. Hier is mijn verzekeringspas.",
+    "Ask about dosage with: Hoe moet ik dit innemen? Twee keer per dag, na het eten.",
+    "Use per dag, elke ochtend, voor het eten, na het eten and voor het slapen for frequency and timing.",
+    "Instructions use mogen, moeten and hoeven: U mag geen alcohol drinken. U hoeft het niet in te nemen.",
+    "An apotheek handles prescriptions; a drogist sells simple medicines."
+  ]
+}

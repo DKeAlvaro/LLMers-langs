@@ -1,0 +1,1139 @@
+{
+  "id": "u12-l03",
+  "title": "Het, die, dat, er",
+  "subtitle": "Small words, big rules",
+  "level": "A2+",
+  "intro": "By the end of this lesson you can choose between het, die and dat without stopping to think. You will also recognise the four main jobs of er, and you will know when Dutch points back at a thing with die and when with het.",
+  "words": [
+    {
+      "nl": "er",
+      "en": "there; of it / of them",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Er is een probleem.",
+        "en": "There is a problem."
+      },
+      "note": "A small word with several jobs: 'there', 'of them', and a partner for prepositions."
+    },
+    {
+      "nl": "daar",
+      "en": "there",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Daar staat mijn fiets.",
+        "en": "My bike is standing there."
+      },
+      "note": "Points to a place further away; hier is 'here'."
+    },
+    {
+      "nl": "hier",
+      "en": "here",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hier is de sleutel.",
+        "en": "Here is the key."
+      },
+      "note": null
+    },
+    {
+      "nl": "deze",
+      "en": "this (with de-words and plurals)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Deze doos is groot.",
+        "en": "This box is big."
+      },
+      "note": "Only with de-words and plurals; het-words take dit."
+    },
+    {
+      "nl": "dit",
+      "en": "this (with het-words)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dit pakket is voor jou.",
+        "en": "This parcel is for you."
+      },
+      "note": "Only with het-words: dit huis, dit boek."
+    },
+    {
+      "nl": "die",
+      "en": "that; which (with de-words and plurals)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Die jas is te groot.",
+        "en": "That coat is too big."
+      },
+      "note": "Also a relative pronoun: de man die daar woont."
+    },
+    {
+      "nl": "dat",
+      "en": "that; which (with het-words)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dat huis is oud.",
+        "en": "That house is old."
+      },
+      "note": "Also relative: het boek dat ik lees."
+    },
+    {
+      "nl": "erover",
+      "en": "about it",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik denk erover na.",
+        "en": "I'm thinking about it."
+      },
+      "note": "er + over; used for things, not people."
+    },
+    {
+      "nl": "ermee",
+      "en": "with it",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben ermee bezig.",
+        "en": "I'm working on it."
+      },
+      "note": "er + met."
+    },
+    {
+      "nl": "ervan",
+      "en": "of it",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik weet ervan.",
+        "en": "I know about it."
+      },
+      "note": "er + van."
+    },
+    {
+      "nl": "erin",
+      "en": "in it",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De sleutel zit erin.",
+        "en": "The key is in it."
+      },
+      "note": "er + in."
+    },
+    {
+      "nl": "iets",
+      "en": "something",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb iets voor jou.",
+        "en": "I have something for you."
+      },
+      "note": "In questions: Is er iets?"
+    },
+    {
+      "nl": "niets",
+      "en": "nothing",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb niets.",
+        "en": "I have nothing."
+      },
+      "note": "Already negative: don't add niet ('Ik heb niets')."
+    },
+    {
+      "nl": "iemand",
+      "en": "someone",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Er is iemand aan de deur.",
+        "en": "There is someone at the door."
+      },
+      "note": null
+    },
+    {
+      "nl": "niemand",
+      "en": "no one, nobody",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Niemand weet het.",
+        "en": "Nobody knows."
+      },
+      "note": null
+    },
+    {
+      "nl": "alles",
+      "en": "everything",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Alles is klaar.",
+        "en": "Everything is ready."
+      },
+      "note": "Alles is always singular: Alles is klaar."
+    },
+    {
+      "nl": "iedereen",
+      "en": "everyone",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Iedereen is er.",
+        "en": "Everyone is there."
+      },
+      "note": "One word, always singular: Iedereen is er."
+    },
+    {
+      "nl": "sommige",
+      "en": "some (of a group)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Sommige mensen werken thuis.",
+        "en": "Some people work from home."
+      },
+      "note": "Always before a plural noun: sommige mensen."
+    },
+    {
+      "nl": "veel",
+      "en": "much, many, a lot of",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb veel werk.",
+        "en": "I have a lot of work."
+      },
+      "note": "Opposite of weinig; also te veel = too much."
+    },
+    {
+      "nl": "weinig",
+      "en": "little, few",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb weinig geld.",
+        "en": "I have little money."
+      },
+      "note": null
+    },
+    {
+      "nl": "genoeg",
+      "en": "enough",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We hebben genoeg dozen.",
+        "en": "We have enough boxes."
+      },
+      "note": "It can go before or after the noun: genoeg geld / geld genoeg."
+    },
+    {
+      "nl": "allebei",
+      "en": "both (of two)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik neem ze allebei.",
+        "en": "I'll take both of them."
+      },
+      "note": "For exactly two: allebei de dozen."
+    },
+    {
+      "nl": "beide",
+      "en": "both",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Beide ouders komen.",
+        "en": "Both parents are coming."
+      },
+      "note": "A little more formal than allebei."
+    },
+    {
+      "nl": "elk",
+      "en": "each, every (with het-words)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Elk huis heeft een tuin.",
+        "en": "Every house has a garden."
+      },
+      "note": "Use elke before de-words: elke dag."
+    },
+    {
+      "nl": "ieder",
+      "en": "each, every (with het-words)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ieder kind leest.",
+        "en": "Every child reads."
+      },
+      "note": "Use iedere before de-words: iedere dag."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Er is een probleem.",
+      "en": "There is a problem.",
+      "note": "Existential er: er is / er zijn."
+    },
+    {
+      "nl": "Is iedereen er?",
+      "en": "Is everyone there?",
+      "note": "er = there, present."
+    },
+    {
+      "nl": "Ik heb er twee.",
+      "en": "I have two of them.",
+      "note": "After a number, er means 'of them'."
+    },
+    {
+      "nl": "Ik denk erover na.",
+      "en": "I'll think about it.",
+      "note": "denken over -> erover."
+    },
+    {
+      "nl": "Ik ben ermee bezig.",
+      "en": "I'm working on it.",
+      "note": "bezig met -> ermee."
+    },
+    {
+      "nl": "Dat is alles.",
+      "en": "That's all.",
+      "note": null
+    },
+    {
+      "nl": "Niemand weet het.",
+      "en": "Nobody knows.",
+      "note": null
+    },
+    {
+      "nl": "We hebben genoeg.",
+      "en": "We have enough.",
+      "note": null
+    },
+    {
+      "nl": "Ik neem ze allebei.",
+      "en": "I'll take both of them.",
+      "note": "allebei = exactly two."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Deze of dit? Die of dat?",
+      "explanation": "**Deze** and **die** go with de-words and plurals. **Dit** and **dat** go with het-words. The same words also work as relative pronouns: **die** for de-words and plurals, **dat** for het-words. In a relative clause the verb goes to the end.",
+      "table": {
+        "headers": [
+          "Zelfstandig naamwoord",
+          "Dichtbij",
+          "Ver weg"
+        ],
+        "rows": [
+          [
+            "de doos (de)",
+            "deze doos",
+            "die doos"
+          ],
+          [
+            "het pakket (het)",
+            "dit pakket",
+            "dat pakket"
+          ],
+          [
+            "de boeken (mv)",
+            "deze boeken",
+            "die boeken"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Deze doos is groot.",
+          "en": "This box is big."
+        },
+        {
+          "nl": "Dat pakket is voor jou.",
+          "en": "That parcel is for you."
+        },
+        {
+          "nl": "Het pakket dat ik heb besteld, is er niet.",
+          "en": "The parcel that I ordered isn't here."
+        }
+      ],
+      "tip": "Ask yourself: de or het? De -> deze/die, het -> dit/dat."
+    },
+    {
+      "title": "Er: klein woord, vier taken",
+      "explanation": "**Er** has four jobs. It says that something exists (**Er is**, **Er zijn**), it means 'there' as a place, it means 'of them' after a number, and it joins a preposition to point back at a thing: **erover**, **ermee**, **ervan**, **erin**.",
+      "table": {
+        "headers": [
+          "Taak",
+          "Voorbeeld",
+          "Engels"
+        ],
+        "rows": [
+          [
+            "bestaan",
+            "Er is een probleem.",
+            "There is a problem."
+          ],
+          [
+            "plaats",
+            "Is iedereen er?",
+            "Is everyone there?"
+          ],
+          [
+            "getal",
+            "Ik heb er twee.",
+            "I have two of them."
+          ],
+          [
+            "voorzetsel",
+            "Ik denk erover na.",
+            "I'm thinking about it."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Er staan nog drie dozen in de keuken.",
+          "en": "There are still three boxes in the kitchen."
+        },
+        {
+          "nl": "Ik neem er twee mee.",
+          "en": "I'll take two of them."
+        },
+        {
+          "nl": "Ik ben ermee bezig.",
+          "en": "I'm working on it."
+        }
+      ],
+      "tip": "Er + preposition is written as one word: over -> erover, met -> ermee, van -> ervan, in -> erin."
+    },
+    {
+      "title": "Naar dingen wijzen: die of het",
+      "explanation": "When you talk about a thing you already mentioned, use **die** (or **hij**) for de-words and **het** for het-words. For plurals use **die** or **ze**.",
+      "table": {
+        "headers": [
+          "Voorwerp",
+          "Artikel",
+          "Verwijzing"
+        ],
+        "rows": [
+          [
+            "de sleutel",
+            "de",
+            "die / hij"
+          ],
+          [
+            "het pakket",
+            "het",
+            "het"
+          ],
+          [
+            "de dozen",
+            "mv",
+            "die / ze"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Waar is de sleutel? Die ligt op tafel.",
+          "en": "Where's the key? It's on the table."
+        },
+        {
+          "nl": "Waar is het pakket? Het ligt bij de deur.",
+          "en": "Where's the parcel? It's by the door."
+        }
+      ],
+      "tip": "Never use het for a de-word: 'Waar is de sleutel?' - 'Die ligt daar', not 'Het ligt daar'."
+    }
+  ],
+  "dialogue": {
+    "title": "De verhuizing",
+    "setting": "Youssef helps Sanne move into a new apartment in Utrecht.",
+    "speakers": [
+      {
+        "name": "Youssef",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Youssef",
+        "nl": "Zo, is alles al in de dozen?",
+        "en": "So, is everything already in the boxes?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nog niet. Er staan nog drie in de keuken.",
+        "en": "Not yet. There are still three in the kitchen."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "En die grote doos bij de deur? Wat zit erin?",
+        "en": "And that big box by the door? What's in it?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Boeken. Ik heb er te veel.",
+        "en": "Books. I have too many of them."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Ik neem er twee mee naar de auto.",
+        "en": "I'll take two of them to the car."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank je. Deze doos is voor jou. Hij is wel groot.",
+        "en": "Thanks. This box is for you. It is big, though."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Geen probleem, ik ben sterk. Wat zit erin?",
+        "en": "No problem, I'm strong. What's in it?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "De pannen. En iets voor jou.",
+        "en": "The pans. And something for you."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Voor mij? Dat is aardig! Wat is het?",
+        "en": "For me? That's kind! What is it?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat zie je straks. Niemand weet het nog.",
+        "en": "You'll see later. Nobody knows yet."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Goed. Is iedereen er straks?",
+        "en": "Okay. Is everyone there later?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Allebei mijn ouders komen, en sommige vrienden.",
+        "en": "Both my parents are coming, and some friends."
+      },
+      {
+        "speaker": "Youssef",
+        "nl": "Gezellig! Waar is de lift?",
+        "en": "Nice! Where's the lift?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Die is daar, naast de trap.",
+        "en": "It's there, next to the stairs."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "iets",
+          "something"
+        ],
+        [
+          "niets",
+          "nothing"
+        ],
+        [
+          "iemand",
+          "someone"
+        ],
+        [
+          "niemand",
+          "no one"
+        ],
+        [
+          "alles",
+          "everything"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "erover",
+          "about it"
+        ],
+        [
+          "ermee",
+          "with it"
+        ],
+        [
+          "ervan",
+          "of it"
+        ],
+        [
+          "erin",
+          "in it"
+        ],
+        [
+          "daar",
+          "there"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies het goede woord.",
+      "nl": "___ huis is oud.",
+      "options": [
+        "Deze",
+        "Dit",
+        "Die"
+      ],
+      "answer": 1,
+      "explain": "'Het huis' is a het-word, so use dit (and dat)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies het goede woord.",
+      "nl": "___ boeken zijn van mij.",
+      "options": [
+        "Dit",
+        "Deze",
+        "Dat"
+      ],
+      "answer": 1,
+      "explain": "Plurals take deze and die, never dit or dat."
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies het goede woord.",
+      "nl": "Ik heb ___ twee.",
+      "options": [
+        "er",
+        "het",
+        "dat"
+      ],
+      "answer": 0,
+      "explain": "After a number, er means 'of them'."
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies het goede woord.",
+      "nl": "Waar is de sleutel? ___ ligt op tafel.",
+      "options": [
+        "Het",
+        "Die",
+        "Dat"
+      ],
+      "answer": 1,
+      "explain": "'De sleutel' is a de-word, so use die (or hij)."
+    },
+    {
+      "type": "article",
+      "word": "doos",
+      "en": "box",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "pakket",
+      "en": "parcel",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I have two of them.",
+      "answer": "Ik heb er twee.",
+      "accept": [
+        "Ik heb er twee."
+      ],
+      "extra": [
+        "ze",
+        "het"
+      ],
+      "explain": "After a number, er means 'of them': 'Ik heb er twee.'"
+    },
+    {
+      "type": "build",
+      "en": "There is a problem.",
+      "answer": "Er is een probleem.",
+      "accept": [
+        "Er is een probleem."
+      ],
+      "extra": [
+        "veel",
+        "de"
+      ],
+      "explain": "Use 'er is' for one thing and 'er zijn' for more: 'Er is een probleem.'"
+    },
+    {
+      "type": "build",
+      "en": "I am working on it.",
+      "answer": "Ik ben ermee bezig.",
+      "accept": [
+        "Ik ben ermee bezig."
+      ],
+      "extra": [
+        "de",
+        "wat"
+      ],
+      "explain": "'ermee' is one word and goes before 'bezig': 'Ik ben ermee bezig.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik denk ___ na.",
+      "en": "I'm thinking about it.",
+      "answers": [
+        "erover"
+      ],
+      "hint": "nadenken over -> erover",
+      "explain": "With 'nadenken over', the thing becomes 'erover': 'Ik denk erover na.'"
+    },
+    {
+      "type": "gap",
+      "text": "Er ___ veel dozen in de kamer.",
+      "en": "There are many boxes in the room.",
+      "answers": [
+        "staan",
+        "zijn",
+        "liggen"
+      ],
+      "hint": "staan / zijn / liggen",
+      "explain": "For more than one thing use 'er zijn'; for things standing or lying you can also use 'er staan' or 'er liggen': 'Er staan veel dozen in de kamer.'"
+    },
+    {
+      "type": "gap",
+      "text": "Is ___ er?",
+      "en": "Is everyone there?",
+      "answers": [
+        "iedereen"
+      ],
+      "hint": "everyone",
+      "explain": "'Everyone' is 'iedereen' and takes a singular verb: 'Is iedereen er?'"
+    },
+    {
+      "type": "translate",
+      "en": "There are two boxes.",
+      "answers": [
+        "Er zijn twee dozen.",
+        "Er staan twee dozen.",
+        "Er liggen twee dozen."
+      ],
+      "focus": "existential er: er is / er zijn",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Translates 'there are' with 'Het zijn' (Het zijn twee dozen).",
+          "explain": "Use 'er' for 'there are': 'Er zijn twee dozen.' 'Het zijn...' means 'They are...'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses singular 'is' with plural 'dozen' (Er is twee dozen).",
+          "explain": "With a plural subject use 'zijn': 'Er zijn twee dozen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves the plural unmarked after 'twee' (Er zijn twee doos / twee doze).",
+          "explain": "After a number use the plural form: 'twee dozen'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I have three of them.",
+      "answers": [
+        "Ik heb er drie."
+      ],
+      "focus": "er with numbers",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Leaves out 'er' for 'of them' (Ik heb drie).",
+          "explain": "After a number, 'er' means 'of them': 'Ik heb er drie.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses a personal pronoun for things (Ik heb ze drie / Ik heb hen drie).",
+          "explain": "For things after a number use 'er', not 'ze/hen': 'Ik heb er drie.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds 'van' after the number (Ik heb er drie van).",
+          "explain": "With a number you do not need 'van': 'Ik heb er drie.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Nobody knows it.",
+      "answers": [
+        "Niemand weet het.",
+        "Niemand weet dat."
+      ],
+      "focus": "niemand + het / dat",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds 'niet' to 'niemand' (Niemand weet het niet).",
+          "explain": "'Niemand' is already negative; do not add 'niet': 'Niemand weet het.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'hij' for a thing (Niemand weet hij).",
+          "explain": "Point back with 'het' (or 'dat'), not 'hij': 'Niemand weet het.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out the object (Niemand weet).",
+          "explain": "Add the object: 'Niemand weet het.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Er is niemand thuis.",
+      "en": "There is no one at home."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik heb er genoeg.",
+      "en": "I have enough of them."
+    },
+    {
+      "type": "reply",
+      "context": "You are moving house and your friend is helping you. He points at a big box.",
+      "say": {
+        "nl": "Wat zit erin?",
+        "en": "What's in it?"
+      },
+      "task": "Say that there are books in it and that you have too many of them.",
+      "examples": [
+        "Er zitten boeken in. Ik heb er te veel.",
+        "Boeken. Ik heb er echt te veel."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses singular 'is' with plural 'boeken' (Er is boeken in).",
+          "explain": "With plural 'boeken' use 'zijn/zitten': 'Er zitten boeken in.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out 'er' with 'too many of them' (Ik heb te veel).",
+          "explain": "After a number or quantity, 'er' means 'of them': 'Ik heb er te veel.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'veel' instead of 'te veel' for 'too many' (Ik heb er veel).",
+          "explain": "'Too many' is 'te veel': 'Ik heb er te veel.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Repeats 'er' with the preposition (Er zitten boeken erin).",
+          "explain": "Use 'er...in' as a pair: 'Er zitten boeken in', not 'Er zitten boeken erin'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "He picks up a box and asks what to do with it.",
+      "say": {
+        "nl": "En deze doos?",
+        "en": "And this box?"
+      },
+      "task": "Say that the box is for you, but that it is rather big.",
+      "examples": [
+        "Die is voor jou, maar hij is best wel groot.",
+        "Deze doos is voor jou, maar hij is best wel groot."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'Het' for the de-word 'doos' (Het is voor jou, maar hij is best wel groot).",
+          "explain": "'De doos/deze doos' is a de-word, so point back with 'die' (or 'hij'): 'Die is voor jou.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses subject 'hij' after 'voor' (voor hij).",
+          "explain": "After a preposition use 'jou' for the person you are speaking to: 'voor jou'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'het' for the box (Het is voor jou, maar het is best wel groot).",
+          "explain": "Use 'die/hij' for 'de doos': 'Die is voor jou, maar hij is best wel groot.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Leaves out 'maar' (Die is voor jou. Hij is best wel groot).",
+          "explain": "The task asks for a contrast: 'Die is voor jou, maar hij is best wel groot.'"
+        },
+        {
+          "id": "m5",
+          "pattern": "Says 'wel groot' instead of 'best wel groot' for 'rather big' (maar hij is wel groot).",
+          "explain": "'Rather big' is 'best wel groot': 'maar hij is best wel groot.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "He asks about the guests who are coming later.",
+      "say": {
+        "nl": "Is iedereen er straks?",
+        "en": "Is everyone there later?"
+      },
+      "task": "Say that both your parents are coming and that some friends are coming too.",
+      "examples": [
+        "Allebei mijn ouders komen, en sommige vrienden ook.",
+        "Mijn ouders komen allebei, en sommige vrienden komen ook."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses singular 'komt' with plural 'ouders' (Allebei mijn ouders komt).",
+          "explain": "With plural 'ouders' use 'komen': 'Allebei mijn ouders komen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses singular 'komt' with plural 'vrienden' (Sommige vrienden komt).",
+          "explain": "With plural 'vrienden' use 'komen': 'sommige vrienden komen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Places 'allebei' after 'mijn' (Mijn allebei ouders komen).",
+          "explain": "Say 'allebei mijn ouders' or 'mijn ouders allebei', not 'mijn allebei ouders'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'veel' for 'some' (Veel vrienden komen ook).",
+          "explain": "'Some' of a group is 'sommige': 'sommige vrienden'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "De verhuizing",
+    "setting": "You are moving into a new apartment and your friend Youssef is helping you. He asks about the boxes and the people coming later.",
+    "partner": {
+      "name": "Youssef",
+      "gender": "m",
+      "role": "a friend who is helping you move"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Wat zit erin?",
+          "en": "What's in it?"
+        },
+        "task": "Say that there are books in it and that you have too many of them.",
+        "examples": [
+          "Er zitten boeken in. Ik heb er te veel.",
+          "Boeken. Ik heb er echt te veel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses singular 'is' with plural 'boeken' (Er is boeken in).",
+            "explain": "With plural 'boeken' use 'zijn/zitten': 'Er zitten boeken in.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves out 'er' with 'too many of them' (Ik heb te veel).",
+            "explain": "After a number or quantity, 'er' means 'of them': 'Ik heb er te veel.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'veel' instead of 'te veel' for 'too many' (Ik heb er veel).",
+            "explain": "'Too many' is 'te veel': 'Ik heb er te veel.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Repeats 'er' with the preposition (Er zitten boeken erin).",
+            "explain": "Use 'er...in' as a pair: 'Er zitten boeken in', not 'Er zitten boeken erin'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik neem er twee mee. En deze doos?",
+          "en": "I'll take two of them. And this box?"
+        },
+        "task": "Say that the box is for you, but that it is rather big.",
+        "examples": [
+          "Die is voor jou, maar hij is best wel groot.",
+          "Deze doos is voor jou, maar hij is best wel groot."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'Het' for the de-word 'doos' (Het is voor jou, maar hij is best wel groot).",
+            "explain": "'De doos/deze doos' is a de-word, so point back with 'die' (or 'hij'): 'Die is voor jou.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses subject 'hij' after 'voor' (voor hij).",
+            "explain": "After a preposition use 'jou' for the person you are speaking to: 'voor jou'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'het' for the box (Het is voor jou, maar het is best wel groot).",
+            "explain": "Use 'die/hij' for 'de doos': 'Die is voor jou, maar hij is best wel groot.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Leaves out 'maar' (Die is voor jou. Hij is best wel groot).",
+            "explain": "The task asks for a contrast: 'Die is voor jou, maar hij is best wel groot.'"
+          },
+          {
+            "id": "m5",
+            "pattern": "Says 'wel groot' instead of 'best wel groot' for 'rather big' (maar hij is wel groot).",
+            "explain": "'Rather big' is 'best wel groot': 'maar hij is best wel groot.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Is iedereen er straks?",
+          "en": "Is everyone there later?"
+        },
+        "task": "Say that both your parents are coming and that some friends are coming too.",
+        "examples": [
+          "Allebei mijn ouders komen, en sommige vrienden ook.",
+          "Mijn ouders komen allebei, en sommige vrienden komen ook."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses singular 'komt' with plural 'ouders' (Allebei mijn ouders komt).",
+            "explain": "With plural 'ouders' use 'komen': 'Allebei mijn ouders komen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses singular 'komt' with plural 'vrienden' (Sommige vrienden komt).",
+            "explain": "With plural 'vrienden' use 'komen': 'sommige vrienden komen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Places 'allebei' after 'mijn' (Mijn allebei ouders komen).",
+            "explain": "Say 'allebei mijn ouders' or 'mijn ouders allebei', not 'mijn allebei ouders'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses 'veel' for 'some' (Veel vrienden komen ook).",
+            "explain": "'Some' of a group is 'sommige': 'sommige vrienden'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Waar is de lift?",
+          "en": "Where's the lift?"
+        },
+        "task": "Say that the lift is there, next to the stairs.",
+        "examples": [
+          "Die is daar, naast de trap.",
+          "Hij is daar, naast de trap.",
+          "De lift is daar, naast de trap."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'Het' for 'de lift' (Het is daar).",
+            "explain": "'De lift' is a de-word, so use 'die' or 'hij': 'Die is daar.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'waar' for 'there' (Die is waar).",
+            "explain": "For 'there' use 'daar'; 'waar' means 'where': 'Die is daar.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Says 'naar de trap' for 'next to the stairs' (Die is daar, naar de trap).",
+            "explain": "'Next to' is 'naast': 'naast de trap'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Prima, dan gaan we door!",
+      "en": "Great, then let's carry on!"
+    }
+  },
+  "culture": {
+    "title": "De of het?",
+    "text": "Dutch children learn de and het word by word, and many adults still mix them up now and then. If you say 'het kaas' instead of 'de kaas', every Dutch speaker will understand you and most will not even mention it. The same goes for die and dat: the wrong choice sounds slightly off, but it never blocks the conversation. So keep talking, and let the words you meet teach you the articles."
+  },
+  "summary": [
+    "de-words and plurals: deze and die. het-words: dit and dat.",
+    "Relative clauses: die for de-words and plurals, dat for het-words, verb at the end.",
+    "er means 'there', 'of them' after a number, and it fuses with prepositions: erover, ermee, ervan, erin.",
+    "Point back at a thing with die (or hij) for de-words and het for het-words.",
+    "Choosing the wrong small word is a small mistake, not a big one: keep the conversation going."
+  ]
+}

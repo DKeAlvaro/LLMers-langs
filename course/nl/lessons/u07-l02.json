@@ -1,0 +1,1188 @@
+{
+  "id": "u07-l02",
+  "title": "Ik ben naar Parijs gegaan",
+  "subtitle": "The perfect tense with zijn",
+  "level": "A2",
+  "intro": "In this lesson you learn to use zijn in the perfect tense. You can talk about trips and changes, for example 'Ik ben naar Parijs gegaan' and 'Hij is ziek geworden'. You also learn when Dutch uses hebben and when it uses zijn.",
+  "words": [
+    {
+      "nl": "gaan",
+      "en": "to go",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ga, jij gaat, wij gaan (ik ben gegaan)",
+      "example": {
+        "nl": "Ik ben naar Parijs gegaan.",
+        "en": "I went to Paris."
+      },
+      "note": "Perfect tense with zijn: ik ben gegaan."
+    },
+    {
+      "nl": "komen",
+      "en": "to come",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom, jij komt, wij komen (ik ben gekomen)",
+      "example": {
+        "nl": "Hoe ben je gekomen?",
+        "en": "How did you come?"
+      },
+      "note": "Perfect tense: ik ben gekomen."
+    },
+    {
+      "nl": "blijven",
+      "en": "to stay",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik blijf, jij blijft, wij blijven (ik ben gebleven)",
+      "example": {
+        "nl": "We zijn drie dagen gebleven.",
+        "en": "We stayed for three days."
+      },
+      "note": null
+    },
+    {
+      "nl": "worden",
+      "en": "to become, to get",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik word, jij wordt, wij worden (ik ben geworden)",
+      "example": {
+        "nl": "Hij is ziek geworden.",
+        "en": "He got sick."
+      },
+      "note": "Worden often means 'to get' or 'to become'."
+    },
+    {
+      "nl": "vertrekken",
+      "en": "to leave, to depart",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vertrek, jij vertrekt, wij vertrekken (ik ben vertrokken)",
+      "example": {
+        "nl": "De trein is om acht uur vertrokken.",
+        "en": "The train left at eight."
+      },
+      "note": null
+    },
+    {
+      "nl": "aankomen",
+      "en": "to arrive",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom aan, jij komt aan, wij komen aan (ik ben aangekomen)",
+      "example": {
+        "nl": "We zijn om vier uur aangekomen.",
+        "en": "We arrived at four o'clock."
+      },
+      "note": "Separable verb: kom ... aan."
+    },
+    {
+      "nl": "verhuizen",
+      "en": "to move house",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verhuis, jij verhuist, wij verhuizen (ik ben verhuisd)",
+      "example": {
+        "nl": "Ik ben vorige maand verhuisd.",
+        "en": "I moved last month."
+      },
+      "note": "Verhuizen means to move to a new house, not to move your body."
+    },
+    {
+      "nl": "beginnen",
+      "en": "to begin, to start",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik begin, jij begint, wij beginnen (ik ben begonnen)",
+      "example": {
+        "nl": "De film is om acht uur begonnen.",
+        "en": "The film started at eight."
+      },
+      "note": null
+    },
+    {
+      "nl": "stoppen",
+      "en": "to stop",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik stop, jij stopt, wij stoppen (ik ben gestopt)",
+      "example": {
+        "nl": "De bus is hier gestopt.",
+        "en": "The bus stopped here."
+      },
+      "note": "Also: Ik ben gestopt met roken."
+    },
+    {
+      "nl": "vallen",
+      "en": "to fall",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik val, jij valt, wij vallen (ik ben gevallen)",
+      "example": {
+        "nl": "Ik ben op de trap gevallen.",
+        "en": "I fell on the stairs."
+      },
+      "note": null
+    },
+    {
+      "nl": "gebeuren",
+      "en": "to happen",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het gebeurt (het is gebeurd)",
+      "example": {
+        "nl": "Wat is er gebeurd?",
+        "en": "What happened?"
+      },
+      "note": "Used with het: het is gebeurd."
+    },
+    {
+      "nl": "lopen",
+      "en": "to walk",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik loop, jij loopt, wij lopen (ik heb gelopen)",
+      "example": {
+        "nl": "We hebben veel gelopen.",
+        "en": "We walked a lot."
+      },
+      "note": "Activity: ik heb gelopen; with a direction: ik ben naar huis gelopen."
+    },
+    {
+      "nl": "rijden",
+      "en": "to drive, to ride",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik rijd, jij rijdt, wij rijden (ik heb gereden)",
+      "example": {
+        "nl": "Wij rijden morgen naar Amsterdam.",
+        "en": "We are driving to Amsterdam tomorrow."
+      },
+      "note": "Activity: ik heb gereden; with a direction: ik ben naar Amsterdam gereden."
+    },
+    {
+      "nl": "vliegen",
+      "en": "to fly",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vlieg, jij vliegt, wij vliegen (ik heb gevlogen)",
+      "example": {
+        "nl": "We vliegen zondag naar huis.",
+        "en": "We are flying home on Sunday."
+      },
+      "note": "Activity: ik heb gevlogen."
+    },
+    {
+      "nl": "terugkomen",
+      "en": "to come back",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom terug, jij komt terug, wij komen terug (ik ben teruggekomen)",
+      "example": {
+        "nl": "Ik ben gisteren teruggekomen.",
+        "en": "I came back yesterday."
+      },
+      "note": "Separable verb: kom ... terug."
+    },
+    {
+      "nl": "thuis",
+      "en": "at home",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben vandaag thuis.",
+        "en": "I am at home today."
+      },
+      "note": "Thuis is one word; naar huis is two words."
+    },
+    {
+      "nl": "naar huis",
+      "en": "home, to home",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben naar huis gegaan.",
+        "en": "I went home."
+      },
+      "note": "With movement: Ik ben naar huis gegaan."
+    },
+    {
+      "nl": "onderweg",
+      "en": "on the way",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben onderweg.",
+        "en": "I am on my way."
+      },
+      "note": null
+    },
+    {
+      "nl": "nu",
+      "en": "now",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben nu thuis.",
+        "en": "I am home now."
+      },
+      "note": "Nu means 'now' at this moment."
+    },
+    {
+      "nl": "vliegtuig",
+      "en": "plane",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de vliegtuigen",
+      "forms": null,
+      "example": {
+        "nl": "Het vliegtuig is om tien uur aangekomen.",
+        "en": "The plane arrived at ten."
+      },
+      "note": null
+    },
+    {
+      "nl": "reis",
+      "en": "trip, journey",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de reizen",
+      "forms": null,
+      "example": {
+        "nl": "We zijn moe van de reis.",
+        "en": "We are tired from the trip."
+      },
+      "note": null
+    },
+    {
+      "nl": "eergisteren",
+      "en": "the day before yesterday",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We zijn eergisteren teruggekomen.",
+        "en": "We came back the day before yesterday."
+      },
+      "note": null
+    },
+    {
+      "nl": "vorig jaar",
+      "en": "last year",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben vorig jaar verhuisd.",
+        "en": "I moved last year."
+      },
+      "note": null
+    },
+    {
+      "nl": "vorige maand",
+      "en": "last month",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij is vorige maand begonnen.",
+        "en": "She started last month."
+      },
+      "note": "Vorige with de-words: vorige maand, vorige week."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hoe is het gegaan?",
+      "en": "How did it go?",
+      "note": null
+    },
+    {
+      "nl": "Ik ben naar Parijs gegaan.",
+      "en": "I went to Paris.",
+      "note": "Movement with a destination: zijn."
+    },
+    {
+      "nl": "We zijn drie dagen gebleven.",
+      "en": "We stayed for three days.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben om vier uur aangekomen.",
+      "en": "I arrived at four o'clock.",
+      "note": null
+    },
+    {
+      "nl": "We zijn met de trein gegaan.",
+      "en": "We went by train.",
+      "note": null
+    },
+    {
+      "nl": "Hij is ziek geworden.",
+      "en": "He got sick.",
+      "note": null
+    },
+    {
+      "nl": "We zijn pas om twaalf uur 's nachts teruggekomen.",
+      "en": "We only got back at twelve at night.",
+      "note": "Pas means 'only' here: later than expected."
+    },
+    {
+      "nl": "Ben je al thuis?",
+      "en": "Are you home yet?",
+      "note": null
+    },
+    {
+      "nl": "Ik ben onderweg.",
+      "en": "I am on my way.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben naar huis gegaan.",
+      "en": "I went home.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Zijn + participle: movement, change and a fixed group",
+      "explanation": "Most verbs use **hebben** in the perfect tense. A small group uses **zijn**. Many of these are verbs of movement or change: **gaan, komen, vertrekken, aankomen, worden, vallen, beginnen, stoppen**. A few common verbs simply belong to the **zijn**-group, such as **blijven** and **gebeuren**. The participle still goes at the end: **Ik ben naar Parijs gegaan.**",
+      "table": {
+        "headers": [
+          "infinitief",
+          "perfect"
+        ],
+        "rows": [
+          [
+            "gaan",
+            "ik ben gegaan"
+          ],
+          [
+            "komen",
+            "ik ben gekomen"
+          ],
+          [
+            "blijven",
+            "ik ben gebleven"
+          ],
+          [
+            "worden",
+            "ik ben geworden"
+          ],
+          [
+            "vertrekken",
+            "ik ben vertrokken"
+          ],
+          [
+            "aankomen",
+            "ik ben aangekomen"
+          ],
+          [
+            "verhuizen",
+            "ik ben verhuisd"
+          ],
+          [
+            "beginnen",
+            "ik ben begonnen"
+          ],
+          [
+            "stoppen",
+            "ik ben gestopt"
+          ],
+          [
+            "vallen",
+            "ik ben gevallen"
+          ],
+          [
+            "gebeuren",
+            "het is gebeurd"
+          ],
+          [
+            "terugkomen",
+            "ik ben teruggekomen"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben naar Parijs gegaan.",
+          "en": "I went to Paris."
+        },
+        {
+          "nl": "Hij is ziek geworden.",
+          "en": "He got sick."
+        },
+        {
+          "nl": "We zijn thuis gebleven.",
+          "en": "We stayed at home."
+        }
+      ],
+      "tip": "Learn the **zijn**-verbs as a group. A direction such as **naar huis** is also a strong signal for **zijn**."
+    },
+    {
+      "title": "Zijn or hebben? Direction or activity",
+      "explanation": "Some verbs can take both. With a direction (**naar**, **naar huis**) Dutch usually uses **zijn**: **Ik ben naar Utrecht gefietst.** Without a direction it is an activity and you use **hebben**: **Ik heb gefietst.**",
+      "table": {
+        "headers": [
+          "zin",
+          "betekenis"
+        ],
+        "rows": [
+          [
+            "Ik heb gefietst.",
+            "I cycled (activity)."
+          ],
+          [
+            "Ik ben naar Utrecht gefietst.",
+            "I cycled to Utrecht (direction)."
+          ],
+          [
+            "Ik heb gelopen.",
+            "I walked (activity)."
+          ],
+          [
+            "Ik ben naar huis gelopen.",
+            "I walked home (direction)."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb gefietst.",
+          "en": "I cycled."
+        },
+        {
+          "nl": "Ik ben naar mijn werk gefietst.",
+          "en": "I cycled to my work."
+        },
+        {
+          "nl": "We hebben veel gelopen.",
+          "en": "We walked a lot."
+        }
+      ],
+      "tip": "A direction in the sentence is a strong signal for **zijn**."
+    },
+    {
+      "title": "Separable verbs with zijn",
+      "explanation": "With **aankomen** and **terugkomen** the prefix moves to the end in the present. In the perfect tense the prefix stays attached to the participle: **ik kom aan** becomes **ik ben aangekomen**.",
+      "table": {
+        "headers": [
+          "presens",
+          "perfect"
+        ],
+        "rows": [
+          [
+            "Ik kom om tien uur aan.",
+            "Ik ben om tien uur aangekomen."
+          ],
+          [
+            "Ik kom morgen terug.",
+            "Ik ben morgen teruggekomen."
+          ],
+          [
+            "De trein komt aan.",
+            "De trein is aangekomen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "We zijn om vier uur aangekomen.",
+          "en": "We arrived at four o'clock."
+        },
+        {
+          "nl": "Ik ben gisteren teruggekomen.",
+          "en": "I came back yesterday."
+        }
+      ],
+      "tip": "The prefix sticks to the participle: aan + gekomen, terug + gekomen."
+    }
+  ],
+  "dialogue": {
+    "title": "Hoe is het gegaan?",
+    "setting": "Sanne and Daan talk on Monday about Daan's weekend trip to Paris.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Daan! Hoe is het gegaan in Parijs?",
+        "en": "Hi Daan! How did it go in Paris?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Heel goed! We zijn vrijdag met de trein gegaan.",
+        "en": "Very well! We went by train on Friday."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En hoe laat zijn jullie aangekomen?",
+        "en": "And what time did you arrive?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Om vier uur 's middags. Daarna zijn we naar het museum gegaan.",
+        "en": "At four in the afternoon. After that we went to the museum."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Leuk! En zijn jullie lang gebleven?",
+        "en": "Nice! And did you stay long?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Drie dagen. We zijn bij vrienden in het centrum gebleven.",
+        "en": "Three days. We stayed with friends in the centre."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Zijn jullie ook naar de Eiffeltoren gegaan?",
+        "en": "Did you also go to the Eiffel Tower?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, zaterdag. We hebben veel gelopen!",
+        "en": "Yes, on Saturday. We walked a lot!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En wanneer zijn jullie teruggekomen?",
+        "en": "And when did you come back?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Pas om twaalf uur 's nachts. De trein is laat aangekomen.",
+        "en": "Not until twelve at night. The train arrived late."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is laat! Ben je nu moe?",
+        "en": "That is late! Are you tired now?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, maar ik ben blij. Volgend jaar ga ik weer.",
+        "en": "Yes, but I am happy. Next year I will go again."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "gaan",
+          "to go"
+        ],
+        [
+          "blijven",
+          "to stay"
+        ],
+        [
+          "aankomen",
+          "to arrive"
+        ],
+        [
+          "gebeuren",
+          "to happen"
+        ],
+        [
+          "verhuizen",
+          "to move house"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "worden",
+          "to become"
+        ],
+        [
+          "vallen",
+          "to fall"
+        ],
+        [
+          "vertrekken",
+          "to leave"
+        ],
+        [
+          "onderweg",
+          "on the way"
+        ],
+        [
+          "eergisteren",
+          "the day before yesterday"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Ik ___ naar Parijs gegaan.",
+      "options": [
+        "ben",
+        "heb",
+        "is"
+      ],
+      "answer": 0,
+      "explain": "Use zijn with gaan: Ik ben naar Parijs gegaan."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Hij ___ ziek geworden.",
+      "options": [
+        "is",
+        "heeft",
+        "ben"
+      ],
+      "answer": 0,
+      "explain": "Worden uses zijn in the perfect tense: Hij is ziek geworden."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Wij ___ drie dagen gebleven.",
+      "options": [
+        "zijn",
+        "hebben",
+        "is"
+      ],
+      "answer": 0,
+      "explain": "Blijven uses zijn in the perfect tense: Wij zijn drie dagen gebleven."
+    },
+    {
+      "type": "article",
+      "word": "vliegtuig",
+      "en": "plane",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "reis",
+      "en": "trip, journey",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "We stayed for three days.",
+      "answer": "We zijn drie dagen gebleven.",
+      "accept": [
+        "Drie dagen zijn we gebleven."
+      ],
+      "extra": [
+        "hebben",
+        "blijven"
+      ],
+      "explain": "Use zijn with blijven: We zijn drie dagen gebleven. The participle goes at the end."
+    },
+    {
+      "type": "build",
+      "en": "What happened?",
+      "answer": "Wat is er gebeurd?",
+      "accept": [],
+      "extra": [
+        "heeft",
+        "gebeuren"
+      ],
+      "explain": "Gebeuren uses zijn in the perfect tense: Wat is er gebeurd?"
+    },
+    {
+      "type": "build",
+      "en": "I went to Paris by train.",
+      "answer": "Ik ben met de trein naar Parijs gegaan.",
+      "accept": [
+        "Met de trein ben ik naar Parijs gegaan.",
+        "Naar Parijs ben ik met de trein gegaan."
+      ],
+      "extra": [
+        "heb",
+        "vliegtuig"
+      ],
+      "explain": "Gaan takes zijn when you go to a place: Ik ben met de trein naar Parijs gegaan."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ vorige maand verhuisd.",
+      "en": "I moved last month.",
+      "answers": [
+        "ben"
+      ],
+      "hint": "zijn (ik-vorm)",
+      "explain": "Verhuizen uses zijn because it is a change: Ik ben verhuisd."
+    },
+    {
+      "type": "gap",
+      "text": "De trein ___ om acht uur vertrokken.",
+      "en": "The train left at eight.",
+      "answers": [
+        "is"
+      ],
+      "hint": "zijn (hij/zij/het-vorm)",
+      "explain": "Vertrekken uses zijn in the perfect tense: De trein is vertrokken."
+    },
+    {
+      "type": "gap",
+      "text": "We zijn pas om twaalf uur 's nachts ___.",
+      "en": "We only got back at twelve at night.",
+      "answers": [
+        "teruggekomen"
+      ],
+      "hint": "terugkomen (participle)",
+      "explain": "The perfect participle of terugkomen is teruggekomen, written as one word."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Ik ___ naar Utrecht gefietst.",
+      "options": [
+        "ben",
+        "heb",
+        "is"
+      ],
+      "answer": 0,
+      "explain": "There is a direction (naar Utrecht), so use zijn: Ik ben naar Utrecht gefietst."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Ik ___ drie uur gefietst.",
+      "options": [
+        "heb",
+        "ben",
+        "is"
+      ],
+      "answer": 0,
+      "explain": "There is no direction; it is an activity, so use hebben: Ik heb drie uur gefietst."
+    },
+    {
+      "type": "translate",
+      "en": "I went home.",
+      "answers": [
+        "Ik ben naar huis gegaan."
+      ],
+      "focus": "zijn + gegaan with naar huis",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses hebben with gaan: 'Ik heb naar huis gegaan.'",
+          "explain": "Gaan takes zijn in the perfect tense, especially with a destination: 'Ik ben naar huis gegaan.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive instead of the participle: 'Ik ben naar huis gaan.'",
+          "explain": "The perfect participle of gaan is 'gegaan': 'Ik ben naar huis gegaan.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the participle before the place phrase: 'Ik ben gegaan naar huis.'",
+          "explain": "In a main clause the participle comes at the end: 'Ik ben naar huis gegaan.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses geweest instead of gegaan: 'Ik ben naar huis geweest.'",
+          "explain": "Geweest means 'been'; for movement use 'gegaan': 'Ik ben naar huis gegaan.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "She got sick.",
+      "answers": [
+        "Zij is ziek geworden.",
+        "Ze is ziek geworden."
+      ],
+      "focus": "worden with zijn",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses hebben with worden: 'Zij heeft ziek geworden.'",
+          "explain": "Worden takes zijn in the perfect tense: 'Zij is ziek geworden.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'geword' instead of 'geworden': 'Zij is ziek geword.'",
+          "explain": "The participle of worden is 'geworden': 'Zij is ziek geworden.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out geworden: 'Zij is ziek.'",
+          "explain": "Without 'geworden' the sentence means 'She is sick', not 'She got sick': 'Zij is ziek geworden.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'geweest' instead of 'geworden': 'Zij is ziek geweest.'",
+          "explain": "Geweest means 'been'; for getting sick use 'geworden': 'Zij is ziek geworden.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "We arrived at four o'clock.",
+      "answers": [
+        "We zijn om vier uur aangekomen.",
+        "Wij zijn om vier uur aangekomen.",
+        "Om vier uur zijn we aangekomen.",
+        "Om vier uur zijn wij aangekomen."
+      ],
+      "focus": "aankomen: separable, with zijn",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses hebben with aankomen: 'We hebben om vier uur aangekomen.'",
+          "explain": "Aankomen takes zijn in the perfect tense: 'We zijn om vier uur aangekomen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive instead of the participle: 'We zijn om vier uur aankomen.'",
+          "explain": "The perfect participle of aankomen is 'aangekomen': 'We zijn om vier uur aangekomen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Splits the prefix in the perfect tense: 'We zijn om vier uur aan gekomen.'",
+          "explain": "In the perfect tense the prefix stays attached to the participle: 'aangekomen'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses komen instead of aankomen: 'We zijn om vier uur gekomen.'",
+          "explain": "Komen means 'come'; 'arrive' is 'aankomen': 'We zijn om vier uur aangekomen.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I walked a lot.",
+      "answers": [
+        "Ik heb veel gelopen.",
+        "Ik heb veel gewandeld."
+      ],
+      "focus": "activity with hebben; lopen or wandelen",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses zijn for the activity lopen without a direction: 'Ik ben veel gelopen.'",
+          "explain": "Without a direction, lopen is an activity and takes hebben: 'Ik heb veel gelopen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive instead of the participle: 'Ik heb veel lopen.'",
+          "explain": "The perfect participle of lopen is 'gelopen': 'Ik heb veel gelopen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts veel after the participle: 'Ik heb gelopen veel.'",
+          "explain": "The participle comes at the end: 'Ik heb veel gelopen.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses zijn with the activity wandelen: 'Ik ben veel gewandeld.'",
+          "explain": "Wandelen is also an activity without a direction and takes hebben: 'Ik heb veel gewandeld.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik ben gisteren teruggekomen.",
+      "en": "I came back yesterday."
+    },
+    {
+      "type": "listen",
+      "nl": "We zijn met de trein gegaan.",
+      "en": "We went by train."
+    },
+    {
+      "type": "reply",
+      "context": "Your friend asks how your weekend in Paris went.",
+      "say": {
+        "nl": "Hoe is het gegaan in Parijs?",
+        "en": "How did it go in Paris?"
+      },
+      "task": "Say it went well and that you went by train.",
+      "examples": [
+        "Het is goed gegaan. We zijn met de trein gegaan.",
+        "Heel goed! We zijn met de trein gegaan."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses hebben with gaan: 'We hebben met de trein gegaan.'",
+          "explain": "Gaan takes zijn when you go to a place: 'We zijn met de trein gegaan.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive instead of the participle: 'We zijn met de trein gaan.'",
+          "explain": "The perfect participle of gaan is 'gegaan': 'We zijn met de trein gegaan.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses hebben with the impersonal 'het is gegaan': 'Het heeft goed gegaan.'",
+          "explain": "The perfect of gaan is 'is gegaan': 'Het is goed gegaan.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses geweest instead of gegaan: 'We zijn met de trein geweest.'",
+          "explain": "Geweest means 'been'; for 'went' use 'gegaan': 'We zijn met de trein gegaan.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague asks if you are home yet.",
+      "say": {
+        "nl": "Ben je al thuis?",
+        "en": "Are you home yet?"
+      },
+      "task": "Say you are on your way and that you will be home in ten minutes.",
+      "examples": [
+        "Nog niet. Ik ben onderweg. Ik ben over tien minuten thuis.",
+        "Nee, ik ben onderweg. Ik kom over tien minuten thuis."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses hebben with onderweg: 'Ik heb onderweg.'",
+          "explain": "Onderweg describes where you are; use zijn: 'Ik ben onderweg.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses naar huis for being at home: 'Ik ben over tien minuten naar huis.'",
+          "explain": "To say you are home, use 'thuis': 'Ik ben over tien minuten thuis.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Writes huis instead of thuis: 'Ik ben over tien minuten huis.'",
+          "explain": "The adverb is 'thuis', one word: 'Ik ben over tien minuten thuis.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Je weekend in Parijs",
+    "setting": "You are talking to your friend Sanne about your weekend trip to Paris. You got back very late on Sunday.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "friend"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Hoe is je weekend in Parijs gegaan?",
+          "en": "Hi! How did your weekend in Paris go?"
+        },
+        "task": "Say it went well and that you went by train.",
+        "examples": [
+          "Het is goed gegaan! We zijn met de trein gegaan.",
+          "Heel goed. We zijn met de trein gegaan."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses hebben with gaan: 'We hebben met de trein gegaan.'",
+            "explain": "Gaan takes zijn when you go to a place: 'We zijn met de trein gegaan.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses the infinitive instead of the participle: 'We zijn met de trein gaan.'",
+            "explain": "The perfect participle of gaan is 'gegaan': 'We zijn met de trein gegaan.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses hebben with the impersonal 'het is gegaan': 'Het heeft goed gegaan.'",
+            "explain": "The perfect of gaan is 'is gegaan': 'Het is goed gegaan.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses geweest instead of gegaan: 'We zijn met de trein geweest.'",
+            "explain": "Geweest means 'been'; for 'went' use 'gegaan': 'We zijn met de trein gegaan.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En hoe laat zijn jullie aangekomen?",
+          "en": "And what time did you arrive?"
+        },
+        "task": "Say you arrived at four o'clock and then went to the museum.",
+        "examples": [
+          "We zijn om vier uur aangekomen. Daarna zijn we naar het museum gegaan.",
+          "Om vier uur. Daarna zijn we naar het museum gegaan."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses hebben with aankomen: 'We hebben om vier uur aangekomen.'",
+            "explain": "Aankomen takes zijn in the perfect tense: 'We zijn om vier uur aangekomen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses the infinitive instead of the participle: 'We zijn om vier uur aankomen.'",
+            "explain": "The perfect participle of aankomen is 'aangekomen': 'We zijn om vier uur aangekomen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses hebben with gaan to a place: 'Daarna hebben we naar het museum gegaan.'",
+            "explain": "With a destination, gaan takes zijn: 'Daarna zijn we naar het museum gegaan.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Splits the prefix: 'We zijn om vier uur aan gekomen.'",
+            "explain": "The perfect participle 'aangekomen' is written as one word."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Zijn jullie ook naar de Eiffeltoren gegaan?",
+          "en": "Did you also go to the Eiffel Tower?"
+        },
+        "task": "Say yes, on Saturday, and that you walked a lot.",
+        "examples": [
+          "Ja, zaterdag. We hebben veel gelopen.",
+          "Ja, zaterdag. We zijn naar de Eiffeltoren gegaan. We hebben veel gelopen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses zijn for the activity lopen: 'Ja, zaterdag. We zijn veel gelopen.'",
+            "explain": "Without a direction, lopen is an activity and takes hebben: 'We hebben veel gelopen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses the infinitive instead of the participle: 'Ja, zaterdag. We hebben veel lopen.'",
+            "explain": "The perfect participle of lopen is 'gelopen': 'We hebben veel gelopen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses hebben with gaan to a place: 'Ja, zaterdag. We hebben naar de Eiffeltoren gegaan.'",
+            "explain": "With a destination, gaan takes zijn: 'We zijn naar de Eiffeltoren gegaan.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses 'geloopt' instead of 'gelopen': 'Ja, zaterdag. We hebben veel geloopt.'",
+            "explain": "The perfect participle of lopen is 'gelopen': 'We hebben veel gelopen.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En wanneer zijn jullie teruggekomen?",
+          "en": "And when did you come back?"
+        },
+        "task": "Say you came back at twelve at night and that the train arrived late.",
+        "examples": [
+          "We zijn om twaalf uur 's nachts teruggekomen. De trein is laat aangekomen.",
+          "Om twaalf uur. De trein is laat aangekomen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses hebben with terugkomen: 'We hebben om twaalf uur 's nachts teruggekomen.'",
+            "explain": "Terugkomen takes zijn in the perfect tense: 'We zijn om twaalf uur 's nachts teruggekomen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Splits the participle: 'We zijn om twaalf uur 's nachts terug gekomen.'",
+            "explain": "The perfect participle 'teruggekomen' is written as one word."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses hebben with aankomen: 'De trein heeft laat aangekomen.'",
+            "explain": "Aankomen takes zijn: 'De trein is laat aangekomen.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses the infinitive instead of the participle: 'De trein is laat aankomen.'",
+            "explain": "The perfect participle of aankomen is 'aangekomen': 'De trein is laat aangekomen.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dat is laat! Ben je nu moe?",
+          "en": "That is late! Are you tired now?"
+        },
+        "task": "Say yes, but that you are happy and want to go again next year.",
+        "examples": [
+          "Ja, ik ben moe, maar ik ben blij. Volgend jaar ga ik weer.",
+          "Ja, maar ik ben blij. Ik wil volgend jaar weer gaan.",
+          "Ja, ik ben moe, maar ik ben blij. Ik wil volgend jaar weer gaan."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses hebben with moe: 'Ik heb moe.'",
+            "explain": "Moe is an adjective; use zijn: 'Ik ben moe.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the subject before the verb after a fronted time phrase: 'Volgend jaar ik ga weer.'",
+            "explain": "If a sentence starts with time, the verb comes second: 'Volgend jaar ga ik weer.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the participle after willen: 'Ik wil volgend jaar weer gegaan.'",
+            "explain": "After willen use the infinitive: 'Ik wil volgend jaar weer gaan.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses hebben with blij: 'Ik heb blij.'",
+            "explain": "Blij is an adjective; use zijn: 'Ik ben blij.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Slaap maar goed uit! Tot volgende week.",
+      "en": "Get a good night's sleep! See you next week."
+    }
+  },
+  "culture": {
+    "title": "Short city trips by train",
+    "text": "The Netherlands is small, and many cities in Belgium, Germany and France are only a few hours away by train. Many Dutch people take a short city trip for a weekend, for example to Paris, Brussels or Berlin. Direct trains from Amsterdam go to Paris and Berlin, and people often leave on Friday evening and come back on Sunday."
+  },
+  "summary": [
+    "Use zijn with verbs such as gaan, komen, blijven, worden, vertrekken, aankomen and verhuizen: ik ben gegaan, hij is geworden, we zijn gebleven.",
+    "The participle goes at the end, just like with hebben: Ik ben naar Parijs gegaan.",
+    "With a direction (naar, naar huis) Dutch often uses zijn: Ik ben naar Utrecht gefietst.",
+    "Without a direction it is an activity and you use hebben: Ik heb gefietst.",
+    "Separable verbs keep the prefix on the participle: Ik ben om vier uur aangekomen."
+  ]
+}

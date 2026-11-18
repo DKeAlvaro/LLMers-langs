@@ -1,0 +1,1058 @@
+{
+  "id": "u08-l04",
+  "title": "Ik denk dat...",
+  "subtitle": "Subordinate clauses",
+  "level": "A2",
+  "intro": "In this lesson you learn to say what you think, hope and believe. You will connect two sentences with words like dat, als and terwijl, and you will put the verb at the end of the second clause. You can also start with the als-clause: Als het regent, blijf ik thuis.",
+  "words": [
+    {
+      "nl": "denken",
+      "en": "to think",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik denk, jij denkt, wij denken (heeft gedacht)",
+      "example": {
+        "nl": "Ik denk dat hij morgen komt.",
+        "en": "I think that he is coming tomorrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "zeggen",
+      "en": "to say",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zeg, jij zegt, wij zeggen (heeft gezegd)",
+      "example": {
+        "nl": "Hij zegt dat het project klaar is.",
+        "en": "He says that the project is finished."
+      },
+      "note": "Zeggen is irregular: heeft gezegd."
+    },
+    {
+      "nl": "vinden",
+      "en": "to find; to think (opinion)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vind, jij vindt, wij vinden (heeft gevonden)",
+      "example": {
+        "nl": "Ik vind dat het een goed idee is.",
+        "en": "I think that it is a good idea."
+      },
+      "note": "Vinden dat = to think that, for opinions."
+    },
+    {
+      "nl": "weten",
+      "en": "to know",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik weet, jij weet, wij weten (heeft geweten)",
+      "example": {
+        "nl": "Ik weet niet of hij komt.",
+        "en": "I don't know whether he is coming."
+      },
+      "note": "Irregular: ik weet, jij weet."
+    },
+    {
+      "nl": "geloven",
+      "en": "to believe",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik geloof, jij gelooft, wij geloven (heeft geloofd)",
+      "example": {
+        "nl": "Ik geloof dat het donderdag is.",
+        "en": "I believe that it is Thursday."
+      },
+      "note": null
+    },
+    {
+      "nl": "hopen",
+      "en": "to hope",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik hoop, jij hoopt, wij hopen (heeft gehoopt)",
+      "example": {
+        "nl": "Ik hoop dat we op tijd klaar zijn.",
+        "en": "I hope that we are finished on time."
+      },
+      "note": null
+    },
+    {
+      "nl": "merken",
+      "en": "to notice",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik merk, jij merkt, wij merken (heeft gemerkt)",
+      "example": {
+        "nl": "Ik merk dat je moe bent.",
+        "en": "I notice that you are tired."
+      },
+      "note": null
+    },
+    {
+      "nl": "vergeten",
+      "en": "to forget",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vergeet, jij vergeet, wij vergeten (is vergeten)",
+      "example": {
+        "nl": "Ik ben de afspraak vergeten.",
+        "en": "I forgot the appointment."
+      },
+      "note": "In the perfect, vergeten often takes zijn: Ik ben het vergeten."
+    },
+    {
+      "nl": "dat",
+      "en": "that",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik denk dat het goed gaat.",
+        "en": "I think that it will go well."
+      },
+      "note": "Dat also means 'that' in het boek dat ik lees."
+    },
+    {
+      "nl": "als",
+      "en": "if; when",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Als het regent, blijf ik thuis.",
+        "en": "If it rains, I stay at home."
+      },
+      "note": "Als means 'if' or 'when' in conditions."
+    },
+    {
+      "nl": "wanneer",
+      "en": "when",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Weet je wanneer de vergadering begint?",
+        "en": "Do you know when the meeting starts?"
+      },
+      "note": "Wanneer asks 'when?' and also means 'when' in a clause."
+    },
+    {
+      "nl": "terwijl",
+      "en": "while",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Terwijl ik werk, luister ik naar muziek.",
+        "en": "While I work, I listen to music."
+      },
+      "note": "Terwijl = while; two things happen at the same time."
+    },
+    {
+      "nl": "voordat",
+      "en": "before",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Bel me voordat je vertrekt.",
+        "en": "Call me before you leave."
+      },
+      "note": "Voordat = before; nadat = after."
+    },
+    {
+      "nl": "nadat",
+      "en": "after",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Nadat het werk klaar is, ga ik naar huis.",
+        "en": "After the work is finished, I go home."
+      },
+      "note": "Nadat = after; voordat = before."
+    },
+    {
+      "nl": "zodat",
+      "en": "so that",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik werk langer, zodat we op tijd klaar zijn.",
+        "en": "I work longer so that we are finished on time."
+      },
+      "note": "Zodat = so that; it gives the result."
+    },
+    {
+      "nl": "hoewel",
+      "en": "although",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoewel het druk is, ben ik rustig.",
+        "en": "Although it is busy, I am calm."
+      },
+      "note": "Hoewel = although; the clause gives a contrast."
+    },
+    {
+      "nl": "of",
+      "en": "whether; or",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik weet niet of ze thuis is.",
+        "en": "I don't know whether she is at home."
+      },
+      "note": "Of = whether in indirect questions; it also means 'or'."
+    },
+    {
+      "nl": "zeker",
+      "en": "certainly; sure",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik weet het zeker.",
+        "en": "I'm sure."
+      },
+      "note": "Ik weet het zeker = I know it for sure."
+    },
+    {
+      "nl": "waarschijnlijk",
+      "en": "probably",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het project is waarschijnlijk klaar.",
+        "en": "The project is probably finished."
+      },
+      "note": "More sure than misschien."
+    },
+    {
+      "nl": "misschien",
+      "en": "maybe",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Misschien is de deadline te vroeg.",
+        "en": "Maybe the deadline is too early."
+      },
+      "note": "Misschien = maybe, perhaps."
+    },
+    {
+      "nl": "eigenlijk",
+      "en": "actually; really",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Eigenlijk heb ik geen tijd.",
+        "en": "Actually, I have no time."
+      },
+      "note": "Eigenlijk softens a remark: 'actually'."
+    },
+    {
+      "nl": "deadline",
+      "en": "deadline",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de deadlines",
+      "forms": null,
+      "example": {
+        "nl": "De deadline is woensdag.",
+        "en": "The deadline is Wednesday."
+      },
+      "note": "A deadline is taken seriously at work."
+    },
+    {
+      "nl": "op tijd",
+      "en": "on time",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We zijn op tijd klaar.",
+        "en": "We are ready on time."
+      },
+      "note": "Op tijd = on time; te laat = too late."
+    },
+    {
+      "nl": "klaar",
+      "en": "finished; ready",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het project is klaar.",
+        "en": "The project is finished."
+      },
+      "note": "Klaar = finished or ready: Ik ben klaar."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik denk dat het goed gaat.",
+      "en": "I think that it will go well.",
+      "note": null
+    },
+    {
+      "nl": "Ik weet niet of dat kan.",
+      "en": "I don't know whether that is possible.",
+      "note": null
+    },
+    {
+      "nl": "Ik hoop dat we op tijd klaar zijn.",
+      "en": "I hope that we are finished on time.",
+      "note": null
+    },
+    {
+      "nl": "Voordat je begint, lees de e-mail.",
+      "en": "Before you start, read the email.",
+      "note": null
+    },
+    {
+      "nl": "Terwijl ik werk, luister ik naar muziek.",
+      "en": "While I work, I listen to music.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben het vergeten.",
+      "en": "I forgot it.",
+      "note": "Vergeten often uses zijn in the perfect."
+    },
+    {
+      "nl": "Eigenlijk heb ik geen tijd.",
+      "en": "Actually, I have no time.",
+      "note": null
+    },
+    {
+      "nl": "Ik merk dat je moe bent.",
+      "en": "I notice that you are tired.",
+      "note": null
+    },
+    {
+      "nl": "Weet je zeker dat het woensdag is?",
+      "en": "Are you sure that it is Wednesday?",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Subordinate clauses: the verb goes to the end",
+      "explanation": "Words like **dat**, **als**, **wanneer**, **omdat**, **terwijl**, **voordat**, **nadat**, **zodat**, **hoewel** and **of** start a subordinate clause. In that clause, the verb or verbs go to the end: **Ik denk dat hij morgen komt.** With a modal, the modal comes before the infinitive: **Ik denk dat hij morgen moet werken.** In the perfect, the participle comes before the auxiliary hebben/zijn, which is the last word: **Ik denk dat hij al gewerkt heeft.**",
+      "table": {
+        "headers": [
+          "Conjunction",
+          "Example",
+          "English"
+        ],
+        "rows": [
+          [
+            "dat (that)",
+            "Ik denk **dat** hij morgen **komt**.",
+            "I think that he is coming tomorrow."
+          ],
+          [
+            "als (if/when)",
+            "Ik blijf thuis **als** het **regent**.",
+            "I stay at home if it rains."
+          ],
+          [
+            "terwijl (while)",
+            "Zij werkt **terwijl** hij **belt**.",
+            "She works while he calls."
+          ],
+          [
+            "voordat (before)",
+            "Bel me **voordat** je **vertrekt**.",
+            "Call me before you leave."
+          ],
+          [
+            "zodat (so that)",
+            "Ik werk langer **zodat** we op tijd klaar **zijn**.",
+            "I work longer so that we are finished on time."
+          ],
+          [
+            "with a modal",
+            "Ik denk **dat** hij morgen **moet werken**.",
+            "I think that he has to work tomorrow."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik geloof dat het donderdag is.",
+          "en": "I believe that it is Thursday."
+        },
+        {
+          "nl": "Ik hoop dat we op tijd klaar zijn.",
+          "en": "I hope that we are finished on time."
+        },
+        {
+          "nl": "Weet je of de vergadering begint?",
+          "en": "Do you know whether the meeting is starting?"
+        }
+      ],
+      "tip": "Ask yourself: does the word introduce a second clause? Then the verb goes to the end."
+    },
+    {
+      "title": "Subordinate clause first? The main clause starts with the verb",
+      "explanation": "You can put the subordinate clause before the main clause. Then the main clause begins with the verb, followed by the subject: **Als het regent, blijf ik thuis.** There is a comma between the two clauses. In the main clause, the verb keeps the normal second position: **Als het werk klaar is, ga ik naar huis.**",
+      "table": {
+        "headers": [
+          "Subordinate clause first",
+          "Main clause",
+          "English"
+        ],
+        "rows": [
+          [
+            "**Als** het regent,",
+            "**blijf** ik thuis.",
+            "If it rains, I stay at home."
+          ],
+          [
+            "**Terwijl** hij werkt,",
+            "**luistert** hij naar muziek.",
+            "While he works, he listens to music."
+          ],
+          [
+            "**Nadat** het werk klaar is,",
+            "**ga** ik naar huis.",
+            "After the work is finished, I go home."
+          ],
+          [
+            "**Hoewel** het druk is,",
+            "**ben** ik rustig.",
+            "Although it is busy, I am calm."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Als je tijd hebt, bel me.",
+          "en": "If you have time, call me."
+        },
+        {
+          "nl": "Voordat je begint, lees de e-mail.",
+          "en": "Before you start, read the email."
+        }
+      ],
+      "tip": "If a subordinate clause with als, wanneer or omdat comes first, you will see a comma. Comma = verb next."
+    },
+    {
+      "title": "of: whether or 'or'",
+      "explanation": "After verbs like **weten** and **vragen**, **of** means 'whether'. It starts a subordinate clause, so the verb goes to the end: **Ik weet niet of ze thuis is.** Do not use **dat** here: **Ik weet dat ze thuis is** means you know it. **of** can also mean 'or' between two options: **koffie of thee**.",
+      "table": {
+        "headers": [
+          "of = whether",
+          "English"
+        ],
+        "rows": [
+          [
+            "Ik weet niet **of** hij komt.",
+            "I don't know whether he is coming."
+          ],
+          [
+            "Weet je **of** het woensdag is?",
+            "Do you know whether it is Wednesday?"
+          ],
+          [
+            "Koffie **of** thee?",
+            "Coffee or tea?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik vraag of we meer tijd hebben.",
+          "en": "I ask whether we have more time."
+        },
+        {
+          "nl": "Ik vraag of de deadline woensdag is.",
+          "en": "I ask whether the deadline is Wednesday."
+        }
+      ],
+      "tip": "In an indirect question, use of, not dat."
+    }
+  ],
+  "dialogue": {
+    "title": "De deadline",
+    "setting": "It is Monday morning at the office. Sanne and Mark talk about a project with a deadline on Wednesday.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mark",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemorgen Mark. Is het project al klaar?",
+        "en": "Good morning Mark. Is the project finished already?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Nee, nog niet. Ik denk dat we niet op tijd klaar zijn.",
+        "en": "No, not yet. I think that we will not be finished on time."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wanneer is de deadline eigenlijk?",
+        "en": "When is the deadline actually?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "De deadline is woensdag, voordat de vergadering begint.",
+        "en": "The deadline is Wednesday, before the meeting starts."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Weet je zeker dat het woensdag is? Ik geloof dat het donderdag is.",
+        "en": "Are you sure that it is Wednesday? I believe that it is Thursday."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ik weet het zeker. Ik kijk in de e-mail.",
+        "en": "I'm sure. I'll look in the email."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed. Ik hoop dat het goed gaat. Ik werk vandaag langer, zodat we op tijd klaar zijn.",
+        "en": "Good. I hope that it will go well. I am working longer today, so that we are finished on time."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Terwijl jij de e-mail schrijft, bel ik de klant.",
+        "en": "While you write the email, I will call the client."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed idee. En als we niet klaar zijn?",
+        "en": "Good idea. And if we are not finished?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Dan vraag ik of we meer tijd hebben.",
+        "en": "Then I will ask whether we have more time."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik merk dat je zenuwachtig bent. Geen stress, we doen het samen.",
+        "en": "I notice that you are nervous. No stress, we are doing it together."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja, dat is een goed idee. Ik voel me beter als we samenwerken.",
+        "en": "Yes, that is a good idea. I feel better when we work together."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "dat",
+          "that"
+        ],
+        [
+          "als",
+          "if / when"
+        ],
+        [
+          "terwijl",
+          "while"
+        ],
+        [
+          "voordat",
+          "before"
+        ],
+        [
+          "zodat",
+          "so that"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "denken",
+          "to think"
+        ],
+        [
+          "geloven",
+          "to believe"
+        ],
+        [
+          "hopen",
+          "to hope"
+        ],
+        [
+          "weten",
+          "to know"
+        ],
+        [
+          "vergeten",
+          "to forget"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik denk dat hij morgen komt.",
+        "Ik denk dat hij komt morgen.",
+        "Ik denk dat morgen hij komt."
+      ],
+      "answer": 0,
+      "explain": "In a dat-clause the verb goes at the end: komt."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'whether'? Weet je ___ de deadline woensdag is?",
+      "nl": null,
+      "options": [
+        "of",
+        "dat",
+        "als"
+      ],
+      "answer": 0,
+      "explain": "For 'whether' after weten, use of: Weet je of de deadline woensdag is?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Als het regent, blijf ik thuis.",
+        "Als het regent, ik blijf thuis.",
+        "Als het regent, blijf thuis ik."
+      ],
+      "answer": 0,
+      "explain": "If the als-clause comes first, the main clause starts with the verb: blijf ik."
+    },
+    {
+      "type": "article",
+      "word": "deadline",
+      "en": "deadline",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "project",
+      "en": "project",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I think that he is coming tomorrow.",
+      "answer": "Ik denk dat hij morgen komt.",
+      "accept": [
+        "Morgen denk ik dat hij komt.",
+        "Morgen denk ik dat hij komt"
+      ],
+      "extra": [
+        "denkt",
+        "gisteren"
+      ],
+      "explain": "In a dat-clause the verb comes at the end: ... dat hij morgen komt."
+    },
+    {
+      "type": "build",
+      "en": "If it rains, I stay at home.",
+      "answer": "Als het regent, blijf ik thuis.",
+      "accept": [
+        "Als het regent blijf ik thuis.",
+        "Ik blijf thuis als het regent.",
+        "Ik blijf thuis als het regent"
+      ],
+      "extra": [
+        "blijven",
+        "regen"
+      ],
+      "explain": "If the als-clause comes first, the main clause starts with the verb: ... blijf ik thuis."
+    },
+    {
+      "type": "build",
+      "en": "I hope that we are finished on time.",
+      "answer": "Ik hoop dat we op tijd klaar zijn.",
+      "accept": [
+        "Ik hoop dat we op tijd klaar zijn"
+      ],
+      "extra": [
+        "hoopt",
+        "is"
+      ],
+      "explain": "In a dat-clause the verb comes at the end: ... dat we op tijd klaar zijn."
+    },
+    {
+      "type": "gap",
+      "text": "Ik denk ___ het project morgen klaar is.",
+      "en": "I think that the project will be finished tomorrow.",
+      "answers": [
+        "dat"
+      ],
+      "hint": "that",
+      "explain": "Use dat to introduce the clause; the verb is goes at the end."
+    },
+    {
+      "type": "gap",
+      "text": "___ het regent, blijf ik thuis.",
+      "en": "If it rains, I stay at home.",
+      "answers": [
+        "Als",
+        "als"
+      ],
+      "hint": "if",
+      "explain": "Use als for 'if'; the verb regent stays at the end of the als-clause."
+    },
+    {
+      "type": "gap",
+      "text": "Ik weet niet ___ de vergadering om drie uur begint.",
+      "en": "I don't know whether the meeting starts at three.",
+      "answers": [
+        "of"
+      ],
+      "hint": "whether",
+      "explain": "After weten use of for 'whether'; the verb begint goes at the end."
+    },
+    {
+      "type": "gap",
+      "text": "___ ik moe ben, ga ik naar de vergadering.",
+      "en": "Although I am tired, I am going to the meeting.",
+      "answers": [
+        "Hoewel",
+        "hoewel"
+      ],
+      "hint": "although",
+      "explain": "Use hoewel for 'although'; the verb ben goes at the end of the subordinate clause."
+    },
+    {
+      "type": "translate",
+      "en": "I think that he is coming tomorrow.",
+      "answers": [
+        "Ik denk dat hij morgen komt.",
+        "Ik denk dat hij morgen komt"
+      ],
+      "focus": "dat-clause with the verb at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the verb before the time word in the dat-clause (Ik denk dat hij komt morgen).",
+          "explain": "In a **dat**-clause the verb goes at the end: 'Ik denk dat hij morgen **komt**.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses denkt with ik (Ik denkt dat hij morgen komt).",
+          "explain": "With **ik** use **denk**, not 'denkt': 'Ik **denk** dat hij morgen komt.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits dat and keeps main-clause order (Ik denk hij morgen komt).",
+          "explain": "Add **dat** to start the subordinate clause: 'Ik denk **dat** hij morgen komt.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "When it rains, I stay at home.",
+      "answers": [
+        "Als het regent, blijf ik thuis.",
+        "Als het regent blijf ik thuis.",
+        "Ik blijf thuis als het regent.",
+        "Ik blijf thuis als het regent",
+        "Wanneer het regent, blijf ik thuis.",
+        "Wanneer het regent blijf ik thuis.",
+        "Ik blijf thuis wanneer het regent."
+      ],
+      "focus": "subordinate clause first, then verb + subject",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps main-clause order after the als-clause (Als het regent, ik blijf thuis).",
+          "explain": "If the **als**-clause comes first, the main clause starts with the verb: 'Als het regent, **blijf ik** thuis.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses blijft with ik (Als het regent, blijft ik thuis).",
+          "explain": "With **ik** use **blijf**, not 'blijft': '... **blijf ik** thuis.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Swaps subject and verb in the als-clause (Als regent het, blijf ik thuis).",
+          "explain": "In the **als**-clause the verb is at the end: 'Als het **regent**, ...'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I don't know whether she is at home.",
+      "answers": [
+        "Ik weet niet of ze thuis is.",
+        "Ik weet niet of zij thuis is."
+      ],
+      "focus": "of for whether; verb at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses dat instead of of for whether (Ik weet niet dat ze thuis is).",
+          "explain": "For 'whether' after **weten** use **of**: 'Ik weet niet **of** ze thuis is.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb before the subject in the of-clause (Ik weet niet of ze is thuis).",
+          "explain": "In the **of**-clause the verb goes at the end: '... of ze thuis **is**.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses bent with ze (Ik weet niet of ze thuis bent).",
+          "explain": "With **ze/zij** use **is**: '... of ze thuis **is**.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik denk dat we op tijd klaar zijn.",
+      "en": "I think that we will be finished on time."
+    },
+    {
+      "type": "listen",
+      "nl": "Terwijl hij werkt, luistert hij naar muziek.",
+      "en": "While he works, he listens to music."
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague is worried about the project deadline.",
+      "say": {
+        "nl": "Denk je dat we op tijd klaar zijn?",
+        "en": "Do you think that we will be finished on time?"
+      },
+      "task": "Say that you think it will go well, but that you are not sure.",
+      "examples": [
+        "Ik denk dat het goed gaat, maar ik weet het niet zeker.",
+        "Ik hoop dat het goed gaat. Ik weet het niet zeker."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses denkt with ik (Ik denkt dat het goed gaat).",
+          "explain": "With **ik** use **denk**: 'Ik **denk** dat het goed gaat.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb before goed in the dat-clause (Ik denk dat het gaat goed).",
+          "explain": "In the **dat**-clause the verb goes at the end: 'Ik denk dat het goed **gaat**.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Says ik weet niet zeker without het (Ik denk dat het goed gaat, maar ik weet niet zeker).",
+          "explain": "Say 'Ik weet **het** niet zeker' when you mean 'I am not sure'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague asks about the meeting time.",
+      "say": {
+        "nl": "Weet je of de vergadering om drie uur begint?",
+        "en": "Do you know whether the meeting starts at three?"
+      },
+      "task": "Say that you think it starts at three, and that you can read it in the email.",
+      "examples": [
+        "Ik denk dat de vergadering om drie uur begint. Ik kan het in de e-mail lezen.",
+        "Ik geloof dat het om drie uur begint. Ik kan het in de e-mail lezen."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the verb before the time phrase in the dat-clause (Ik denk dat de vergadering begint om drie uur).",
+          "explain": "In the **dat**-clause the verb goes at the end: '... dat de vergadering om drie uur **begint**.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitive before the object after kan (Ik kan lezen het in de e-mail).",
+          "explain": "With **kan**, the infinitive goes at the end: 'Ik kan het in de e-mail **lezen**.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses denkt with ik (Ik denkt dat de vergadering om drie uur begint).",
+          "explain": "With **ik** use **denk**: 'Ik **denk** dat...'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "De deadline",
+    "setting": "You are at the office with your colleague Mark. A project has a deadline on Wednesday, and there is still a lot to do.",
+    "partner": {
+      "name": "Mark",
+      "gender": "m",
+      "role": "your colleague"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoe gaat het met het project? Is het al klaar?",
+          "en": "How is the project going? Is it finished already?"
+        },
+        "task": "Say that you think you will not be finished on time.",
+        "examples": [
+          "Ik denk dat we niet op tijd klaar zijn.",
+          "Ik geloof dat we niet op tijd klaar zijn."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts niet after klaar (Ik denk dat we op tijd klaar niet zijn).",
+            "explain": "Place **niet** before **op tijd**: '... dat we **niet op tijd** klaar zijn.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Keeps main-clause order after dat (Ik denk dat we zijn niet op tijd klaar).",
+            "explain": "In the **dat**-clause the verb goes at the end: '... dat we niet op tijd klaar **zijn**.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses denkt with ik (Ik denkt dat we niet op tijd klaar zijn).",
+            "explain": "With **ik** use **denk**: 'Ik **denk** dat...'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wanneer is de deadline eigenlijk?",
+          "en": "When is the deadline actually?"
+        },
+        "task": "Say that it is Wednesday, before the meeting.",
+        "examples": [
+          "De deadline is woensdag, voordat de vergadering begint.",
+          "Ik denk dat de deadline woensdag is."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the verb before the subject after voordat (De deadline is woensdag, voordat begint de vergadering).",
+            "explain": "In a **voordat**-clause the verb goes at the end: '... voordat de vergadering **begint**.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses als for 'before' (De deadline is woensdag, als de vergadering begint).",
+            "explain": "Use **voordat** for 'before': '... **voordat** de vergadering begint.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses denkt with ik (Ik denkt dat de deadline woensdag is).",
+            "explain": "With **ik** use **denk**: 'Ik **denk** dat...'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Weet je zeker dat het woensdag is?",
+          "en": "Are you sure that it is Wednesday?"
+        },
+        "task": "Say that you are sure, and that you will look in the email.",
+        "examples": [
+          "Ik weet het zeker. Ik kijk in de e-mail.",
+          "Ja, ik weet het zeker. Ik kijk in de e-mail."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says Ik weet zeker without het (Ik weet zeker.).",
+            "explain": "Say 'Ik weet **het** zeker' = I am sure."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses kijkt with ik (Ik kijkt in de e-mail).",
+            "explain": "With **ik** use **kijk**: 'Ik **kijk** in de e-mail.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts in after the object as if kijken were separable (Ik kijk de e-mail in).",
+            "explain": "Use **kijken in de e-mail**: 'Ik kijk **in** de e-mail.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat doen we als we niet klaar zijn?",
+          "en": "What do we do if we are not finished?"
+        },
+        "task": "Say that you will ask whether you have more time, and that you will work longer so that you are finished on time.",
+        "examples": [
+          "Dan vraag ik of we meer tijd hebben. Ik werk langer, zodat we op tijd klaar zijn.",
+          "Ik vraag of we meer tijd hebben. Ik werk langer, zodat we op tijd klaar zijn."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the verb before meer tijd in the of-clause (Ik vraag of we hebben meer tijd).",
+            "explain": "In the **of**-clause the verb goes at the end: '... of we meer tijd **hebben**.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts zijn before op tijd in the zodat-clause (..., zodat we zijn op tijd klaar).",
+            "explain": "In the **zodat**-clause the verb goes at the end: '... zodat we op tijd klaar **zijn**.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the subject before the verb after dan (Dan ik vraag of we meer tijd hebben).",
+            "explain": "After **dan** the verb comes before the subject: '**Dan vraag ik** of we meer tijd hebben.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Goed, we doen het samen. Tot straks!",
+      "en": "Good, we'll do it together. See you soon!"
+    }
+  },
+  "culture": {
+    "title": "Deadlines in the Netherlands",
+    "text": "In the Netherlands, planning is serious business. A deadline is usually a real deadline: people write it down and plan their work around it, and they expect you to be op tijd. If something will not be ready on time, colleagues prefer to hear it early, so that the team can make a new plan. Being late without a message is seen as unreliable."
+  },
+  "summary": [
+    "Use dat, als, wanneer, omdat, terwijl, voordat, nadat, zodat, hoewel and of to connect clauses.",
+    "In a subordinate clause the verb goes to the end: Ik denk dat hij morgen komt.",
+    "If the subordinate clause comes first, the main clause starts with the verb: Als het regent, blijf ik thuis.",
+    "Of means 'whether' in indirect questions: Ik weet niet of ze thuis is.",
+    "Use zeker, waarschijnlijk and misschien to show how sure you are."
+  ]
+}

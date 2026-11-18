@@ -1,0 +1,1154 @@
+{
+  "id": "u07-l03",
+  "title": "Gegeten en gedronken",
+  "subtitle": "Irregular past participles",
+  "level": "A2",
+  "intro": "In this lesson you learn the irregular past participles of very common verbs, such as gegeten, gedronken, gezien and geweest. You practise asking 'Have you ever...?' with Heb je ooit...? and Ben je ooit... geweest?, and answering with al eens or nog nooit. By the end you can talk about food, books, series and travel experiences.",
+  "words": [
+    {
+      "nl": "eten",
+      "en": "to eat",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik eet, jij eet, wij eten (heeft gegeten)",
+      "example": {
+        "nl": "Ik eet graag vis.",
+        "en": "I like eating fish."
+      },
+      "note": "The participle is irregular: eten -> gegeten."
+    },
+    {
+      "nl": "drinken",
+      "en": "to drink",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik drink, jij drinkt, wij drinken (heeft gedronken)",
+      "example": {
+        "nl": "Ik drink graag koffie.",
+        "en": "I like drinking coffee."
+      },
+      "note": "Participle: drinken -> gedronken."
+    },
+    {
+      "nl": "zien",
+      "en": "to see",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zie, jij ziet, wij zien (heeft gezien)",
+      "example": {
+        "nl": "Ik heb de film al gezien.",
+        "en": "I have already seen the film."
+      },
+      "note": "The participle is irregular: zien -> gezien."
+    },
+    {
+      "nl": "lezen",
+      "en": "to read",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik lees, jij leest, wij lezen (heeft gelezen)",
+      "example": {
+        "nl": "Zij leest een boek.",
+        "en": "She is reading a book."
+      },
+      "note": "Not geleest: lezen -> gelezen."
+    },
+    {
+      "nl": "schrijven",
+      "en": "to write",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik schrijf, jij schrijft, wij schrijven (heeft geschreven)",
+      "example": {
+        "nl": "Ik schrijf een brief.",
+        "en": "I am writing a letter."
+      },
+      "note": "The participle is irregular: schrijven -> geschreven."
+    },
+    {
+      "nl": "nemen",
+      "en": "to take",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik neem, jij neemt, wij nemen (heeft genomen)",
+      "example": {
+        "nl": "Ik neem een biertje.",
+        "en": "I'll have a beer."
+      },
+      "note": "In a café nemen is very handy for ordering: Ik neem een koffie."
+    },
+    {
+      "nl": "geven",
+      "en": "to give",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik geef, jij geeft, wij geven (heeft gegeven)",
+      "example": {
+        "nl": "Ik geef hem een boek.",
+        "en": "I give him a book."
+      },
+      "note": "The participle is irregular: geven -> gegeven."
+    },
+    {
+      "nl": "vinden",
+      "en": "to find; to think (that something is...)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vind, jij vindt, wij vinden (heeft gevonden)",
+      "example": {
+        "nl": "Ik vind het een goed idee.",
+        "en": "I think it's a good idea."
+      },
+      "note": "Vinden is also how you say what you think: Ik vind het leuk."
+    },
+    {
+      "nl": "kopen",
+      "en": "to buy",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik koop, jij koopt, wij kopen (heeft gekocht)",
+      "example": {
+        "nl": "Ik koop brood bij de bakker.",
+        "en": "I buy bread at the bakery."
+      },
+      "note": "The participle ends in -cht: kopen -> gekocht."
+    },
+    {
+      "nl": "denken",
+      "en": "to think",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik denk, jij denkt, wij denken (heeft gedacht)",
+      "example": {
+        "nl": "Ik denk dat het goed is.",
+        "en": "I think it's good."
+      },
+      "note": "The participle is irregular: denken -> gedacht."
+    },
+    {
+      "nl": "brengen",
+      "en": "to bring",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik breng, jij brengt, wij brengen (heeft gebracht)",
+      "example": {
+        "nl": "Ik breng de kaas naar de keuken.",
+        "en": "I bring the cheese to the kitchen."
+      },
+      "note": "The participle is irregular: brengen -> gebracht."
+    },
+    {
+      "nl": "zoeken",
+      "en": "to look for",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zoek, jij zoekt, wij zoeken (heeft gezocht)",
+      "example": {
+        "nl": "Wij zoeken een tafel voor twee personen.",
+        "en": "We are looking for a table for two."
+      },
+      "note": "The participle ends in -cht: zoeken -> gezocht."
+    },
+    {
+      "nl": "krijgen",
+      "en": "to get, to receive",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik krijg, jij krijgt, wij krijgen (heeft gekregen)",
+      "example": {
+        "nl": "Ik krijg een cadeau.",
+        "en": "I am getting a present."
+      },
+      "note": "The participle keeps ge-: krijgen -> gekregen."
+    },
+    {
+      "nl": "beginnen",
+      "en": "to begin, to start",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik begin, jij begint, wij beginnen (is begonnen)",
+      "example": {
+        "nl": "De film begint om acht uur.",
+        "en": "The film starts at eight o'clock."
+      },
+      "note": "Beginnen takes zijn: De film is begonnen. No ge- in the participle."
+    },
+    {
+      "nl": "vergeten",
+      "en": "to forget",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vergeet, jij vergeet, wij vergeten (is/heeft vergeten)",
+      "example": {
+        "nl": "Ik ben zijn naam vergeten.",
+        "en": "I have forgotten his name."
+      },
+      "note": "The participle has no ge-: vergeten -> vergeten."
+    },
+    {
+      "nl": "ooit",
+      "en": "ever",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ben je ooit in Amsterdam geweest?",
+        "en": "Have you ever been to Amsterdam?"
+      },
+      "note": "Mostly used in questions; in a positive answer use al eens."
+    },
+    {
+      "nl": "nog nooit",
+      "en": "never (so far)",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb nog nooit haring gegeten.",
+        "en": "I have never eaten herring."
+      },
+      "note": "Nog nooit stays together and comes before the participle at the end."
+    },
+    {
+      "nl": "al eens",
+      "en": "once before, already once",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben al eens in Spanje geweest.",
+        "en": "I have been to Spain once."
+      },
+      "note": "Use al eens in positive answers about experiences."
+    },
+    {
+      "nl": "haring",
+      "en": "herring",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de haringen",
+      "forms": null,
+      "example": {
+        "nl": "Ik eet haring op de markt.",
+        "en": "I eat herring at the market."
+      },
+      "note": "In the Netherlands haring is eaten raw, with onions."
+    },
+    {
+      "nl": "ervaring",
+      "en": "experience",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de ervaringen",
+      "forms": null,
+      "example": {
+        "nl": "Dat is een leuke ervaring.",
+        "en": "That is a nice experience."
+      },
+      "note": null
+    },
+    {
+      "nl": "brief",
+      "en": "letter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de brieven",
+      "forms": null,
+      "example": {
+        "nl": "Ik schrijf een brief voor mijn oma.",
+        "en": "I am writing a letter for my grandmother."
+      },
+      "note": "A brief is on paper; a message on your phone is een bericht."
+    },
+    {
+      "nl": "bericht",
+      "en": "message",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de berichten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb je bericht gezien.",
+        "en": "I have seen your message."
+      },
+      "note": "Het bericht, but de berichten."
+    },
+    {
+      "nl": "serie",
+      "en": "series (on TV)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de series",
+      "forms": null,
+      "example": {
+        "nl": "De serie is echt goed.",
+        "en": "The series is really good."
+      },
+      "note": "A Dutch series is often called een serie; plural stays de series."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Heb je ooit haring gegeten?",
+      "en": "Have you ever eaten herring?",
+      "note": null
+    },
+    {
+      "nl": "Ik heb nog nooit haring gegeten.",
+      "en": "I have never eaten herring.",
+      "note": "Nog nooit = never so far."
+    },
+    {
+      "nl": "Ben je ooit in Nederland geweest?",
+      "en": "Have you ever been to the Netherlands?",
+      "note": "With zijn-verbs: ben ... geweest."
+    },
+    {
+      "nl": "Ik ben al eens in Spanje geweest.",
+      "en": "I have been to Spain once.",
+      "note": null
+    },
+    {
+      "nl": "Heb je het bericht gezien?",
+      "en": "Have you seen the message?",
+      "note": null
+    },
+    {
+      "nl": "Ik ben het vergeten.",
+      "en": "I have forgotten it.",
+      "note": "Also possible: Ik heb het vergeten."
+    },
+    {
+      "nl": "Dat heb ik nooit geweten.",
+      "en": "I never knew that.",
+      "note": "A fixed expression: weten -> geweten."
+    },
+    {
+      "nl": "Wat heb je dit weekend gedaan?",
+      "en": "What did you do this weekend?",
+      "note": null
+    },
+    {
+      "nl": "Oké",
+      "en": "okay",
+      "note": "A handy interjection to agree or to start a new point."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Irregular past participles",
+      "explanation": "Many common verbs do not follow the ge- + stem + t/d rule. You simply learn these forms by heart. The participle still goes at the end of the sentence, after **hebben** or **zijn**. Compare: **Ik heb haring gegeten.** and **Ik ben in Spanje geweest.**",
+      "table": {
+        "headers": [
+          "infinitief",
+          "voltooid deelwoord",
+          "English"
+        ],
+        "rows": [
+          [
+            "eten",
+            "gegeten",
+            "eaten"
+          ],
+          [
+            "drinken",
+            "gedronken",
+            "drunk"
+          ],
+          [
+            "zien",
+            "gezien",
+            "seen"
+          ],
+          [
+            "lezen",
+            "gelezen",
+            "read"
+          ],
+          [
+            "schrijven",
+            "geschreven",
+            "written"
+          ],
+          [
+            "nemen",
+            "genomen",
+            "taken"
+          ],
+          [
+            "geven",
+            "gegeven",
+            "given"
+          ],
+          [
+            "vinden",
+            "gevonden",
+            "found"
+          ],
+          [
+            "kopen",
+            "gekocht",
+            "bought"
+          ],
+          [
+            "denken",
+            "gedacht",
+            "thought"
+          ],
+          [
+            "brengen",
+            "gebracht",
+            "brought"
+          ],
+          [
+            "zoeken",
+            "gezocht",
+            "looked for"
+          ],
+          [
+            "krijgen",
+            "gekregen",
+            "got, received"
+          ],
+          [
+            "beginnen",
+            "begonnen",
+            "begun"
+          ],
+          [
+            "vergeten",
+            "vergeten",
+            "forgotten"
+          ],
+          [
+            "zijn",
+            "geweest",
+            "been"
+          ],
+          [
+            "hebben",
+            "gehad",
+            "had"
+          ],
+          [
+            "doen",
+            "gedaan",
+            "done"
+          ],
+          [
+            "weten",
+            "geweten",
+            "known"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb nog nooit haring gegeten.",
+          "en": "I have never eaten herring."
+        },
+        {
+          "nl": "Heb je die brief geschreven?",
+          "en": "Did you write that letter?"
+        },
+        {
+          "nl": "Wij zijn al eens in Spanje geweest.",
+          "en": "We have been to Spain once."
+        },
+        {
+          "nl": "Hij heeft een boek gekocht.",
+          "en": "He has bought a book."
+        }
+      ],
+      "tip": "Learn participles in pairs out loud: lezen - gelezen, zien - gezien. Rhythm helps your memory more than rules here."
+    },
+    {
+      "title": "Heb je ooit...? / Ben je ooit ... geweest?",
+      "explanation": "Use **Heb je ooit ...?** with hebben-verbs to ask if someone has ever done something. To ask if someone has ever been to a place, use **Ben je ooit in ... geweest?** Answer positively with **Ja, ik heb al eens ...** / **Ja, ik ben al eens ... geweest**. Answer negatively with **Nee, ik heb nog nooit ...** / **Nee, ik ben nog nooit ... geweest**. In a positive answer you do not use ooit; use **al eens**.",
+      "table": {
+        "headers": [
+          "vraag",
+          "ja",
+          "nee"
+        ],
+        "rows": [
+          [
+            "Heb je ooit haring gegeten?",
+            "Ja, ik heb al eens haring gegeten.",
+            "Nee, ik heb nog nooit haring gegeten."
+          ],
+          [
+            "Ben je ooit in Spanje geweest?",
+            "Ja, ik ben al eens in Spanje geweest.",
+            "Nee, ik ben nog nooit in Spanje geweest."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Heb je ooit een brief geschreven?",
+          "en": "Have you ever written a letter?"
+        },
+        {
+          "nl": "Ik ben nog nooit in het vliegtuig geweest.",
+          "en": "I have never been in an airplane."
+        },
+        {
+          "nl": "Ben je ooit in Amsterdam geweest?",
+          "en": "Have you ever been to Amsterdam?"
+        }
+      ],
+      "tip": "Word order: ooit comes right after the subject, and nog nooit sits together just before the participle: Ik heb **nog nooit** haring **gegeten**."
+    },
+    {
+      "title": "No extra ge- after be-, ver-, ont-, ge-, er-, her-",
+      "explanation": "Verbs that start with **be-, ver-, ont-, ge-, er-** or **her-** never get an extra **ge-** in the participle. Learn these as fixed forms: **beginnen -> begonnen**, **vergeten -> vergeten**, **betalen -> betaald**.",
+      "table": {
+        "headers": [
+          "infinitief",
+          "voltooid deelwoord"
+        ],
+        "rows": [
+          [
+            "beginnen",
+            "begonnen"
+          ],
+          [
+            "vergeten",
+            "vergeten"
+          ],
+          [
+            "betalen",
+            "betaald"
+          ],
+          [
+            "begrijpen",
+            "begrepen"
+          ],
+          [
+            "verkopen",
+            "verkocht"
+          ],
+          [
+            "weten",
+            "geweten"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben het vergeten.",
+          "en": "I have forgotten it."
+        },
+        {
+          "nl": "Wij zijn om acht uur begonnen.",
+          "en": "We started at eight o'clock."
+        },
+        {
+          "nl": "Ik heb alles betaald.",
+          "en": "I have paid everything."
+        }
+      ],
+      "tip": "These prefixes block the extra ge-; you never add a second one."
+    }
+  ],
+  "dialogue": {
+    "title": "Heb je ooit...?",
+    "setting": "Three new colleagues are having a drink after work and play a game of 'Have you ever...?'.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Milan",
+        "gender": "m"
+      },
+      {
+        "name": "Noor",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Zullen we een spelletje doen? Heb je ooit...?",
+        "en": "Shall we play a little game? Have you ever...?"
+      },
+      {
+        "speaker": "Milan",
+        "nl": "Leuk! Ik begin. Heb je ooit haring gegeten?",
+        "en": "Nice! I'll start. Have you ever eaten herring?"
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Nee, nog nooit. Ik vind vis niet lekker.",
+        "en": "No, never. I don't like fish."
+      },
+      {
+        "speaker": "Milan",
+        "nl": "Echt? Haring met ui is echt lekker. Dat is een Nederlandse ervaring!",
+        "en": "Really? Herring with onion is really tasty. That's a Dutch experience!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik heb al eens haring gegeten, op de markt. Echt lekker!",
+        "en": "I've eaten herring once before, at the market. Really tasty!"
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Ben je ooit in Spanje geweest, Sanne?",
+        "en": "Have you ever been to Spain, Sanne?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik ben al eens in Spanje geweest. En jij, Milan?",
+        "en": "Yes, I've been to Spain once. And you, Milan?"
+      },
+      {
+        "speaker": "Milan",
+        "nl": "Nee, ik ben nog nooit in Spanje geweest. Ik ben ook nog nooit in een vliegtuig geweest.",
+        "en": "No, I've never been to Spain. I've also never been in an airplane."
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Ik heb gisteren een serie gezien. De serie is echt goed!",
+        "en": "I saw a series yesterday. The series is really good!"
+      },
+      {
+        "speaker": "Milan",
+        "nl": "Wat heb je dit weekend gedaan?",
+        "en": "What did you do this weekend?"
+      },
+      {
+        "speaker": "Noor",
+        "nl": "Ik heb gewerkt en daarna heb ik gelezen.",
+        "en": "I worked and after that I read."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dit is echt gezellig. Ik heb een nieuwe ervaring en nieuwe vrienden!",
+        "en": "This is really cosy. I have a new experience and new friends!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "eten",
+          "to eat"
+        ],
+        [
+          "drinken",
+          "to drink"
+        ],
+        [
+          "zien",
+          "to see"
+        ],
+        [
+          "lezen",
+          "to read"
+        ],
+        [
+          "schrijven",
+          "to write"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "gegeten",
+          "eaten"
+        ],
+        [
+          "gedronken",
+          "drunk"
+        ],
+        [
+          "gezien",
+          "seen"
+        ],
+        [
+          "gelezen",
+          "read"
+        ],
+        [
+          "geschreven",
+          "written"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik heb het boek gelezen.",
+        "Ik heb het boek geleest.",
+        "Ik heb het boek leesd."
+      ],
+      "answer": 0,
+      "explain": "Lezen is irregular: lezen -> gelezen, not geleest."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Zij is in Amsterdam geweest.",
+        "Zij heeft in Amsterdam geweest.",
+        "Zij is in Amsterdam gewezen."
+      ],
+      "answer": 0,
+      "explain": "Geweest comes from zijn, so the auxiliary is zijn: zij is ... geweest."
+    },
+    {
+      "type": "choice",
+      "prompt": "You want to say 'I have never eaten herring.' Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik heb nog nooit haring gegeten.",
+        "Ik heb ooit geen haring gegeten.",
+        "Ik heb nooit nog haring gegeten."
+      ],
+      "answer": 0,
+      "explain": "Nog nooit is a fixed pair and it comes just before the participle at the end."
+    },
+    {
+      "type": "article",
+      "word": "haring",
+      "en": "herring",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "bericht",
+      "en": "message",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I have never eaten herring.",
+      "answer": "Ik heb nog nooit haring gegeten.",
+      "accept": [
+        "Ik heb haring nog nooit gegeten."
+      ],
+      "extra": [
+        "ooit",
+        "eet"
+      ],
+      "explain": "Keep nog nooit together before the participle; the participle gegeten goes at the end: 'Ik heb nog nooit haring gegeten.'"
+    },
+    {
+      "type": "build",
+      "en": "Have you ever been to Spain?",
+      "answer": "Ben je ooit in Spanje geweest?",
+      "accept": [
+        "Ben je ooit geweest in Spanje?",
+        "Ben je in Spanje ooit geweest?"
+      ],
+      "extra": [
+        "Heb",
+        "gehad"
+      ],
+      "explain": "With zijn-verbs ask Ben je ooit ... geweest? and put the participle geweest at the end: 'Ben je ooit in Spanje geweest?'"
+    },
+    {
+      "type": "build",
+      "en": "I have never seen that series.",
+      "answer": "Ik heb die serie nog nooit gezien.",
+      "accept": [
+        "Die serie heb ik nog nooit gezien.",
+        "Ik heb nog nooit die serie gezien."
+      ],
+      "extra": [
+        "dat",
+        "kijk"
+      ],
+      "explain": "Use die with de-words like serie, and put the participle gezien at the end: 'Ik heb die serie nog nooit gezien.'"
+    },
+    {
+      "type": "gap",
+      "text": "Heb je ooit haring ___?",
+      "en": "Have you ever eaten herring?",
+      "answers": [
+        "gegeten"
+      ],
+      "hint": "eten",
+      "explain": "After ooit haring you need the participle of eten: gegeten. Say: 'Heb je ooit haring gegeten?'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb het bericht nog nooit ___.",
+      "en": "I have never seen the message.",
+      "answers": [
+        "gezien"
+      ],
+      "hint": "zien",
+      "explain": "Use the participle of zien, gezien, after nog nooit: 'Ik heb het bericht nog nooit gezien.'"
+    },
+    {
+      "type": "gap",
+      "text": "Wij hebben gisteren niets ___.",
+      "en": "We did nothing yesterday.",
+      "answers": [
+        "gedaan"
+      ],
+      "hint": "doen",
+      "explain": "Use the participle of doen, gedaan, at the end: 'Wij hebben gisteren niets gedaan.'"
+    },
+    {
+      "type": "translate",
+      "en": "I have never eaten herring.",
+      "answers": [
+        "Ik heb nog nooit haring gegeten.",
+        "Ik heb nooit haring gegeten.",
+        "Ik heb haring nog nooit gegeten."
+      ],
+      "focus": "nog nooit + gegeten at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the object after the participle (Ik heb nog nooit gegeten haring).",
+          "explain": "The participle gegeten goes at the end of the sentence: 'Ik heb nog nooit haring gegeten.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive instead of the participle (Ik heb nog nooit haring eten).",
+          "explain": "After hebben you need the participle: eten -> gegeten, so 'Ik heb nog nooit haring gegeten.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses zijn with eten (Ik ben nog nooit haring gegeten).",
+          "explain": "Eten takes hebben: 'Ik heb nog nooit haring gegeten.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Splits nog nooit (Ik heb nog haring nooit gegeten).",
+          "explain": "Nog nooit is a fixed pair and stays together before the participle: 'Ik heb nog nooit haring gegeten.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Have you ever read that book?",
+      "answers": [
+        "Heb je ooit dat boek gelezen?",
+        "Heb je dat boek ooit gelezen?",
+        "Heb jij dat boek ooit gelezen?",
+        "Heb jij ooit dat boek gelezen?"
+      ],
+      "focus": "Heb je ooit ...? with the participle at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses a wrong participle (Heb je ooit dat boek geleest?).",
+          "explain": "Lezen is irregular: lezen -> gelezen, so 'Heb je ooit dat boek gelezen?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive instead of the participle (Heb je ooit dat boek lezen?).",
+          "explain": "After hebben you need the participle: 'Heb je ooit dat boek gelezen?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Places the object after the participle (Heb je ooit gelezen dat boek?).",
+          "explain": "The object dat boek comes before the participle at the end: 'Heb je ooit dat boek gelezen?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "She has written a letter.",
+      "answers": [
+        "Zij heeft een brief geschreven.",
+        "Ze heeft een brief geschreven."
+      ],
+      "focus": "schrijven -> geschreven",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses zijn instead of hebben (Zij is een brief geschreven).",
+          "explain": "Schrijven takes hebben: 'Zij heeft een brief geschreven.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses a wrong participle (Zij heeft een brief geschrijft).",
+          "explain": "Schrijven is irregular: schrijven -> geschreven, so 'Zij heeft een brief geschreven.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Places the object after the participle (Zij heeft geschreven een brief).",
+          "explain": "The object een brief comes before the participle at the end: 'Zij heeft een brief geschreven.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik heb nog nooit haring gegeten.",
+      "en": "I have never eaten herring."
+    },
+    {
+      "type": "listen",
+      "nl": "Ben je ooit in Amsterdam geweest?",
+      "en": "Have you ever been to Amsterdam?"
+    },
+    {
+      "type": "reply",
+      "context": "You are at a borrel with new colleagues. Milan asks you a question in the game 'Heb je ooit...?'.",
+      "say": {
+        "nl": "Heb je ooit haring gegeten?",
+        "en": "Have you ever eaten herring?"
+      },
+      "task": "Answer honestly. Say if you have never eaten herring, or if you have eaten it once before.",
+      "examples": [
+        "Nee, ik heb nog nooit haring gegeten.",
+        "Ja, ik heb al eens haring gegeten, op de markt.",
+        "Nog nooit! Ik eet geen vis."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Answers positively with ooit instead of al eens (Ja, ik heb ooit haring gegeten).",
+          "explain": "In a positive answer about experience use al eens, not ooit: 'Ja, ik heb al eens haring gegeten.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Splits nog nooit (Nee, ik heb nog haring nooit gegeten).",
+          "explain": "Nog nooit stays together before the participle: 'Nee, ik heb nog nooit haring gegeten.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses zijn with eten (Nee, ik ben nog nooit haring gegeten).",
+          "explain": "Eten takes hebben: 'Nee, ik heb nog nooit haring gegeten.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts the participle before the object (Nee, ik heb nog nooit gegeten haring).",
+          "explain": "The object haring comes before the participle at the end: 'Nee, ik heb nog nooit haring gegeten.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The game continues. Noor asks you about travel.",
+      "say": {
+        "nl": "Ben je ooit in Spanje geweest?",
+        "en": "Have you ever been to Spain?"
+      },
+      "task": "Say if you have been to Spain. If not, say which country you have been to.",
+      "examples": [
+        "Ja, ik ben al eens in Spanje geweest.",
+        "Nee, ik ben nog nooit in Spanje geweest. Ik ben in Duitsland geweest.",
+        "Nee, nog nooit."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses hebben with geweest (Ja, ik heb al eens in Spanje geweest).",
+          "explain": "Geweest comes from zijn, so use zijn: 'Ja, ik ben al eens in Spanje geweest.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Answers positively with ooit instead of al eens (Ja, ik ben ooit in Spanje geweest).",
+          "explain": "In a positive answer use al eens, not ooit: 'Ja, ik ben al eens in Spanje geweest.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses hebben in a negative answer (Nee, ik heb nog nooit in Spanje geweest).",
+          "explain": "Use zijn with geweest: 'Nee, ik ben nog nooit in Spanje geweest.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts geweest before the place (Nee, ik ben nog nooit geweest in Spanje).",
+          "explain": "The place phrase in Spanje comes before geweest at the end: 'Nee, ik ben nog nooit in Spanje geweest.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Heb je ooit...?",
+    "setting": "You are having a drink with new colleagues and playing 'Have you ever...?'. Milan asks the questions.",
+    "partner": {
+      "name": "Milan",
+      "gender": "m",
+      "role": "a friendly new colleague"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Heb je ooit haring gegeten?",
+          "en": "Have you ever eaten herring?"
+        },
+        "task": "Answer. Say whether you have eaten herring; if not, say that you never have.",
+        "examples": [
+          "Nee, ik heb nog nooit haring gegeten.",
+          "Ja, ik heb al eens haring gegeten, op de markt.",
+          "Nog nooit! Ik eet geen vis."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses ooit in a positive answer (Ja, ik heb ooit haring gegeten).",
+            "explain": "For a positive experience answer with al eens: 'Ja, ik heb al eens haring gegeten.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses zijn with eten (Nee, ik ben nog nooit haring gegeten).",
+            "explain": "Eten takes hebben: 'Nee, ik heb nog nooit haring gegeten.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Splits nog nooit (Nee, ik heb nog haring nooit gegeten).",
+            "explain": "Nog nooit stays together: 'Nee, ik heb nog nooit haring gegeten.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Puts the participle before haring (Nee, ik heb nog nooit gegeten haring).",
+            "explain": "The object haring comes before the participle at the end: 'Nee, ik heb nog nooit haring gegeten.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En ben je ooit in Spanje geweest?",
+          "en": "And have you ever been to Spain?"
+        },
+        "task": "Say whether you have been to Spain. If not, name a country you have visited.",
+        "examples": [
+          "Ja, ik ben al eens in Spanje geweest.",
+          "Nee, ik ben nog nooit in Spanje geweest. Ik ben in Duitsland geweest.",
+          "Nee, nog nooit."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses hebben with geweest (Ja, ik heb al eens in Spanje geweest).",
+            "explain": "Use zijn with geweest: 'Ja, ik ben al eens in Spanje geweest.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses ooit in a positive answer (Ja, ik ben ooit in Spanje geweest).",
+            "explain": "In a positive answer use al eens: 'Ja, ik ben al eens in Spanje geweest.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses hebben in a negative answer (Nee, ik heb nog nooit in Spanje geweest).",
+            "explain": "Use zijn with geweest: 'Nee, ik ben nog nooit in Spanje geweest.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Puts geweest before in Spanje (Nee, ik ben nog nooit geweest in Spanje).",
+            "explain": "The place phrase comes before geweest at the end: 'Nee, ik ben nog nooit in Spanje geweest.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Oké, laatste vraag: heb je ooit een brief geschreven?",
+          "en": "Okay, last question: have you ever written a letter?"
+        },
+        "task": "Answer, and say who you wrote the letter for.",
+        "examples": [
+          "Ja, ik heb al eens een brief voor mijn oma geschreven.",
+          "Nee, nog nooit. Ik schrijf alleen berichten.",
+          "Ja, ik heb een brief voor mijn vriend geschreven."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses zijn with schrijven (Ik ben een brief geschreven).",
+            "explain": "Schrijven takes hebben: 'Ik heb een brief geschreven.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses a wrong participle (Ik heb een brief geschrijft).",
+            "explain": "Schrijven -> geschreven: 'Ik heb een brief geschreven.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the object after the participle (Ik heb geschreven een brief).",
+            "explain": "Een brief comes before geschreven at the end: 'Ik heb een brief geschreven.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Forgets the article (Ik heb brief geschreven).",
+            "explain": "Use een before brief: 'Ik heb een brief geschreven.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Gezellig! Wil je nog iets drinken?",
+          "en": "Nice! Would you like something else to drink?"
+        },
+        "task": "Say politely what you would like to drink, or say that you have had enough.",
+        "examples": [
+          "Ja, graag een biertje.",
+          "Nee, dank je. Ik heb genoeg gedronken.",
+          "Mag ik een glas water?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses a wrong participle for drinken (Ik heb genoeg gedrinkt).",
+            "explain": "Drinken -> gedronken: 'Ik heb genoeg gedronken.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses zijn with drinken (Ik ben genoeg gedronken).",
+            "explain": "Drinken takes hebben: 'Ik heb genoeg gedronken.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses a wrong word order with graag (Mag ik een biertje graag?).",
+            "explain": "With mag ik, leave out graag or say 'Ik wil graag een biertje.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Forgets the article with glas (Mag ik glas water?).",
+            "explain": "Use een glas water: 'Mag ik een glas water?'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Op nieuwe vrienden en nieuwe ervaringen!",
+      "en": "To new friends and new experiences!"
+    }
+  },
+  "culture": {
+    "title": "Haring happen",
+    "text": "In the Netherlands herring is eaten raw, with chopped onions, and you buy it at a fish stand (de viskraam) on the market or in the street. You hold it by the tail, dip it in the onions and eat it standing up. 'Heb je ooit haring gegeten?' is a real question here, and many Dutch people remember their first herring. The season starts in June with the Hollandse Nieuwe, the first herring of the new year."
+  },
+  "summary": [
+    "Common verbs have irregular participles: eten - gegeten, drinken - gedronken, zien - gezien, lezen - gelezen, schrijven - geschreven.",
+    "Zijn and hebben are irregular too: geweest and gehad.",
+    "Ask about experiences with Heb je ooit ...? and Ben je ooit ... geweest?",
+    "Answer with Ja, ik heb al eens ... or Nee, ik heb nog nooit ...",
+    "Verbs starting with be-, ver-, ont-, ge-, er- or her- take no extra ge-: vergeten - vergeten, beginnen - begonnen."
+  ]
+}

@@ -1,0 +1,1123 @@
+{
+  "id": "u04-l06",
+  "title": "Op de fiets",
+  "subtitle": "Bikes and plans with gaan",
+  "level": "A1",
+  "intro": "In this lesson you learn to talk about your bike and about your plans. You will use gaan + infinitive to say what you are going to do, and you will practise separable verbs like opbellen and meenemen. By the end you can take your bike to the repair shop and say when you will pick it up.",
+  "words": [
+    {
+      "nl": "fiets",
+      "en": "the bicycle",
+      "pos": "noun",
+      "article": "de",
+      "plural": "fietsen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn fiets is nieuw.",
+        "en": "My bike is new."
+      },
+      "note": "You know de fiets already; now you also learn the verb fietsen."
+    },
+    {
+      "nl": "fietsen",
+      "en": "to cycle, to ride a bike",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik fiets, jij fietst, wij fietsen",
+      "example": {
+        "nl": "Ik fiets vandaag naar mijn werk.",
+        "en": "I am cycling to work today."
+      },
+      "note": null
+    },
+    {
+      "nl": "fietspad",
+      "en": "the cycle path",
+      "pos": "noun",
+      "article": "het",
+      "plural": "fietspaden",
+      "forms": null,
+      "example": {
+        "nl": "Het fietspad is breed.",
+        "en": "The cycle path is wide."
+      },
+      "note": null
+    },
+    {
+      "nl": "band",
+      "en": "the tyre",
+      "pos": "noun",
+      "article": "de",
+      "plural": "banden",
+      "forms": null,
+      "example": {
+        "nl": "De band van mijn fiets is lek.",
+        "en": "The tyre of my bike is flat."
+      },
+      "note": null
+    },
+    {
+      "nl": "lek",
+      "en": "flat, leaky",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mijn band is lek.",
+        "en": "My tyre is flat."
+      },
+      "note": "You also say een lekke band: lek gets -e before a de-word."
+    },
+    {
+      "nl": "kapot",
+      "en": "broken",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De lamp is kapot.",
+        "en": "The light is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "fietsenmaker",
+      "en": "the bike repairer, bike shop",
+      "pos": "noun",
+      "article": "de",
+      "plural": "fietsenmakers",
+      "forms": null,
+      "example": {
+        "nl": "De fietsenmaker repareert mijn fiets.",
+        "en": "The bike repairer repairs my bike."
+      },
+      "note": null
+    },
+    {
+      "nl": "repareren",
+      "en": "to repair, to fix",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik repareer, jij repareert, wij repareren",
+      "example": {
+        "nl": "Kunt u mijn fiets repareren?",
+        "en": "Can you repair my bike?"
+      },
+      "note": null
+    },
+    {
+      "nl": "fietsenstalling",
+      "en": "the bicycle parking",
+      "pos": "noun",
+      "article": "de",
+      "plural": "fietsenstallingen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn fiets staat in de fietsenstalling.",
+        "en": "My bike is in the bicycle parking."
+      },
+      "note": null
+    },
+    {
+      "nl": "stallen",
+      "en": "to park (a bike)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik stal, jij stalt, wij stallen",
+      "example": {
+        "nl": "Ik stal mijn fiets bij het station.",
+        "en": "I park my bike at the station."
+      },
+      "note": null
+    },
+    {
+      "nl": "slot",
+      "en": "the lock",
+      "pos": "noun",
+      "article": "het",
+      "plural": "sloten",
+      "forms": null,
+      "example": {
+        "nl": "Het slot is kapot.",
+        "en": "The lock is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "lamp",
+      "en": "the lamp, the light",
+      "pos": "noun",
+      "article": "de",
+      "plural": "lampen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn lamp is kapot.",
+        "en": "My light is broken."
+      },
+      "note": "The same word as the lamp at home — on a bike it is the front or back light."
+    },
+    {
+      "nl": "bel",
+      "en": "the bell",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bellen",
+      "forms": null,
+      "example": {
+        "nl": "De bel van mijn fiets is kapot.",
+        "en": "The bell of my bike is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "helm",
+      "en": "the helmet",
+      "pos": "noun",
+      "article": "de",
+      "plural": "helmen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn helm is nieuw.",
+        "en": "My helmet is new."
+      },
+      "note": null
+    },
+    {
+      "nl": "regen",
+      "en": "the rain",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik fiets in de regen.",
+        "en": "I cycle in the rain."
+      },
+      "note": null
+    },
+    {
+      "nl": "wind",
+      "en": "the wind",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De wind is koud.",
+        "en": "The wind is cold."
+      },
+      "note": null
+    },
+    {
+      "nl": "rem",
+      "en": "the brake",
+      "pos": "noun",
+      "article": "de",
+      "plural": "remmen",
+      "forms": null,
+      "example": {
+        "nl": "De rem van mijn fiets is kapot.",
+        "en": "The brake of my bike is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "meenemen",
+      "en": "to take along, to bring",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik neem mee, jij neemt mee, wij nemen mee",
+      "example": {
+        "nl": "Ik neem mijn helm mee.",
+        "en": "I am taking my helmet with me."
+      },
+      "note": null
+    },
+    {
+      "nl": "ophalen",
+      "en": "to pick up, to collect",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik haal op, jij haalt op, wij halen op",
+      "example": {
+        "nl": "Ik haal mijn fiets morgen op.",
+        "en": "I am picking up my bike tomorrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "opbellen",
+      "en": "to call (by phone)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bel op, jij belt op, wij bellen op",
+      "example": {
+        "nl": "Ik bel de fietsenmaker op.",
+        "en": "I am calling the bike repairer."
+      },
+      "note": null
+    },
+    {
+      "nl": "terugkomen",
+      "en": "to come back, to return",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom terug, jij komt terug, wij komen terug",
+      "example": {
+        "nl": "Ik kom morgen terug.",
+        "en": "I am coming back tomorrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "straks",
+      "en": "later (today), in a moment",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik kom straks terug.",
+        "en": "I will come back later."
+      },
+      "note": "Straks means later today, not 'soon' in general."
+    },
+    {
+      "nl": "volgende week",
+      "en": "next week",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Volgende week ga ik naar de fietsenmaker.",
+        "en": "Next week I am going to the bike repairer."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik heb een lekke band.",
+      "en": "I have a flat tyre.",
+      "note": "lek + -e before a de-word: een lekke band."
+    },
+    {
+      "nl": "Kunt u hem repareren?",
+      "en": "Can you repair it?",
+      "note": "Hem refers to a de-word such as de fiets or de band."
+    },
+    {
+      "nl": "Ik ga hem morgen ophalen.",
+      "en": "I am going to pick it up tomorrow.",
+      "note": "After gaan the whole separable verb stays together at the end: ophalen."
+    },
+    {
+      "nl": "Ik ga morgen fietsen.",
+      "en": "I am going to cycle tomorrow.",
+      "note": null
+    },
+    {
+      "nl": "Ik bel je straks op.",
+      "en": "I will call you later.",
+      "note": "opbellen splits: bel ... op."
+    },
+    {
+      "nl": "Neem je helm mee.",
+      "en": "Take your helmet with you.",
+      "note": "meenemen splits: neem ... mee."
+    },
+    {
+      "nl": "Waar is de fietsenstalling?",
+      "en": "Where is the bicycle parking?",
+      "note": null
+    },
+    {
+      "nl": "Tot volgende week!",
+      "en": "See you next week!",
+      "note": null
+    },
+    {
+      "nl": "Oké.",
+      "en": "Okay. / All right.",
+      "note": "A neutral way to agree; also fine on the phone."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Plans with gaan + infinitive",
+      "explanation": "To say what you are going to do, use a form of **gaan** and put the infinitive at the end: **Ik ga morgen fietsen.** The form of **gaan** changes with the subject; the infinitive never changes. Time words like **morgen**, **straks** and **volgende week** usually come right after **gaan**.",
+      "table": {
+        "headers": [
+          "Subject",
+          "gaan",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "ga",
+            "Ik ga fietsen."
+          ],
+          [
+            "jij / je",
+            "gaat",
+            "Jij gaat fietsen."
+          ],
+          [
+            "u",
+            "gaat",
+            "U gaat fietsen."
+          ],
+          [
+            "hij / zij / het",
+            "gaat",
+            "Hij gaat fietsen."
+          ],
+          [
+            "wij / we",
+            "gaan",
+            "Wij gaan fietsen."
+          ],
+          [
+            "jullie",
+            "gaan",
+            "Jullie gaan fietsen."
+          ],
+          [
+            "zij / ze",
+            "gaan",
+            "Zij gaan fietsen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ga morgen fietsen.",
+          "en": "I am going to cycle tomorrow."
+        },
+        {
+          "nl": "Ga je je fiets ophalen?",
+          "en": "Are you going to pick up your bike?"
+        },
+        {
+          "nl": "Zij gaat om acht uur opstaan.",
+          "en": "She is going to get up at eight o'clock."
+        }
+      ],
+      "tip": "The infinitive is the form in the dictionary: fietsen, ophalen, opstaan. It goes at the very end."
+    },
+    {
+      "title": "Separable verbs: the prefix goes to the end",
+      "explanation": "Some verbs begin with a prefix such as **op-**, **mee-** or **terug-**: **opbellen**, **meenemen**, **terugkomen**. In a normal sentence the prefix leaves the verb and goes to the end: **opbellen** → **Ik bel de fietsenmaker op.** In a question the prefix still goes to the end.",
+      "table": {
+        "headers": [
+          "Infinitive",
+          "Normal sentence"
+        ],
+        "rows": [
+          [
+            "opbellen",
+            "Ik bel de fietsenmaker op."
+          ],
+          [
+            "meenemen",
+            "Ik neem mijn helm mee."
+          ],
+          [
+            "ophalen",
+            "Ik haal mijn fiets op."
+          ],
+          [
+            "terugkomen",
+            "Ik kom morgen terug."
+          ],
+          [
+            "opstaan",
+            "Ik sta om acht uur op."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik bel de fietsenmaker op.",
+          "en": "I am calling the bike repairer."
+        },
+        {
+          "nl": "Neem je je helm mee?",
+          "en": "Are you taking your helmet with you?"
+        },
+        {
+          "nl": "De trein komt om tien uur aan.",
+          "en": "The train arrives at ten o'clock."
+        }
+      ],
+      "tip": "Say the verb, then ask: what is the separable prefix? op, mee, terug? That prefix goes to the end."
+    },
+    {
+      "title": "With gaan the separable verb stays together",
+      "explanation": "After **gaan** the separable verb does not split. It stays whole and goes to the end of the sentence: **Ik ga om acht uur opstaan.** Not: Ik ga om acht uur sta op. The same happens after **kunnen**, **willen**, **moeten** and **mogen**.",
+      "table": {
+        "headers": [
+          "Simple sentence",
+          "With gaan"
+        ],
+        "rows": [
+          [
+            "Ik bel de fietsenmaker op.",
+            "Ik ga de fietsenmaker opbellen."
+          ],
+          [
+            "Ik haal mijn fiets op.",
+            "Ik ga mijn fiets ophalen."
+          ],
+          [
+            "Ik neem mijn helm mee.",
+            "Ik ga mijn helm meenemen."
+          ],
+          [
+            "Ik kom morgen terug.",
+            "Ik ga morgen terugkomen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ga morgen om acht uur opstaan.",
+          "en": "I am going to get up at eight o'clock tomorrow."
+        },
+        {
+          "nl": "Ga je je fiets vandaag ophalen?",
+          "en": "Are you going to pick up your bike today?"
+        },
+        {
+          "nl": "Wij gaan volgende week terugkomen.",
+          "en": "We are going to come back next week."
+        }
+      ],
+      "tip": "After gaan you hear the two parts of the verb together at the end: opbellen, ophalen, meenemen."
+    }
+  ],
+  "dialogue": {
+    "title": "Bij de fietsenmaker",
+    "setting": "Sanne's bike has a flat tyre, so she takes it to a bike repair shop in Utrecht.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Bram",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemiddag.",
+        "en": "Good afternoon."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Goedemiddag. Is je fiets kapot?",
+        "en": "Good afternoon. Is your bike broken?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, mijn band is lek. En mijn lamp is ook kapot.",
+        "en": "Yes, my tyre is flat. And my light is broken too."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Dat kan ik repareren. Het kost dertig euro.",
+        "en": "I can repair that. It costs thirty euros."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Oké. Wanneer kan ik hem ophalen?",
+        "en": "Okay. When can I pick it up?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Morgen om vier uur.",
+        "en": "Tomorrow at four o'clock."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik bel u morgen op.",
+        "en": "I will call you tomorrow."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Goed. Neem je slot mee.",
+        "en": "Good. Bring your lock."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, natuurlijk. Ik ga morgen met de bus.",
+        "en": "Yes, of course. I am going by bus tomorrow."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Prima. Tot morgen!",
+        "en": "Fine. See you tomorrow!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Tot morgen!",
+        "en": "See you tomorrow!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de fiets",
+          "the bicycle"
+        ],
+        [
+          "het fietspad",
+          "the cycle path"
+        ],
+        [
+          "de band",
+          "the tyre"
+        ],
+        [
+          "het slot",
+          "the lock"
+        ],
+        [
+          "de fietsenmaker",
+          "the bike repairer"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "fietsen",
+          "to cycle"
+        ],
+        [
+          "repareren",
+          "to repair"
+        ],
+        [
+          "stallen",
+          "to park a bike"
+        ],
+        [
+          "meenemen",
+          "to take along"
+        ],
+        [
+          "terugkomen",
+          "to come back"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form of gaan.",
+      "nl": "Ik ___ morgen fietsen.",
+      "options": [
+        "ga",
+        "gaat",
+        "gaan"
+      ],
+      "answer": 0,
+      "explain": "With ik you use ga: ik ga fietsen."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form of gaan.",
+      "nl": "Wij ___ volgende week naar Utrecht.",
+      "options": [
+        "ga",
+        "gaan",
+        "gaat"
+      ],
+      "answer": 1,
+      "explain": "With wij you use gaan, the same form as the infinitive."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form of opbellen.",
+      "nl": "Ik ___ de fietsenmaker op.",
+      "options": [
+        "bel",
+        "bellen",
+        "belt"
+      ],
+      "answer": 0,
+      "explain": "The verb splits: opbellen becomes ik bel ... op."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Ik ga om acht uur ___.",
+      "options": [
+        "opstaan",
+        "sta op",
+        "op"
+      ],
+      "answer": 0,
+      "explain": "After gaan the whole verb goes to the end: Ik ga om acht uur opstaan."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Neem je je helm ___?",
+      "options": [
+        "mee",
+        "meenemen",
+        "op"
+      ],
+      "answer": 0,
+      "explain": "meenemen splits in a normal sentence: Neem je je helm mee?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik ga morgen mijn fiets ophalen.",
+        "Ik ga morgen mijn fiets op.",
+        "Ik ga morgen op mijn fiets halen."
+      ],
+      "answer": 0,
+      "explain": "After gaan the separable verb stays whole at the end: ophalen."
+    },
+    {
+      "type": "article",
+      "word": "slot",
+      "en": "lock",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "band",
+      "en": "tyre",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I am going to cycle tomorrow.",
+      "answer": "Ik ga morgen fietsen.",
+      "accept": [
+        "Morgen ga ik fietsen."
+      ],
+      "extra": [
+        "fietst",
+        "gaat"
+      ],
+      "explain": "After gaan the infinitive goes at the end: 'Ik ga morgen fietsen.'"
+    },
+    {
+      "type": "build",
+      "en": "I am going to get up at eight o'clock tomorrow.",
+      "answer": "Ik ga morgen om acht uur opstaan.",
+      "accept": [
+        "Morgen ga ik om acht uur opstaan.",
+        "Morgen om acht uur ga ik opstaan."
+      ],
+      "extra": [
+        "opstaat",
+        "staat"
+      ],
+      "explain": "After gaan the whole separable verb stays at the end: 'Ik ga morgen om acht uur opstaan.'"
+    },
+    {
+      "type": "build",
+      "en": "I will call the bike repairer tomorrow.",
+      "answer": "Ik bel morgen de fietsenmaker op.",
+      "accept": [
+        "Ik bel de fietsenmaker morgen op.",
+        "Morgen bel ik de fietsenmaker op."
+      ],
+      "extra": [
+        "opbellen",
+        "bellen"
+      ],
+      "explain": "opbellen splits: the prefix op goes to the end: 'Ik bel morgen de fietsenmaker op.'"
+    },
+    {
+      "type": "gap",
+      "text": "Mijn band is ___. Ik kan niet fietsen.",
+      "en": "My tyre is flat. I can't cycle.",
+      "answers": [
+        "lek"
+      ],
+      "hint": "flat (tyre)",
+      "explain": "Use lek without -e after is: 'Mijn band is lek.' The -e form lekke only comes before a de-word: 'een lekke band.'"
+    },
+    {
+      "type": "gap",
+      "text": "De fietsenmaker ___ mijn fiets.",
+      "en": "The bike repairer repairs my bike.",
+      "answers": [
+        "repareert"
+      ],
+      "hint": "repareren",
+      "explain": "With hij/zij/het the verb takes -t: 'De fietsenmaker repareert mijn fiets.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ mijn fiets in de fietsenstalling.",
+      "en": "I park my bike in the bicycle parking.",
+      "answers": [
+        "stal"
+      ],
+      "hint": "stallen",
+      "explain": "With ik you use the stem without -t: 'Ik stal mijn fiets in de fietsenstalling.'"
+    },
+    {
+      "type": "gap",
+      "text": "Wij ___ volgende week terug.",
+      "en": "We are coming back next week.",
+      "answers": [
+        "komen"
+      ],
+      "hint": "terugkomen",
+      "explain": "terugkomen splits: the prefix terug goes to the end, so 'Wij komen volgende week terug.'"
+    },
+    {
+      "type": "translate",
+      "en": "I am going to cycle to the city tomorrow.",
+      "answers": [
+        "Ik ga morgen naar de stad fietsen.",
+        "Morgen ga ik naar de stad fietsen.",
+        "Morgen fiets ik naar de stad.",
+        "Ik fiets morgen naar de stad."
+      ],
+      "focus": "gaan + infinitive at the end of the sentence",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the infinitive before the place phrase (Ik ga morgen fietsen naar de stad).",
+          "explain": "In a gaan-sentence the place phrase comes before the infinitive: 'Ik ga morgen naar de stad fietsen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the finite verb fiets instead of the infinitive fietsen after gaan (Ik ga morgen naar de stad fiets).",
+          "explain": "After gaan use the whole infinitive: 'Ik ga morgen naar de stad fietsen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Starts with Morgen but keeps normal subject-first order (Morgen ik ga naar de stad fietsen).",
+          "explain": "If the sentence starts with Morgen, the verb comes second: 'Morgen ga ik naar de stad fietsen.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses gaat with ik (Ik gaat morgen naar de stad fietsen).",
+          "explain": "The form for ik is ga: 'Ik ga morgen naar de stad fietsen.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Can you repair my bike?",
+      "answers": [
+        "Kunt u mijn fiets repareren?",
+        "Kun je mijn fiets repareren?",
+        "Kan je mijn fiets repareren?",
+        "Kan u mijn fiets repareren?"
+      ],
+      "focus": "modal verb + infinitive at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places the infinitive before the object (Kunt u repareren mijn fiets?).",
+          "explain": "Put the object before the infinitive at the end: 'Kunt u mijn fiets repareren?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Gives the verb a -t after kunt (Kunt u mijn fiets repareert?).",
+          "explain": "After a modal verb use the infinitive without -t: 'Kunt u mijn fiets repareren?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Makes a statement instead of a yes/no question (U kunt mijn fiets repareren?).",
+          "explain": "Start a yes/no question with the verb: 'Kunt u mijn fiets repareren?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I will pick up my bike on Monday.",
+      "answers": [
+        "Ik haal mijn fiets maandag op.",
+        "Ik haal maandag mijn fiets op.",
+        "Maandag haal ik mijn fiets op.",
+        "Op maandag haal ik mijn fiets op."
+      ],
+      "focus": "separable verb ophalen: the prefix op goes to the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the prefix op next to the verb (Ik haal op mijn fiets maandag).",
+          "explain": "ophalen splits: the prefix op goes to the end: 'Ik haal mijn fiets maandag op.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the prefix before the finite verb (Ik op haal mijn fiets maandag).",
+          "explain": "The finite verb comes first and the prefix goes to the end: 'Ik haal mijn fiets maandag op.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the prefix op (Ik haal mijn fiets maandag).",
+          "explain": "Without op the verb means 'fetch', but the lesson verb is ophalen: 'Ik haal mijn fiets maandag op.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses haalt with ik (Ik haalt mijn fiets maandag op).",
+          "explain": "With ik use haal: 'Ik haal mijn fiets maandag op.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik bel de fietsenmaker morgen op.",
+      "en": "I will call the bike repairer tomorrow."
+    },
+    {
+      "type": "listen",
+      "nl": "Mijn fiets staat in de fietsenstalling.",
+      "en": "My bike is in the bicycle parking."
+    },
+    {
+      "type": "reply",
+      "context": "Your bike has a flat tyre. You are at the bike repair shop.",
+      "say": {
+        "nl": "Goedemiddag. Is je fiets kapot?",
+        "en": "Good afternoon. Is your bike broken?"
+      },
+      "task": "Say that your tyre is flat and ask if he can repair it.",
+      "examples": [
+        "Mijn band is lek. Kunt u hem repareren?",
+        "Ja, mijn band is lek. Kunt u mijn fiets repareren?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds -e to lek after is (Mijn band is lekke).",
+          "explain": "After is, use lek without -e: 'Mijn band is lek.' The -e form appears before a de-word: 'een lekke band.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses een before lek (Mijn band is een lek).",
+          "explain": "Lek is an adjective here, so no een: 'Mijn band is lek.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses repareert instead of the infinitive after kunt (Kunt u hem repareert?).",
+          "explain": "After a modal verb use the infinitive: 'Kunt u hem repareren?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Makes the question without inversion (U kunt hem repareren?).",
+          "explain": "Start the yes/no question with the verb: 'Kunt u hem repareren?'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The bike repairer says your bike will be ready tomorrow.",
+      "say": {
+        "nl": "Je fiets is morgen om vier uur klaar. Neem je slot mee.",
+        "en": "Your bike will be ready tomorrow at four o'clock. Bring your lock."
+      },
+      "task": "Say that you will come back tomorrow by bus.",
+      "examples": [
+        "Ik kom morgen met de bus terug.",
+        "Morgen kom ik met de bus terug.",
+        "Ik ga morgen met de bus terugkomen.",
+        "Goed, ik kom morgen terug. Ik ga met de bus."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the prefix terug before the finite verb (Ik terugkom morgen met de bus).",
+          "explain": "terugkomen splits in the main clause: 'Ik kom morgen met de bus terug.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits terug (Ik kom morgen met de bus).",
+          "explain": "Come back is terugkomen; keep terug at the end: 'Ik kom morgen met de bus terug.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses both a finite verb and the whole infinitive (Ik kom morgen met de bus terugkomen).",
+          "explain": "Choose one pattern: either 'Ik kom ... terug' or 'Ik ga ... terugkomen.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Starts with Morgen without inversion (Morgen ik kom met de bus terug).",
+          "explain": "After Morgen the verb comes second: 'Morgen kom ik met de bus terug.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Bij de fietsenmaker",
+    "setting": "Your bike has a flat tyre. You are at a bike repair shop and Bram helps you.",
+    "partner": {
+      "name": "Bram",
+      "gender": "m",
+      "role": "fietsenmaker (bike repairer)"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag. Wat is er met je fiets?",
+          "en": "Good afternoon. What is wrong with your bike?"
+        },
+        "task": "Say that your tyre is flat.",
+        "examples": [
+          "Mijn band is lek.",
+          "Goedemiddag, mijn band is lek."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds -e to lek after is (Mijn band is lekke).",
+            "explain": "After is, use lek without -e: 'Mijn band is lek.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses een before lek (Mijn band is een lek).",
+            "explain": "Lek is an adjective here, so no een: 'Mijn band is lek.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Says the bike is flat instead of the tyre (Mijn fiets is lek).",
+            "explain": "A bike itself is not lek; the tyre is: 'Mijn band is lek.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dat kan ik repareren. Dat kost vijfentwintig euro.",
+          "en": "I can repair that. It costs twenty-five euros."
+        },
+        "task": "Ask when you can pick up the bike.",
+        "examples": [
+          "Wanneer kan ik hem ophalen?",
+          "Wanneer kan ik mijn fiets ophalen?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the subject after the question word without inversion (Wanneer ik kan hem ophalen?).",
+            "explain": "In a question with wanneer, the verb comes before the subject: 'Wanneer kan ik hem ophalen?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Splits ophalen after a modal verb (Wanneer kan ik hem op halen?).",
+            "explain": "After kunnen the whole verb stays together: 'Wanneer kan ik hem ophalen?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the infinitive before the object (Wanneer kan ik ophalen hem?).",
+            "explain": "Put the object before the infinitive: 'Wanneer kan ik hem ophalen?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Morgen om drie uur.",
+          "en": "Tomorrow at three o'clock."
+        },
+        "task": "Say that you will call him tomorrow.",
+        "examples": [
+          "Ik bel u morgen op.",
+          "Goed, ik bel morgen op."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses belt with ik (Ik belt u morgen op).",
+            "explain": "With ik use bel: 'Ik bel u morgen op.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits the prefix op (Ik bel u morgen).",
+            "explain": "opbellen splits: keep op at the end: 'Ik bel u morgen op.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Keeps the whole verb opbellen before the time word (Ik opbel u morgen).",
+            "explain": "The prefix goes to the end: 'Ik bel u morgen op.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Starts with Morgen without inversion (Morgen ik bel u op).",
+            "explain": "After Morgen the verb comes second: 'Morgen bel ik u op.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Prima. Neem je slot mee.",
+          "en": "Fine. Bring your lock."
+        },
+        "task": "Say that you will come back tomorrow by bus.",
+        "examples": [
+          "Ik kom morgen met de bus terug.",
+          "Morgen kom ik met de bus terug.",
+          "Ik ga morgen met de bus terugkomen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the prefix terug before the finite verb (Ik terugkom morgen met de bus).",
+            "explain": "terugkomen splits in the main clause: 'Ik kom morgen met de bus terug.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits terug (Ik kom morgen met de bus).",
+            "explain": "Come back is terugkomen; keep terug at the end: 'Ik kom morgen met de bus terug.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses both a finite verb and the whole infinitive (Ik kom morgen met de bus terugkomen).",
+            "explain": "Choose one pattern: either 'Ik kom ... terug' or 'Ik ga ... terugkomen.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Starts with Morgen without inversion (Morgen ik kom met de bus terug).",
+            "explain": "After Morgen the verb comes second: 'Morgen kom ik met de bus terug.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot morgen!",
+      "en": "See you tomorrow!"
+    }
+  },
+  "culture": {
+    "title": "More bikes than people",
+    "text": "The Netherlands has more bicycles than people: about 23 million bikes for around 18 million people. That is why you see bikes everywhere, and why stations have large fietsenstallingen. Always use two locks: the lock on the bike itself and a second lock that fixes the bike to something solid."
+  },
+  "summary": [
+    "Use gaan + infinitive at the end for plans: Ik ga morgen fietsen.",
+    "Separable verbs like opbellen and meenemen put their prefix at the end: Ik bel je op.",
+    "After gaan the separable verb stays whole: Ik ga je opbellen.",
+    "Cycling words: de band, het slot, de fietsenmaker, de fietsenstalling.",
+    "straks means later today; volgende week means next week."
+  ]
+}

@@ -1,0 +1,1168 @@
+{
+  "id": "u03-l04",
+  "title": "In het restaurant",
+  "subtitle": "Restaurants and modal verbs",
+  "level": "A1",
+  "intro": "After this lesson you can call a restaurant to reserve a table, order a meal in Dutch, and use the modal verbs kunnen, willen, mogen and moeten. You will also practise polite questions such as Mag ik ...? and Kunt u ...? so you can ask for things at the table.",
+  "words": [
+    {
+      "nl": "restaurant",
+      "en": "restaurant",
+      "pos": "noun",
+      "article": "het",
+      "plural": "restaurants",
+      "forms": null,
+      "example": {
+        "nl": "Wij eten in het restaurant.",
+        "en": "We eat in the restaurant."
+      },
+      "note": null
+    },
+    {
+      "nl": "tafel",
+      "en": "table",
+      "pos": "noun",
+      "article": "de",
+      "plural": "tafels",
+      "forms": null,
+      "example": {
+        "nl": "Wij hebben een tafel voor twee personen.",
+        "en": "We have a table for two people."
+      },
+      "note": null
+    },
+    {
+      "nl": "reserveren",
+      "en": "to reserve",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik reserveer, jij reserveert, wij reserveren",
+      "example": {
+        "nl": "Ik reserveer een tafel voor twee personen.",
+        "en": "I am reserving a table for two people."
+      },
+      "note": "You reserve a table, a room or a ticket."
+    },
+    {
+      "nl": "bestellen",
+      "en": "to order",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bestel, jij bestelt, wij bestellen",
+      "example": {
+        "nl": "Ik bestel de soep.",
+        "en": "I am ordering the soup."
+      },
+      "note": "Use bestellen for food and drinks in a café or restaurant."
+    },
+    {
+      "nl": "kaart",
+      "en": "menu",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kaarten",
+      "forms": null,
+      "example": {
+        "nl": "Mag ik de kaart, alstublieft?",
+        "en": "May I have the menu, please?"
+      },
+      "note": "In a restaurant de kaart means the menu; it can also mean a map or card."
+    },
+    {
+      "nl": "menu",
+      "en": "menu",
+      "pos": "noun",
+      "article": "het",
+      "plural": "menu's",
+      "forms": null,
+      "example": {
+        "nl": "Het menu is niet duur.",
+        "en": "The menu is not expensive."
+      },
+      "note": "de kaart and het menu are both used for the menu."
+    },
+    {
+      "nl": "voorgerecht",
+      "en": "starter",
+      "pos": "noun",
+      "article": "het",
+      "plural": "voorgerechten",
+      "forms": null,
+      "example": {
+        "nl": "Ik bestel de soep als voorgerecht.",
+        "en": "I am ordering the soup as a starter."
+      },
+      "note": null
+    },
+    {
+      "nl": "hoofdgerecht",
+      "en": "main course",
+      "pos": "noun",
+      "article": "het",
+      "plural": "hoofdgerechten",
+      "forms": null,
+      "example": {
+        "nl": "Het hoofdgerecht is pasta met saus.",
+        "en": "The main course is pasta with sauce."
+      },
+      "note": null
+    },
+    {
+      "nl": "nagerecht",
+      "en": "dessert",
+      "pos": "noun",
+      "article": "het",
+      "plural": "nagerechten",
+      "forms": null,
+      "example": {
+        "nl": "Wilt u een nagerecht?",
+        "en": "Would you like a dessert?"
+      },
+      "note": null
+    },
+    {
+      "nl": "saus",
+      "en": "sauce",
+      "pos": "noun",
+      "article": "de",
+      "plural": "sauzen",
+      "forms": null,
+      "example": {
+        "nl": "De saus is vegetarisch.",
+        "en": "The sauce is vegetarian."
+      },
+      "note": null
+    },
+    {
+      "nl": "vegetarisch",
+      "en": "vegetarian",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Is de soep vegetarisch?",
+        "en": "Is the soup vegetarian?"
+      },
+      "note": "No meat and no fish."
+    },
+    {
+      "nl": "ober",
+      "en": "waiter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "obers",
+      "forms": null,
+      "example": {
+        "nl": "De ober is bij onze tafel.",
+        "en": "The waiter is at our table."
+      },
+      "note": null
+    },
+    {
+      "nl": "serveerster",
+      "en": "waitress",
+      "pos": "noun",
+      "article": "de",
+      "plural": "serveersters",
+      "forms": null,
+      "example": {
+        "nl": "De serveerster is bij de tafel.",
+        "en": "The waitress is at the table."
+      },
+      "note": null
+    },
+    {
+      "nl": "kunnen",
+      "en": "can, to be able to",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kan, jij kunt (kan), u kunt (kan), hij kan, wij kunnen",
+      "example": {
+        "nl": "Kunt u een tafel reserveren?",
+        "en": "Can you reserve a table?"
+      },
+      "note": "A modal verb: the main verb goes at the end as an infinitive."
+    },
+    {
+      "nl": "willen",
+      "en": "to want",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik wil, jij wilt (wil), u wilt (wil), hij wil, wij willen",
+      "example": {
+        "nl": "Ik wil graag een tafel reserveren.",
+        "en": "I would like to reserve a table."
+      },
+      "note": "Add graag to make willen polite: Ik wil graag..."
+    },
+    {
+      "nl": "mogen",
+      "en": "may, to be allowed to",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik mag, jij mag, u mag, hij mag, wij mogen",
+      "example": {
+        "nl": "Mag ik de kaart, alstublieft?",
+        "en": "May I have the menu, please?"
+      },
+      "note": "Mag ik...? is a very useful polite question."
+    },
+    {
+      "nl": "moeten",
+      "en": "must, to have to",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik moet, jij moet, u moet, hij moet, wij moeten",
+      "example": {
+        "nl": "Wij moeten de rekening betalen.",
+        "en": "We have to pay the bill."
+      },
+      "note": null
+    },
+    {
+      "nl": "voor twee personen",
+      "en": "for two people",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik reserveer een tafel voor twee personen.",
+        "en": "I am reserving a table for two people."
+      },
+      "note": null
+    },
+    {
+      "nl": "buiten",
+      "en": "outside",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wij willen graag buiten zitten.",
+        "en": "We would like to sit outside."
+      },
+      "note": "buiten = outside; binnen = inside."
+    },
+    {
+      "nl": "binnen",
+      "en": "inside",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wilt u binnen of buiten zitten?",
+        "en": "Would you like to sit inside or outside?"
+      },
+      "note": "binnen = inside; buiten = outside."
+    },
+    {
+      "nl": "terras",
+      "en": "terrace",
+      "pos": "noun",
+      "article": "het",
+      "plural": "terrassen",
+      "forms": null,
+      "example": {
+        "nl": "Wij zitten op het terras.",
+        "en": "We are sitting on the terrace."
+      },
+      "note": "An outside seating area at a café or restaurant."
+    },
+    {
+      "nl": "zitten",
+      "en": "to sit",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zit, jij zit, u zit, hij zit, wij zitten",
+      "example": {
+        "nl": "Wij zitten buiten.",
+        "en": "We are sitting outside."
+      },
+      "note": "ik zit has no extra -t."
+    },
+    {
+      "nl": "drankje",
+      "en": "drink",
+      "pos": "noun",
+      "article": "het",
+      "plural": "drankjes",
+      "forms": null,
+      "example": {
+        "nl": "Wilt u een drankje?",
+        "en": "Would you like a drink?"
+      },
+      "note": "One drink; the plural is de drankjes."
+    },
+    {
+      "nl": "fooi",
+      "en": "tip",
+      "pos": "noun",
+      "article": "de",
+      "plural": "fooien",
+      "forms": null,
+      "example": {
+        "nl": "De fooi is voor de ober.",
+        "en": "The tip is for the waiter."
+      },
+      "note": "A tip in a restaurant or café."
+    },
+    {
+      "nl": "rekening",
+      "en": "bill",
+      "pos": "noun",
+      "article": "de",
+      "plural": "rekeningen",
+      "forms": null,
+      "example": {
+        "nl": "De rekening, alstublieft.",
+        "en": "The bill, please."
+      },
+      "note": "You saw this word in u01-l05; in a restaurant it means the bill."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik wil graag een tafel reserveren.",
+      "en": "I would like to reserve a table.",
+      "note": null
+    },
+    {
+      "nl": "Voor twee personen, alstublieft.",
+      "en": "For two people, please.",
+      "note": null
+    },
+    {
+      "nl": "Mag ik de kaart, alstublieft?",
+      "en": "May I have the menu, please?",
+      "note": "In a restaurant de kaart means the menu."
+    },
+    {
+      "nl": "Kunt u een tafel voor twee personen reserveren?",
+      "en": "Can you reserve a table for two people?",
+      "note": null
+    },
+    {
+      "nl": "Wilt u binnen of buiten zitten?",
+      "en": "Would you like to sit inside or outside?",
+      "note": null
+    },
+    {
+      "nl": "Ik bestel de soep als voorgerecht.",
+      "en": "I'll order the soup as a starter.",
+      "note": null
+    },
+    {
+      "nl": "Is de pasta vegetarisch?",
+      "en": "Is the pasta vegetarian?",
+      "note": null
+    },
+    {
+      "nl": "De rekening, alstublieft.",
+      "en": "The bill, please.",
+      "note": null
+    },
+    {
+      "nl": "De fooi is voor u.",
+      "en": "The tip is for you.",
+      "note": null
+    },
+    {
+      "nl": "Dat was het.",
+      "en": "That's all.",
+      "note": "Useful to end an order."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Modal verbs: kunnen, willen, mogen, moeten",
+      "explanation": "These four verbs are modal verbs. They change form for each subject, and the main verb stays in the infinitive at the end. **Kunnen** means can or to be able to, **willen** means to want, **mogen** means may, and **moeten** means must or to have to. With **jij**, use **kunt** and **wilt**; with **u**, **kunt** and **wilt** are common, and **kan** and **wil** are also possible. **Mogen** and **moeten** do not add -t: **jij mag**, **jij moet**.",
+      "table": {
+        "headers": [
+          "",
+          "kunnen",
+          "willen",
+          "mogen",
+          "moeten"
+        ],
+        "rows": [
+          [
+            "ik",
+            "kan",
+            "wil",
+            "mag",
+            "moet"
+          ],
+          [
+            "jij",
+            "kunt (kan)",
+            "wilt (wil)",
+            "mag",
+            "moet"
+          ],
+          [
+            "u",
+            "kunt (kan)",
+            "wilt (wil)",
+            "mag",
+            "moet"
+          ],
+          [
+            "hij/zij/het",
+            "kan",
+            "wil",
+            "mag",
+            "moet"
+          ],
+          [
+            "wij",
+            "kunnen",
+            "willen",
+            "mogen",
+            "moeten"
+          ],
+          [
+            "jullie",
+            "kunnen",
+            "willen",
+            "mogen",
+            "moeten"
+          ],
+          [
+            "zij",
+            "kunnen",
+            "willen",
+            "mogen",
+            "moeten"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik kan niet betalen.",
+          "en": "I can't pay."
+        },
+        {
+          "nl": "Wij willen graag buiten zitten.",
+          "en": "We would like to sit outside."
+        },
+        {
+          "nl": "Mag ik de kaart?",
+          "en": "May I have the menu?"
+        },
+        {
+          "nl": "U moet de rekening betalen.",
+          "en": "You have to pay the bill."
+        }
+      ],
+      "tip": "Think of these four verbs as helpers: they change, and the main verb does not. jij kunt and jij wilt take -t; jij mag and jij moet do not."
+    },
+    {
+      "title": "Modal + infinitive at the end",
+      "explanation": "In a Dutch sentence with a modal verb, the modal verb comes in the second position and the main verb goes to the end as an infinitive. In **Ik wil een tafel reserveren**, the infinitive **reserveren** is at the end. If the sentence starts with a time or place, the modal verb still comes second: **Om zeven uur wil ik reserveren**.",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "Ik wil een tafel reserveren.",
+            "I want to reserve a table."
+          ],
+          [
+            "Wij willen graag buiten zitten.",
+            "We would like to sit outside."
+          ],
+          [
+            "U moet de rekening betalen.",
+            "You have to pay the bill."
+          ],
+          [
+            "Mag ik de kaart?",
+            "May I have the menu?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik wil graag een tafel reserveren.",
+          "en": "I would like to reserve a table."
+        },
+        {
+          "nl": "Wij willen binnen zitten.",
+          "en": "We want to sit inside."
+        },
+        {
+          "nl": "Wilt u de soep bestellen?",
+          "en": "Would you like to order the soup?"
+        }
+      ],
+      "tip": "Put the main verb in the infinitive at the end: Ik wil ... reserveren, not Ik wil reserveren ..."
+    },
+    {
+      "title": "Polite questions with Mag ik...? and Kunt u...?",
+      "explanation": "Use **Mag ik...?** to ask for something politely, and **Kunt u...?** to ask if someone can do something for you. The modal verb comes first, then the subject. **Mag ik de kaart, alstublieft?** is a soft, polite request. **Kunt u een tafel reserveren?** asks someone politely to do something for you.",
+      "table": null,
+      "examples": [
+        {
+          "nl": "Mag ik de kaart, alstublieft?",
+          "en": "May I have the menu, please?"
+        },
+        {
+          "nl": "Kunt u een tafel reserveren?",
+          "en": "Can you reserve a table?"
+        },
+        {
+          "nl": "Mag ik bestellen?",
+          "en": "May I order?"
+        }
+      ],
+      "tip": "Use alstublieft to make the question extra polite. In a restaurant it is very common."
+    }
+  ],
+  "dialogue": {
+    "title": "Reserveren en bestellen",
+    "setting": "You call restaurant De Gouden Lepel in Utrecht to reserve a table for two, and later you order dinner at the table.",
+    "speakers": [
+      {
+        "name": "Ober",
+        "gender": "m"
+      },
+      {
+        "name": "Serveerster",
+        "gender": "f"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Ober",
+        "nl": "Goedemiddag, restaurant De Gouden Lepel. Wat kan ik voor u doen?",
+        "en": "Good afternoon, restaurant De Gouden Lepel. What can I do for you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemiddag. Ik wil graag een tafel reserveren.",
+        "en": "Good afternoon. I would like to reserve a table."
+      },
+      {
+        "speaker": "Ober",
+        "nl": "Natuurlijk. Voor hoeveel personen?",
+        "en": "Of course. For how many people?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Voor twee personen, alstublieft. Om zeven uur.",
+        "en": "For two people, please. At seven o'clock."
+      },
+      {
+        "speaker": "Ober",
+        "nl": "Dat kan. Wilt u binnen of buiten zitten?",
+        "en": "That's possible. Would you like to sit inside or outside?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Buiten, graag.",
+        "en": "Outside, please."
+      },
+      {
+        "speaker": "Serveerster",
+        "nl": "Goedenavond. Alstublieft, de kaart. Wilt u een drankje?",
+        "en": "Good evening. Here is the menu, please. Would you like a drink?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Ik wil graag een glas water. Ik bestel de soep als voorgerecht.",
+        "en": "Thank you. I would like a glass of water. I'll order the soup as a starter."
+      },
+      {
+        "speaker": "Serveerster",
+        "nl": "En als hoofdgerecht?",
+        "en": "And as a main course?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Is de pasta vegetarisch?",
+        "en": "Is the pasta vegetarian?"
+      },
+      {
+        "speaker": "Serveerster",
+        "nl": "Ja, de pasta met saus is vegetarisch.",
+        "en": "Yes, the pasta with sauce is vegetarian."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Lekker! Ik bestel de pasta. En nog een glas water, alstublieft.",
+        "en": "Lovely! I'll order the pasta. And another glass of water, please."
+      },
+      {
+        "speaker": "Serveerster",
+        "nl": "Natuurlijk. Wilt u ook een nagerecht? De stroopwafel is zoet.",
+        "en": "Of course. Would you also like a dessert? The stroopwafel is sweet."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, dank u wel. De rekening, alstublieft. De fooi is voor u.",
+        "en": "No, thank you. The bill, please. The tip is for you."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het restaurant",
+          "the restaurant"
+        ],
+        [
+          "de tafel",
+          "the table"
+        ],
+        [
+          "de kaart",
+          "the menu"
+        ],
+        [
+          "de ober",
+          "the waiter"
+        ],
+        [
+          "de fooi",
+          "the tip"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "reserveren",
+          "to reserve"
+        ],
+        [
+          "bestellen",
+          "to order"
+        ],
+        [
+          "kunnen",
+          "can / to be able to"
+        ],
+        [
+          "willen",
+          "to want"
+        ],
+        [
+          "moeten",
+          "must / to have to"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik wil een tafel reserveren.",
+        "Ik wil reserveren een tafel.",
+        "Ik wil een tafel reserveer."
+      ],
+      "answer": 0,
+      "explain": "The infinitive reserveren goes at the end of the sentence."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which form is correct?",
+      "nl": "Jij ___ een tafel reserveren.",
+      "options": [
+        "wilt",
+        "willen",
+        "reserveert"
+      ],
+      "answer": 0,
+      "explain": "With jij, willen becomes wilt; the main verb reserveren stays at the end."
+    },
+    {
+      "type": "choice",
+      "prompt": "What do you say when you want the menu?",
+      "nl": null,
+      "options": [
+        "Mag ik de kaart, alstublieft?",
+        "Ik mag de kaart?",
+        "Mag de kaart ik?"
+      ],
+      "answer": 0,
+      "explain": "In a polite question the modal verb comes first: Mag ik...?"
+    },
+    {
+      "type": "choice",
+      "prompt": "The waiter asks: 'Wilt u binnen of buiten zitten?' What is a good answer?",
+      "nl": null,
+      "options": [
+        "Buiten, graag.",
+        "Buiten is de tafel.",
+        "Ik ben buiten."
+      ],
+      "answer": 0,
+      "explain": "Buiten, graag answers the choice inside or outside."
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vegetarisch mean?",
+      "nl": null,
+      "options": [
+        "zonder vlees of vis",
+        "met kip",
+        "met saus"
+      ],
+      "answer": 0,
+      "explain": "Vegetarisch food has no meat and no fish."
+    },
+    {
+      "type": "article",
+      "word": "restaurant",
+      "en": "restaurant",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "serveerster",
+      "en": "waitress",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I want to reserve a table.",
+      "answer": "Ik wil een tafel reserveren.",
+      "accept": [
+        "Een tafel wil ik reserveren."
+      ],
+      "extra": [
+        "reserveert"
+      ],
+      "explain": "The modal verb wil comes second and the infinitive reserveren goes at the end."
+    },
+    {
+      "type": "build",
+      "en": "May I have the menu, please?",
+      "answer": "Mag ik de kaart, alstublieft?",
+      "accept": [
+        "Mag ik alstublieft de kaart?",
+        "Mag ik de kaart alstublieft?"
+      ],
+      "extra": [
+        "het"
+      ],
+      "explain": "Start a polite request with Mag ik...? and keep alstublieft at the end."
+    },
+    {
+      "type": "build",
+      "en": "We would like to sit outside.",
+      "answer": "Wij willen graag buiten zitten.",
+      "accept": [
+        "Wij willen buiten graag zitten.",
+        "Graag willen wij buiten zitten.",
+        "Buiten willen wij graag zitten."
+      ],
+      "extra": [
+        "zit"
+      ],
+      "explain": "The modal verb willen comes second and the infinitive zitten goes at the end; graag can move."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ graag een tafel reserveren.",
+      "en": "I would like to reserve a table.",
+      "answers": [
+        "wil"
+      ],
+      "hint": "willen (ik-form)",
+      "explain": "With ik, willen is wil; the infinitive reserveren stays at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Wij ___ de rekening betalen.",
+      "en": "We have to pay the bill.",
+      "answers": [
+        "moeten"
+      ],
+      "hint": "moeten (wij-form)",
+      "explain": "With wij, moeten stays moeten, and the infinitive betalen comes at the end."
+    },
+    {
+      "type": "gap",
+      "text": "___ ik de kaart, alstublieft?",
+      "en": "May I have the menu, please?",
+      "answers": [
+        "Mag",
+        "mag"
+      ],
+      "hint": "mogen (ik-form)",
+      "explain": "A yes/no question starts with the modal verb; with ik, mogen is mag."
+    },
+    {
+      "type": "gap",
+      "text": "Wilt u binnen of buiten ___?",
+      "en": "Would you like to sit inside or outside?",
+      "answers": [
+        "zitten"
+      ],
+      "hint": "zitten = to sit",
+      "explain": "After the modal verb wilt, use the infinitive zitten at the end."
+    },
+    {
+      "type": "translate",
+      "en": "I would like to reserve a table.",
+      "answers": [
+        "Ik wil graag een tafel reserveren.",
+        "Ik wil een tafel reserveren, graag.",
+        "Graag wil ik een tafel reserveren.",
+        "Ik wil een tafel graag reserveren."
+      ],
+      "focus": "willen + infinitive at the end; graag",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places the infinitive before the object (Ik wil graag reserveren een tafel).",
+          "explain": "Keep the infinitive at the end: 'Ik wil graag een tafel reserveren.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses a conjugated verb after wil (Ik wil graag een tafel reserveer/reserveert).",
+          "explain": "After a modal verb use the infinitive: 'reserveren'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses wilt with ik (Ik wilt graag een tafel reserveren).",
+          "explain": "With ik, willen is 'wil': 'Ik wil graag een tafel reserveren.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits the object after reserveren (Ik wil graag reserveren).",
+          "explain": "Say what you reserve: 'een tafel'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "May I have the menu, please?",
+      "answers": [
+        "Mag ik de kaart, alstublieft?",
+        "Mag ik het menu, alstublieft?",
+        "Mag ik alstublieft de kaart?",
+        "Mag ik alstublieft het menu?",
+        "Mag ik de kaart alstublieft?"
+      ],
+      "focus": "Mag ik...? + alstublieft",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Starts with Ik mag instead of Mag ik (Ik mag de kaart, alstublieft?).",
+          "explain": "In a polite question the modal verb comes first: 'Mag ik de kaart, alstublieft?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses de with het menu (Mag ik de menu, alstublieft?).",
+          "explain": "Het menu takes het; de kaart takes de."
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds heb after mag (Mag ik heb de kaart?).",
+          "explain": "Do not add heb after mag: 'Mag ik de kaart?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "We want to sit outside.",
+      "answers": [
+        "Wij willen buiten zitten.",
+        "We willen buiten zitten.",
+        "Wij willen graag buiten zitten.",
+        "Graag willen wij buiten zitten.",
+        "Wij willen buiten graag zitten.",
+        "Wij willen buiten zitten, graag."
+      ],
+      "focus": "willen + infinitive; buiten",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses wilt with wij (Wij wilt buiten zitten).",
+          "explain": "With wij, willen is 'willen': 'Wij willen buiten zitten.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses a conjugated form instead of the infinitive (Wij willen buiten zit).",
+          "explain": "After willen use the infinitive: 'zitten'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Places the infinitive before buiten (Wij willen zitten buiten).",
+          "explain": "Put the infinitive at the end: 'Wij willen buiten zitten.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds in before buiten (Wij willen in buiten zitten).",
+          "explain": "Say 'buiten', not 'in buiten'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik wil graag een tafel reserveren.",
+      "en": "I would like to reserve a table."
+    },
+    {
+      "type": "listen",
+      "nl": "Mag ik de rekening, alstublieft?",
+      "en": "May I have the bill, please?"
+    },
+    {
+      "type": "reply",
+      "context": "You are at the table in a restaurant. The serveerster comes to you.",
+      "say": {
+        "nl": "Goedenavond. Wilt u een drankje?",
+        "en": "Good evening. Would you like a drink?"
+      },
+      "task": "Order a glass of water and say you want the soup as a starter.",
+      "examples": [
+        "Ik wil graag een glas water. Ik bestel de soep als voorgerecht.",
+        "Een glas water, alstublieft. En de soep als voorgerecht.",
+        "Dank u wel. Ik wil een glas water en de soep als voorgerecht."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses wilt with ik (Ik wilt graag een glas water).",
+          "explain": "With ik, willen is 'wil': 'Ik wil graag een glas water.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses voor with the role of the dish (Ik bestel de soep voor voorgerecht).",
+          "explain": "Use 'als voorgerecht' for 'as a starter'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the article with soep (Ik bestel soep als voorgerecht).",
+          "explain": "Use 'de soep': 'Ik bestel de soep als voorgerecht.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You want to pay and leave. The ober is at your table.",
+      "say": {
+        "nl": "Wilt u nog een nagerecht?",
+        "en": "Would you like a dessert?"
+      },
+      "task": "Say no, thank you. Ask for the bill and offer a tip.",
+      "examples": [
+        "Nee, dank u wel. De rekening, alstublieft. De fooi is voor u.",
+        "Nee, dank u wel. Mag ik de rekening? De fooi is voor u.",
+        "Geen nagerecht, dank u wel. Mag ik de rekening? De fooi is voor u."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Speaks about the waiter in the third person (De fooi is voor de ober) although you are talking to him.",
+          "explain": "When you speak to the waiter, say 'De fooi is voor u.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Asks with Ik mag instead of Mag ik (Ik mag de rekening?).",
+          "explain": "For a polite request, start with the modal verb: 'Mag ik de rekening?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits is in the tip sentence (De fooi voor u).",
+          "explain": "Say 'De fooi is voor u' with is."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "In het restaurant De Gouden Lepel",
+    "setting": "You call restaurant De Gouden Lepel in Utrecht to reserve a table for two, and later you order dinner.",
+    "partner": {
+      "name": "Serveerster",
+      "gender": "f",
+      "role": "waitress at De Gouden Lepel"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag, restaurant De Gouden Lepel. Wat kan ik voor u doen?",
+          "en": "Good afternoon, restaurant De Gouden Lepel. What can I do for you?"
+        },
+        "task": "Say hello and say you want to reserve a table for two people at seven o'clock.",
+        "examples": [
+          "Goedemiddag. Ik wil graag een tafel voor twee personen om zeven uur reserveren.",
+          "Goedemiddag. Voor twee personen, om zeven uur, alstublieft. Ik wil graag een tafel reserveren.",
+          "Hallo. Ik wil graag voor twee personen om zeven uur een tafel reserveren."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses wilt with ik (Ik wilt graag een tafel reserveren).",
+            "explain": "With ik, willen is 'wil': 'Ik wil graag ... reserveren.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Places the infinitive before the object (Ik wil graag reserveren een tafel).",
+            "explain": "Put the infinitive at the end: 'Ik wil graag een tafel reserveren.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses op with clock time (op zeven uur).",
+            "explain": "Use 'om zeven uur' for at seven o'clock."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Natuurlijk. Wilt u binnen of buiten zitten?",
+          "en": "Of course. Would you like to sit inside or outside?"
+        },
+        "task": "Say you want to sit outside.",
+        "examples": [
+          "Buiten, graag.",
+          "Wij willen graag buiten zitten.",
+          "Buiten, alstublieft."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses wilt with wij (Wij wilt buiten zitten).",
+            "explain": "With wij, willen is 'willen': 'Wij willen buiten zitten.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses zit instead of the infinitive (Wij willen buiten zit).",
+            "explain": "After willen, use the infinitive 'zitten'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Adds in before buiten (Wij willen in buiten zitten).",
+            "explain": "Say 'buiten' directly: 'Wij willen buiten zitten.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Prima. Tot straks! Goedenavond. Alstublieft, de kaart. Wilt u een drankje?",
+          "en": "Fine. See you later! Good evening. Here is the menu, please. Would you like a drink?"
+        },
+        "task": "Thank her and order a glass of water. Then say you want the soup as a starter.",
+        "examples": [
+          "Dank u wel. Ik wil graag een glas water. Ik bestel de soep als voorgerecht.",
+          "Dank u wel. Een glas water, alstublieft. En de soep als voorgerecht.",
+          "Dank u. Ik wil een glas water en de soep als voorgerecht."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses voor with the role of the dish (Ik bestel de soep voor voorgerecht).",
+            "explain": "Use 'als voorgerecht' for 'as a starter'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses wilt with ik (Ik wilt een glas water).",
+            "explain": "With ik, willen is 'wil': 'Ik wil een glas water.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits als voorgerecht in the order (Ik bestel de soep).",
+            "explain": "Say the role: 'Ik bestel de soep als voorgerecht.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En als hoofdgerecht?",
+          "en": "And as a main course?"
+        },
+        "task": "Ask if the pasta is vegetarian.",
+        "examples": [
+          "Is de pasta vegetarisch?",
+          "Is de pasta met saus vegetarisch?",
+          "Zeg, is de pasta vegetarisch?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Makes a yes/no question without inversion (De pasta is vegetarisch?).",
+            "explain": "Start yes/no questions with the verb: 'Is de pasta vegetarisch?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds een before a predicative adjective (Is de pasta een vegetarisch?).",
+            "explain": "Do not use een after zijn: 'Is de pasta vegetarisch?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits de before pasta (Is pasta vegetarisch?).",
+            "explain": "Use 'de pasta': 'Is de pasta vegetarisch?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja, de pasta met saus is vegetarisch. Wilt u ook een nagerecht?",
+          "en": "Yes, the pasta with sauce is vegetarian. Would you also like a dessert?"
+        },
+        "task": "Say you want the pasta. Say no to dessert, ask for the bill and give a tip.",
+        "examples": [
+          "Lekker! Ik wil graag de pasta. Nee, dank u wel. De rekening, alstublieft. De fooi is voor u.",
+          "Ik wil graag de pasta. Geen nagerecht, dank u wel. Mag ik de rekening? De fooi is voor u.",
+          "De pasta, alstublieft. Nee, dank u wel. Mag ik de rekening? De fooi is voor u."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Speaks about the server in the third person (De fooi is voor de serveerster) while talking to her.",
+            "explain": "When you speak to the serveerster, say 'De fooi is voor u.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Asks with Ik mag instead of Mag ik (Ik mag de rekening?).",
+            "explain": "Start a polite request with the modal verb: 'Mag ik de rekening?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits is in the tip sentence (De fooi voor u).",
+            "explain": "Say 'De fooi is voor u' with is."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Natuurlijk. Tot ziens!",
+      "en": "Of course. Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Dinner time in the Netherlands",
+    "text": "In many Dutch households, dinner is early: around 18:00, sometimes a little earlier. Restaurants often open for dinner around 17:30 or 18:00, and many people book a table, especially at the weekend. If you invite someone for dinner at 20:00, that can feel late to some Dutch families."
+  },
+  "summary": [
+    "Use **Mag ik...?** and **Kunt u...?** for polite requests in a restaurant.",
+    "Modal verbs change form: **ik kan, jij kunt, hij kan, wij kunnen**.",
+    "The main verb goes at the end as an infinitive: **Ik wil een tafel reserveren.**",
+    "Say **binnen of buiten** for inside or outside, and **voor twee personen** when you reserve.",
+    "In the Netherlands dinner is often early, around 18:00."
+  ]
+}

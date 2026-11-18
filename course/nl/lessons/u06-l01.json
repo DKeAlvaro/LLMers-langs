@@ -1,0 +1,1131 @@
+{
+  "id": "u06-l01",
+  "title": "Mijn hoofd doet pijn",
+  "subtitle": "Body parts and pain",
+  "level": "A1",
+  "intro": "In this lesson you learn to name body parts and say where it hurts. You can ask someone how they feel and explain why you cannot come. You also practise the plural of body parts.",
+  "words": [
+    {
+      "nl": "lichaam",
+      "en": "body",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de lichamen",
+      "forms": null,
+      "example": {
+        "nl": "Het lichaam heeft een hoofd en twee armen.",
+        "en": "The body has a head and two arms."
+      },
+      "note": null
+    },
+    {
+      "nl": "hoofd",
+      "en": "head",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de hoofden",
+      "forms": null,
+      "example": {
+        "nl": "Mijn hoofd doet pijn.",
+        "en": "My head hurts."
+      },
+      "note": null
+    },
+    {
+      "nl": "haar",
+      "en": "hair",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de haren",
+      "forms": null,
+      "example": {
+        "nl": "Zij heeft lang haar.",
+        "en": "She has long hair."
+      },
+      "note": "Usually singular: het haar."
+    },
+    {
+      "nl": "oog",
+      "en": "eye",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de ogen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb pijn in mijn oog.",
+        "en": "I have pain in my eye."
+      },
+      "note": null
+    },
+    {
+      "nl": "oor",
+      "en": "ear",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de oren",
+      "forms": null,
+      "example": {
+        "nl": "Mijn oor doet pijn.",
+        "en": "My ear hurts."
+      },
+      "note": null
+    },
+    {
+      "nl": "neus",
+      "en": "nose",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de neuzen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een rode neus.",
+        "en": "I have a red nose."
+      },
+      "note": null
+    },
+    {
+      "nl": "mond",
+      "en": "mouth",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de monden",
+      "forms": null,
+      "example": {
+        "nl": "Mijn mond is droog.",
+        "en": "My mouth is dry."
+      },
+      "note": null
+    },
+    {
+      "nl": "tand",
+      "en": "tooth",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de tanden",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb pijn in mijn tand.",
+        "en": "I have pain in my tooth."
+      },
+      "note": null
+    },
+    {
+      "nl": "keel",
+      "en": "throat",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de kelen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn keel doet pijn.",
+        "en": "My throat hurts."
+      },
+      "note": null
+    },
+    {
+      "nl": "nek",
+      "en": "neck",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de nekken",
+      "forms": null,
+      "example": {
+        "nl": "Mijn nek doet pijn.",
+        "en": "My neck hurts."
+      },
+      "note": "The plural de nekken is rare."
+    },
+    {
+      "nl": "schouder",
+      "en": "shoulder",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de schouders",
+      "forms": null,
+      "example": {
+        "nl": "Mijn schouder doet pijn.",
+        "en": "My shoulder hurts."
+      },
+      "note": null
+    },
+    {
+      "nl": "arm",
+      "en": "arm",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de armen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn arm doet pijn.",
+        "en": "My arm hurts."
+      },
+      "note": null
+    },
+    {
+      "nl": "hand",
+      "en": "hand",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de handen",
+      "forms": null,
+      "example": {
+        "nl": "Was je handen.",
+        "en": "Wash your hands."
+      },
+      "note": null
+    },
+    {
+      "nl": "vinger",
+      "en": "finger",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vingers",
+      "forms": null,
+      "example": {
+        "nl": "Mijn vinger doet pijn.",
+        "en": "My finger hurts."
+      },
+      "note": null
+    },
+    {
+      "nl": "buik",
+      "en": "belly",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de buiken",
+      "forms": null,
+      "example": {
+        "nl": "Mijn buik doet pijn.",
+        "en": "My belly hurts."
+      },
+      "note": null
+    },
+    {
+      "nl": "rug",
+      "en": "back",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de ruggen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb pijn in mijn rug.",
+        "en": "I have pain in my back."
+      },
+      "note": null
+    },
+    {
+      "nl": "been",
+      "en": "leg",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de benen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn been doet pijn.",
+        "en": "My leg hurts."
+      },
+      "note": null
+    },
+    {
+      "nl": "knie",
+      "en": "knee",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de knieën",
+      "forms": null,
+      "example": {
+        "nl": "Mijn knie doet pijn.",
+        "en": "My knee hurts."
+      },
+      "note": "The plural has ë: de knieën."
+    },
+    {
+      "nl": "voet",
+      "en": "foot",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de voeten",
+      "forms": null,
+      "example": {
+        "nl": "Mijn voet doet pijn.",
+        "en": "My foot hurts."
+      },
+      "note": null
+    },
+    {
+      "nl": "pijn",
+      "en": "pain",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb pijn in mijn hoofd.",
+        "en": "I have pain in my head."
+      },
+      "note": "Usually no plural."
+    },
+    {
+      "nl": "hoofdpijn",
+      "en": "headache",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb hoofdpijn.",
+        "en": "I have a headache."
+      },
+      "note": "Usually no plural."
+    },
+    {
+      "nl": "buikpijn",
+      "en": "stomach ache",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb buikpijn.",
+        "en": "I have a stomach ache."
+      },
+      "note": "Usually no plural."
+    },
+    {
+      "nl": "keelpijn",
+      "en": "sore throat",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij heeft keelpijn.",
+        "en": "She has a sore throat."
+      },
+      "note": "Usually no plural."
+    },
+    {
+      "nl": "pijn doen",
+      "en": "to hurt",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het doet pijn, mijn voeten doen pijn",
+      "example": {
+        "nl": "Mijn hoofd doet pijn.",
+        "en": "My head hurts."
+      },
+      "note": "The body part is the subject: Mijn hoofd doet pijn."
+    },
+    {
+      "nl": "ziek",
+      "en": "ill",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "ziek, zieke",
+      "example": {
+        "nl": "Ik ben ziek.",
+        "en": "I am ill."
+      },
+      "note": "Ik ben ziek = I am ill."
+    },
+    {
+      "nl": "beter",
+      "en": "better",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "beter, betere",
+      "example": {
+        "nl": "Ik ben beter.",
+        "en": "I am better."
+      },
+      "note": "Ik ben beter = I am better / I have recovered."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Wat is er?",
+      "en": "What's wrong?",
+      "note": null
+    },
+    {
+      "nl": "Wat scheelt eraan?",
+      "en": "What's the matter?",
+      "note": "A little more direct than Wat is er?"
+    },
+    {
+      "nl": "Mijn hoofd doet pijn.",
+      "en": "My head hurts.",
+      "note": null
+    },
+    {
+      "nl": "Ik heb pijn in mijn rug.",
+      "en": "I have pain in my back.",
+      "note": "Change mijn rug for another body part."
+    },
+    {
+      "nl": "Ik heb hoofdpijn.",
+      "en": "I have a headache.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben ziek.",
+      "en": "I am ill.",
+      "note": null
+    },
+    {
+      "nl": "Niet zo goed.",
+      "en": "Not so good.",
+      "note": "Answer to Hoe gaat het?"
+    },
+    {
+      "nl": "Dat is vervelend.",
+      "en": "That's annoying / That's too bad.",
+      "note": "Use it to react to someone's bad news."
+    },
+    {
+      "nl": "Beterschap!",
+      "en": "Get well soon!",
+      "note": "Very common when someone is ill."
+    },
+    {
+      "nl": "Ik kan niet komen.",
+      "en": "I can't come.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Saying where it hurts",
+      "explanation": "Use **Mijn ... doet pijn** or **Ik heb pijn in mijn ...**. The body part can be the subject: **Mijn hoofd doet pijn**. You can also use **in** + body part: **Ik heb pijn in mijn rug**. Fixed compounds with **pijn** are very common: **hoofdpijn**, **buikpijn**, **keelpijn**.",
+      "table": {
+        "headers": [
+          "Pattern",
+          "Example",
+          "English"
+        ],
+        "rows": [
+          [
+            "Body part + **doet pijn**",
+            "Mijn hoofd doet pijn.",
+            "My head hurts."
+          ],
+          [
+            "**Ik heb pijn in** + body part",
+            "Ik heb pijn in mijn rug.",
+            "I have pain in my back."
+          ],
+          [
+            "**Ik heb** + ...**pijn**",
+            "Ik heb hoofdpijn.",
+            "I have a headache."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Mijn voet doet pijn.",
+          "en": "My foot hurts."
+        },
+        {
+          "nl": "Ik heb pijn in mijn buik.",
+          "en": "I have pain in my belly."
+        },
+        {
+          "nl": "Zij heeft keelpijn.",
+          "en": "She has a sore throat."
+        }
+      ],
+      "tip": "For 'my head hurts', say **Mijn hoofd doet pijn**, not *Mijn hoofd is pijn*."
+    },
+    {
+      "title": "Plurals of body parts",
+      "explanation": "Many body parts add **-en** in the plural: **het oog -> de ogen**, **de hand -> de handen**. A few common ones add **-s**: **de vinger -> de vingers**, **de schouder -> de schouders**. All plurals take **de**. Watch spelling: **het oor -> de oren** (one o), **het been -> de benen** (one e), **de knie -> de knieën** (with ë).",
+      "table": {
+        "headers": [
+          "Singular",
+          "Plural",
+          "English"
+        ],
+        "rows": [
+          [
+            "het oog",
+            "de ogen",
+            "eyes"
+          ],
+          [
+            "de hand",
+            "de handen",
+            "hands"
+          ],
+          [
+            "de voet",
+            "de voeten",
+            "feet"
+          ],
+          [
+            "het oor",
+            "de oren",
+            "ears"
+          ],
+          [
+            "het been",
+            "de benen",
+            "legs"
+          ],
+          [
+            "de knie",
+            "de knieën",
+            "knees"
+          ],
+          [
+            "de vinger",
+            "de vingers",
+            "fingers"
+          ],
+          [
+            "de schouder",
+            "de schouders",
+            "shoulders"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Mijn handen zijn koud.",
+          "en": "My hands are cold."
+        },
+        {
+          "nl": "Mijn voeten doen pijn.",
+          "en": "My feet hurt."
+        },
+        {
+          "nl": "Zij heeft mooie ogen.",
+          "en": "She has beautiful eyes."
+        }
+      ],
+      "tip": "All plurals use **de**: **de ogen**, **de handen**, **de voeten**."
+    },
+    {
+      "title": "Wat is er? / Wat scheelt eraan?",
+      "explanation": "Ask **Wat is er?** or **Wat scheelt eraan?** when someone looks ill or unhappy. **Wat is er?** is very common and neutral. Answer with **Ik heb ...** or **Mijn ... doet pijn**.",
+      "table": null,
+      "examples": [
+        {
+          "nl": "Wat is er?",
+          "en": "What's wrong?"
+        },
+        {
+          "nl": "Wat scheelt eraan?",
+          "en": "What's the matter?"
+        },
+        {
+          "nl": "Ik heb buikpijn.",
+          "en": "I have a stomach ache."
+        }
+      ],
+      "tip": "**Wat is er?** is the safest choice for beginners."
+    }
+  ],
+  "dialogue": {
+    "title": "Ik kan niet komen",
+    "setting": "Sanne calls her friend Daan to say she cannot come to football practice because she is ill.",
+    "speakers": [
+      {
+        "name": "Daan",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Daan",
+        "nl": "Hoi Sanne, hoe gaat het?",
+        "en": "Hi Sanne, how are you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Daan. Nee, niet zo goed. Ik ben ziek.",
+        "en": "Hi Daan. No, not so good. I am ill."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Wat is er?",
+        "en": "What's wrong?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik heb keelpijn en hoofdpijn.",
+        "en": "I have a sore throat and a headache."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Dat is vervelend. Heb je ook buikpijn?",
+        "en": "That's too bad. Do you also have a stomach ache?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, ik heb geen buikpijn. Maar mijn keel doet pijn.",
+        "en": "No, I don't have a stomach ache. But my throat hurts."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Kun je naar de club komen?",
+        "en": "Can you come to the club?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, helaas. Ik kan niet komen. Ik heb pijn in mijn keel.",
+        "en": "No, unfortunately. I can't come. I have pain in my throat."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ga je naar bed?",
+        "en": "Are you going to bed?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik ga naar bed. Ik ga slapen.",
+        "en": "Yes, I am going to bed. I am going to sleep."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Beterschap! Tot morgen.",
+        "en": "Get well soon! See you tomorrow."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank je wel. Tot morgen.",
+        "en": "Thank you. See you tomorrow."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het hoofd",
+          "head"
+        ],
+        [
+          "de hand",
+          "hand"
+        ],
+        [
+          "de voet",
+          "foot"
+        ],
+        [
+          "het oog",
+          "eye"
+        ],
+        [
+          "de buik",
+          "belly"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "Mijn hoofd doet pijn.",
+          "My head hurts."
+        ],
+        [
+          "Ik heb pijn in mijn rug.",
+          "I have pain in my back."
+        ],
+        [
+          "Ik heb keelpijn.",
+          "I have a sore throat."
+        ],
+        [
+          "Ik ben ziek.",
+          "I am ill."
+        ],
+        [
+          "Beterschap!",
+          "Get well soon!"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence says 'My head hurts'?",
+      "nl": null,
+      "options": [
+        "Mijn hoofd is pijn.",
+        "Mijn hoofd doet pijn.",
+        "Ik heb hoofd pijn.",
+        "Mijn hoofd heb pijn."
+      ],
+      "answer": 1,
+      "explain": "Use **doet pijn**: Mijn hoofd doet pijn."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence means 'I have a stomach ache'?",
+      "nl": null,
+      "options": [
+        "Ik heb pijn in mijn buik.",
+        "Ik heb pijn op mijn buik.",
+        "Ik heb buik in mijn pijn.",
+        "Ik heb pijn mijn buik."
+      ],
+      "answer": 0,
+      "explain": "Use **pijn in mijn buik** for a stomach ache."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the plural of **het oog**?",
+      "nl": null,
+      "options": [
+        "de oogs",
+        "de ogen",
+        "de oogen",
+        "het ogen"
+      ],
+      "answer": 1,
+      "explain": "**Het oog** becomes **de ogen**; all plurals take **de**."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which question is a friendly way to ask 'What's wrong?'",
+      "nl": null,
+      "options": [
+        "Wat is er?",
+        "Waar is er?",
+        "Wat kost het?",
+        "Hoe laat is het?"
+      ],
+      "answer": 0,
+      "explain": "**Wat is er?** is the common, friendly question."
+    },
+    {
+      "type": "article",
+      "word": "hoofd",
+      "en": "head",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "hand",
+      "en": "hand",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "My head hurts.",
+      "answer": "Mijn hoofd doet pijn.",
+      "accept": [],
+      "extra": [
+        "heb",
+        "in"
+      ],
+      "explain": "The body part is the subject: use **doet pijn**, not **is pijn**: 'Mijn hoofd doet pijn.'"
+    },
+    {
+      "type": "build",
+      "en": "I have pain in my back.",
+      "answer": "Ik heb pijn in mijn rug.",
+      "accept": [],
+      "extra": [
+        "hebt",
+        "is"
+      ],
+      "explain": "Use **Ik heb pijn in mijn ...** for pain in a body part: 'Ik heb pijn in mijn rug.'"
+    },
+    {
+      "type": "build",
+      "en": "She has a sore throat.",
+      "answer": "Zij heeft keelpijn.",
+      "accept": [],
+      "extra": [
+        "heb",
+        "in"
+      ],
+      "explain": "With **hebben**, use **heeft** for zij: 'Zij heeft keelpijn.' The pain word is one compound: **keelpijn**."
+    },
+    {
+      "type": "gap",
+      "text": "Mijn ___ doet pijn.",
+      "en": "My head hurts.",
+      "answers": [
+        "hoofd"
+      ],
+      "hint": "head",
+      "explain": "Use the body part before **doet pijn**: 'Mijn hoofd doet pijn.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb pijn in mijn ___.",
+      "en": "I have pain in my back.",
+      "answers": [
+        "rug"
+      ],
+      "hint": "back",
+      "explain": "Use **pijn in mijn** + body part: 'Ik heb pijn in mijn rug.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb ___. Ik ga naar bed.",
+      "en": "I have a headache. I am going to bed.",
+      "answers": [
+        "hoofdpijn"
+      ],
+      "hint": "headache",
+      "explain": "The compound for headache is **hoofdpijn**: 'Ik heb hoofdpijn.'"
+    },
+    {
+      "type": "translate",
+      "en": "My foot hurts.",
+      "answers": [
+        "Mijn voet doet pijn.",
+        "Ik heb pijn in mijn voet."
+      ],
+      "focus": "pijn doen / pijn in",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'is pijn' with the body part (Mijn voet is pijn).",
+          "explain": "Pain is expressed with **doen**: 'Mijn voet doet pijn.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'heb' with a singular body part as subject (Mijn voet heb pijn).",
+          "explain": "The body part is the subject, so the verb is **doet**: 'Mijn voet doet pijn.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'op' instead of 'in' (Ik heb pijn op mijn voet).",
+          "explain": "Use **pijn in mijn voet**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Leaves out the possessive (Ik heb pijn in voet).",
+          "explain": "Say **in mijn voet**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I have a stomach ache.",
+      "answers": [
+        "Ik heb buikpijn.",
+        "Ik heb pijn in mijn buik."
+      ],
+      "focus": "buikpijn / pijn in",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'zijn' instead of 'hebben' (Ik ben buikpijn).",
+          "explain": "You **hebt** pain: 'Ik heb buikpijn.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds 'een' before the compound (Ik heb een buikpijn).",
+          "explain": "No article with **buikpijn**: 'Ik heb buikpijn.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'op' instead of 'in' (Ik heb pijn op mijn buik).",
+          "explain": "Use **pijn in mijn buik**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Says 'mijn buikpijn' (Ik heb mijn buikpijn).",
+          "explain": "Don't add **mijn** before **buikpijn**: 'Ik heb buikpijn.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Do you have a sore throat?",
+      "answers": [
+        "Heb je keelpijn?",
+        "Heb jij keelpijn?",
+        "Hebt u keelpijn?",
+        "Heeft u keelpijn?",
+        "Heb je pijn in je keel?",
+        "Heb jij pijn in je keel?",
+        "Hebt u pijn in uw keel?",
+        "Heeft u pijn in uw keel?"
+      ],
+      "focus": "keelpijn; yes/no question with je/jij/u",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds 'een' before keelpijn (Heb je een keelpijn?).",
+          "explain": "No article with **keelpijn**: 'Heb je keelpijn?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Splits the compound (Heb je keel pijn?).",
+          "explain": "**Keelpijn** is one word: 'Heb je keelpijn?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'Heeft je ...?' with je (Heeft je keelpijn?).",
+          "explain": "With **je/jij**, use **heb**: 'Heb je keelpijn?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'Heb u ...?' with u (Heb u keelpijn?).",
+          "explain": "With **u**, use **hebt** or **heeft**: 'Hebt u keelpijn?'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Mijn oor doet pijn.",
+      "en": "My ear hurts."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik heb pijn in mijn knie.",
+      "en": "I have pain in my knee."
+    },
+    {
+      "type": "reply",
+      "context": "Your friend sees that you are not well and asks: 'Wat is er?'",
+      "say": {
+        "nl": "Wat is er?",
+        "en": "What's wrong?"
+      },
+      "task": "Say that you have a headache.",
+      "examples": [
+        "Ik heb hoofdpijn.",
+        "Mijn hoofd doet pijn."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Says 'Ik ben hoofdpijn'.",
+          "explain": "Use **hebben**: 'Ik heb hoofdpijn.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Says 'Mijn hoofd is pijn'.",
+          "explain": "Use **doet pijn**: 'Mijn hoofd doet pijn.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Says 'Ik heb een hoofdpijn'.",
+          "explain": "No **een**: 'Ik heb hoofdpijn.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Says 'Ik heb hoofd pijn'.",
+          "explain": "Write **hoofdpijn** as one word."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your friend asks: 'Kun je naar de club komen?' You are ill and have a stomach ache.",
+      "say": {
+        "nl": "Kun je naar de club komen?",
+        "en": "Can you come to the club?"
+      },
+      "task": "Say that you can't come because you have a stomach ache.",
+      "examples": [
+        "Nee, ik kan niet komen. Ik heb buikpijn.",
+        "Helaas, ik kan niet komen, want ik heb buikpijn."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Says 'Ja, ik kan niet komen'.",
+          "explain": "Start with **Nee** or **Helaas**: 'Nee, ik kan niet komen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'omdat ik heb buikpijn' (verb not at the end).",
+          "explain": "After **omdat**, the verb goes to the end: 'omdat ik buikpijn heb.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Says 'Ik ben buikpijn'.",
+          "explain": "Use **hebben**: 'Ik heb buikpijn.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Says 'Ik heb pijn op mijn buik'.",
+          "explain": "Use **in**: 'Ik heb pijn in mijn buik.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "A phone call about football practice",
+    "setting": "You are at home. Your Dutch friend Lisa calls to ask about football practice. You are ill and cannot come.",
+    "partner": {
+      "name": "Lisa",
+      "gender": "f",
+      "role": "friend"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Hoe gaat het?",
+          "en": "Hi! How are you?"
+        },
+        "task": "Say hello and that you are ill.",
+        "examples": [
+          "Hoi Lisa. Nee, ik ben ziek.",
+          "Hoi. Niet zo goed, ik ben ziek."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'Ik heb ziek'.",
+            "explain": "Use **zijn** with ziek: 'Ik ben ziek.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Says 'Nee, ik ben niet goed'.",
+            "explain": "For health, say **Niet zo goed** or **Ik ben ziek**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Only greets: 'Hoi Lisa.'",
+            "explain": "Add that you are ill: 'Hoi Lisa. Ik ben ziek.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is er?",
+          "en": "What's wrong?"
+        },
+        "task": "Say that you have a headache and a sore throat.",
+        "examples": [
+          "Ik heb hoofdpijn en keelpijn.",
+          "Mijn hoofd doet pijn en ik heb keelpijn."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'Mijn hoofd is pijn'.",
+            "explain": "Use **doet pijn**: 'Mijn hoofd doet pijn.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Says 'Ik heb hoofd pijn en keel pijn'.",
+            "explain": "Use compounds **hoofdpijn** and **keelpijn**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Says 'Ik ben hoofdpijn'.",
+            "explain": "Use **hebben**: 'Ik heb hoofdpijn.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Kun je naar de club komen?",
+          "en": "Can you come to the club?"
+        },
+        "task": "Say that you cannot come.",
+        "examples": [
+          "Nee, helaas. Ik kan niet komen.",
+          "Nee, ik kan niet komen. Ik ben ziek."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'Ik heb niet komen'.",
+            "explain": "Use **kan**: 'Ik kan niet komen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Says 'Ik kan komen' without niet.",
+            "explain": "Add **niet**: 'Ik kan niet komen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses wrong word order after 'omdat' (omdat ik ben ziek).",
+            "explain": "After **omdat**, the verb goes to the end: 'omdat ik ziek ben.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ga je naar bed?",
+          "en": "Are you going to bed?"
+        },
+        "task": "Say yes, and that you are going to bed.",
+        "examples": [
+          "Ja, ik ga naar bed.",
+          "Ja, ik ga naar bed. Ik ga slapen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'Ik ga naar de bed'.",
+            "explain": "**Bed** is a het-word and the fixed phrase is **naar bed**: 'Ik ga naar bed.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Says 'Ik ga in bed' for going to bed.",
+            "explain": "Use **naar bed** for going to bed; **in bed** means lying in bed."
+          },
+          {
+            "id": "m3",
+            "pattern": "Says 'Ja, ik slaap naar bed'.",
+            "explain": "Say **Ik ga naar bed** or **Ik ga slapen**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Beterschap! Tot morgen.",
+          "en": "Get well soon! See you tomorrow."
+        },
+        "task": "Thank her and say see you tomorrow.",
+        "examples": [
+          "Dank je wel. Tot morgen.",
+          "Dank je. Tot morgen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'Dank je wel. Tot gisteren.'",
+            "explain": "**Tot morgen** means see you tomorrow."
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets to thank: 'Tot morgen.'",
+            "explain": "Say **Dank je wel** first: 'Dank je wel. Tot morgen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Says 'Alsjeblieft. Tot morgen.'",
+            "explain": "**Alsjeblieft** means please/here you are; thank her with **Dank je wel**."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot morgen!",
+      "en": "See you tomorrow!"
+    }
+  },
+  "culture": {
+    "title": "Rest and paracetamol first",
+    "text": "For minor complaints such as a headache, sore throat or a cold, Dutch people often rest and take paracetamol first. You usually contact the **huisarts** (GP) if the complaint gets worse, lasts longer, or if you are worried. The GP is the gatekeeper to most specialist care. Antibiotics are not normally given for a cold or the flu."
+  },
+  "summary": [
+    "Say where it hurts with **Mijn ... doet pijn** or **Ik heb pijn in mijn ...**.",
+    "Use fixed compounds **hoofdpijn**, **buikpijn**, **keelpijn**.",
+    "Most body part plurals take **de**; many add **-en** (de ogen, de handen), some add **-s** (de vingers, de schouders).",
+    "Ask **Wat is er?** or **Wat scheelt eraan?** and wish someone **Beterschap!**"
+  ]
+}

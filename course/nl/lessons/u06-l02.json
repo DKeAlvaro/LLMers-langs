@@ -1,0 +1,1127 @@
+{
+  "id": "u06-l02",
+  "title": "Bij de huisarts",
+  "subtitle": "At the doctor's",
+  "level": "A1",
+  "intro": "After this lesson you can phone a GP practice, make an appointment and explain simple symptoms such as fever, a cough or dizziness. You can also understand and give simple advice, for example that you must drink and rest. You will practise the difference between al, nog and pas, and talk about how long you have been ill.",
+  "words": [
+    {
+      "nl": "huisarts",
+      "en": "GP / family doctor",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de huisartsen",
+      "forms": null,
+      "example": {
+        "nl": "Ik ga naar de huisarts.",
+        "en": "I am going to the GP."
+      },
+      "note": "Your regular GP in the Netherlands."
+    },
+    {
+      "nl": "dokter",
+      "en": "doctor",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de dokters",
+      "forms": null,
+      "example": {
+        "nl": "De dokter onderzoekt mij.",
+        "en": "The doctor examines me."
+      },
+      "note": "De huisarts is more common for your own GP."
+    },
+    {
+      "nl": "assistente",
+      "en": "practice assistant / receptionist",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de assistentes",
+      "forms": null,
+      "example": {
+        "nl": "De assistente vraagt naar mijn klacht.",
+        "en": "The assistant asks about my complaint."
+      },
+      "note": null
+    },
+    {
+      "nl": "praktijk",
+      "en": "practice / surgery",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de praktijken",
+      "forms": null,
+      "example": {
+        "nl": "De praktijk is open.",
+        "en": "The practice is open."
+      },
+      "note": null
+    },
+    {
+      "nl": "afspraak",
+      "en": "appointment",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de afspraken",
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag een afspraak maken.",
+        "en": "I would like to make an appointment."
+      },
+      "note": null
+    },
+    {
+      "nl": "spreekuur",
+      "en": "consultation hours / surgery hours",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de spreekuren",
+      "forms": null,
+      "example": {
+        "nl": "Het spreekuur is van acht tot twaalf.",
+        "en": "The consultation hours are from eight to twelve."
+      },
+      "note": null
+    },
+    {
+      "nl": "klacht",
+      "en": "complaint / symptom",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de klachten",
+      "forms": null,
+      "example": {
+        "nl": "Wat is uw klacht?",
+        "en": "What is your complaint?"
+      },
+      "note": null
+    },
+    {
+      "nl": "koorts",
+      "en": "fever",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb al drie dagen koorts.",
+        "en": "I have had a fever for three days."
+      },
+      "note": null
+    },
+    {
+      "nl": "hoest",
+      "en": "cough",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een hoest.",
+        "en": "I have a cough."
+      },
+      "note": "You often say: Ik hoest veel."
+    },
+    {
+      "nl": "verkouden",
+      "en": "having a cold",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben verkouden.",
+        "en": "I have a cold."
+      },
+      "note": "Use zijn, not hebben: Ik ben verkouden."
+    },
+    {
+      "nl": "griep",
+      "en": "flu",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb de griep.",
+        "en": "I have the flu."
+      },
+      "note": null
+    },
+    {
+      "nl": "misselijk",
+      "en": "nauseous",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben misselijk.",
+        "en": "I feel nauseous."
+      },
+      "note": null
+    },
+    {
+      "nl": "duizelig",
+      "en": "dizzy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben duizelig.",
+        "en": "I feel dizzy."
+      },
+      "note": null
+    },
+    {
+      "nl": "sinds",
+      "en": "since",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Sinds maandag ben ik ziek.",
+        "en": "I have been ill since Monday."
+      },
+      "note": "Use the present tense in Dutch."
+    },
+    {
+      "nl": "al",
+      "en": "already",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb al koorts.",
+        "en": "I already have a fever."
+      },
+      "note": "Also 'for' with a length of time: al drie dagen."
+    },
+    {
+      "nl": "nog",
+      "en": "still / yet",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben nog ziek.",
+        "en": "I am still ill."
+      },
+      "note": "nog = still."
+    },
+    {
+      "nl": "pas",
+      "en": "only / just",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben pas sinds gisteren ziek.",
+        "en": "I have been ill only since yesterday."
+      },
+      "note": "pas = only / just."
+    },
+    {
+      "nl": "rusten",
+      "en": "to rest",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik rust, jij rust, wij rusten",
+      "example": {
+        "nl": "U moet veel rusten.",
+        "en": "You must rest a lot."
+      },
+      "note": null
+    },
+    {
+      "nl": "drinken",
+      "en": "to drink",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik drink, jij drinkt, wij drinken",
+      "example": {
+        "nl": "U moet veel drinken.",
+        "en": "You must drink a lot."
+      },
+      "note": null
+    },
+    {
+      "nl": "onderzoeken",
+      "en": "to examine",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik onderzoek, jij onderzoekt, wij onderzoeken",
+      "example": {
+        "nl": "De dokter onderzoekt mij.",
+        "en": "The doctor examines me."
+      },
+      "note": null
+    },
+    {
+      "nl": "recept",
+      "en": "prescription",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de recepten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een recept.",
+        "en": "I have a prescription."
+      },
+      "note": null
+    },
+    {
+      "nl": "medicijn",
+      "en": "medicine",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de medicijnen",
+      "forms": null,
+      "example": {
+        "nl": "Het medicijn is duur.",
+        "en": "The medicine is expensive."
+      },
+      "note": null
+    },
+    {
+      "nl": "pil",
+      "en": "pill",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de pillen",
+      "forms": null,
+      "example": {
+        "nl": "Neem één pil per dag.",
+        "en": "Take one pill a day."
+      },
+      "note": null
+    },
+    {
+      "nl": "voorschrijven",
+      "en": "to prescribe",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik schrijf voor, jij schrijft voor, wij schrijven voor",
+      "example": {
+        "nl": "De dokter schrijft een recept voor.",
+        "en": "The doctor prescribes a prescription."
+      },
+      "note": "Separable: schrijf ... voor."
+    },
+    {
+      "nl": "verzekering",
+      "en": "insurance",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de verzekeringen",
+      "forms": null,
+      "example": {
+        "nl": "Betaalt de verzekering het medicijn?",
+        "en": "Does the insurance pay for the medicine?"
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik wil graag een afspraak maken.",
+      "en": "I would like to make an appointment.",
+      "note": null
+    },
+    {
+      "nl": "Kan dat vandaag nog?",
+      "en": "Is today still possible?",
+      "note": "nog = still / yet."
+    },
+    {
+      "nl": "Ik ben al drie dagen ziek.",
+      "en": "I have been ill for three days.",
+      "note": null
+    },
+    {
+      "nl": "Sinds maandag heb ik koorts.",
+      "en": "I have had a fever since Monday.",
+      "note": "Use the present tense after sinds."
+    },
+    {
+      "nl": "Ik heb pijn in mijn keel.",
+      "en": "I have a sore throat.",
+      "note": "pijn in + body part."
+    },
+    {
+      "nl": "Ik hoest veel en ik ben verkouden.",
+      "en": "I am coughing a lot and I have a cold.",
+      "note": null
+    },
+    {
+      "nl": "Moet ik veel drinken?",
+      "en": "Should I drink a lot?",
+      "note": "moet + infinitive at the end."
+    },
+    {
+      "nl": "U moet veel drinken en rusten.",
+      "en": "You must drink a lot and rest.",
+      "note": null
+    },
+    {
+      "nl": "Ik schrijf een recept voor.",
+      "en": "I am writing a prescription.",
+      "note": "Separable verb: schrijven ... voor."
+    },
+    {
+      "nl": "Betaalt de verzekering het medicijn?",
+      "en": "Does the insurance pay for the medicine?",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Duration: al and sinds",
+      "explanation": "Use **al** + a length of time for 'for': **Ik ben al drie dagen ziek.** Use **sinds** + a starting point for 'since': **Sinds maandag ben ik ziek.** Dutch uses the present tense here: **Ik ben al drie dagen ziek.** With **sinds** at the start, the verb comes second: **Sinds maandag ben ik ziek.**",
+      "table": {
+        "headers": [
+          "Use",
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "for three days",
+            "Ik ben al drie dagen ziek.",
+            "I have been ill for three days."
+          ],
+          [
+            "since Monday",
+            "Sinds maandag ben ik ziek.",
+            "I have been ill since Monday."
+          ],
+          [
+            "for two years",
+            "Ik woon al twee jaar in Utrecht.",
+            "I have lived in Utrecht for two years."
+          ],
+          [
+            "only since yesterday",
+            "Ik ben pas sinds gisteren ziek.",
+            "I have been ill only since yesterday."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik woon al twee jaar in Utrecht.",
+          "en": "I have lived in Utrecht for two years."
+        },
+        {
+          "nl": "Sinds gisteren ben ik ziek.",
+          "en": "I have been ill since yesterday."
+        },
+        {
+          "nl": "Ik ben al drie dagen ziek.",
+          "en": "I have been ill for three days."
+        }
+      ],
+      "tip": "Think: 'I am already three days ill' = **Ik ben al drie dagen ziek.**"
+    },
+    {
+      "title": "al, nog, pas, nog niet",
+      "explanation": "**Al** means 'already', **nog** means 'still' or 'yet', and **pas** means 'only' or 'just'. Put these words before the word you want to emphasise: **Ik heb al koorts.** **Ik ben nog ziek.** **Ik ben pas sinds gisteren ziek.** **Nog niet** means 'not yet': **Ik ben nog niet beter.**",
+      "table": {
+        "headers": [
+          "Word",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "al",
+            "already",
+            "Ik heb al koorts."
+          ],
+          [
+            "nog",
+            "still / yet",
+            "Ik ben nog ziek."
+          ],
+          [
+            "pas",
+            "only / just",
+            "Ik ben pas sinds gisteren ziek."
+          ],
+          [
+            "nog niet",
+            "not yet",
+            "Ik ben nog niet beter."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb al koorts.",
+          "en": "I already have a fever."
+        },
+        {
+          "nl": "Ik ben nog ziek.",
+          "en": "I am still ill."
+        },
+        {
+          "nl": "Ik ben nog niet beter.",
+          "en": "I am not better yet."
+        }
+      ],
+      "tip": "**al** = earlier than expected; **nog** = continuing; **pas** = later than expected; **nog niet** = not yet."
+    },
+    {
+      "title": "Moeten for advice",
+      "explanation": "Use **moeten** + infinitive at the end to give advice: **U moet veel drinken.** **Je moet rusten.** The form **moet** is used for ik, jij, u, hij and zij (singular); **moeten** is used for wij, jullie and zij (plural).",
+      "table": {
+        "headers": [
+          "Person",
+          "Form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "moet",
+            "Ik moet rusten."
+          ],
+          [
+            "jij / u / hij / zij",
+            "moet",
+            "U moet veel drinken."
+          ],
+          [
+            "wij / jullie / zij",
+            "moeten",
+            "Wij moeten rusten."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "U moet veel drinken.",
+          "en": "You must drink a lot."
+        },
+        {
+          "nl": "Je moet rusten.",
+          "en": "You must rest."
+        },
+        {
+          "nl": "U moet niet te veel werken.",
+          "en": "You must not work too much."
+        }
+      ],
+      "tip": "The infinitive goes at the end: **U moet veel drinken.**"
+    }
+  ],
+  "dialogue": {
+    "title": "Een afspraak bij de huisarts",
+    "setting": "You call the GP practice for an appointment and then speak to the doctor.",
+    "speakers": [
+      {
+        "name": "Assistente",
+        "gender": "f"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Dokter",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Assistente",
+        "nl": "Goedemorgen, praktijk De Vondel. Wat is uw klacht?",
+        "en": "Good morning, De Vondel practice. What is your complaint?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemorgen. Ik wil graag een afspraak maken. Ik ben al drie dagen ziek.",
+        "en": "Good morning. I would like to make an appointment. I have been ill for three days."
+      },
+      {
+        "speaker": "Assistente",
+        "nl": "Wat zijn uw klachten?",
+        "en": "What are your symptoms?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik heb koorts en ik hoest veel. Ik ben ook verkouden.",
+        "en": "I have a fever and I am coughing a lot. I have a cold too."
+      },
+      {
+        "speaker": "Assistente",
+        "nl": "Sinds wanneer bent u ziek?",
+        "en": "Since when have you been ill?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Sinds maandag. Kan dat vandaag nog?",
+        "en": "Since Monday. Is today still possible?"
+      },
+      {
+        "speaker": "Assistente",
+        "nl": "Ja, om drie uur. Heeft u een verzekering?",
+        "en": "Yes, at three o'clock. Do you have insurance?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja. Tot straks.",
+        "en": "Yes. See you later."
+      },
+      {
+        "speaker": "Dokter",
+        "nl": "Goedemiddag. Wat is er?",
+        "en": "Good afternoon. What is wrong?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik ben nog ziek. Ik heb al drie dagen koorts. Ik ben ook misselijk en moe.",
+        "en": "I am still ill. I have had a fever for three days now. I am also nauseous and tired."
+      },
+      {
+        "speaker": "Dokter",
+        "nl": "Ik ga u onderzoeken. U hebt de griep. U moet veel drinken en rusten.",
+        "en": "I am going to examine you. You have the flu. You must drink a lot and rest."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Kunt u een medicijn voorschrijven?",
+        "en": "Can you prescribe medicine?"
+      },
+      {
+        "speaker": "Dokter",
+        "nl": "Ja, ik schrijf een recept voor. Neem één pil per dag.",
+        "en": "Yes, I am writing a prescription. Take one pill a day."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Betaalt de verzekering het medicijn?",
+        "en": "Thank you. Does the insurance pay for the medicine?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de huisarts",
+          "GP"
+        ],
+        [
+          "de afspraak",
+          "appointment"
+        ],
+        [
+          "de koorts",
+          "fever"
+        ],
+        [
+          "verkouden",
+          "having a cold"
+        ],
+        [
+          "het recept",
+          "prescription"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de klacht",
+          "complaint / symptom"
+        ],
+        [
+          "het spreekuur",
+          "consultation hours"
+        ],
+        [
+          "misselijk",
+          "nauseous"
+        ],
+        [
+          "duizelig",
+          "dizzy"
+        ],
+        [
+          "de verzekering",
+          "insurance"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'still'?",
+      "nl": null,
+      "options": [
+        "al",
+        "nog",
+        "pas",
+        "sinds"
+      ],
+      "answer": 1,
+      "explain": "**nog** means 'still' or 'yet'."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct sentence.",
+      "nl": null,
+      "options": [
+        "Ik ben al drie dagen ziek.",
+        "Ik ben drie dagen al ziek.",
+        "Ik al ben drie dagen ziek.",
+        "Ik ben drie dagen ziek al."
+      ],
+      "answer": 0,
+      "explain": "**al** comes before the time phrase: **al drie dagen**."
+    },
+    {
+      "type": "choice",
+      "prompt": "The doctor gives advice. Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "U moet veel drinken.",
+        "U veel moet drinken.",
+        "U moet drinken veel.",
+        "U drinken moet veel."
+      ],
+      "answer": 0,
+      "explain": "With **moeten**, the infinitive goes at the end: **moet ... drinken**."
+    },
+    {
+      "type": "article",
+      "word": "afspraak",
+      "en": "appointment",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "recept",
+      "en": "prescription",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I would like to make an appointment.",
+      "answer": "Ik wil graag een afspraak maken.",
+      "accept": [
+        "Graag wil ik een afspraak maken."
+      ],
+      "extra": [
+        "maakt"
+      ],
+      "explain": "After **ik wil** comes **graag**, and the fixed phrase **een afspraak maken** goes at the end: **Ik wil graag een afspraak maken.**"
+    },
+    {
+      "type": "build",
+      "en": "You must drink a lot and rest.",
+      "answer": "U moet veel drinken en rusten.",
+      "accept": [],
+      "extra": [
+        "drink"
+      ],
+      "explain": "With **moeten** the infinitive goes at the end: **U moet veel drinken en rusten.**"
+    },
+    {
+      "type": "build",
+      "en": "I have had a fever since Monday.",
+      "answer": "Sinds maandag heb ik koorts.",
+      "accept": [
+        "Ik heb sinds maandag koorts."
+      ],
+      "extra": [
+        "is"
+      ],
+      "explain": "After **Sinds maandag** the verb comes second: **Sinds maandag heb ik koorts.**"
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb al drie dagen ___.",
+      "en": "I have had a fever for three days.",
+      "answers": [
+        "koorts"
+      ],
+      "hint": "fever",
+      "explain": "Use **hebben** with **koorts**: **Ik heb koorts.**"
+    },
+    {
+      "type": "gap",
+      "text": "Sinds maandag ___ ik ziek.",
+      "en": "Since Monday I have been ill.",
+      "answers": [
+        "ben"
+      ],
+      "hint": "am (ik-vorm)",
+      "explain": "The verb **zijn** takes **ben** with **ik**: **Ik ben ziek.**"
+    },
+    {
+      "type": "gap",
+      "text": "U moet veel ___ en rusten.",
+      "en": "You must drink a lot and rest.",
+      "answers": [
+        "drinken"
+      ],
+      "hint": "to drink",
+      "explain": "After **moet** the infinitive **drinken** comes at the end: **U moet veel drinken.**"
+    },
+    {
+      "type": "translate",
+      "en": "I would like to make an appointment.",
+      "answers": [
+        "Ik wil graag een afspraak maken.",
+        "Graag wil ik een afspraak maken."
+      ],
+      "focus": "afspraak maken",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the third-person form after 'wil' ('Ik wil graag een afspraak maakt.')",
+          "explain": "After **wil** use the infinitive without **-t**: **Ik wil graag een afspraak maken.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitive before its object ('Ik wil graag maken een afspraak.')",
+          "explain": "Keep the fixed phrase **een afspraak maken** together, with **maken** at the end: **Ik wil graag een afspraak maken.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'wilt' with 'ik' ('Ik wilt graag een afspraak maken.')",
+          "explain": "The form for **ik** is **wil**, not **wilt**: **Ik wil graag een afspraak maken.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I have been ill for three days.",
+      "answers": [
+        "Ik ben al drie dagen ziek.",
+        "Al drie dagen ben ik ziek."
+      ],
+      "focus": "al + duration",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'hebben' instead of 'zijn' ('Ik heb al drie dagen ziek.')",
+          "explain": "Use **zijn** with **ziek**: **Ik ben al drie dagen ziek.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts 'al' after the time phrase ('Ik ben drie dagen al ziek.')",
+          "explain": "**al** comes before the time phrase: **Ik ben al drie dagen ziek.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Translates 'for' with 'voor' ('Ik ben voor drie dagen ziek.')",
+          "explain": "Dutch uses **al** for a length of time here: **Ik ben al drie dagen ziek.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I have had a fever since Monday.",
+      "answers": [
+        "Sinds maandag heb ik koorts.",
+        "Ik heb sinds maandag koorts."
+      ],
+      "focus": "sinds + starting point",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps statement order after 'Sinds maandag' ('Sinds maandag ik heb koorts.')",
+          "explain": "When **sinds** starts the sentence, the verb comes second: **Sinds maandag heb ik koorts.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'voor' for 'since' ('Voor maandag heb ik koorts.')",
+          "explain": "Use **sinds** for 'since': **Sinds maandag heb ik koorts.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'zijn' with 'koorts' ('Sinds maandag ben ik koorts.')",
+          "explain": "Use **hebben** with **koorts**: **Ik heb koorts.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "You must drink a lot and rest.",
+      "answers": [
+        "U moet veel drinken en rusten.",
+        "Je moet veel drinken en rusten."
+      ],
+      "focus": "moeten for advice",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses a finite verb after 'moet' ('U moet veel drinkt en rust.')",
+          "explain": "After **moet** use the infinitive: **U moet veel drinken en rusten.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the subject before the verb ('U veel moet drinken en rusten.')",
+          "explain": "The verb **moet** comes second, right after **u**: **U moet veel drinken en rusten.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses only one infinitive ('U moet veel drinken en rust.')",
+          "explain": "Both verbs after **moet** stay in the infinitive: **drinken** and **rusten**. Say: **U moet veel drinken en rusten.**"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Sinds maandag heb ik koorts.",
+      "en": "Since Monday I have had a fever."
+    },
+    {
+      "type": "listen",
+      "nl": "U moet veel drinken en rusten.",
+      "en": "You must drink a lot and rest."
+    },
+    {
+      "type": "reply",
+      "context": "You call the GP practice. The assistant answers the phone.",
+      "say": {
+        "nl": "Goedemorgen, praktijk De Vondel. Wat is uw klacht?",
+        "en": "Good morning, De Vondel practice. What is your complaint?"
+      },
+      "task": "Say that you would like an appointment and that you have been ill for three days.",
+      "examples": [
+        "Ik wil graag een afspraak maken. Ik ben al drie dagen ziek.",
+        "Ik ben al drie dagen ziek. Ik wil graag een afspraak maken.",
+        "Goedemorgen. Ik wil een afspraak maken. Ik ben al drie dagen ziek."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'maakt' after 'wil' ('Ik wil graag een afspraak maakt.')",
+          "explain": "After **wil** use the infinitive: **Ik wil graag een afspraak maken.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'hebben' with 'ziek' ('Ik heb al drie dagen ziek.')",
+          "explain": "Use **zijn** with **ziek**: **Ik ben al drie dagen ziek.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts 'al' after the time phrase ('Ik ben drie dagen al ziek.')",
+          "explain": "**al** comes before the time phrase: **Ik ben al drie dagen ziek.**"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The assistant asks when your symptoms started.",
+      "say": {
+        "nl": "Sinds wanneer bent u ziek?",
+        "en": "Since when have you been ill?"
+      },
+      "task": "Say that it started on Monday, and that you also have a fever.",
+      "examples": [
+        "Sinds maandag. Ik heb ook koorts.",
+        "Sinds maandag ben ik ziek. Ik heb ook koorts."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps statement order after 'Sinds maandag' ('Sinds maandag ik ben ziek.')",
+          "explain": "When **sinds** starts the sentence, the verb comes second: **Sinds maandag ben ik ziek.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'zijn' with 'koorts' ('Ik ben ook koorts.')",
+          "explain": "Use **hebben** with **koorts**: **Ik heb ook koorts.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'voor' for 'since' ('Voor maandag ben ik ziek.')",
+          "explain": "Use **sinds** for 'since': **Sinds maandag ben ik ziek.**"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The doctor gives you advice.",
+      "say": {
+        "nl": "U moet veel drinken en rusten.",
+        "en": "You must drink a lot and rest."
+      },
+      "task": "Ask if you can still work today.",
+      "examples": [
+        "Mag ik vandaag nog werken?",
+        "Kan ik vandaag nog werken?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps statement order in a yes/no question ('Ik mag vandaag nog werken?')",
+          "explain": "In a yes/no question the verb comes first: **Mag ik vandaag nog werken?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the noun 'werk' instead of the verb 'werken' ('Mag ik vandaag nog werk?')",
+          "explain": "Use the verb **werken**: **Mag ik vandaag nog werken?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'moet' to ask permission ('Moet ik vandaag nog werken?')",
+          "explain": "For permission use **mag** or **kan**: **Mag ik vandaag nog werken?**"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Bij de dokter",
+    "setting": "You are at the doctor's office because you have been ill for a few days. The doctor asks about your symptoms and gives advice.",
+    "partner": {
+      "name": "Dokter Van Dijk",
+      "gender": "m",
+      "role": "your GP"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag. Wat is er?",
+          "en": "Good afternoon. What is wrong?"
+        },
+        "task": "Say that you have been ill for three days and that you have a cough and fever.",
+        "examples": [
+          "Goedemiddag. Ik ben al drie dagen ziek. Ik heb koorts en ik hoest veel.",
+          "Ik ben al drie dagen ziek. Ik heb koorts en ik hoest veel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'hebben' with 'ziek' ('Ik heb al drie dagen ziek.')",
+            "explain": "Use **zijn** with **ziek**: **Ik ben al drie dagen ziek.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts 'al' after the time phrase ('Ik ben drie dagen al ziek.')",
+            "explain": "**al** comes before the time phrase: **Ik ben al drie dagen ziek.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits the verb or article with 'hoest' ('Ik heb hoest.')",
+            "explain": "Say **ik hoest** or **ik heb een hoest**. Here: **Ik heb koorts en ik hoest veel.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Sinds wanneer hebt u klachten?",
+          "en": "Since when have you had symptoms?"
+        },
+        "task": "Say since Monday, and that you are also nauseous and dizzy.",
+        "examples": [
+          "Sinds maandag. Ik ben ook misselijk en duizelig.",
+          "Sinds maandag heb ik klachten. Ik ben ook misselijk en duizelig."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps statement order after 'Sinds maandag' ('Sinds maandag ik ben ook misselijk en duizelig.')",
+            "explain": "When **sinds** starts the sentence, the verb comes second: **Sinds maandag ben ik ook misselijk en duizelig.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'hebben' with 'misselijk' ('Ik heb ook misselijk en duizelig.')",
+            "explain": "Use **zijn** with **misselijk** and **duizelig**: **Ik ben ook misselijk en duizelig.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'voor' for 'since' ('Voor maandag ben ik ziek.')",
+            "explain": "Use **sinds** for 'since': **Sinds maandag ben ik ziek.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik ga u onderzoeken. U hebt de griep.",
+          "en": "I am going to examine you. You have the flu."
+        },
+        "task": "Ask if you must rest a lot and if the doctor can prescribe medicine.",
+        "examples": [
+          "Moet ik veel rusten? Kunt u een medicijn voorschrijven?",
+          "Moet ik veel rusten? Kunt u mij een medicijn voorschrijven?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts 'veel' after the verb ('Moet ik rusten veel?')",
+            "explain": "**veel** comes before the infinitive: **Moet ik veel rusten?**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses a finite verb after 'kunt' ('Kunt u een medicijn voorschrijft?')",
+            "explain": "After **kunt** use the infinitive: **Kunt u een medicijn voorschrijven?**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Splits the separable verb after 'kunt' ('Kunt u een medicijn voor schrijven?')",
+            "explain": "With **kunnen** the separable verb stays together as **voorschrijven**: **Kunt u een medicijn voorschrijven?**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja. Ik schrijf een recept voor. Neem één pil per dag.",
+          "en": "Yes. I am writing a prescription. Take one pill a day."
+        },
+        "task": "Thank the doctor and ask if the insurance pays for the medicine.",
+        "examples": [
+          "Dank u wel. Betaalt de verzekering het medicijn?",
+          "Dank u wel. Betaalt de verzekering dit medicijn?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps statement order in a yes/no question ('De verzekering betaalt het medicijn?')",
+            "explain": "In a yes/no question start with the verb: **Betaalt de verzekering het medicijn?**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'de' with 'medicijn' ('Betaalt de verzekering de medicijn?')",
+            "explain": "**medicijn** is a het-word: **het medicijn**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'betaal' with 'de verzekering' ('Betaal de verzekering het medicijn?')",
+            "explain": "The form with **de verzekering** is **betaalt**: **Betaalt de verzekering het medicijn?**"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot ziens. Rust goed.",
+      "en": "Goodbye. Rest well."
+    }
+  },
+  "culture": {
+    "title": "Registering with a huisarts",
+    "text": "In the Netherlands, most people are registered with a local **huisarts**; this is the doctor you go to first for most health problems. When you phone the practice, the **assistente** often asks about your **klacht** and how long you have had it, so the doctor can decide how urgent it is. Outside opening hours, urgent help is arranged through a regional GP service; you usually phone first. Basic health insurance is compulsory, so you may need your **verzekering** details when you register."
+  },
+  "summary": [
+    "Make an appointment with **Ik wil graag een afspraak maken.**",
+    "Describe symptoms: **Ik heb koorts**, **ik hoest veel**, **ik ben verkouden**.",
+    "Talk about duration with **al** and **sinds**: **Ik ben al drie dagen ziek**, **Sinds maandag ben ik ziek**.",
+    "Use **nog**, **pas** and **nog niet** for 'still', 'only' and 'not yet'.",
+    "Give simple advice with **moeten** + infinitive: **U moet veel drinken en rusten.**"
+  ]
+}

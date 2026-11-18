@@ -1,0 +1,1092 @@
+{
+  "id": "u11-l05",
+  "title": "Ik wil dit ruilen",
+  "subtitle": "Complaints and returns",
+  "level": "A2+",
+  "intro": "After this lesson you can return or exchange a product in a Dutch shop. You can describe what went wrong, ask politely but firmly for your money back, and say what you expect. You will also learn how to use hoeven ... te and polite request structures.",
+  "words": [
+    {
+      "nl": "koptelefoon",
+      "en": "headphones",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de koptelefoons",
+      "forms": null,
+      "example": {
+        "nl": "De koptelefoon is kapot.",
+        "en": "The headphones are broken."
+      },
+      "note": "Usually plural in English: headphones."
+    },
+    {
+      "nl": "kapot",
+      "en": "broken",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mijn koptelefoon is kapot.",
+        "en": "My headphones are broken."
+      },
+      "note": "Before a noun: een kapotte koptelefoon."
+    },
+    {
+      "nl": "beschadigd",
+      "en": "damaged",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De doos is beschadigd.",
+        "en": "The box is damaged."
+      },
+      "note": "Means physically damaged; for a device that no longer works, kapot is more common."
+    },
+    {
+      "nl": "defect",
+      "en": "defective",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De koptelefoon is defect.",
+        "en": "The headphones are defective."
+      },
+      "note": "Formal; usually kapot in everyday Dutch."
+    },
+    {
+      "nl": "fout",
+      "en": "fault, mistake",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de fouten",
+      "forms": null,
+      "example": {
+        "nl": "Er zit een fout in het product.",
+        "en": "There is a fault in the product."
+      },
+      "note": "A fault in a product or a mistake."
+    },
+    {
+      "nl": "klacht",
+      "en": "complaint",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de klachten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een klacht over dit product.",
+        "en": "I have a complaint about this product."
+      },
+      "note": "Ik heb een klacht over... = I have a complaint about..."
+    },
+    {
+      "nl": "product",
+      "en": "product",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de producten",
+      "forms": null,
+      "example": {
+        "nl": "Het product is kapot.",
+        "en": "The product is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "bon",
+      "en": "receipt",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de bonnen",
+      "forms": null,
+      "example": {
+        "nl": "Hier is de bon.",
+        "en": "Here is the receipt."
+      },
+      "note": "De kassabon is the till receipt."
+    },
+    {
+      "nl": "kassabon",
+      "en": "till receipt",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de kassabonnen",
+      "forms": null,
+      "example": {
+        "nl": "Op de kassabon staat de datum.",
+        "en": "The date is on the till receipt."
+      },
+      "note": null
+    },
+    {
+      "nl": "garantie",
+      "en": "warranty, guarantee",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de garanties",
+      "forms": null,
+      "example": {
+        "nl": "De garantie geldt een jaar.",
+        "en": "The warranty is one year."
+      },
+      "note": null
+    },
+    {
+      "nl": "klantenservice",
+      "en": "customer service",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik bel de klantenservice.",
+        "en": "I am calling customer service."
+      },
+      "note": "Usually singular."
+    },
+    {
+      "nl": "ruilen",
+      "en": "to exchange",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ruil, jij ruilt, wij ruilen",
+      "example": {
+        "nl": "Kan ik deze koptelefoon ruilen?",
+        "en": "Can I exchange these headphones?"
+      },
+      "note": "Use ruilen voor: Ik ruil dit voor dat."
+    },
+    {
+      "nl": "terugbrengen",
+      "en": "to return, to bring back",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik breng terug, jij brengt terug, wij brengen terug",
+      "example": {
+        "nl": "Ik breng de koptelefoon morgen terug.",
+        "en": "I am returning the headphones tomorrow."
+      },
+      "note": "Separable: breng ... terug."
+    },
+    {
+      "nl": "terugkrijgen",
+      "en": "to get back",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik krijg terug, jij krijgt terug, wij krijgen terug",
+      "example": {
+        "nl": "U krijgt uw geld terug.",
+        "en": "You will get your money back."
+      },
+      "note": "Separable: krijg ... terug."
+    },
+    {
+      "nl": "vervangen",
+      "en": "to replace",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vervang, jij vervangt, wij vervangen",
+      "example": {
+        "nl": "Kunt u de koptelefoon vervangen?",
+        "en": "Can you replace the headphones?"
+      },
+      "note": null
+    },
+    {
+      "nl": "het geld terug",
+      "en": "the money back",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik wil het geld terug.",
+        "en": "I want the money back."
+      },
+      "note": "Also: Ik wil mijn geld terug."
+    },
+    {
+      "nl": "tegoed",
+      "en": "store credit",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de tegoeden",
+      "forms": null,
+      "example": {
+        "nl": "Ik wil geen tegoed, maar geld.",
+        "en": "I do not want store credit, but money."
+      },
+      "note": null
+    },
+    {
+      "nl": "tegoedbon",
+      "en": "voucher, credit note",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de tegoedbonnen",
+      "forms": null,
+      "example": {
+        "nl": "Ik krijg een tegoedbon.",
+        "en": "I am getting a voucher."
+      },
+      "note": null
+    },
+    {
+      "nl": "bedoeling",
+      "en": "intention, the point",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de bedoelingen",
+      "forms": null,
+      "example": {
+        "nl": "Dat is niet de bedoeling.",
+        "en": "That is not the intention."
+      },
+      "note": "Het is de bedoeling dat... = you are supposed to..."
+    },
+    {
+      "nl": "oplossen",
+      "en": "to solve",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik los op, jij lost op, wij lossen op",
+      "example": {
+        "nl": "We lossen het probleem samen op.",
+        "en": "We are solving the problem together."
+      },
+      "note": "Separable: los ... op."
+    },
+    {
+      "nl": "oplossing",
+      "en": "solution",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de oplossingen",
+      "forms": null,
+      "example": {
+        "nl": "De oplossing is een nieuwe koptelefoon.",
+        "en": "The solution is a new pair of headphones."
+      },
+      "note": null
+    },
+    {
+      "nl": "bedrag",
+      "en": "amount",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de bedragen",
+      "forms": null,
+      "example": {
+        "nl": "Het bedrag staat op de bon.",
+        "en": "The amount is on the receipt."
+      },
+      "note": null
+    },
+    {
+      "nl": "binnen",
+      "en": "within",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "U kunt het binnen veertien dagen terugbrengen.",
+        "en": "You can return it within fourteen days."
+      },
+      "note": "Binnen + time = within."
+    },
+    {
+      "nl": "dagen",
+      "en": "days",
+      "pos": "noun",
+      "article": "de",
+      "plural": "dagen",
+      "forms": null,
+      "example": {
+        "nl": "Binnen veertien dagen hebt u uw geld terug.",
+        "en": "Within fourteen days you will have your money back."
+      },
+      "note": "Plural of de dag; used in binnen veertien dagen."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik wil dit graag ruilen.",
+      "en": "I would like to exchange this.",
+      "note": "Use dit for het-words; for de-words say deze."
+    },
+    {
+      "nl": "Ik wil mijn geld terug.",
+      "en": "I want my money back.",
+      "note": "Clear and firm; graag makes it softer."
+    },
+    {
+      "nl": "Ik zou graag mijn geld terug willen.",
+      "en": "I would like my money back.",
+      "note": "Polite frame: zou ... willen."
+    },
+    {
+      "nl": "Het is de bedoeling dat u het product terugbrengt.",
+      "en": "You are supposed to return the product.",
+      "note": "Dat sends the verb to the end."
+    },
+    {
+      "nl": "U hoeft de doos niet mee te nemen.",
+      "en": "You don't need to bring the box.",
+      "note": "Hoeven ... niet te = don't need to."
+    },
+    {
+      "nl": "Ik heb het gisteren gekocht en het werkt niet meer.",
+      "en": "I bought it yesterday and it no longer works.",
+      "note": "Perfect for the action; present for the problem."
+    },
+    {
+      "nl": "Ik heb een klacht over dit product.",
+      "en": "I have a complaint about this product.",
+      "note": null
+    },
+    {
+      "nl": "Kan ik een nieuwe krijgen?",
+      "en": "Can I get a new one?",
+      "note": "Een nieuwe = a new one; krijgen = to get."
+    },
+    {
+      "nl": "Heeft u de bon nodig?",
+      "en": "Do you need the receipt?",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Polite but firm: Ik zou graag ... willen / Het is de bedoeling dat...",
+      "explanation": "Use **Ik zou graag ... willen** to make a polite request. The thing you want goes between **graag** and **willen**. For a clear, firm request you can also say **Ik wil ...**. **Het is de bedoeling dat ...** explains what the other person should do; after **dat** the verb goes to the end.",
+      "table": {
+        "headers": [
+          "Toon",
+          "Nederlands",
+          "English"
+        ],
+        "rows": [
+          [
+            "Neutraal",
+            "Ik wil dit ruilen.",
+            "I want to exchange this."
+          ],
+          [
+            "Beleefd",
+            "Ik zou dit graag willen ruilen.",
+            "I would like to exchange this."
+          ],
+          [
+            "Beleefd en duidelijk",
+            "Ik zou graag mijn geld terug willen.",
+            "I would like my money back."
+          ],
+          [
+            "Duidelijk",
+            "Ik wil mijn geld terug.",
+            "I want my money back."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik zou graag een nieuwe koptelefoon willen.",
+          "en": "I would like a new pair of headphones."
+        },
+        {
+          "nl": "Het is de bedoeling dat u de bon meeneemt.",
+          "en": "You are supposed to bring the receipt."
+        },
+        {
+          "nl": "Het is de bedoeling dat u dit formulier invult.",
+          "en": "You are supposed to fill in this form."
+        }
+      ],
+      "tip": "Zou ... willen is a polite frame, not a weak request. Put the important word graag inside it."
+    },
+    {
+      "title": "Hoeven + te: U hoeft de doos niet mee te nemen",
+      "explanation": "**Hoeven** means 'need' and is used with **niet** or **geen**: **U hoeft niet te wachten**. The infinitive goes at the end with **te**. With separable verbs the prefix comes before **te**: **mee te nemen**. If something is an obligation, use **moeten**: **U moet de doos meenemen**.",
+      "table": {
+        "headers": [
+          "Situatie",
+          "Nederlands",
+          "English"
+        ],
+        "rows": [
+          [
+            "Geen verplichting",
+            "U hoeft de doos niet mee te nemen.",
+            "You don't need to bring the box."
+          ],
+          [
+            "Geen verplichting",
+            "U hoeft niet te wachten.",
+            "You don't need to wait."
+          ],
+          [
+            "Verplichting",
+            "U moet de doos meenemen.",
+            "You must bring the box."
+          ],
+          [
+            "Geen verplichting",
+            "Ik hoef niet te betalen.",
+            "I don't need to pay."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "U hoeft niet te betalen.",
+          "en": "You don't need to pay."
+        },
+        {
+          "nl": "Wij hoeven geen nieuwe koptelefoon te kopen.",
+          "en": "We don't need to buy new headphones."
+        },
+        {
+          "nl": "U hoeft de bon niet mee te nemen.",
+          "en": "You don't need to bring the receipt."
+        }
+      ],
+      "tip": "If the sentence already has niet or geen, use hoeven, not moeten."
+    },
+    {
+      "title": "Problem descriptions with the past tense",
+      "explanation": "Use the perfect to say what you did: **Ik heb de koptelefoon vorige week gekocht**. Then describe the problem now with the present: **Hij is kapot**, **Hij werkt niet meer**. Time words such as **gisteren**, **vorige week** and **op maandag** usually come early in the sentence or before the past participle: **Ik heb de koptelefoon vorige week gekocht**.",
+      "table": {
+        "headers": [
+          "Stap",
+          "Nederlands",
+          "English"
+        ],
+        "rows": [
+          [
+            "Wat je deed",
+            "Ik heb de koptelefoon vorige week gekocht.",
+            "I bought the headphones last week."
+          ],
+          [
+            "Het probleem nu",
+            "Hij is kapot. / Hij werkt niet meer.",
+            "It is broken. / It no longer works."
+          ],
+          [
+            "Wat je wilt",
+            "Ik wil hem ruilen.",
+            "I want to exchange it."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb het product gisteren gekocht en het werkt niet meer.",
+          "en": "I bought the product yesterday and it no longer works."
+        },
+        {
+          "nl": "Ik heb de doos niet meegenomen.",
+          "en": "I did not bring the box."
+        },
+        {
+          "nl": "De koptelefoon is beschadigd. Ik heb de bon nog.",
+          "en": "The headphones are damaged. I still have the receipt."
+        }
+      ],
+      "tip": "Open with Ik heb ... gekocht; then say maar and the problem: maar hij is kapot."
+    }
+  ],
+  "dialogue": {
+    "title": "Bij de klantenservice",
+    "setting": "A customer is returning a pair of headphones that broke after a week at an electronics store.",
+    "speakers": [
+      {
+        "name": "Klant",
+        "gender": "f"
+      },
+      {
+        "name": "Medewerker",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Medewerker",
+        "nl": "Goedemiddag, kan ik u helpen?",
+        "en": "Good afternoon, can I help you?"
+      },
+      {
+        "speaker": "Klant",
+        "nl": "Ja, ik heb een klacht over deze koptelefoon. Hij is kapot.",
+        "en": "Yes, I have a complaint about these headphones. They are broken."
+      },
+      {
+        "speaker": "Medewerker",
+        "nl": "Wat is het probleem?",
+        "en": "What is the problem?"
+      },
+      {
+        "speaker": "Klant",
+        "nl": "Ik heb hem vorige week gekocht en hij werkt niet meer.",
+        "en": "I bought it last week and it no longer works."
+      },
+      {
+        "speaker": "Medewerker",
+        "nl": "Heeft u de bon?",
+        "en": "Do you have the receipt?"
+      },
+      {
+        "speaker": "Klant",
+        "nl": "Ja, hier is de kassabon. De doos heb ik ook meegenomen.",
+        "en": "Yes, here is the till receipt. I also brought the box."
+      },
+      {
+        "speaker": "Medewerker",
+        "nl": "U hoeft de doos niet mee te nemen. De koptelefoon is genoeg.",
+        "en": "You don't need to bring the box. The headphones are enough."
+      },
+      {
+        "speaker": "Klant",
+        "nl": "Kan ik hem ruilen?",
+        "en": "Can I exchange it?"
+      },
+      {
+        "speaker": "Medewerker",
+        "nl": "Ja, de garantie is een jaar. U kunt hem ruilen of uw geld terugkrijgen.",
+        "en": "Yes, the warranty is one year. You can exchange it or get your money back."
+      },
+      {
+        "speaker": "Klant",
+        "nl": "Ik zou graag mijn geld terug willen.",
+        "en": "I would like my money back."
+      },
+      {
+        "speaker": "Medewerker",
+        "nl": "Geen probleem. Het is de bedoeling dat u dit formulier invult.",
+        "en": "No problem. You are supposed to fill in this form."
+      },
+      {
+        "speaker": "Klant",
+        "nl": "Prima. En krijg ik het bedrag vandaag terug?",
+        "en": "Fine. And will I get the amount back today?"
+      },
+      {
+        "speaker": "Medewerker",
+        "nl": "Ja, binnen drie dagen staat het op uw rekening.",
+        "en": "Yes, within three days it will be in your account."
+      },
+      {
+        "speaker": "Klant",
+        "nl": "Dank u wel. Tot ziens.",
+        "en": "Thank you. Goodbye."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de koptelefoon",
+          "headphones"
+        ],
+        [
+          "de bon",
+          "receipt"
+        ],
+        [
+          "de garantie",
+          "warranty"
+        ],
+        [
+          "kapot",
+          "broken"
+        ],
+        [
+          "ruilen",
+          "to exchange"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de klacht",
+          "complaint"
+        ],
+        [
+          "de klantenservice",
+          "customer service"
+        ],
+        [
+          "de tegoedbon",
+          "voucher"
+        ],
+        [
+          "het bedrag",
+          "amount"
+        ],
+        [
+          "oplossen",
+          "to solve"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies de juiste vorm.",
+      "nl": "Ik wil dit graag ___.",
+      "options": [
+        "ruilen",
+        "ruil",
+        "geruild"
+      ],
+      "answer": 0,
+      "explain": "After wil you use the infinitive: wil ruilen."
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies het juiste woord.",
+      "nl": "U hoeft de doos niet ___ te nemen.",
+      "options": [
+        "mee",
+        "met",
+        "voor"
+      ],
+      "answer": 0,
+      "explain": "Meenemen is separable: the prefix mee goes before te."
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies de juiste vorm.",
+      "nl": "De koptelefoon is ___.",
+      "options": [
+        "kapot",
+        "kapotte",
+        "kapotter"
+      ],
+      "answer": 0,
+      "explain": "After is, an adjective has no -e: De koptelefoon is kapot."
+    },
+    {
+      "type": "article",
+      "word": "product",
+      "en": "product",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "klacht",
+      "en": "complaint",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "garantie",
+      "en": "warranty",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I would like my money back.",
+      "answer": "Ik zou graag mijn geld terug willen.",
+      "accept": [
+        "Ik zou mijn geld graag terug willen.",
+        "Graag zou ik mijn geld terug willen.",
+        "Mijn geld zou ik graag terug willen."
+      ],
+      "extra": [
+        "wilt",
+        "heb"
+      ],
+      "explain": "With zou ... willen, put the object between graag and willen: Ik zou graag mijn geld terug willen."
+    },
+    {
+      "type": "build",
+      "en": "You do not need to bring the box.",
+      "answer": "U hoeft de doos niet mee te nemen.",
+      "accept": [
+        "De doos hoeft u niet mee te nemen."
+      ],
+      "extra": [
+        "moet",
+        "hoef"
+      ],
+      "explain": "Use hoeven ... niet te + infinitive; with meenemen, the prefix mee comes before te: mee te nemen."
+    },
+    {
+      "type": "build",
+      "en": "It is intended that you fill in this form.",
+      "answer": "Het is de bedoeling dat u dit formulier invult.",
+      "accept": [],
+      "extra": [
+        "invullen",
+        "geen"
+      ],
+      "explain": "After dat, the finite verb goes to the end: dat u dit formulier invult."
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb de koptelefoon vorige week ___, maar hij is kapot.",
+      "en": "I bought the headphones last week, but they are broken.",
+      "answers": [
+        "gekocht"
+      ],
+      "hint": "kopen (perfect)",
+      "explain": "The perfect uses hebben + participle at the end; kopen becomes gekocht: Ik heb ... gekocht."
+    },
+    {
+      "type": "gap",
+      "text": "U kunt het product binnen veertien ___ terugbrengen.",
+      "en": "You can return the product within fourteen days.",
+      "answers": [
+        "dagen"
+      ],
+      "hint": "day(s)",
+      "explain": "Binnen + time expresses 'within'; the plural of dag is dagen: binnen veertien dagen."
+    },
+    {
+      "type": "gap",
+      "text": "De oplossing is een nieuwe koptelefoon of een ___.",
+      "en": "The solution is new headphones or a voucher.",
+      "answers": [
+        "tegoedbon"
+      ],
+      "hint": "voucher / store credit",
+      "explain": "Een tegoedbon is a voucher; it is a de-word: een tegoedbon."
+    },
+    {
+      "type": "translate",
+      "en": "I have a complaint about this product.",
+      "answers": [
+        "Ik heb een klacht over dit product."
+      ],
+      "focus": "klacht + over; dit with het-word",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses van instead of over with klacht (Ik heb een klacht van dit product).",
+          "explain": "A complaint about something is een klacht over + noun: 'Ik heb een klacht over dit product'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses deze with the het-word product (Ik heb een klacht over deze product).",
+          "explain": "Product is a het-word, so use dit: 'dit product'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses zijn instead of hebben with een klacht (Ik ben een klacht over dit product).",
+          "explain": "Use hebben with een klacht: 'Ik heb een klacht over dit product'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Can I exchange it?",
+      "answers": [
+        "Kan ik het ruilen?",
+        "Mag ik het ruilen?",
+        "Kan ik hem ruilen?",
+        "Mag ik hem ruilen?",
+        "Kan ik dit ruilen?",
+        "Mag ik dit ruilen?"
+      ],
+      "focus": "yes/no question; ruilen",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps statement word order in a yes/no question (Ik kan het ruilen?).",
+          "explain": "A yes/no question starts with the verb: 'Kan ik het ruilen?'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the object after the infinitive (Kan ik ruilen het?).",
+          "explain": "The object comes before the infinitive: 'Kan ik het ruilen?'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a past participle instead of the infinitive after kan (Kan ik het geruild?).",
+          "explain": "After a modal such as kan, use the infinitive: 'Kan ik het ruilen?'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "You don't need to pay.",
+      "answers": [
+        "U hoeft niet te betalen.",
+        "Je hoeft niet te betalen.",
+        "Jij hoeft niet te betalen.",
+        "U hoeft niets te betalen.",
+        "Je hoeft niets te betalen."
+      ],
+      "focus": "hoeven + niet/niets te; no moeten",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses moeten instead of hoeven (U moet niet betalen).",
+          "explain": "Niet hoeven te means 'don't need to'; moet niet means 'must not'. Say 'U hoeft niet te betalen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits te before the infinitive (U hoeft niet betalen).",
+          "explain": "After hoeven the infinitive takes te: 'U hoeft niet te betalen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Spells the infinitive without -en (U hoeft niet te betale).",
+          "explain": "The infinitive is betalen: 'U hoeft niet te betalen'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "U hoeft de bon niet mee te nemen.",
+      "en": "You don't need to bring the receipt."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik wil graag mijn geld terug.",
+      "en": "I would like my money back."
+    },
+    {
+      "type": "reply",
+      "context": "Je bent in de winkel. De medewerker zegt:",
+      "say": {
+        "nl": "Wat is het probleem?",
+        "en": "What is the problem?"
+      },
+      "task": "Explain in one or two sentences that the headphones broke after a week and that you have the receipt.",
+      "examples": [
+        "De koptelefoon ging na een week kapot. Ik heb de bon.",
+        "Na een week ging de koptelefoon kapot. Hier is de bon."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses over or voor instead of na for 'after a week' (De koptelefoon ging over een week kapot).",
+          "explain": "Na een week means 'after a week'; over een week means 'in a week'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses hebben instead of zijn or gaan with kapot (De koptelefoon heeft kapot).",
+          "explain": "Say 'De koptelefoon is kapot' or 'De koptelefoon ging kapot'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits hebben or is with the receipt (Hier de bon / Ik de bon).",
+          "explain": "Say 'Ik heb de bon' or 'Hier is de bon'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "De medewerker zegt:",
+      "say": {
+        "nl": "Wilt u ruilen of uw geld terug?",
+        "en": "Do you want to exchange it or get your money back?"
+      },
+      "task": "Say politely that you would like your money back.",
+      "examples": [
+        "Ik zou graag mijn geld terug willen.",
+        "Ik wil graag mijn geld terug."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts terug before geld (Ik wil graag terug mijn geld).",
+          "explain": "The fixed order is mijn geld terug: 'Ik wil graag mijn geld terug'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses wilt after zou (Ik zou graag mijn geld terug wilt).",
+          "explain": "After zou, use the infinitive willen: 'Ik zou graag mijn geld terug willen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses wil after zou instead of willen (Ik zou graag mijn geld terug wil).",
+          "explain": "The polite frame is zou ... willen: 'Ik zou graag mijn geld terug willen'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "De medewerker zegt:",
+      "say": {
+        "nl": "Het is de bedoeling dat u dit formulier invult.",
+        "en": "You are supposed to fill in this form."
+      },
+      "task": "Ask when you will receive the amount and say thank you.",
+      "examples": [
+        "Wanneer krijg ik het bedrag terug? Dank u wel.",
+        "Krijg ik het bedrag binnen drie dagen terug? Dank u wel."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps statement word order after wanneer (Wanneer ik krijg het bedrag terug?).",
+          "explain": "In a question the verb comes before the subject: 'Wanneer krijg ik het bedrag terug?'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Places terug before the object (Wanneer krijg ik terug het bedrag?).",
+          "explain": "Say het bedrag terug together: 'Wanneer krijg ik het bedrag terug?'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits terug with money (Wanneer krijg ik het bedrag?).",
+          "explain": "With money, use terugkrijgen or het bedrag terug: 'het bedrag terug'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Ik wil dit ruilen",
+    "setting": "You are at the customer service desk of an electronics store. You are returning a pair of headphones that broke after one week.",
+    "partner": {
+      "name": "Medewerker",
+      "gender": "m",
+      "role": "customer service employee at the electronics store"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag, kan ik u helpen?",
+          "en": "Good afternoon, can I help you?"
+        },
+        "task": "Greet the employee and say that you have a complaint about the headphones.",
+        "examples": [
+          "Goedemiddag. Ik heb een klacht over deze koptelefoon.",
+          "Hallo, ik heb een klacht over deze koptelefoon."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses van or voor instead of over with klacht (Ik heb een klacht van deze koptelefoon).",
+            "explain": "Say een klacht over + noun: 'een klacht over deze koptelefoon'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits een before klacht (Ik heb klacht over deze koptelefoon).",
+            "explain": "Klacht is a de-word and needs een: 'een klacht'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses dit with the de-word koptelefoon (Ik heb een klacht over dit koptelefoon).",
+            "explain": "Koptelefoon is a de-word, so use deze: 'deze koptelefoon'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is het probleem?",
+          "en": "What is the problem?"
+        },
+        "task": "Explain that you bought the headphones last week and that they no longer work. Say that you have the receipt.",
+        "examples": [
+          "Ik heb hem vorige week gekocht en hij werkt niet meer. Hier is de bon.",
+          "Ik heb de koptelefoon vorige week gekocht. Hij is kapot. Ik heb de kassabon."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the infinitive instead of the past participle (Ik heb hem vorige week kopen).",
+            "explain": "The perfect needs gekocht: 'Ik heb hem vorige week gekocht'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses zijn instead of hebben with kopen (Ik ben hem vorige week gekocht).",
+            "explain": "Kopen takes hebben: 'Ik heb hem vorige week gekocht'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses is + infinitive for the problem (Hij is niet werken).",
+            "explain": "Say hij werkt niet meer or hij is kapot, not 'hij is niet werken'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wilt u ruilen of uw geld terug?",
+          "en": "Do you want to exchange it or get your money back?"
+        },
+        "task": "Say politely but firmly that you would like your money back.",
+        "examples": [
+          "Ik zou graag mijn geld terug willen.",
+          "Ik wil graag mijn geld terug, alstublieft."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts terug before geld (Ik wil graag terug mijn geld).",
+            "explain": "The fixed order is mijn geld terug: 'Ik wil graag mijn geld terug'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses wilt after zou (Ik zou graag mijn geld terug wilt).",
+            "explain": "After zou, use willen: 'Ik zou graag mijn geld terug willen'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses both wil and willen in the same request (Ik wil mijn geld terug willen).",
+            "explain": "Use either 'Ik wil mijn geld terug' or the polite 'Ik zou graag mijn geld terug willen'; do not use both wil and willen."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Geen probleem. Het is de bedoeling dat u dit formulier invult.",
+          "en": "No problem. You are supposed to fill in this form."
+        },
+        "task": "Ask when you will receive the amount and say thank you.",
+        "examples": [
+          "Wanneer krijg ik het bedrag terug? Dank u wel.",
+          "Krijg ik het bedrag binnen drie dagen terug? Dank u wel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps statement word order after wanneer (Wanneer ik krijg het bedrag terug?).",
+            "explain": "In a question the verb comes before the subject: 'Wanneer krijg ik het bedrag terug?'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Places terug before the object (Wanneer krijg ik terug het bedrag?).",
+            "explain": "Say het bedrag terug together: 'Wanneer krijg ik het bedrag terug?'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits terug with money (Wanneer krijg ik het bedrag?).",
+            "explain": "With money, use terugkrijgen or het bedrag terug: 'het bedrag terug'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Ja, binnen drie dagen staat het op uw rekening. Tot ziens!",
+      "en": "Yes, within three days it will be in your account. Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Returns in the EU",
+    "text": "If you buy something online in the EU, you usually have 14 days to change your mind and return it without giving a reason. In the Netherlands this is called the herroepingsrecht or bedenktijd. There are exceptions, for example custom-made products, perishable food and opened hygiene products. Return costs are not automatically refunded unless the shop says so."
+  },
+  "summary": [
+    "Use Ik zou graag ... willen to stay polite when you make a firm request.",
+    "Het is de bedoeling dat + subject + verb at the end explains what the other person should do.",
+    "Hoeven ... niet te means you don't need to do something; moeten means you must.",
+    "Describe the problem with the perfect: Ik heb het vorige week gekocht en het werkt niet meer.",
+    "Keep your bon and know your garantie; ask for ruilen, terugbrengen or uw geld terug."
+  ]
+}

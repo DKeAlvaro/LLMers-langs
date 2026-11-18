@@ -1,0 +1,1056 @@
+{
+  "id": "u08-l02",
+  "title": "Ik solliciteer",
+  "subtitle": "Applying for a job",
+  "level": "A2",
+  "intro": "In this lesson you learn how to apply for a job in Dutch. You will talk about your experience and skills, answer simple interview questions, and say how long you have done something. You will also practise the difference between 'Ik werk al...' and 'Ik heb ... gewerkt'.",
+  "words": [
+    {
+      "nl": "solliciteren",
+      "en": "to apply (for a job)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik solliciteer, jij solliciteert, wij solliciteren (heeft gesolliciteerd)",
+      "example": {
+        "nl": "Ik solliciteer bij het café.",
+        "en": "I am applying at the café."
+      },
+      "note": "Use solliciteren naar een baan; use bij for the company."
+    },
+    {
+      "nl": "sollicitatie",
+      "en": "the application (for a job)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de sollicitaties",
+      "forms": null,
+      "example": {
+        "nl": "Mijn sollicitatie is klaar.",
+        "en": "My application is ready."
+      },
+      "note": null
+    },
+    {
+      "nl": "sollicitatiegesprek",
+      "en": "the job interview",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de sollicitatiegesprekken",
+      "forms": null,
+      "example": {
+        "nl": "Het sollicitatiegesprek is morgen.",
+        "en": "The job interview is tomorrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "vacature",
+      "en": "the vacancy, job opening",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vacatures",
+      "forms": null,
+      "example": {
+        "nl": "De vacature is voor een kok.",
+        "en": "The vacancy is for a cook."
+      },
+      "note": null
+    },
+    {
+      "nl": "cv",
+      "en": "the CV, résumé",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de cv's",
+      "forms": null,
+      "example": {
+        "nl": "Mijn cv is klaar.",
+        "en": "My CV is ready."
+      },
+      "note": null
+    },
+    {
+      "nl": "ervaring",
+      "en": "the experience",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de ervaringen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb veel ervaring.",
+        "en": "I have a lot of experience."
+      },
+      "note": null
+    },
+    {
+      "nl": "opleiding",
+      "en": "the education, training",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de opleidingen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn opleiding is klaar.",
+        "en": "My education is finished."
+      },
+      "note": null
+    },
+    {
+      "nl": "diploma",
+      "en": "the diploma, certificate",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de diploma's",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een diploma.",
+        "en": "I have a diploma."
+      },
+      "note": null
+    },
+    {
+      "nl": "cursus",
+      "en": "the course",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de cursussen",
+      "forms": null,
+      "example": {
+        "nl": "De cursus is in het weekend.",
+        "en": "The course is in the weekend."
+      },
+      "note": null
+    },
+    {
+      "nl": "vaardigheid",
+      "en": "the skill",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vaardigheden",
+      "forms": null,
+      "example": {
+        "nl": "Deze vaardigheid is belangrijk.",
+        "en": "This skill is important."
+      },
+      "note": null
+    },
+    {
+      "nl": "contract",
+      "en": "the contract",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de contracten",
+      "forms": null,
+      "example": {
+        "nl": "Het contract is klaar.",
+        "en": "The contract is ready."
+      },
+      "note": null
+    },
+    {
+      "nl": "proeftijd",
+      "en": "the probation period",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de proeftijden",
+      "forms": null,
+      "example": {
+        "nl": "De proeftijd is kort.",
+        "en": "The probation period is short."
+      },
+      "note": null
+    },
+    {
+      "nl": "aannemen",
+      "en": "to hire, to take on",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik neem aan, jij neemt aan, wij nemen aan (heeft aangenomen)",
+      "example": {
+        "nl": "De baas neemt mij aan.",
+        "en": "The boss is hiring me."
+      },
+      "note": "Separable: neem ... aan."
+    },
+    {
+      "nl": "ontslaan",
+      "en": "to dismiss, to fire",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ontsla, jij ontslaat, wij ontslaan (heeft ontslagen)",
+      "example": {
+        "nl": "De baas ontslaat de werknemer.",
+        "en": "The boss is dismissing the employee."
+      },
+      "note": "Opposite: aannemen."
+    },
+    {
+      "nl": "werkgever",
+      "en": "the employer",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de werkgevers",
+      "forms": null,
+      "example": {
+        "nl": "De werkgever belt mij.",
+        "en": "The employer is calling me."
+      },
+      "note": null
+    },
+    {
+      "nl": "werknemer",
+      "en": "the employee",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de werknemers",
+      "forms": null,
+      "example": {
+        "nl": "De werknemer werkt fulltime.",
+        "en": "The employee works full-time."
+      },
+      "note": null
+    },
+    {
+      "nl": "sterk",
+      "en": "strong",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "sterk, sterke, sterker, het sterkst",
+      "example": {
+        "nl": "Ik ben sterk.",
+        "en": "I am strong."
+      },
+      "note": null
+    },
+    {
+      "nl": "zwak",
+      "en": "weak",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "zwak, zwakke, zwakker, het zwakst",
+      "example": {
+        "nl": "Mijn Engels is zwak.",
+        "en": "My English is weak."
+      },
+      "note": null
+    },
+    {
+      "nl": "flexibel",
+      "en": "flexible",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "flexibel, flexibele, flexibeler, het flexibelst",
+      "example": {
+        "nl": "Ik ben flexibel.",
+        "en": "I am flexible."
+      },
+      "note": "Before a de-word: een flexibele werknemer."
+    },
+    {
+      "nl": "zelfstandig",
+      "en": "independent, independently",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "zelfstandig, zelfstandige, zelfstandiger, het zelfstandigst",
+      "example": {
+        "nl": "Ik werk zelfstandig.",
+        "en": "I work independently."
+      },
+      "note": "Also an adjective: een zelfstandige werknemer."
+    },
+    {
+      "nl": "team",
+      "en": "the team",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de teams",
+      "forms": null,
+      "example": {
+        "nl": "Ons team is klein.",
+        "en": "Our team is small."
+      },
+      "note": null
+    },
+    {
+      "nl": "samenwerken",
+      "en": "to work together, to collaborate",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik werk samen, jij werkt samen, wij werken samen (heeft samengewerkt)",
+      "example": {
+        "nl": "Wij werken goed samen.",
+        "en": "We work well together."
+      },
+      "note": "Separable: wij werken samen."
+    },
+    {
+      "nl": "plannen",
+      "en": "to plan",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik plan, jij plant, wij plannen (heeft gepland)",
+      "example": {
+        "nl": "Ik kan goed plannen.",
+        "en": "I can plan well."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik solliciteer naar de vacature.",
+      "en": "I am applying for the vacancy.",
+      "note": "Use naar with the job."
+    },
+    {
+      "nl": "Ik heb een sollicitatiegesprek.",
+      "en": "I have a job interview.",
+      "note": null
+    },
+    {
+      "nl": "Ik heb drie jaar ervaring.",
+      "en": "I have three years of experience.",
+      "note": "Duration comes before ervaring."
+    },
+    {
+      "nl": "Ik heb drie jaar in een restaurant gewerkt.",
+      "en": "I have worked in a restaurant for three years.",
+      "note": "Perfect: heb + duration + ... + gewerkt."
+    },
+    {
+      "nl": "Ik werk al vijf jaar in een café.",
+      "en": "I have been working in a café for five years.",
+      "note": "Present + al = still true now."
+    },
+    {
+      "nl": "Ik kan goed samenwerken.",
+      "en": "I can work well in a team.",
+      "note": "Kunnen + infinitive at the end."
+    },
+    {
+      "nl": "Ik ben flexibel en zelfstandig.",
+      "en": "I am flexible and independent.",
+      "note": null
+    },
+    {
+      "nl": "Hoe lang werkt u al in het café?",
+      "en": "How long have you been working in the café?",
+      "note": "Formal u; answer with al + duration."
+    },
+    {
+      "nl": "Wat is het salaris?",
+      "en": "What is the salary?",
+      "note": "Normal to ask in a Dutch interview."
+    },
+    {
+      "nl": "Ik zoek een parttime baan.",
+      "en": "I am looking for a part-time job.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Duration with al: Ik werk al vijf jaar als kok",
+      "explanation": "Use the present tense with **al** when something started in the past and is still true now. Put **al** before the duration: **Ik werk al vijf jaar als kok.** The question is **Hoe lang ... al?**: **Hoe lang werk je al als kok?** In this lesson, use the present with **al** for a situation that is still going on.",
+      "table": {
+        "headers": [
+          "Question",
+          "Answer"
+        ],
+        "rows": [
+          [
+            "Hoe lang werk je hier?",
+            "Ik werk hier al drie jaar."
+          ],
+          [
+            "Hoe lang woont u in Utrecht?",
+            "Ik woon al tien jaar in Utrecht."
+          ],
+          [
+            "Hoe lang werkt hij bij het café?",
+            "Hij werkt al twee jaar bij het café."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik werk al drie jaar in dit café.",
+          "en": "I have been working in this café for three years."
+        },
+        {
+          "nl": "Hoe lang woont u in Utrecht?",
+          "en": "How long have you lived in Utrecht?"
+        },
+        {
+          "nl": "Zij werkt al vijf jaar als kok.",
+          "en": "She has been working as a cook for five years."
+        }
+      ],
+      "tip": "Still true now? Use present + al."
+    },
+    {
+      "title": "Perfect with duration: Ik heb drie jaar in Utrecht gewerkt",
+      "explanation": "Use **hebben** + a duration + the past participle at the end to talk about experience or a finished period. **Ik heb drie jaar in Utrecht gewerkt.** The participle stays at the end: **gewerkt**. You can also use the perfect without a duration for experience: **Ik heb in een restaurant gewerkt.**",
+      "table": {
+        "headers": [
+          "Sentence",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "Ik heb drie jaar in Utrecht gewerkt.",
+            "I worked in Utrecht for three years."
+          ],
+          [
+            "Hij heeft twee jaar in een café gewerkt.",
+            "He worked in a café for two years."
+          ],
+          [
+            "Wij hebben een jaar in het restaurant gewerkt.",
+            "We worked in the restaurant for a year."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb drie jaar in Utrecht gewerkt.",
+          "en": "I worked in Utrecht for three years."
+        },
+        {
+          "nl": "Hij heeft twee jaar in een restaurant gewerkt.",
+          "en": "He worked in a restaurant for two years."
+        },
+        {
+          "nl": "Wij hebben een jaar in het café gewerkt.",
+          "en": "We worked in the café for a year."
+        }
+      ],
+      "tip": "Still going on? Present + al. Finished or experience? Perfect + duration."
+    },
+    {
+      "title": "Kunnen for skills: Ik kan goed plannen",
+      "explanation": "Use **kunnen** + infinitive at the end to talk about skills. **Ik kan goed plannen.** Put **goed** or **niet goed** before the infinitive: **Ik kan niet goed koken.** Forms: **ik kan, jij kunt, u kunt, hij kan, wij kunnen.**",
+      "table": {
+        "headers": [
+          "Person",
+          "Form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "kan",
+            "Ik kan goed plannen."
+          ],
+          [
+            "jij",
+            "kunt",
+            "Jij kunt goed samenwerken."
+          ],
+          [
+            "u",
+            "kunt",
+            "Kunt u goed plannen?"
+          ],
+          [
+            "hij/zij",
+            "kan",
+            "Zij kan zelfstandig werken."
+          ],
+          [
+            "wij",
+            "kunnen",
+            "Wij kunnen goed samenwerken."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik kan goed plannen.",
+          "en": "I can plan well."
+        },
+        {
+          "nl": "Kunt u goed met kinderen werken?",
+          "en": "Can you work well with children?"
+        },
+        {
+          "nl": "Wij kunnen goed samenwerken.",
+          "en": "We can work well together."
+        }
+      ],
+      "tip": "The second verb goes to the end: Ik kan goed plannen."
+    }
+  ],
+  "dialogue": {
+    "title": "Het sollicitatiegesprek",
+    "setting": "Mehmet applies for a part-time job at café De Hoek.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mehmet",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemorgen. Solliciteert u naar de vacature in ons café?",
+        "en": "Good morning. Are you applying for the vacancy in our café?"
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Ja, goedemorgen. Ik zoek een parttime baan.",
+        "en": "Yes, good morning. I am looking for a part-time job."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Mooi. Wat is uw ervaring?",
+        "en": "Good. What is your experience?"
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Ik werk al drie jaar in een restaurant.",
+        "en": "I have been working in a restaurant for three years."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En wat is uw opleiding?",
+        "en": "And what is your education?"
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Ik heb een diploma. En ik heb een cursus koken gedaan.",
+        "en": "I have a diploma. And I have done a cooking course."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Kunt u goed samenwerken?",
+        "en": "Can you work well in a team?"
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Ja, ik kan goed in een team werken. Ik ben flexibel en zelfstandig.",
+        "en": "Yes, I can work well in a team. I am flexible and independent."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hoe lang wilt u hier werken?",
+        "en": "How long do you want to work here?"
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Ik kan tot september werken. Daarna heb ik school.",
+        "en": "I can work until September. After that I have school."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed. Het contract is voor zes weken. De proeftijd is kort.",
+        "en": "Good. The contract is for six weeks. The probation period is short."
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Dat is goed. Ik heb nog een vraag: wat is het salaris?",
+        "en": "That is good. I have one more question: what is the salary?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "We betalen twaalf euro per uur. Is dat goed?",
+        "en": "We pay twelve euros per hour. Is that good?"
+      },
+      {
+        "speaker": "Mehmet",
+        "nl": "Ja, dat is goed. Dank u wel. Tot morgen!",
+        "en": "Yes, that is good. Thank you. See you tomorrow!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "solliciteren",
+          "to apply"
+        ],
+        [
+          "de vacature",
+          "the vacancy"
+        ],
+        [
+          "het cv",
+          "the CV"
+        ],
+        [
+          "de ervaring",
+          "the experience"
+        ],
+        [
+          "de opleiding",
+          "the education"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het diploma",
+          "the diploma"
+        ],
+        [
+          "de cursus",
+          "the course"
+        ],
+        [
+          "de vaardigheid",
+          "the skill"
+        ],
+        [
+          "het contract",
+          "the contract"
+        ],
+        [
+          "de proeftijd",
+          "the probation period"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de werkgever",
+          "the employer"
+        ],
+        [
+          "de werknemer",
+          "the employee"
+        ],
+        [
+          "sterk",
+          "strong"
+        ],
+        [
+          "flexibel",
+          "flexible"
+        ],
+        [
+          "zelfstandig",
+          "independent"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence says that you still work there?",
+      "nl": null,
+      "options": [
+        "Ik werk al drie jaar in het café.",
+        "Ik heb drie jaar in het café gewerkt.",
+        "Ik ga drie jaar in het café werken."
+      ],
+      "answer": 0,
+      "explain": "Present + al shows that the situation is still true now."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form for 'wij'.",
+      "nl": "Wij ___ goed samenwerken.",
+      "options": [
+        "kunnen",
+        "kan",
+        "kunt"
+      ],
+      "answer": 0,
+      "explain": "With wij, use kunnen: 'Wij kunnen goed samenwerken.'"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means the period when the employer can still end the contract?",
+      "nl": null,
+      "options": [
+        "de proeftijd",
+        "de vacature",
+        "de opleiding"
+      ],
+      "answer": 0,
+      "explain": "De proeftijd is the probation period at the start of a job."
+    },
+    {
+      "type": "article",
+      "word": "vacature",
+      "en": "the vacancy",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "contract",
+      "en": "the contract",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I have three years of experience.",
+      "answer": "Ik heb drie jaar ervaring.",
+      "accept": [],
+      "extra": [
+        "ben"
+      ],
+      "explain": "Use hebben + duration + ervaring: 'Ik heb drie jaar ervaring.'"
+    },
+    {
+      "type": "build",
+      "en": "I have worked in Utrecht for three years.",
+      "answer": "Ik heb drie jaar in Utrecht gewerkt.",
+      "accept": [
+        "Ik heb in Utrecht drie jaar gewerkt."
+      ],
+      "extra": [
+        "werk"
+      ],
+      "explain": "Use hebben + duration + place + past participle: 'Ik heb drie jaar in Utrecht gewerkt.'"
+    },
+    {
+      "type": "build",
+      "en": "She can work independently.",
+      "answer": "Zij kan zelfstandig werken.",
+      "accept": [],
+      "extra": [
+        "werkt"
+      ],
+      "explain": "Use kan + infinitive at the end: 'Zij kan zelfstandig werken.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik werk ___ vijf jaar in dit café.",
+      "en": "I have been working in this café for five years.",
+      "answers": [
+        "al"
+      ],
+      "hint": "already / for (duration)",
+      "explain": "Use al before the duration to show the situation is still true: 'Ik werk al vijf jaar in dit café.'"
+    },
+    {
+      "type": "gap",
+      "text": "Hij heeft twee jaar in Utrecht ___.",
+      "en": "He lived in Utrecht for two years.",
+      "answers": [
+        "gewoond"
+      ],
+      "hint": "wonen - perfect",
+      "explain": "After hebben, use the past participle at the end: wonen -> gewoond."
+    },
+    {
+      "type": "gap",
+      "text": "Wij ___ goed samenwerken.",
+      "en": "We can work well together.",
+      "answers": [
+        "kunnen"
+      ],
+      "hint": "kunnen - wij",
+      "explain": "With wij, use kunnen; the infinitive samenwerken stays at the end: 'Wij kunnen goed samenwerken.'"
+    },
+    {
+      "type": "translate",
+      "en": "I have three years of experience.",
+      "answers": [
+        "Ik heb drie jaar ervaring.",
+        "Ik heb al drie jaar ervaring."
+      ],
+      "focus": "ervaring + duration",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses zijn instead of hebben: 'Ik ben drie jaar ervaring.'",
+          "explain": "Experience is something you have: use hebben: 'Ik heb drie jaar ervaring.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the duration after ervaring: 'Ik heb ervaring drie jaar.'",
+          "explain": "Put the duration before ervaring: 'Ik heb drie jaar ervaring.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the plural ervaringen with a duration: 'Ik heb drie jaar ervaringen.'",
+          "explain": "Use singular ervaring here: 'Ik heb drie jaar ervaring.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I have worked for three years in a restaurant.",
+      "answers": [
+        "Ik heb drie jaar in een restaurant gewerkt.",
+        "Ik heb in een restaurant drie jaar gewerkt."
+      ],
+      "focus": "perfect tense with duration",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses zijn instead of hebben: 'Ik ben drie jaar in een restaurant gewerkt.'",
+          "explain": "Use hebben with gewerkt: 'Ik heb drie jaar in een restaurant gewerkt.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive instead of the participle: 'Ik heb drie jaar in een restaurant werken.'",
+          "explain": "After hebben, use the past participle: werken -> gewerkt: 'Ik heb ... gewerkt.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Forgets hebben: 'Ik drie jaar in een restaurant gewerkt.'",
+          "explain": "Start with 'Ik heb': 'Ik heb drie jaar in een restaurant gewerkt.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "She can plan well and work independently.",
+      "answers": [
+        "Zij kan goed plannen en zelfstandig werken.",
+        "Ze kan goed plannen en zelfstandig werken."
+      ],
+      "focus": "kunnen + infinitives",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses conjugated verbs after kan instead of infinitives: 'Zij kan goed plant en zelfstandig werkt.'",
+          "explain": "After kan, use the infinitives plannen and werken: 'Zij kan goed plannen en zelfstandig werken.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts zelfstandig after werken: 'Zij kan goed plannen en werken zelfstandig.'",
+          "explain": "Put zelfstandig before the infinitive werken: '... en zelfstandig werken.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out kan and uses present forms: 'Zij plant goed en werkt zelfstandig.'",
+          "explain": "For 'can', use kan + infinitive: 'Zij kan goed plannen en zelfstandig werken.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik solliciteer naar de vacature.",
+      "en": "I am applying for the vacancy."
+    },
+    {
+      "type": "listen",
+      "nl": "De proeftijd is twee weken.",
+      "en": "The probation period is two weeks."
+    },
+    {
+      "type": "reply",
+      "context": "You are at a job interview for a part-time job in a café. The manager asks about your experience.",
+      "say": {
+        "nl": "Wat is uw ervaring?",
+        "en": "What is your experience?"
+      },
+      "task": "Say that you have worked in a restaurant for two years.",
+      "examples": [
+        "Ik heb twee jaar in een restaurant gewerkt.",
+        "Ik heb twee jaar in een restaurant gewerkt, als kok."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses zijn instead of hebben: 'Ik ben twee jaar in een restaurant gewerkt.'",
+          "explain": "Use hebben with gewerkt: 'Ik heb twee jaar in een restaurant gewerkt.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive instead of the participle: 'Ik heb twee jaar in een restaurant werken.'",
+          "explain": "After hebben, use the past participle: werken -> gewerkt: 'Ik heb ... gewerkt.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the duration after the participle: 'Ik heb in een restaurant gewerkt twee jaar.'",
+          "explain": "Put the duration before the place and the participle: 'Ik heb twee jaar in een restaurant gewerkt.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The manager asks how long you can work there.",
+      "say": {
+        "nl": "Hoe lang kunt u hier werken?",
+        "en": "How long can you work here?"
+      },
+      "task": "Say that you can work until September.",
+      "examples": [
+        "Ik kan tot september werken.",
+        "Ik kan hier tot september werken.",
+        "Tot september kan ik werken."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses moet instead of kan: 'Ik moet tot september werken.'",
+          "explain": "For ability or possibility, use kan: 'Ik kan tot september werken.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Forgets kan: 'Ik tot september werken.'",
+          "explain": "Use kan + infinitive: 'Ik kan tot september werken.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses naar instead of tot: 'Ik kan naar september werken.'",
+          "explain": "Use tot for 'until': 'Ik kan tot september werken.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Sollicitatiegesprek in een café",
+    "setting": "You are applying for a part-time job at a café. Sanne is the manager and asks you about your experience and skills.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "manager at the café"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen. Solliciteert u naar de vacature in ons café?",
+          "en": "Good morning. Are you applying for the vacancy in our café?"
+        },
+        "task": "Say yes and say that you are looking for a part-time job.",
+        "examples": [
+          "Ja, goedemorgen. Ik zoek een parttime baan.",
+          "Ja. Ik zoek een parttime baan in een café.",
+          "Goedemorgen. Ja, ik zoek een parttime baan."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses zoekt with ik: 'Ik zoekt een parttime baan.'",
+            "explain": "With ik, use zoek without -t: 'Ik zoek een parttime baan.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses fulltime instead of parttime: 'Ik zoek een fulltime baan.'",
+            "explain": "Part-time is parttime: 'Ik zoek een parttime baan.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets een: 'Ik zoek parttime baan.'",
+            "explain": "Use een before the job: 'een parttime baan'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is uw ervaring?",
+          "en": "What is your experience?"
+        },
+        "task": "Talk about your experience. Say how long you have worked in a restaurant.",
+        "examples": [
+          "Ik heb twee jaar in een restaurant gewerkt.",
+          "Ik heb drie jaar in een restaurant gewerkt.",
+          "Ik werk al twee jaar in een restaurant."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses zijn instead of hebben: 'Ik ben twee jaar in een restaurant gewerkt.'",
+            "explain": "Use hebben with gewerkt: 'Ik heb twee jaar in een restaurant gewerkt.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses present without al for finished experience: 'Ik werk twee jaar in een restaurant.'",
+            "explain": "For finished experience, use heb + participle: 'Ik heb twee jaar in een restaurant gewerkt.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the participle before the duration: 'Ik heb gewerkt twee jaar in een restaurant.'",
+            "explain": "Put the duration before the place and the participle: 'Ik heb twee jaar in een restaurant gewerkt.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Kunt u goed samenwerken?",
+          "en": "Can you work well in a team?"
+        },
+        "task": "Say yes, you work well in a team and you are flexible.",
+        "examples": [
+          "Ja, ik werk goed in een team. Ik ben flexibel.",
+          "Ja, ik kan goed samenwerken. Ik ben flexibel en zelfstandig.",
+          "Ja, ik werk graag in een team. Ik ben flexibel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses werkt instead of werk with ik: 'Ja, ik werkt goed in een team.'",
+            "explain": "With ik, use werk without -t: 'Ik werk goed in een team.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses hebben with an adjective: 'Ik heb flexibel.'",
+            "explain": "Use zijn for adjectives: 'Ik ben flexibel.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets ben: 'Ik flexibel.'",
+            "explain": "Use ben before the adjective: 'Ik ben flexibel.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Hoe lang kunt u hier werken?",
+          "en": "How long can you work here?"
+        },
+        "task": "Say you can work until September, and then you have school.",
+        "examples": [
+          "Ik kan tot september werken. Daarna heb ik school.",
+          "Tot september kan ik werken. Daarna heb ik school.",
+          "Ik kan hier tot september werken. Daarna heb ik school."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses moet instead of kan: 'Ik moet tot september werken.'",
+            "explain": "For ability or possibility, use kan: 'Ik kan tot september werken.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses naar instead of tot: 'Ik kan naar september werken.'",
+            "explain": "Use tot for 'until': 'Ik kan tot september werken.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the verb after the subject after daarna: 'Daarna ik heb school.'",
+            "explain": "After daarna, the verb comes second: 'Daarna heb ik school.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Mooi. De werkgever belt u morgen. Tot morgen!",
+      "en": "Great. The employer will call you tomorrow. See you tomorrow!"
+    }
+  },
+  "culture": {
+    "title": "Solliciteren in Nederland",
+    "text": "Job interviews in the Netherlands are often fairly informal, even when the company itself is formal. People usually use first names and speak directly about experience, availability and skills. It is normal to ask about salary, working hours and the contract during the interview. A short probation period (proeftijd) is common at the start of a new job."
+  },
+  "summary": [
+    "Use al + present for a situation that is still going on: Ik werk al drie jaar in een café.",
+    "Use the perfect with a duration for experience or a finished period: Ik heb drie jaar in Utrecht gewerkt.",
+    "Use kunnen + infinitive at the end for skills: Ik kan goed plannen.",
+    "Useful interview chunks: Ik solliciteer naar de vacature; Ik heb ervaring; Wat is het salaris?"
+  ]
+}

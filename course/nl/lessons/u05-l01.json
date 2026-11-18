@@ -1,0 +1,1168 @@
+{
+  "id": "u05-l01",
+  "title": "Mijn hobby's",
+  "subtitle": "Hobbies and preferences",
+  "level": "A1",
+  "intro": "In this lesson you learn to talk about your hobbies and free time. You will say what you like, prefer and like most, and you will ask how often someone does something. You will also practise the words you need to join a club or club activity.",
+  "words": [
+    {
+      "nl": "hobby",
+      "en": "hobby",
+      "pos": "noun",
+      "article": "de",
+      "plural": "hobby's",
+      "forms": null,
+      "example": {
+        "nl": "Mijn hobby is lezen.",
+        "en": "My hobby is reading."
+      },
+      "note": null
+    },
+    {
+      "nl": "vrije tijd",
+      "en": "free time",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In mijn vrije tijd lees ik graag.",
+        "en": "In my free time I like to read."
+      },
+      "note": "Uncountable; there is no plural."
+    },
+    {
+      "nl": "weekend",
+      "en": "weekend",
+      "pos": "noun",
+      "article": "het",
+      "plural": "weekends",
+      "forms": null,
+      "example": {
+        "nl": "In het weekend sport ik.",
+        "en": "At the weekend I exercise."
+      },
+      "note": null
+    },
+    {
+      "nl": "lezen",
+      "en": "to read",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik lees, jij leest, wij lezen",
+      "example": {
+        "nl": "Ik lees een boek.",
+        "en": "I am reading a book."
+      },
+      "note": null
+    },
+    {
+      "nl": "zwemmen",
+      "en": "to swim",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zwem, jij zwemt, wij zwemmen",
+      "example": {
+        "nl": "Ik zwem elke dag.",
+        "en": "I swim every day."
+      },
+      "note": "Double m in the infinitive, but ik zwem has one m."
+    },
+    {
+      "nl": "sporten",
+      "en": "to exercise, to do sports",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik sport, jij sport, wij sporten",
+      "example": {
+        "nl": "Ik sport twee keer per week.",
+        "en": "I exercise twice a week."
+      },
+      "note": null
+    },
+    {
+      "nl": "voetballen",
+      "en": "to play football",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik voetbal, jij voetbalt, wij voetballen",
+      "example": {
+        "nl": "De kinderen voetballen in de tuin.",
+        "en": "The children are playing football in the garden."
+      },
+      "note": null
+    },
+    {
+      "nl": "hardlopen",
+      "en": "to run, to jog",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik hardloop, jij hardloopt, wij hardlopen",
+      "example": {
+        "nl": "Ik hardloop in het park.",
+        "en": "I run in the park."
+      },
+      "note": null
+    },
+    {
+      "nl": "wandelen",
+      "en": "to walk, to hike",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik wandel, jij wandelt, wij wandelen",
+      "example": {
+        "nl": "Wij wandelen in het weekend.",
+        "en": "We walk at the weekend."
+      },
+      "note": null
+    },
+    {
+      "nl": "dansen",
+      "en": "to dance",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik dans, jij danst, wij dansen",
+      "example": {
+        "nl": "Zij danst graag.",
+        "en": "She likes dancing."
+      },
+      "note": null
+    },
+    {
+      "nl": "zingen",
+      "en": "to sing",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zing, jij zingt, wij zingen",
+      "example": {
+        "nl": "Zij zingt altijd.",
+        "en": "She always sings."
+      },
+      "note": null
+    },
+    {
+      "nl": "schilderen",
+      "en": "to paint",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik schilder, jij schildert, wij schilderen",
+      "example": {
+        "nl": "Ik schilder een huis.",
+        "en": "I am painting a house."
+      },
+      "note": null
+    },
+    {
+      "nl": "gamen",
+      "en": "to game, to play video games",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik game, jij gamet, wij gamen",
+      "example": {
+        "nl": "Hij gamet elke dag.",
+        "en": "He games every day."
+      },
+      "note": "From English 'game'; common in Dutch."
+    },
+    {
+      "nl": "tekenen",
+      "en": "to draw",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik teken, jij tekent, wij tekenen",
+      "example": {
+        "nl": "Zij tekent een hond.",
+        "en": "She is drawing a dog."
+      },
+      "note": "tekenen = to draw; 'to sign' is ondertekenen."
+    },
+    {
+      "nl": "luisteren",
+      "en": "to listen",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik luister, jij luistert, wij luisteren",
+      "example": {
+        "nl": "Ik luister elke dag naar muziek.",
+        "en": "I listen to music every day."
+      },
+      "note": "Use **naar** before the thing you listen to: luisteren naar muziek."
+    },
+    {
+      "nl": "naar muziek luisteren",
+      "en": "to listen to music",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik luister graag naar muziek.",
+        "en": "I like listening to music."
+      },
+      "note": "The verb is **luisteren**; use **naar** before the thing you listen to."
+    },
+    {
+      "nl": "muziek",
+      "en": "music",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik hou van muziek.",
+        "en": "I love music."
+      },
+      "note": "Uncountable; there is no plural."
+    },
+    {
+      "nl": "film",
+      "en": "film, movie",
+      "pos": "noun",
+      "article": "de",
+      "plural": "films",
+      "forms": null,
+      "example": {
+        "nl": "De film is leuk.",
+        "en": "The film is nice."
+      },
+      "note": null
+    },
+    {
+      "nl": "boek",
+      "en": "book",
+      "pos": "noun",
+      "article": "het",
+      "plural": "boeken",
+      "forms": null,
+      "example": {
+        "nl": "Het boek is nieuw.",
+        "en": "The book is new."
+      },
+      "note": null
+    },
+    {
+      "nl": "spel",
+      "en": "game",
+      "pos": "noun",
+      "article": "het",
+      "plural": "spellen",
+      "forms": null,
+      "example": {
+        "nl": "Het spel is leuk.",
+        "en": "The game is fun."
+      },
+      "note": null
+    },
+    {
+      "nl": "club",
+      "en": "club",
+      "pos": "noun",
+      "article": "de",
+      "plural": "clubs",
+      "forms": null,
+      "example": {
+        "nl": "De club is leuk.",
+        "en": "The club is nice."
+      },
+      "note": null
+    },
+    {
+      "nl": "lid",
+      "en": "member",
+      "pos": "noun",
+      "article": "het",
+      "plural": "leden",
+      "forms": null,
+      "example": {
+        "nl": "Ik ben lid van de club.",
+        "en": "I am a member of the club."
+      },
+      "note": "het lid = member; also 'limb' (body part)."
+    },
+    {
+      "nl": "keer",
+      "en": "time, occasion",
+      "pos": "noun",
+      "article": "de",
+      "plural": "keren",
+      "forms": null,
+      "example": {
+        "nl": "Ik zwem twee keer per week.",
+        "en": "I swim twice a week."
+      },
+      "note": null
+    },
+    {
+      "nl": "elke",
+      "en": "every, each",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik lees elke dag.",
+        "en": "I read every day."
+      },
+      "note": "elke + de-word or plural; elk + het-word."
+    },
+    {
+      "nl": "soms",
+      "en": "sometimes",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik game soms.",
+        "en": "I sometimes game."
+      },
+      "note": null
+    },
+    {
+      "nl": "vaak",
+      "en": "often",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik wandel vaak.",
+        "en": "I often walk."
+      },
+      "note": null
+    },
+    {
+      "nl": "nooit",
+      "en": "never",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik voetbal nooit.",
+        "en": "I never play football."
+      },
+      "note": "You have seen nooit before; here it is used for frequency."
+    },
+    {
+      "nl": "altijd",
+      "en": "always",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij zingt altijd.",
+        "en": "She always sings."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Wat doe je in je vrije tijd?",
+      "en": "What do you do in your free time?",
+      "note": null
+    },
+    {
+      "nl": "Ik lees graag.",
+      "en": "I like reading.",
+      "note": "graag comes after the verb."
+    },
+    {
+      "nl": "Ik zwem liever.",
+      "en": "I prefer swimming.",
+      "note": "liever = rather, preferably."
+    },
+    {
+      "nl": "Ik fiets het liefst.",
+      "en": "I like cycling best.",
+      "note": "het liefst = most of all."
+    },
+    {
+      "nl": "Ik hou van muziek.",
+      "en": "I love music.",
+      "note": "houden van + noun."
+    },
+    {
+      "nl": "Ik hou van koken.",
+      "en": "I love cooking.",
+      "note": "houden van + infinitive."
+    },
+    {
+      "nl": "Hoe vaak sport je?",
+      "en": "How often do you exercise?",
+      "note": null
+    },
+    {
+      "nl": "Eén keer per week.",
+      "en": "Once a week.",
+      "note": null
+    },
+    {
+      "nl": "Elke dag.",
+      "en": "Every day.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben lid van een club.",
+      "en": "I am a member of a club.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "graag, liever, het liefst",
+      "explanation": "Use **graag** to say you like doing something: **Ik lees graag.** Use **liever** to say you prefer something: **Ik zwem liever.** Use **het liefst** for what you like most: **Ik fiets het liefst.** These words usually come after the verb.",
+      "table": {
+        "headers": [
+          "Word",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "graag",
+            "like (doing something)",
+            "Ik lees graag."
+          ],
+          [
+            "liever",
+            "prefer",
+            "Ik zwem liever."
+          ],
+          [
+            "het liefst",
+            "like most",
+            "Ik fiets het liefst."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik dans graag.",
+          "en": "I like dancing."
+        },
+        {
+          "nl": "Wij wandelen liever.",
+          "en": "We prefer walking."
+        },
+        {
+          "nl": "Zij zingt het liefst.",
+          "en": "She likes singing best."
+        }
+      ],
+      "tip": "Here **graag** means 'with pleasure', not 'thank you'."
+    },
+    {
+      "title": "Houden van + noun or infinitive",
+      "explanation": "**Houden van** means 'to love' or 'to like very much'. Use it with a noun: **Ik hou van muziek.** Use **van + infinitive** for activities: **Ik hou van koken.** The verb **hou** comes second; **van** stays with it.",
+      "table": {
+        "headers": [
+          "Subject",
+          "Form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "ik hou van",
+            "Ik hou van muziek."
+          ],
+          [
+            "jij",
+            "jij houdt van",
+            "Jij houdt van lezen."
+          ],
+          [
+            "hij/zij",
+            "hij/zij houdt van",
+            "Zij houdt van dansen."
+          ],
+          [
+            "wij",
+            "wij houden van",
+            "Wij houden van wandelen."
+          ],
+          [
+            "jullie",
+            "jullie houden van",
+            "Jullie houden van gamen."
+          ],
+          [
+            "zij",
+            "zij houden van",
+            "Zij houden van zingen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik hou van muziek.",
+          "en": "I love music."
+        },
+        {
+          "nl": "Wij houden van wandelen.",
+          "en": "We love walking."
+        },
+        {
+          "nl": "Zij houdt niet van gamen.",
+          "en": "She does not like gaming."
+        }
+      ],
+      "tip": "Do not say 'Ik hou muziek van.' The word **van** stays with **houden**."
+    },
+    {
+      "title": "Hoe vaak? and frequency",
+      "explanation": "Ask **Hoe vaak ...?** to ask how often. Answer with words like **altijd**, **vaak**, **soms**, **nooit**, or with **elke dag**, **één keer per week**, **twee keer per week**. In a short sentence the frequency word usually comes after the verb: **Ik sport vaak.**",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "altijd",
+            "always"
+          ],
+          [
+            "vaak",
+            "often"
+          ],
+          [
+            "soms",
+            "sometimes"
+          ],
+          [
+            "nooit",
+            "never"
+          ],
+          [
+            "elke dag",
+            "every day"
+          ],
+          [
+            "één keer per week",
+            "once a week"
+          ],
+          [
+            "twee keer per week",
+            "twice a week"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Hoe vaak zwem je? — Twee keer per week.",
+          "en": "How often do you swim? — Twice a week."
+        },
+        {
+          "nl": "Ik lees elke dag.",
+          "en": "I read every day."
+        },
+        {
+          "nl": "Ik voetbal nooit.",
+          "en": "I never play football."
+        }
+      ],
+      "tip": "**nooit** already means 'never'; do not add **niet**."
+    }
+  ],
+  "dialogue": {
+    "title": "Lid van de club",
+    "setting": "Sanne is at the community centre and talks to the coordinator about joining a club.",
+    "speakers": [
+      {
+        "name": "Mevrouw De Vries",
+        "gender": "f"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Mevrouw De Vries",
+        "nl": "Goedemorgen! Kom je voor de club?",
+        "en": "Good morning! Are you here for the club?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik wil graag lid zijn van de club.",
+        "en": "Yes, I would like to be a member of the club."
+      },
+      {
+        "speaker": "Mevrouw De Vries",
+        "nl": "Natuurlijk. Wat zijn je hobby's?",
+        "en": "Of course. What are your hobbies?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "In mijn vrije tijd lees ik graag en ik zwem ook graag.",
+        "en": "In my free time I like reading and I also like swimming."
+      },
+      {
+        "speaker": "Mevrouw De Vries",
+        "nl": "Hoe vaak zwem je?",
+        "en": "How often do you swim?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Twee keer per week. In het weekend zwem ik ook.",
+        "en": "Twice a week. At the weekend I swim too."
+      },
+      {
+        "speaker": "Mevrouw De Vries",
+        "nl": "Sport je ook?",
+        "en": "Do you exercise too?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik wandel vaak. Maar ik voetbal nooit.",
+        "en": "Yes, I often walk. But I never play football."
+      },
+      {
+        "speaker": "Mevrouw De Vries",
+        "nl": "Hou je van muziek?",
+        "en": "Do you love music?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik hou van muziek. Ik luister elke dag naar muziek.",
+        "en": "Yes, I love music. I listen to music every day."
+      },
+      {
+        "speaker": "Mevrouw De Vries",
+        "nl": "En game je ook?",
+        "en": "And do you game too?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Soms. Maar ik lees liever.",
+        "en": "Sometimes. But I prefer reading."
+      },
+      {
+        "speaker": "Mevrouw De Vries",
+        "nl": "Mooi. De club is niet duur.",
+        "en": "Good. The club is not expensive."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is leuk! Dank u wel.",
+        "en": "That is nice! Thank you."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "lezen",
+          "to read"
+        ],
+        [
+          "zwemmen",
+          "to swim"
+        ],
+        [
+          "schilderen",
+          "to paint"
+        ],
+        [
+          "de club",
+          "club"
+        ],
+        [
+          "het lid",
+          "member"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "vaak",
+          "often"
+        ],
+        [
+          "soms",
+          "sometimes"
+        ],
+        [
+          "altijd",
+          "always"
+        ],
+        [
+          "nooit",
+          "never"
+        ],
+        [
+          "elke dag",
+          "every day"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik lees graag.",
+        "Ik graag lees.",
+        "Ik lees graag liever."
+      ],
+      "answer": 0,
+      "explain": "**graag** comes after the verb."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik hou van muziek.",
+        "Ik hou muziek van.",
+        "Ik van muziek hou."
+      ],
+      "answer": 0,
+      "explain": "**van** stays with **houden**."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which question is correct?",
+      "nl": null,
+      "options": [
+        "Hoe vaak sport je?",
+        "Hoe vaak je sport?",
+        "Hoe sport je vaak?"
+      ],
+      "answer": 0,
+      "explain": "In a question the verb comes before the subject: **sport je**."
+    },
+    {
+      "type": "article",
+      "word": "hobby",
+      "en": "hobby",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "lid",
+      "en": "member",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I like reading.",
+      "answer": "Ik lees graag.",
+      "accept": [
+        "Graag lees ik."
+      ],
+      "extra": [
+        "leest",
+        "lezen"
+      ],
+      "explain": "**graag** comes after the verb: **Ik lees graag.**"
+    },
+    {
+      "type": "build",
+      "en": "I prefer swimming.",
+      "answer": "Ik zwem liever.",
+      "accept": [
+        "Liever zwem ik."
+      ],
+      "extra": [
+        "zwemt",
+        "zwemmen"
+      ],
+      "explain": "**liever** comes after the verb: **Ik zwem liever.**"
+    },
+    {
+      "type": "build",
+      "en": "I exercise every day.",
+      "answer": "Ik sport elke dag.",
+      "accept": [
+        "Elke dag sport ik."
+      ],
+      "extra": [
+        "sporten"
+      ],
+      "explain": "The frequency phrase can go at the end (**Ik sport elke dag**) or at the start with inversion (**Elke dag sport ik**)."
+    },
+    {
+      "type": "gap",
+      "text": "Ik lees ___ boeken.",
+      "en": "I like reading books.",
+      "answers": [
+        "graag"
+      ],
+      "hint": "like doing something",
+      "explain": "Use **graag** after the verb to say you like doing something: **Ik lees graag boeken.**"
+    },
+    {
+      "type": "gap",
+      "text": "Hoe ___ zwem je?",
+      "en": "How often do you swim?",
+      "answers": [
+        "vaak"
+      ],
+      "hint": "how often",
+      "explain": "**Hoe vaak** asks 'how often'; then the verb comes before the subject: **Hoe vaak zwem je?**"
+    },
+    {
+      "type": "gap",
+      "text": "Ik sport ___ dag.",
+      "en": "I exercise every day.",
+      "answers": [
+        "elke"
+      ],
+      "hint": "every (with a de-word: dag)",
+      "explain": "**dag** is a de-word, so use **elke**: **Ik sport elke dag.**"
+    },
+    {
+      "type": "translate",
+      "en": "I like to read.",
+      "answers": [
+        "Ik lees graag.",
+        "Ik hou van lezen."
+      ],
+      "focus": "graag and houden van + infinitive",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places 'graag' before the verb: 'Ik graag lees.'",
+          "explain": "**graag** comes after the verb. Say 'Ik lees graag.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the -t form with 'ik': 'Ik leest graag.'",
+          "explain": "With **ik** the verb has no -t: 'Ik lees graag.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits 'van' with 'houden': 'Ik hou lezen.'",
+          "explain": "Use **houden van** + infinitive: 'Ik hou van lezen.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Translates 'like' as 'want': 'Ik wil lezen.'",
+          "explain": "'I like to read' is not 'Ik wil lezen' (= I want to read). Say 'Ik lees graag.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I prefer swimming.",
+      "answers": [
+        "Ik zwem liever.",
+        "Ik hou liever van zwemmen."
+      ],
+      "focus": "liever",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places 'liever' before the verb: 'Ik liever zwem.'",
+          "explain": "**liever** normally comes after the verb: 'Ik zwem liever.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'het liefst' for 'prefer': 'Ik zwem het liefst.'",
+          "explain": "'prefer' is **liever**; **het liefst** means 'like most'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits 'van' with 'houden liever': 'Ik hou liever zwemmen.'",
+          "explain": "With **houden** use **van**: 'Ik hou liever van zwemmen.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'beter' for 'prefer': 'Ik zwem beter.'",
+          "explain": "'prefer' is **liever**, not **beter** (= better)."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "How often do you sing?",
+      "answers": [
+        "Hoe vaak zing je?",
+        "Hoe vaak zing jij?"
+      ],
+      "focus": "Hoe vaak? + inversion",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Forgets inversion after 'Hoe vaak': 'Hoe vaak je zingt?'",
+          "explain": "After **hoe vaak** the verb comes before the subject: 'Hoe vaak zing je?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Keeps the -t with 'je' after the verb: 'Hoe vaak zingt je?'",
+          "explain": "With **je** after the verb, the -t drops: 'Hoe vaak zing je?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'wanneer' for 'how often': 'Wanneer zing je?'",
+          "explain": "'how often' is **hoe vaak**, not **wanneer** (= when)."
+        },
+        {
+          "id": "m4",
+          "pattern": "Drops 'hoe vaak' and asks a yes/no question: 'Zing je vaak?'",
+          "explain": "For 'how often' start with **hoe vaak**: 'Hoe vaak zing je?'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik zwem twee keer per week.",
+      "en": "I swim twice a week."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik lees graag boeken.",
+      "en": "I like reading books."
+    },
+    {
+      "type": "reply",
+      "context": "A friend asks about your free time.",
+      "say": {
+        "nl": "Wat doe je in je vrije tijd?",
+        "en": "What do you do in your free time?"
+      },
+      "task": "Say that you read and swim, and that you like reading.",
+      "examples": [
+        "Ik lees en ik zwem. Ik lees graag.",
+        "In mijn vrije tijd lees ik graag en ik zwem."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places 'graag' before the verb: 'Ik graag lees.'",
+          "explain": "**graag** comes after the verb: 'Ik lees graag.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'leest' with 'ik': 'Ik leest en ik zwem.'",
+          "explain": "With **ik** the verb is **lees**, without -t: 'Ik lees en ik zwem.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'zwemt' with 'ik': 'Ik lees en ik zwemt.'",
+          "explain": "With **ik** the verb is **zwem**, without -t: 'Ik lees en ik zwem.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits 'van' with 'houden': 'Ik hou lezen.'",
+          "explain": "Use **houden van** + infinitive: 'Ik hou van lezen.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "At the community centre, the coordinator asks about sport.",
+      "say": {
+        "nl": "Hoe vaak sport je?",
+        "en": "How often do you exercise?"
+      },
+      "task": "Say that you exercise twice a week and that you never play football.",
+      "examples": [
+        "Ik sport twee keer per week. Ik voetbal nooit.",
+        "Twee keer per week. Ik voetbal nooit."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'in de week' instead of 'per week': 'Ik sport twee keer in de week.'",
+          "explain": "Frequency is **per week**: 'Ik sport twee keer per week.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'niet' for 'never': 'Ik voetbal niet.'",
+          "explain": "'never' is **nooit**: 'Ik voetbal nooit.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Doubles the negative: 'Ik voetbal nooit niet.'",
+          "explain": "**nooit** already means 'never'; do not add **niet**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'voetbalt' with 'ik': 'Ik voetbalt nooit.'",
+          "explain": "With **ik** the verb has no -t: 'Ik voetbal nooit.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Aanmelden bij de club",
+    "setting": "You are at the community centre and want to become a member of a club. You speak to the coordinator, Mevrouw De Vries.",
+    "partner": {
+      "name": "Mevrouw De Vries",
+      "gender": "f",
+      "role": "coordinator at the community centre"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen! Kom je voor de club?",
+          "en": "Good morning! Are you here for the club?"
+        },
+        "task": "Greet her and say that you want to be a member of the club.",
+        "examples": [
+          "Goedemorgen, mevrouw. Ik wil graag lid zijn van de club.",
+          "Goedemorgen! Ik wil graag lid zijn."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'ben' after 'wil': 'Ik wil graag lid ben van de club.'",
+            "explain": "After **wil** use the infinitive **zijn**: 'Ik wil graag lid zijn van de club.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Places 'zijn' before 'lid': 'Ik wil graag zijn lid van de club.'",
+            "explain": "The order is **lid zijn van**: 'Ik wil graag lid zijn van de club.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits 'van': 'Ik wil graag lid zijn de club.'",
+            "explain": "Say **lid van de club**: 'Ik wil graag lid zijn van de club.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Adds 'een' before 'lid': 'Ik wil graag een lid zijn.'",
+            "explain": "Use **lid zijn van** without **een**: 'Ik wil graag lid zijn van de club.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Leuk! Wat zijn je hobby's?",
+          "en": "Nice! What are your hobbies?"
+        },
+        "task": "Say that you love music and that you like reading.",
+        "examples": [
+          "Ik hou van muziek en ik lees graag.",
+          "Ik hou van muziek en van lezen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'Ik hou muziek van.'",
+            "explain": "Keep **van** after **hou**: 'Ik hou van muziek.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits 'van' before the infinitive: 'Ik hou van muziek en ik hou lezen.'",
+            "explain": "Use **van** with the infinitive too: 'Ik hou van lezen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Places 'graag' before the verb: 'Ik graag lees.'",
+            "explain": "**graag** comes after the verb: 'Ik lees graag.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses 'houdt' with 'ik': 'Ik houdt van muziek.'",
+            "explain": "With **ik** it is **hou**: 'Ik hou van muziek.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Hoe vaak lees je?",
+          "en": "How often do you read?"
+        },
+        "task": "Say that you read every day, and that you sometimes game.",
+        "examples": [
+          "Ik lees elke dag. Ik game soms.",
+          "Elke dag. En ik game soms."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'elk' with the de-word 'dag': 'Ik lees elk dag.'",
+            "explain": "**dag** is a de-word, so use **elke**: 'Ik lees elke dag.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Places 'soms' before the verb: 'Ik soms game.'",
+            "explain": "In a simple sentence **soms** comes after the verb: 'Ik game soms.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'speel' for playing video games: 'Ik speel soms.'",
+            "explain": "Use **gamen** for playing video games: 'Ik game soms.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses 'gamet' with 'ik': 'Ik gamet soms.'",
+            "explain": "With **ik** the verb has no -t: 'Ik game soms.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wij hebben ook een club. Voetbal je vaak?",
+          "en": "We also have a club. Do you often play football?"
+        },
+        "task": "Say that you never play football and that you prefer walking.",
+        "examples": [
+          "Nee, ik voetbal nooit. Ik wandel liever.",
+          "Ik voetbal nooit. Ik wandel liever."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'niet' for 'never': 'Ik voetbal niet.'",
+            "explain": "'never' is **nooit**: 'Ik voetbal nooit.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Doubles the negative: 'Ik voetbal nooit niet.'",
+            "explain": "Do not add **niet** after **nooit**: 'Ik voetbal nooit.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Places 'liever' before the verb: 'Ik liever wandel.'",
+            "explain": "**liever** normally comes after the verb: 'Ik wandel liever.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses 'beter' for 'prefer': 'Ik wandel beter.'",
+            "explain": "'prefer' is **liever**, not **beter**."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Mooi. De club is niet duur. Tot zaterdag!",
+      "en": "Great. The club is not expensive. See you Saturday!"
+    }
+  },
+  "culture": {
+    "title": "Lid van een vereniging",
+    "text": "Many Dutch people are members of a **vereniging**: a club for a sport, music or a hobby. Sports clubs and music clubs often ask a small yearly fee and rely on volunteers. Joining a club is also a common way to meet people in a new town."
+  },
+  "summary": [
+    "Name hobbies and free-time activities: **de hobby**, **de vrije tijd**, **lezen**, **zwemmen**.",
+    "Use **graag**, **liever** and **het liefst** after the verb to say what you like, prefer or like most.",
+    "Use **houden van** + noun or **van + infinitive**: **Ik hou van muziek.** / **Ik hou van lezen.**",
+    "Ask **Hoe vaak ...?** and answer with **altijd**, **vaak**, **soms**, **nooit**, **elke dag**, **één keer per week**.",
+    "Say you are a member: **Ik ben lid van een club.**"
+  ]
+}

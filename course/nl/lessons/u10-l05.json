@@ -1,0 +1,1134 @@
+{
+  "id": "u10-l05",
+  "title": "Nederland en België",
+  "subtitle": "Geography and culture",
+  "level": "A2",
+  "intro": "After this lesson you can talk about Dutch and Belgian places, compare countries and cities, and use superlatives like **de grootste stad**. You can also compare with **net zo ... als** and **minder ... dan**, and talk about Dutch, Flemish and Belgian people.",
+  "words": [
+    {
+      "nl": "land",
+      "en": "country",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de landen",
+      "forms": null,
+      "example": {
+        "nl": "België is een klein land.",
+        "en": "Belgium is a small country."
+      },
+      "note": null
+    },
+    {
+      "nl": "provincie",
+      "en": "province",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de provincies",
+      "forms": null,
+      "example": {
+        "nl": "Nederland heeft twaalf provincies.",
+        "en": "The Netherlands has twelve provinces."
+      },
+      "note": null
+    },
+    {
+      "nl": "hoofdstad",
+      "en": "capital city",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de hoofdsteden",
+      "forms": null,
+      "example": {
+        "nl": "Brussel is de hoofdstad van België.",
+        "en": "Brussels is the capital of Belgium."
+      },
+      "note": null
+    },
+    {
+      "nl": "grens",
+      "en": "border",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de grenzen",
+      "forms": null,
+      "example": {
+        "nl": "De grens tussen Nederland en België is open.",
+        "en": "The border between the Netherlands and Belgium is open."
+      },
+      "note": null
+    },
+    {
+      "nl": "kust",
+      "en": "coast",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de kusten",
+      "forms": null,
+      "example": {
+        "nl": "De kust is lang en mooi.",
+        "en": "The coast is long and beautiful."
+      },
+      "note": null
+    },
+    {
+      "nl": "rivier",
+      "en": "river",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de rivieren",
+      "forms": null,
+      "example": {
+        "nl": "De rivier is breed.",
+        "en": "The river is wide."
+      },
+      "note": null
+    },
+    {
+      "nl": "kanaal",
+      "en": "canal",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de kanalen",
+      "forms": null,
+      "example": {
+        "nl": "Het kanaal ligt tussen de twee steden.",
+        "en": "The canal lies between the two cities."
+      },
+      "note": null
+    },
+    {
+      "nl": "dijk",
+      "en": "dike",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de dijken",
+      "forms": null,
+      "example": {
+        "nl": "De dijk is lang.",
+        "en": "The dike is long."
+      },
+      "note": null
+    },
+    {
+      "nl": "polder",
+      "en": "polder",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de polders",
+      "forms": null,
+      "example": {
+        "nl": "De polder is groen.",
+        "en": "The polder is green."
+      },
+      "note": null
+    },
+    {
+      "nl": "molen",
+      "en": "windmill",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de molens",
+      "forms": null,
+      "example": {
+        "nl": "De molen staat bij de rivier.",
+        "en": "The windmill is by the river."
+      },
+      "note": null
+    },
+    {
+      "nl": "noorden",
+      "en": "north",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In het noorden is het koud.",
+        "en": "In the north it is cold."
+      },
+      "note": null
+    },
+    {
+      "nl": "zuiden",
+      "en": "south",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In het zuiden is het warm.",
+        "en": "In the south it is warm."
+      },
+      "note": null
+    },
+    {
+      "nl": "oosten",
+      "en": "east",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In het oosten regent het.",
+        "en": "In the east it is raining."
+      },
+      "note": null
+    },
+    {
+      "nl": "westen",
+      "en": "west",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "In het westen ligt de kust.",
+        "en": "In the west lies the coast."
+      },
+      "note": null
+    },
+    {
+      "nl": "Vlaanderen",
+      "en": "Flanders",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Vlaanderen ligt in het noorden van België.",
+        "en": "Flanders is in the north of Belgium."
+      },
+      "note": "The Dutch-speaking region of Belgium."
+    },
+    {
+      "nl": "Brussel",
+      "en": "Brussels",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Brussel is de hoofdstad van België.",
+        "en": "Brussels is the capital of Belgium."
+      },
+      "note": null
+    },
+    {
+      "nl": "Antwerpen",
+      "en": "Antwerp",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Antwerpen is een grote stad.",
+        "en": "Antwerp is a big city."
+      },
+      "note": null
+    },
+    {
+      "nl": "Gent",
+      "en": "Ghent",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Gent is een mooie stad.",
+        "en": "Ghent is a beautiful city."
+      },
+      "note": null
+    },
+    {
+      "nl": "Belgisch",
+      "en": "Belgian",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "Belgisch, Belgische",
+      "example": {
+        "nl": "Het Belgische bier is lekker.",
+        "en": "Belgian beer is tasty."
+      },
+      "note": "Country adjectives take a capital: **Belgisch**, **Belgische**."
+    },
+    {
+      "nl": "Vlaams",
+      "en": "Flemish",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "Vlaams, Vlaamse",
+      "example": {
+        "nl": "In Vlaanderen spreken ze Vlaams.",
+        "en": "In Flanders they speak Flemish."
+      },
+      "note": "Language and adjective take a capital: **Vlaams**, **Vlaamse**."
+    },
+    {
+      "nl": "Nederlands",
+      "en": "Dutch",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "Nederlands, Nederlandse",
+      "example": {
+        "nl": "De Nederlandse kust is mooi.",
+        "en": "The Dutch coast is beautiful."
+      },
+      "note": "Language and adjective take a capital: **het Nederlands**, **de Nederlandse kust**."
+    },
+    {
+      "nl": "Nederlander",
+      "en": "Dutch person",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de Nederlanders",
+      "forms": null,
+      "example": {
+        "nl": "Een Nederlander spreekt Nederlands.",
+        "en": "A Dutch person speaks Dutch."
+      },
+      "note": "Capital letter: **een Nederlander**."
+    },
+    {
+      "nl": "Belg",
+      "en": "Belgian person",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de Belgen",
+      "forms": null,
+      "example": {
+        "nl": "Een Belg spreekt Nederlands of Frans.",
+        "en": "A Belgian speaks Dutch or French."
+      },
+      "note": "Capital letter: **een Belg**."
+    },
+    {
+      "nl": "Vlaming",
+      "en": "Flemish person",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de Vlamingen",
+      "forms": null,
+      "example": {
+        "nl": "Een Vlaming spreekt Vlaams.",
+        "en": "A Fleming speaks Flemish."
+      },
+      "note": "Capital letter: **een Vlaming**."
+    },
+    {
+      "nl": "dialect",
+      "en": "dialect",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de dialecten",
+      "forms": null,
+      "example": {
+        "nl": "Het dialect is anders dan het Nederlands.",
+        "en": "The dialect is different from Dutch."
+      },
+      "note": null
+    },
+    {
+      "nl": "verschil",
+      "en": "difference",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de verschillen",
+      "forms": null,
+      "example": {
+        "nl": "Wat is het verschil tussen Nederlands en Vlaams?",
+        "en": "What is the difference between Dutch and Flemish?"
+      },
+      "note": null
+    },
+    {
+      "nl": "vergelijken",
+      "en": "to compare",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vergelijk, jij vergelijkt, wij vergelijken (heeft vergeleken)",
+      "example": {
+        "nl": "We vergelijken de twee landen.",
+        "en": "We compare the two countries."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Waar kom je vandaan?",
+      "en": "Where are you from?",
+      "note": null
+    },
+    {
+      "nl": "Ik kom uit België, maar ik woon in Gent.",
+      "en": "I'm from Belgium, but I live in Ghent.",
+      "note": null
+    },
+    {
+      "nl": "In het noorden van Nederland",
+      "en": "in the north of the Netherlands",
+      "note": "Use **van** before the country."
+    },
+    {
+      "nl": "Wat is het verschil tussen ... en ...?",
+      "en": "What is the difference between ... and ...?",
+      "note": "Fill in the two things."
+    },
+    {
+      "nl": "Het is net zo mooi als...",
+      "en": "It is just as beautiful as...",
+      "note": "**Als** comes at the end."
+    },
+    {
+      "nl": "België is niet zo groot als Nederland.",
+      "en": "Belgium is not as big as the Netherlands.",
+      "note": null
+    },
+    {
+      "nl": "De hoofdstad van België is Brussel.",
+      "en": "The capital of Belgium is Brussels.",
+      "note": null
+    },
+    {
+      "nl": "In Vlaanderen zeggen ze dat anders.",
+      "en": "In Flanders they say that differently.",
+      "note": null
+    },
+    {
+      "nl": "Wat is de grootste stad van België?",
+      "en": "What is the biggest city in Belgium?",
+      "note": "Superlative before the noun: **de grootste stad**."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Superlatives before a noun: de grootste stad",
+      "explanation": "A superlative says 'the most ...'. Before a noun it always takes **-e**: **de grootste stad**, **het mooiste dorp**. This is the same for de-words, het-words and plurals.",
+      "table": {
+        "headers": [
+          "Type",
+          "Example",
+          "English"
+        ],
+        "rows": [
+          [
+            "de-word",
+            "de grootste stad",
+            "the largest city"
+          ],
+          [
+            "het-word",
+            "het mooiste dorp",
+            "the most beautiful village"
+          ],
+          [
+            "plural",
+            "de kleinste dorpen",
+            "the smallest villages"
+          ],
+          [
+            "with van",
+            "de grootste stad van Nederland",
+            "the largest city in the Netherlands"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Amsterdam is de grootste stad van Nederland.",
+          "en": "Amsterdam is the largest city in the Netherlands."
+        },
+        {
+          "nl": "Het mooiste dorp ligt in het zuiden.",
+          "en": "The most beautiful village is in the south."
+        },
+        {
+          "nl": "De grootste steden zijn Amsterdam en Rotterdam.",
+          "en": "The largest cities are Amsterdam and Rotterdam."
+        }
+      ],
+      "tip": "Superlative + noun? Add **-e**."
+    },
+    {
+      "title": "Comparing with net zo ... als and minder ... dan",
+      "explanation": "**Net zo ... als** means 'as ... as': **De kust is net zo mooi als de bergen.** **Niet zo ... als** means 'not as ... as': **België is niet zo groot als Nederland.** **Minder ... dan** means 'less ... than': **Het zuiden is minder koud dan het noorden.**",
+      "table": {
+        "headers": [
+          "Structure",
+          "Example",
+          "English"
+        ],
+        "rows": [
+          [
+            "net zo ... als",
+            "De kust is net zo mooi als de bergen.",
+            "The coast is as beautiful as the mountains."
+          ],
+          [
+            "niet zo ... als",
+            "België is niet zo groot als Nederland.",
+            "Belgium is not as big as the Netherlands."
+          ],
+          [
+            "minder ... dan",
+            "Het zuiden is minder koud dan het noorden.",
+            "The south is less cold than the north."
+          ],
+          [
+            "comparative + dan",
+            "Vlaanderen is kleiner dan Nederland.",
+            "Flanders is smaller than the Netherlands."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De rivier is net zo lang als het kanaal.",
+          "en": "The river is as long as the canal."
+        },
+        {
+          "nl": "Het oosten is niet zo nat als het westen.",
+          "en": "The east is not as wet as the west."
+        },
+        {
+          "nl": "Antwerpen is minder groot dan Amsterdam.",
+          "en": "Antwerp is less big than Amsterdam."
+        }
+      ],
+      "tip": "Use **als** after 'as ... as'; use **dan** after a comparative or **minder**."
+    },
+    {
+      "title": "Countries, adjectives and people",
+      "explanation": "Adjectives from countries also take a capital: **de Nederlandse kust**, **het Belgische bier**, **de Vlaamse kust**. Languages and people take a capital too: **Nederlands**, **Vlaams**, **een Nederlander**, **een Belg**, **een Vlaming**.",
+      "table": {
+        "headers": [
+          "Word",
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Nederlands",
+            "language (capital N)",
+            "Ik spreek Nederlands."
+          ],
+          [
+            "Nederlandse",
+            "adjective (capital N)",
+            "De Nederlandse kust is lang."
+          ],
+          [
+            "een Nederlander",
+            "person (capital N)",
+            "Een Nederlander woont in Nederland."
+          ],
+          [
+            "Belgisch / een Belg",
+            "adjective / person",
+            "Het Belgische bier is lekker. Een Belg spreekt Nederlands of Frans."
+          ],
+          [
+            "Vlaams / een Vlaming",
+            "language / person",
+            "Een Vlaming spreekt Vlaams."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De Vlaamse kust is mooi.",
+          "en": "The Flemish coast is beautiful."
+        },
+        {
+          "nl": "In Nederland spreken ze Nederlands.",
+          "en": "In the Netherlands they speak Dutch."
+        },
+        {
+          "nl": "Een Belg uit Gent spreekt Vlaams.",
+          "en": "A Belgian from Ghent speaks Flemish."
+        }
+      ],
+      "tip": "Language, person or adjective from a country? Capital letter: **Nederlands**, **een Nederlander**, **de Nederlandse kust**."
+    }
+  ],
+  "dialogue": {
+    "title": "Lunch met Lotte en Daan",
+    "setting": "At lunch in Utrecht, a Belgian colleague and a Dutch colleague compare their countries with you.",
+    "speakers": [
+      {
+        "name": "Lotte",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      },
+      {
+        "name": "Sam",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Daan",
+        "nl": "Sam, waar kom jij eigenlijk vandaan?",
+        "en": "Sam, where are you actually from?"
+      },
+      {
+        "speaker": "Sam",
+        "nl": "Ik kom uit Engeland, maar ik woon in Utrecht.",
+        "en": "I'm from England, but I live in Utrecht now."
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Leuk! En wat vind je van Nederland en België?",
+        "en": "Nice! And what do you think of the Netherlands and Belgium?"
+      },
+      {
+        "speaker": "Sam",
+        "nl": "Ik vind ze leuk. Maar wat is het verschil tussen Nederland en België?",
+        "en": "I like them. But what is the difference between the Netherlands and Belgium?"
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "België is niet zo groot als Nederland, maar het is net zo gezellig.",
+        "en": "Belgium is not as big as the Netherlands, but it is just as gezellig."
+      },
+      {
+        "speaker": "Sam",
+        "nl": "En wat is de grootste stad van België?",
+        "en": "And what is the largest city in Belgium?"
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Antwerpen is de grootste stad, maar Brussel is de hoofdstad.",
+        "en": "Antwerp is the largest city, but Brussels is the capital."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "In Nederland is Amsterdam de hoofdstad.",
+        "en": "In the Netherlands, Amsterdam is the capital."
+      },
+      {
+        "speaker": "Sam",
+        "nl": "En Vlaanderen? Ligt dat in het noorden van België?",
+        "en": "And Flanders? Is that in the north of Belgium?"
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Ja, Vlaanderen ligt in het noorden. In het zuiden spreken ze Frans.",
+        "en": "Yes, Flanders is in the north. In the south they speak French."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "In Vlaanderen praten ze anders.",
+        "en": "In Flanders they speak differently."
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Ja, in Vlaanderen zeggen we dat anders.",
+        "en": "Yes, in Flanders we say that differently."
+      },
+      {
+        "speaker": "Sam",
+        "nl": "Dat is leuk! Ik wil graag meer leren over Vlaanderen.",
+        "en": "That is nice! I would like to learn more about Flanders."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "We kunnen vandaag de twee landen vergelijken.",
+        "en": "We can compare the two countries today."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de grens",
+          "the border"
+        ],
+        [
+          "de kust",
+          "the coast"
+        ],
+        [
+          "de rivier",
+          "the river"
+        ],
+        [
+          "de hoofdstad",
+          "the capital"
+        ],
+        [
+          "de provincie",
+          "the province"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het noorden",
+          "the north"
+        ],
+        [
+          "het zuiden",
+          "the south"
+        ],
+        [
+          "het oosten",
+          "the east"
+        ],
+        [
+          "het westen",
+          "the west"
+        ],
+        [
+          "de molen",
+          "the windmill"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies het goede lidwoord.",
+      "nl": "___ grootste stad van Nederland is Amsterdam.",
+      "options": [
+        "De",
+        "Het",
+        "Een"
+      ],
+      "answer": 0,
+      "explain": "**Stad** is a de-word, so it is **de grootste stad**."
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies het goede woord.",
+      "nl": "Vlaanderen is ___ groot dan Nederland.",
+      "options": [
+        "minder",
+        "net zo",
+        "meer"
+      ],
+      "answer": 0,
+      "explain": "**Minder ... dan** means 'less ... than'. **Net zo** needs **als**, and **meer** cannot be used before this adjective."
+    },
+    {
+      "type": "choice",
+      "prompt": "Kies de goede vorm: 'the most beautiful village'.",
+      "nl": "Het ___ dorp van België.",
+      "options": [
+        "mooiste",
+        "mooist",
+        "mooie"
+      ],
+      "answer": 0,
+      "explain": "Before a noun the superlative gets **-e**: **het mooiste dorp**."
+    },
+    {
+      "type": "article",
+      "word": "kanaal",
+      "en": "canal",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "grens",
+      "en": "border",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "The capital of the Netherlands is Amsterdam.",
+      "answer": "De hoofdstad van Nederland is Amsterdam.",
+      "accept": [
+        "Amsterdam is de hoofdstad van Nederland."
+      ],
+      "extra": [
+        "Het",
+        "België"
+      ],
+      "explain": "Use **De hoofdstad van ...**; **hoofdstad** is a de-word and takes **de**."
+    },
+    {
+      "type": "build",
+      "en": "Belgium is not as big as the Netherlands.",
+      "answer": "België is niet zo groot als Nederland.",
+      "accept": [],
+      "extra": [
+        "dan",
+        "meer"
+      ],
+      "explain": "Use **niet zo ... als** for 'not as ... as'; **als** comes after the adjective."
+    },
+    {
+      "type": "build",
+      "en": "Flanders is in the north of Belgium.",
+      "answer": "Vlaanderen ligt in het noorden van België.",
+      "accept": [
+        "In het noorden van België ligt Vlaanderen."
+      ],
+      "extra": [
+        "zuiden",
+        "de"
+      ],
+      "explain": "Use **in het noorden van** for 'in the north of'; **noorden** is a het-word."
+    },
+    {
+      "type": "gap",
+      "text": "De hoofdstad van België is ___.",
+      "en": "The capital of Belgium is Brussels.",
+      "answers": [
+        "Brussel"
+      ],
+      "hint": "capital city",
+      "explain": "**Brussel** is the capital of Belgium; capitalize city names."
+    },
+    {
+      "type": "gap",
+      "text": "Nederland en België hebben een ___ aan de zee.",
+      "en": "The Netherlands and Belgium have a coast on the sea.",
+      "answers": [
+        "kust"
+      ],
+      "hint": "coast",
+      "explain": "The noun for 'coast' is **de kust**."
+    },
+    {
+      "type": "gap",
+      "text": "Amsterdam ligt in het ___ van Nederland.",
+      "en": "Amsterdam is in the west of the Netherlands.",
+      "answers": [
+        "westen"
+      ],
+      "hint": "west",
+      "explain": "Use **in het westen van**; **westen** is a het-word."
+    },
+    {
+      "type": "gap",
+      "text": "Het ___ tussen het Nederlands en het Vlaams is niet groot.",
+      "en": "The difference between Dutch and Flemish is not big.",
+      "answers": [
+        "verschil"
+      ],
+      "hint": "difference",
+      "explain": "**Verschil** is a het-word: **het verschil tussen ... en ...**."
+    },
+    {
+      "type": "translate",
+      "en": "Belgium is smaller than the Netherlands.",
+      "answers": [
+        "België is kleiner dan Nederland.",
+        "België is kleiner dan Nederland"
+      ],
+      "focus": "comparative with **dan**",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'als' instead of 'dan' after a comparative (België is kleiner als Nederland).",
+          "explain": "After a comparative, use **dan**: **België is kleiner dan Nederland**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the positive 'klein' instead of the comparative (België is klein dan Nederland).",
+          "explain": "Add **-er** to the adjective: **kleiner**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'meer' before the adjective (België is meer klein dan Nederland).",
+          "explain": "Dutch uses **-er** on the adjective, not **meer + adjective**: **kleiner**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Antwerp is the largest city in Belgium.",
+      "answers": [
+        "Antwerpen is de grootste stad van België.",
+        "Antwerpen is de grootste stad in België.",
+        "De grootste stad van België is Antwerpen.",
+        "De grootste stad in België is Antwerpen."
+      ],
+      "focus": "superlative before a noun: **de grootste stad**",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Misses -e on the superlative before 'stad' (Antwerpen is de grootst stad van België).",
+          "explain": "A superlative before a noun gets **-e**: **de grootste stad**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'het' with 'stad' (Antwerpen is het grootste stad van België).",
+          "explain": "**Stad** is a de-word: **de grootste stad**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the comparative 'groter' instead of the superlative (Antwerpen is de groter stad van België).",
+          "explain": "For 'largest' use **grootste**, not **groter**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'als' instead of 'van/in' after the superlative (Antwerpen is de grootste stad als België).",
+          "explain": "Use **van** or **in** before the place: **de grootste stad van/in België**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Flanders is in the north of Belgium.",
+      "answers": [
+        "Vlaanderen ligt in het noorden van België.",
+        "Vlaanderen is in het noorden van België.",
+        "In het noorden van België ligt Vlaanderen."
+      ],
+      "focus": "geography and word order",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'op' instead of 'in' for position (Vlaanderen is op het noorden van België).",
+          "explain": "Use **in** for position inside a region: **in het noorden van België**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'de' with 'noorden' (Vlaanderen ligt in de noorden van België).",
+          "explain": "**Noorden** is a het-word: **het noorden**."
+        },
+        {
+          "id": "m3",
+          "pattern": "After a fronted place phrase, puts the subject before the verb (In het noorden van België Vlaanderen ligt).",
+          "explain": "If the sentence starts with **In het noorden ...**, the verb comes second: **In het noorden van België ligt Vlaanderen**."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "De kust is net zo mooi als de bergen.",
+      "en": "The coast is just as beautiful as the mountains."
+    },
+    {
+      "type": "listen",
+      "nl": "Het kleinste dorp ligt in het zuiden.",
+      "en": "The smallest village is in the south."
+    },
+    {
+      "type": "reply",
+      "context": "Je collega Daan vraagt waar je vandaan komt.",
+      "say": {
+        "nl": "Waar kom jij eigenlijk vandaan?",
+        "en": "Where are you actually from?"
+      },
+      "task": "Say where you are from and where you live now.",
+      "examples": [
+        "Ik kom uit Engeland, maar ik woon in Utrecht.",
+        "Ik kom uit België en ik woon in Gent."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'van' with a country (Ik kom van Engeland).",
+          "explain": "Use **uit** for origin: **Ik kom uit Engeland**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'zijn' instead of 'komen' for origin (Ik ben uit Engeland).",
+          "explain": "Say **Ik kom uit ...**, not **Ik ben uit ...**, for where you come from."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Daan zegt dat Antwerpen de grootste stad van België is.",
+      "say": {
+        "nl": "Antwerpen is de grootste stad van België.",
+        "en": "Antwerp is the largest city in Belgium."
+      },
+      "task": "Agree and add that it is a beautiful city.",
+      "examples": [
+        "Ja, en het is ook een mooie stad.",
+        "Ja, Antwerpen is groot en mooi."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'mooi' without -e before a de-word after 'een' (Ja, en het is een mooi stad).",
+          "explain": "**Stad** is a de-word, so the adjective gets **-e**: **een mooie stad**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Misses 'de' before 'grootste stad' (Antwerpen is grootste stad van België).",
+          "explain": "Use **de grootste stad**: **stad** is a de-word and the superlative takes **de**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'als' instead of 'van' after the superlative (Antwerpen is de grootste stad als België).",
+          "explain": "Say **de grootste stad van België**."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Lotte zegt: 'In Vlaanderen zeggen we het anders.'",
+      "say": {
+        "nl": "In Vlaanderen zeggen we het anders.",
+        "en": "In Flanders we say it differently."
+      },
+      "task": "Ask what the difference is between Dutch and Flemish.",
+      "examples": [
+        "Wat is het verschil tussen Nederlands en Vlaams?",
+        "Wat is het verschil tussen het Nederlands en het Vlaams?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'de' with 'verschil' (Wat is de verschil tussen Nederlands en Vlaams?).",
+          "explain": "**Verschil** is a het-word: **het verschil**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'van' instead of 'tussen' (Wat is het verschil van Nederlands en Vlaams?).",
+          "explain": "Use **tussen** for the two things compared: **het verschil tussen ... en ...**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'met' instead of 'en' (Wat is het verschil tussen Nederlands met Vlaams?).",
+          "explain": "Link the two things with **en**: **tussen Nederlands en Vlaams**."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Nederland en België vergelijken",
+    "setting": "At lunch with your Dutch colleague Daan. He asks about your country and compares it with the Netherlands and Belgium.",
+    "partner": {
+      "name": "Daan",
+      "gender": "m",
+      "role": "your Dutch colleague from Utrecht"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Waar kom jij eigenlijk vandaan?",
+          "en": "Where are you actually from?"
+        },
+        "task": "Say where you come from and where you live now.",
+        "examples": [
+          "Ik kom uit Engeland, maar ik woon in Utrecht.",
+          "Ik kom uit België en ik woon in Gent."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'van' with a country (Ik kom van Engeland).",
+            "explain": "Use **uit** for origin: **Ik kom uit Engeland**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'zijn' instead of 'komen' for origin (Ik ben uit Engeland).",
+            "explain": "Say **Ik kom uit ...**, not **Ik ben uit ...**, for where you come from."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Leuk! En wat is het verschil tussen Nederland en jouw land?",
+          "en": "Nice! And what is the difference between the Netherlands and your country?"
+        },
+        "task": "Give one difference. Use minder ... dan or niet zo ... als.",
+        "examples": [
+          "In mijn land is het weer minder koud dan in Nederland.",
+          "Mijn land is niet zo groot als Nederland."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'dan' after 'net zo' (Mijn land is net zo groot dan Nederland).",
+            "explain": "Use **als** after **net zo**: **net zo groot als**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'als' after 'minder' (Het weer is minder koud als in Nederland).",
+            "explain": "Use **dan** after **minder**: **minder koud dan**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'meer' before an adjective for 'less' (Mijn land is meer groot dan Nederland).",
+            "explain": "For 'less', use **minder + adjective + dan**: **minder groot dan**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is de grootste stad van jouw land?",
+          "en": "What is the largest city in your country?"
+        },
+        "task": "Name the largest city and say if it is the capital.",
+        "examples": [
+          "De grootste stad is Antwerpen, maar de hoofdstad is Brussel.",
+          "De grootste stad is Londen en het is ook de hoofdstad."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Misses -e on the superlative before 'stad' (De grootst stad is ...).",
+            "explain": "A superlative before a noun gets **-e**: **de grootste stad**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'het' with 'stad' (Het grootste stad is ...).",
+            "explain": "**Stad** is a de-word: **de grootste stad**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "In Vlaanderen zeggen we het anders dan in Nederland.",
+          "en": "In Flanders we say it differently than in the Netherlands."
+        },
+        "task": "Say that you find that interesting and ask how to say a Dutch word in Flemish.",
+        "examples": [
+          "Leuk! Hoe zeg je 'fiets' in het Vlaams?",
+          "Leuk! Hoe zeg je 'gezellig' in het Vlaams?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'op' instead of 'in' with a language (Hoe zeg je 'fiets' op Vlaams?).",
+            "explain": "Use **in het Vlaams**: **Hoe zeg je ... in het Vlaams?**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'in Vlaams' without 'het' (Hoe zeg je 'fiets' in Vlaams?).",
+            "explain": "Use **in het Vlaams**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses a full clause after 'vinden' (Ik vind dat het leuk is).",
+            "explain": "Say **Ik vind het leuk** or **Dat vind ik leuk**; no second verb."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Goed gedaan! Je weet meer over Nederland en België.",
+      "en": "Well done! You now know more about the Netherlands and Belgium."
+    }
+  },
+  "culture": {
+    "title": "Vlaams en Nederlands",
+    "text": "In Belgium, Dutch is the official language in Flanders, but everyday Flemish has words that are less common in the Netherlands, such as **goesting** (zin) and **schoon** (mooi). Flemish is not a separate language; it is Dutch with regional words and a softer sound. Some expressions differ, especially in informal speech. For school, news and formal writing, Standard Dutch is used on both sides of the border."
+  },
+  "summary": [
+    "Use **de/het + superlative + -e + noun**: de grootste stad, het mooiste dorp.",
+    "Compare with **net zo ... als**, **niet zo ... als** and **minder ... dan**.",
+    "Adjectives from countries take a capital: **de Nederlandse kust**, **het Belgische bier**.",
+    "Languages and people take a capital: **Nederlands**, **Vlaams**, **een Nederlander**, **een Belg**, **een Vlaming**.",
+    "**Vlaanderen** is in the north of Belgium; **Brussel** is the capital."
+  ]
+}

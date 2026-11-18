@@ -1,0 +1,1131 @@
+{
+  "id": "u09-l03",
+  "title": "De verwarming is kapot",
+  "subtitle": "Problems at home and er + preposition",
+  "level": "A2",
+  "intro": "In this lesson you learn to report a problem in your home and to talk to your landlord or your neighbours about it. You also learn a very common Dutch pattern: er, daar and waar + a preposition, as in Ik heb er geen tijd voor and Waarmee kan ik u helpen?",
+  "words": [
+    {
+      "nl": "verwarming",
+      "en": "heating",
+      "pos": "noun",
+      "article": "de",
+      "plural": "verwarmingen",
+      "forms": null,
+      "example": {
+        "nl": "De verwarming is kapot.",
+        "en": "The heating is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "kraan",
+      "en": "tap",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kranen",
+      "forms": null,
+      "example": {
+        "nl": "De kraan in de keuken lekt.",
+        "en": "The tap in the kitchen is leaking."
+      },
+      "note": null
+    },
+    {
+      "nl": "douche",
+      "en": "shower",
+      "pos": "noun",
+      "article": "de",
+      "plural": "douches",
+      "forms": null,
+      "example": {
+        "nl": "De douche is kapot.",
+        "en": "The shower is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "lek",
+      "en": "leak",
+      "pos": "noun",
+      "article": "het",
+      "plural": "lekken",
+      "forms": null,
+      "example": {
+        "nl": "Er zit een lek in de leiding.",
+        "en": "There is a leak in the pipe."
+      },
+      "note": null
+    },
+    {
+      "nl": "lekkage",
+      "en": "leak, water damage",
+      "pos": "noun",
+      "article": "de",
+      "plural": "lekkages",
+      "forms": null,
+      "example": {
+        "nl": "We hebben een lekkage in de badkamer.",
+        "en": "We have a leak in the bathroom."
+      },
+      "note": "A lekkage is often bigger than a lek: water comes through the wall or the ceiling."
+    },
+    {
+      "nl": "leiding",
+      "en": "pipe",
+      "pos": "noun",
+      "article": "de",
+      "plural": "leidingen",
+      "forms": null,
+      "example": {
+        "nl": "De leiding onder de vloer is kapot.",
+        "en": "The pipe under the floor is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "stroom",
+      "en": "electricity, power",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Er is geen stroom in de keuken.",
+        "en": "There is no power in the kitchen."
+      },
+      "note": "Usually without article: Er is geen stroom. / De stroom is uitgevallen."
+    },
+    {
+      "nl": "gang",
+      "en": "hallway, corridor",
+      "pos": "noun",
+      "article": "de",
+      "plural": "gangen",
+      "forms": null,
+      "example": {
+        "nl": "De gang is donker.",
+        "en": "The hallway is dark."
+      },
+      "note": "In a house a gang is a hallway or corridor."
+    },
+    {
+      "nl": "licht",
+      "en": "light",
+      "pos": "noun",
+      "article": "het",
+      "plural": "lichten",
+      "forms": null,
+      "example": {
+        "nl": "Het licht is kapot.",
+        "en": "The light is broken."
+      },
+      "note": null
+    },
+    {
+      "nl": "buren",
+      "en": "neighbours",
+      "pos": "noun",
+      "article": "de",
+      "plural": "buren",
+      "forms": null,
+      "example": {
+        "nl": "De buren maken veel lawaai.",
+        "en": "The neighbours are making a lot of noise."
+      },
+      "note": "Usually plural: je buren. One neighbour is de buurman or de buurvrouw."
+    },
+    {
+      "nl": "lawaai",
+      "en": "noise",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het lawaai van de buren is een probleem.",
+        "en": "The noise from the neighbours is a problem."
+      },
+      "note": "No plural: het lawaai is always singular."
+    },
+    {
+      "nl": "klacht",
+      "en": "complaint",
+      "pos": "noun",
+      "article": "de",
+      "plural": "klachten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een klacht over de verwarming.",
+        "en": "I have a complaint about the heating."
+      },
+      "note": "You complain about something: klagen over."
+    },
+    {
+      "nl": "reparatie",
+      "en": "repair",
+      "pos": "noun",
+      "article": "de",
+      "plural": "reparaties",
+      "forms": null,
+      "example": {
+        "nl": "De reparatie kost honderd euro.",
+        "en": "The repair costs a hundred euros."
+      },
+      "note": null
+    },
+    {
+      "nl": "monteur",
+      "en": "repairman, technician",
+      "pos": "noun",
+      "article": "de",
+      "plural": "monteurs",
+      "forms": null,
+      "example": {
+        "nl": "De monteur komt morgen tussen negen en twaalf.",
+        "en": "The repairman is coming tomorrow between nine and twelve."
+      },
+      "note": null
+    },
+    {
+      "nl": "huisbaas",
+      "en": "landlord",
+      "pos": "noun",
+      "article": "de",
+      "plural": "huisbazen",
+      "forms": null,
+      "example": {
+        "nl": "Ik bel de huisbaas over de verwarming.",
+        "en": "I'm calling the landlord about the heating."
+      },
+      "note": null
+    },
+    {
+      "nl": "kapot",
+      "en": "broken",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De verwarming is kapot.",
+        "en": "The heating is broken."
+      },
+      "note": "Use kapot for things; for people say moe or ziek."
+    },
+    {
+      "nl": "lekken",
+      "en": "to leak",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik lek, jij lekt, wij lekken (heeft gelekt)",
+      "example": {
+        "nl": "De kraan lekt al twee dagen.",
+        "en": "The tap has been leaking for two days."
+      },
+      "note": "For a tyre you say de band is lek, with the adjective."
+    },
+    {
+      "nl": "repareren",
+      "en": "to repair, to fix",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik repareer, jij repareert, wij repareren (heeft gerepareerd)",
+      "example": {
+        "nl": "Kunt u de verwarming repareren?",
+        "en": "Can you repair the heating?"
+      },
+      "note": null
+    },
+    {
+      "nl": "maken",
+      "en": "to fix, to make",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik maak, jij maakt, wij maken (heeft gemaakt)",
+      "example": {
+        "nl": "De monteur maakt de kraan morgen.",
+        "en": "The repairman will fix the tap tomorrow."
+      },
+      "note": "Very common for repairs: Wat is er kapot? De monteur maakt het."
+    },
+    {
+      "nl": "klagen",
+      "en": "to complain",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik klaag, jij klaagt, wij klagen (heeft geklaagd)",
+      "example": {
+        "nl": "Ik klaag niet graag, maar dit is echt een probleem.",
+        "en": "I don't like to complain, but this is a real problem."
+      },
+      "note": "klagen over + thing: Wij klagen over het lawaai."
+    },
+    {
+      "nl": "probleem",
+      "en": "problem",
+      "pos": "noun",
+      "article": "het",
+      "plural": "problemen",
+      "forms": null,
+      "example": {
+        "nl": "Er is een probleem met de verwarming.",
+        "en": "There is a problem with the heating."
+      },
+      "note": null
+    },
+    {
+      "nl": "oplossing",
+      "en": "solution",
+      "pos": "noun",
+      "article": "de",
+      "plural": "oplossingen",
+      "forms": null,
+      "example": {
+        "nl": "De monteur heeft een oplossing.",
+        "en": "The repairman has a solution."
+      },
+      "note": null
+    },
+    {
+      "nl": "zo snel mogelijk",
+      "en": "as soon as possible",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Kunt u zo snel mogelijk komen?",
+        "en": "Can you come as soon as possible?"
+      },
+      "note": null
+    },
+    {
+      "nl": "waarmee",
+      "en": "with what",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Waarmee kan ik u helpen?",
+        "en": "How can I help you?"
+      },
+      "note": "waar + mee; the answer starts with met."
+    },
+    {
+      "nl": "waarover",
+      "en": "about what",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Waarover wilt u klagen?",
+        "en": "What do you want to complain about?"
+      },
+      "note": "waar + over; the answer starts with over."
+    },
+    {
+      "nl": "ervoor",
+      "en": "for it",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik zorg ervoor.",
+        "en": "I'll take care of it."
+      },
+      "note": "er + voor: for a thing, not for a person."
+    },
+    {
+      "nl": "ermee",
+      "en": "with it",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik stop ermee.",
+        "en": "I'm stopping with it."
+      },
+      "note": "er + mee: with a thing, not with a person."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "De verwarming is kapot.",
+      "en": "The heating is broken.",
+      "note": null
+    },
+    {
+      "nl": "Er is een lekkage in de badkamer.",
+      "en": "There is a leak in the bathroom.",
+      "note": null
+    },
+    {
+      "nl": "Kunt u een monteur sturen?",
+      "en": "Can you send a repairman?",
+      "note": "sturen = to send. Also: Kan de monteur komen?"
+    },
+    {
+      "nl": "Ik bel over de lekkage.",
+      "en": "I'm calling about the leak.",
+      "note": "over + thing: Ik bel over de verwarming."
+    },
+    {
+      "nl": "Kunt u zo snel mogelijk komen?",
+      "en": "Can you come as soon as possible?",
+      "note": null
+    },
+    {
+      "nl": "Waarmee kan ik u helpen?",
+      "en": "How can I help you?",
+      "note": "Very common at the start of a phone call; the answer starts with met."
+    },
+    {
+      "nl": "Daar zorg ik voor.",
+      "en": "I'll take care of that.",
+      "note": null
+    },
+    {
+      "nl": "Het komt goed.",
+      "en": "It will be all right.",
+      "note": null
+    },
+    {
+      "nl": "Ik heb er geen tijd voor.",
+      "en": "I don't have time for it.",
+      "note": "er + voor; the preposition stays at the end."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "er + preposition: it / that",
+      "explanation": "For a thing you often use **er + preposition**. **er** replaces the thing (**het/de** + noun), and the preposition stays at the end of the sentence: **Ik heb geen tijd voor de reparatie** becomes **Ik heb er geen tijd voor**. With people you do not use **er**: **Ik wacht op de monteur** becomes **Ik wacht op hem**.",
+      "table": {
+        "headers": [
+          "Zonder er",
+          "Met er"
+        ],
+        "rows": [
+          [
+            "Ik denk na over het probleem.",
+            "Ik denk erover na."
+          ],
+          [
+            "Ik heb geen tijd voor de reparatie.",
+            "Ik heb er geen tijd voor."
+          ],
+          [
+            "Ik ben blij met de oplossing.",
+            "Ik ben er blij mee."
+          ],
+          [
+            "Ik zorg voor de afspraak.",
+            "Ik zorg ervoor."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb er geen tijd voor.",
+          "en": "I don't have time for it."
+        },
+        {
+          "nl": "Wij denken erover na.",
+          "en": "We are thinking about it."
+        },
+        {
+          "nl": "Ik zorg ervoor.",
+          "en": "I'll take care of it."
+        }
+      ],
+      "tip": "Think of er and the preposition as one pair: er + voor, er + mee, er + over. In the sentence the preposition often sits at the end: Ik heb er geen zin in."
+    },
+    {
+      "title": "waar + preposition: asking about things",
+      "explanation": "For questions about a thing, put **waar** in front of the preposition: **waar + mee = waarmee**, **waar + over = waarover**, **waar + voor = waarvoor**. The question word comes first, then the verb: **Waarmee kan ik u helpen?** For people you use a preposition + **wie**: **Met wie praat je?**",
+      "table": {
+        "headers": [
+          "Vraag",
+          "Antwoord"
+        ],
+        "rows": [
+          [
+            "Waarmee kan ik u helpen?",
+            "Met de verwarming."
+          ],
+          [
+            "Waarover bel je?",
+            "Over de lekkage."
+          ],
+          [
+            "Waarvoor komt de monteur?",
+            "Voor de verwarming."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Waarover wilt u klagen?",
+          "en": "What do you want to complain about?"
+        },
+        {
+          "nl": "Waarmee kan ik u helpen?",
+          "en": "How can I help you?"
+        },
+        {
+          "nl": "Waarvoor komt de monteur?",
+          "en": "What is the repairman coming for?"
+        }
+      ],
+      "tip": "Look at the answer: if it starts with met, over or voor, the question word is waarmee, waarover or waarvoor."
+    },
+    {
+      "title": "daar + preposition: that, with emphasis",
+      "explanation": "**Daar + preposition** points back to something you already said, with extra emphasis: **Daar heb ik geen tijd voor.** **Daar zorg ik voor.** It works like **er + preposition**, but **daar** is stressed and often comes first in the sentence. The preposition can stay at the end: **Daar bel ik morgen over.**",
+      "table": null,
+      "examples": [
+        {
+          "nl": "Daar zorg ik voor.",
+          "en": "I'll take care of that."
+        },
+        {
+          "nl": "Daar heb ik geen tijd voor.",
+          "en": "I don't have time for that."
+        },
+        {
+          "nl": "Daar bel ik morgen over.",
+          "en": "I'll call about that tomorrow."
+        }
+      ],
+      "tip": "Neutral: Ik heb er geen tijd voor. Emphatic: Daar heb ik geen tijd voor!"
+    }
+  ],
+  "dialogue": {
+    "title": "Een telefoontje naar de huisbaas",
+    "setting": "It is a cold Monday morning in January and the heating in Sanne's flat does not work. She calls her landlord, meneer De Vries.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Meneer De Vries",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Goedemorgen, met De Vries.",
+        "en": "Good morning, De Vries speaking."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemorgen meneer De Vries, u spreekt met Sanne Bakker. Ik bel over de verwarming.",
+        "en": "Good morning Mr De Vries, this is Sanne Bakker. I'm calling about the heating."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Wat is er?",
+        "en": "What's the problem?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "De verwarming is kapot. Het is heel koud in huis.",
+        "en": "The heating is broken. It's very cold in the house."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Dat is niet leuk. Sinds wanneer is hij kapot?",
+        "en": "That's not nice. Since when has it been broken?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Sinds gisteravond. Kunt u een monteur sturen? Zo snel mogelijk, graag.",
+        "en": "Since yesterday evening. Can you send a repairman? As soon as possible, please."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Ja, ik zorg ervoor.",
+        "en": "Yes, I'll take care of it."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wanneer kan de monteur komen?",
+        "en": "When can the repairman come?"
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "De monteur komt morgen tussen negen en twaalf. Is dat goed?",
+        "en": "The repairman is coming tomorrow between nine and twelve. Is that all right?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, dan ben ik thuis. Moet ik nog iets doen?",
+        "en": "Yes, I'll be home then. Do I need to do anything?"
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Nee, u hoeft niets te doen.",
+        "en": "No, you don't need to do anything."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En wie betaalt de reparatie?",
+        "en": "And who pays for the repair?"
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Ik betaal de reparatie. Geen probleem.",
+        "en": "I'll pay for the repair. No problem."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, dank u wel. Tot morgen.",
+        "en": "Yes, thank you very much. See you tomorrow."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de verwarming",
+          "the heating"
+        ],
+        [
+          "de kraan",
+          "the tap"
+        ],
+        [
+          "de monteur",
+          "the repairman"
+        ],
+        [
+          "de huisbaas",
+          "the landlord"
+        ],
+        [
+          "de oplossing",
+          "the solution"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "kapot",
+          "broken"
+        ],
+        [
+          "lekken",
+          "to leak"
+        ],
+        [
+          "repareren",
+          "to repair"
+        ],
+        [
+          "klagen",
+          "to complain"
+        ],
+        [
+          "het lawaai",
+          "the noise"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik heb er geen tijd voor.",
+        "Ik heb er geen tijd.",
+        "Ik heb geen tijd voor er."
+      ],
+      "answer": 0,
+      "explain": "With er + preposition the preposition stays at the end of the sentence."
+    },
+    {
+      "type": "choice",
+      "prompt": "You want to know where the leak is. Choose the correct question word.",
+      "nl": "___ is de lekkage?",
+      "options": [
+        "Waar",
+        "Waarmee",
+        "Waarover"
+      ],
+      "answer": 0,
+      "explain": "There is no preposition in the answer (in de badkamer), so you use waar alone."
+    },
+    {
+      "type": "choice",
+      "prompt": "You want to know the topic of the complaint. Choose the correct question word.",
+      "nl": "___ wilt u klagen?",
+      "options": [
+        "Waar",
+        "Waarmee",
+        "Waarover"
+      ],
+      "answer": 2,
+      "explain": "You complain about something: klagen over, so waar + over = waarover."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "De kraan ___ al twee dagen.",
+      "options": [
+        "lekt",
+        "lekken",
+        "lekt er"
+      ],
+      "answer": 0,
+      "explain": "De kraan is singular, so the verb gets -t: lekt."
+    },
+    {
+      "type": "article",
+      "word": "lek",
+      "en": "leak",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "monteur",
+      "en": "repairman",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "The heating is broken.",
+      "answer": "De verwarming is kapot",
+      "accept": [],
+      "extra": [
+        "kapotte",
+        "waren"
+      ],
+      "explain": "Use de with verwarming and no -e after is: De verwarming is kapot."
+    },
+    {
+      "type": "build",
+      "en": "I have no time for it.",
+      "answer": "Ik heb er geen tijd voor",
+      "accept": [],
+      "extra": [
+        "niet",
+        "hebt"
+      ],
+      "explain": "With er + voor the preposition stays at the end: Ik heb er geen tijd voor."
+    },
+    {
+      "type": "build",
+      "en": "Can you send a repairman?",
+      "answer": "Kunt u een monteur sturen",
+      "accept": [],
+      "extra": [
+        "stuurt",
+        "gestuurd"
+      ],
+      "explain": "After kunt u use the infinitive sturen at the end: Kunt u een monteur sturen?"
+    },
+    {
+      "type": "gap",
+      "text": "De kraan ___ al twee dagen.",
+      "en": "The tap has been leaking for two days.",
+      "answers": [
+        "lekt"
+      ],
+      "hint": "lekken",
+      "explain": "De kraan is singular, so the verb gets -t: lekt."
+    },
+    {
+      "type": "gap",
+      "text": "Kunt u de verwarming ___?",
+      "en": "Can you repair the heating?",
+      "answers": [
+        "repareren",
+        "maken"
+      ],
+      "hint": "repareren / maken",
+      "explain": "After kunt u the infinitive comes at the end: repareren or maken."
+    },
+    {
+      "type": "gap",
+      "text": "Ik bel ___ de lekkage.",
+      "en": "I'm calling about the leak.",
+      "answers": [
+        "over"
+      ],
+      "hint": "about",
+      "explain": "Bellen over takes over before the thing: Ik bel over de lekkage."
+    },
+    {
+      "type": "gap",
+      "text": "___ kan ik u helpen?",
+      "en": "How can I help you?",
+      "answers": [
+        "Waarmee"
+      ],
+      "hint": "with what",
+      "explain": "Ask about a thing with waar + mee = waarmee; the answer starts with met."
+    },
+    {
+      "type": "gap",
+      "text": "De monteur komt ___ snel mogelijk.",
+      "en": "The repairman is coming as soon as possible.",
+      "answers": [
+        "zo"
+      ],
+      "hint": "as ... as possible",
+      "explain": "The fixed phrase is zo snel mogelijk."
+    },
+    {
+      "type": "translate",
+      "en": "The heating is broken.",
+      "answers": [
+        "De verwarming is kapot.",
+        "De verwarming is stuk."
+      ],
+      "focus": "kapot",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'het' with 'verwarming' (Het verwarming is kapot).",
+          "explain": "Verwarming is a de-word: de verwarming. Say De verwarming is kapot."
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds -e to the adjective after 'is' (De verwarming is kapotte).",
+          "explain": "After is the adjective has no -e: De verwarming is kapot."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts 'kapot' before 'is' (De verwarming kapot is).",
+          "explain": "In a main clause the verb comes second: De verwarming is kapot."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I have no time for it.",
+      "answers": [
+        "Ik heb er geen tijd voor.",
+        "Daar heb ik geen tijd voor."
+      ],
+      "focus": "er + voor",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Leaves out 'er' (Ik heb geen tijd voor).",
+          "explain": "For a thing use er + preposition: Ik heb er geen tijd voor."
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out the final preposition (Ik heb er geen tijd).",
+          "explain": "The preposition stays at the end: Ik heb er geen tijd voor."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'niet' before 'tijd' (Ik heb er niet tijd voor).",
+          "explain": "Use geen before a noun: geen tijd, not niet tijd."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Can you send a repairman?",
+      "answers": [
+        "Kunt u een monteur sturen?",
+        "Kun je een monteur sturen?",
+        "Kunnen jullie een monteur sturen?"
+      ],
+      "focus": "kunt u / kun je",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses a finite verb after the modal (Kunt u een monteur stuurt?).",
+          "explain": "After a modal verb use the infinitive: Kunt u een monteur sturen?"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitive before the object (Kunt u sturen een monteur?).",
+          "explain": "The object comes before the infinitive at the end: Kunt u een monteur sturen?"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses plural 'kunnen' with formal 'u' (Kunnen u een monteur sturen?).",
+          "explain": "With u use kunt u: Kunt u een monteur sturen?"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "What are you complaining about?",
+      "answers": [
+        "Waarover klaag je?",
+        "Waar klaag je over?",
+        "Waarover klaagt u?",
+        "Waar klaagt u over?"
+      ],
+      "focus": "waar + over",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'wat' instead of 'waar' + preposition (Wat klaag je over?).",
+          "explain": "Ask about a thing with waar + over = waarover: Waarover klaag je? or Waar klaag je over?"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the wrong preposition with klagen (Waarmee klaag je?).",
+          "explain": "Klagen takes over: Waarover klaag je?"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out the preposition (Waar klaag je?).",
+          "explain": "Waar alone asks where; for 'about what' use waarover or waar ... over: Waar klaag je over?"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "De verwarming is kapot.",
+      "en": "The heating is broken."
+    },
+    {
+      "type": "listen",
+      "nl": "De monteur komt morgen.",
+      "en": "The repairman is coming tomorrow."
+    },
+    {
+      "type": "reply",
+      "context": "You call your landlord. He answers the phone.",
+      "say": {
+        "nl": "Goedemorgen, met De Vries.",
+        "en": "Good morning, De Vries speaking."
+      },
+      "task": "Say who you are and that you are calling about the heating.",
+      "examples": [
+        "Goedemorgen, u spreekt met Sanne Bakker. Ik bel over de verwarming.",
+        "Hallo meneer De Vries, met Sanne. Ik bel over de verwarming."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'voor' instead of 'over' with bellen (Ik bel voor de verwarming).",
+          "explain": "Calling about a problem is bellen over: Ik bel over de verwarming."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits the article before 'verwarming' (Ik bel over verwarming).",
+          "explain": "Verwarming is a de-word: Ik bel over de verwarming."
+        },
+        {
+          "id": "m3",
+          "pattern": "Forgets to introduce themselves on the phone (Goedemorgen, ik bel over de verwarming).",
+          "explain": "On the phone say u spreekt met ... or met ...: Goedemorgen, u spreekt met Sanne Bakker."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The landlord asks when you are home.",
+      "say": {
+        "nl": "De monteur kan morgen komen. Wanneer bent u thuis?",
+        "en": "The repairman can come tomorrow. When are you home?"
+      },
+      "task": "Say that you are home tomorrow morning and ask if the repairman can come as soon as possible.",
+      "examples": [
+        "Morgenochtend ben ik thuis. Kan hij zo snel mogelijk komen?",
+        "Ik ben morgen thuis. Kunt u hem zo snel mogelijk sturen?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the time phrase first without verb second (Morgenochtend ik ben thuis).",
+          "explain": "After a time phrase the verb comes second: Morgenochtend ben ik thuis."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'naar huis' for being at home (Ik ben morgen naar huis).",
+          "explain": "Thuis means at home; naar huis means homewards: Ik ben morgen thuis."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts 'zo snel mogelijk' after the infinitive (Kan hij komen zo snel mogelijk?).",
+          "explain": "Put zo snel mogelijk before the infinitive: Kan hij zo snel mogelijk komen?"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "De verwarming is kapot",
+    "setting": "It is winter and your heating does not work. You call your landlord, meneer De Vries, to report the problem and to make an appointment with a repairman.",
+    "partner": {
+      "name": "Meneer De Vries",
+      "gender": "m",
+      "role": "your landlord"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen, met De Vries.",
+          "en": "Good morning, De Vries speaking."
+        },
+        "task": "Say who you are and that you are calling about the heating.",
+        "examples": [
+          "Goedemorgen, u spreekt met Sanne Bakker. Ik bel over de verwarming.",
+          "Hallo meneer De Vries, met Sanne. Ik bel over de verwarming."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'voor' with bellen (Ik bel voor de verwarming).",
+            "explain": "Bellen over means to call about: Ik bel over de verwarming."
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets the phone introduction (Goedemorgen, ik bel over de verwarming).",
+            "explain": "Say who you are with u spreekt met ... or met ...: Goedemorgen, u spreekt met Sanne Bakker."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits the article before 'verwarming' (Ik bel over verwarming).",
+            "explain": "Use de verwarming: Ik bel over de verwarming."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is er?",
+          "en": "What is the problem?"
+        },
+        "task": "Explain the problem: the heating is broken, the house is cold, and it started yesterday evening.",
+        "examples": [
+          "De verwarming is kapot. Het is koud in huis sinds gisteravond.",
+          "Sinds gisteravond is de verwarming kapot. Het is heel koud in huis."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses -e after 'is' (De verwarming is kapotte).",
+            "explain": "After is the adjective has no -e: De verwarming is kapot."
+          },
+          {
+            "id": "m2",
+            "pattern": "Starts with 'sinds gisteravond' but keeps the subject before the verb (Sinds gisteravond de verwarming is kapot).",
+            "explain": "After sinds gisteravond the verb comes second: Sinds gisteravond is de verwarming kapot."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'voor' for a starting point in time (Het is koud in huis voor gisteravond).",
+            "explain": "Use sinds for since: Het is koud in huis sinds gisteravond."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik stuur een monteur. Wanneer bent u thuis?",
+          "en": "I'll send a repairman. When are you home?"
+        },
+        "task": "Say you are home tomorrow morning and ask if the repairman can come as soon as possible.",
+        "examples": [
+          "Morgenochtend ben ik thuis. Kan hij zo snel mogelijk komen?",
+          "Ik ben morgen thuis. Kunt u hem zo snel mogelijk sturen?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the subject before the verb after a time phrase (Morgenochtend ik ben thuis).",
+            "explain": "After a time phrase the verb comes second: Morgenochtend ben ik thuis."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'naar huis' for being at home (Ik ben morgen naar huis).",
+            "explain": "Thuis means at home: Ik ben morgen thuis."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts 'zo snel mogelijk' after the infinitive (Kan hij komen zo snel mogelijk?).",
+            "explain": "Put zo snel mogelijk before the infinitive: Kan hij zo snel mogelijk komen?"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De monteur komt morgen tussen negen en twaalf. Goed?",
+          "en": "The repairman is coming tomorrow between nine and twelve. All right?"
+        },
+        "task": "Agree, and ask who pays for the repair.",
+        "examples": [
+          "Dat is goed. En wie betaalt de reparatie?",
+          "Ja, prima. Wie betaalt de reparatie?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'betaal' with 'wie' as subject (Wie betaal de reparatie?).",
+            "explain": "With wie as subject the verb gets -t: Wie betaalt de reparatie?"
+          },
+          {
+            "id": "m2",
+            "pattern": "Keeps the subject before the verb in a direct question (En wie de reparatie betaalt?).",
+            "explain": "In a direct question the verb comes second: En wie betaalt de reparatie?"
+          },
+          {
+            "id": "m3",
+            "pattern": "Asks 'wie kost' instead of 'wat kost' (Wie kost de reparatie?).",
+            "explain": "Things cost: Wat kost de reparatie? Use wie for people."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik betaal de reparatie. Dat is mijn probleem.",
+          "en": "I'll pay for the repair. That's my problem."
+        },
+        "task": "Thank him and end the call politely.",
+        "examples": [
+          "Dank u wel. Tot morgen!",
+          "Bedankt meneer De Vries. Fijne dag!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'Dank u veel' instead of 'Dank u wel' (Dank u veel).",
+            "explain": "Say Dank u wel or Hartelijk dank, not Dank u veel."
+          },
+          {
+            "id": "m2",
+            "pattern": "Writes 'tot morgen avond' as two words (Tot morgen avond).",
+            "explain": "Morgenavond is one word; or simply say Tot morgen."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Geen dank. Tot morgen!",
+      "en": "You're welcome. See you tomorrow!"
+    }
+  },
+  "culture": {
+    "title": "Who repairs what?",
+    "text": "In the Netherlands the landlord (de huisbaas or verhuurder) usually pays for big repairs: the heating, the pipes, a leak in the roof. Small things, such as a light bulb or a blocked drain, are often for the tenant (de huurder). Your contract says exactly who does what, so check it before you call. If the landlord does nothing, you can ask the Huurcommissie or the Juridisch Loket for free advice."
+  },
+  "summary": [
+    "Use er + preposition for things: Ik heb er geen tijd voor. De monteur zorgt ervoor.",
+    "Ask with waar + preposition: Waarmee? Waarover? Waarvoor?",
+    "Daar + preposition points back with emphasis: Daar zorg ik voor.",
+    "For a problem in your home, call the huisbaas; the monteur comes to repair it.",
+    "Use zo snel mogelijk, sinds and tussen ... en ... to make an appointment."
+  ]
+}

@@ -1,0 +1,1129 @@
+{
+  "id": "u10-l02",
+  "title": "In het hotel",
+  "subtitle": "Hotels and if-then",
+  "level": "A2",
+  "intro": "In this lesson you will learn to check in and out at a Dutch hotel, ask about breakfast and wifi, and make a polite complaint. You will also learn to use als ... (dan) for real conditions: if something happens, then something else follows.",
+  "words": [
+    {
+      "nl": "hotel",
+      "en": "hotel",
+      "pos": "noun",
+      "article": "het",
+      "plural": "hotels",
+      "forms": null,
+      "example": {
+        "nl": "Het hotel is in het centrum van Maastricht.",
+        "en": "The hotel is in the centre of Maastricht."
+      },
+      "note": null
+    },
+    {
+      "nl": "receptie",
+      "en": "reception",
+      "pos": "noun",
+      "article": "de",
+      "plural": "recepties",
+      "forms": null,
+      "example": {
+        "nl": "De receptie is op de begane grond.",
+        "en": "The reception is on the ground floor."
+      },
+      "note": null
+    },
+    {
+      "nl": "kamer",
+      "en": "room",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kamers",
+      "forms": null,
+      "example": {
+        "nl": "Onze kamer is op de derde verdieping.",
+        "en": "Our room is on the third floor."
+      },
+      "note": null
+    },
+    {
+      "nl": "sleutel",
+      "en": "key",
+      "pos": "noun",
+      "article": "de",
+      "plural": "sleutels",
+      "forms": null,
+      "example": {
+        "nl": "Hier is uw sleutel.",
+        "en": "Here is your key."
+      },
+      "note": null
+    },
+    {
+      "nl": "pasje",
+      "en": "card, key card",
+      "pos": "noun",
+      "article": "het",
+      "plural": "pasjes",
+      "forms": null,
+      "example": {
+        "nl": "Het wachtwoord staat op uw pasje.",
+        "en": "The password is on your card."
+      },
+      "note": "In a hotel, a pasje is often a key card."
+    },
+    {
+      "nl": "inchecken",
+      "en": "to check in",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik check in, jij checkt in, wij checken in (heeft ingecheckt)",
+      "example": {
+        "nl": "Ik wil graag inchecken.",
+        "en": "I would like to check in."
+      },
+      "note": "Separable verb: ik check in, ik heb ingecheckt."
+    },
+    {
+      "nl": "uitchecken",
+      "en": "to check out",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik check uit, jij checkt uit, wij checken uit (heeft uitgecheckt)",
+      "example": {
+        "nl": "We checken morgen om elf uur uit.",
+        "en": "We check out tomorrow at eleven."
+      },
+      "note": null
+    },
+    {
+      "nl": "reservering",
+      "en": "reservation",
+      "pos": "noun",
+      "article": "de",
+      "plural": "reserveringen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een reservering op naam van Jansen.",
+        "en": "I have a reservation in the name of Jansen."
+      },
+      "note": null
+    },
+    {
+      "nl": "nacht",
+      "en": "night",
+      "pos": "noun",
+      "article": "de",
+      "plural": "nachten",
+      "forms": null,
+      "example": {
+        "nl": "We blijven twee nachten.",
+        "en": "We are staying two nights."
+      },
+      "note": "'s Nachts means at night."
+    },
+    {
+      "nl": "ontbijt",
+      "en": "breakfast",
+      "pos": "noun",
+      "article": "het",
+      "plural": "ontbijten",
+      "forms": null,
+      "example": {
+        "nl": "Het ontbijt is van zeven tot tien uur.",
+        "en": "Breakfast is from seven to ten."
+      },
+      "note": "The verb is ontbijten: to have breakfast."
+    },
+    {
+      "nl": "inbegrepen",
+      "en": "included",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Is het ontbijt inbegrepen?",
+        "en": "Is breakfast included?"
+      },
+      "note": "Usually after zijn: Het ontbijt is inbegrepen."
+    },
+    {
+      "nl": "lift",
+      "en": "lift, elevator",
+      "pos": "noun",
+      "article": "de",
+      "plural": "liften",
+      "forms": null,
+      "example": {
+        "nl": "De lift is naast de receptie.",
+        "en": "The lift is next to the reception."
+      },
+      "note": null
+    },
+    {
+      "nl": "handdoek",
+      "en": "towel",
+      "pos": "noun",
+      "article": "de",
+      "plural": "handdoeken",
+      "forms": null,
+      "example": {
+        "nl": "Zou u een handdoek kunnen brengen?",
+        "en": "Could you bring a towel?"
+      },
+      "note": null
+    },
+    {
+      "nl": "airco",
+      "en": "air conditioning",
+      "pos": "noun",
+      "article": "de",
+      "plural": "airco's",
+      "forms": null,
+      "example": {
+        "nl": "De airco werkt niet.",
+        "en": "The air conditioning does not work."
+      },
+      "note": null
+    },
+    {
+      "nl": "wifi",
+      "en": "wifi",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wat is het wachtwoord van de wifi?",
+        "en": "What is the wifi password?"
+      },
+      "note": "de wifi; no plural in everyday use."
+    },
+    {
+      "nl": "wachtwoord",
+      "en": "password",
+      "pos": "noun",
+      "article": "het",
+      "plural": "wachtwoorden",
+      "forms": null,
+      "example": {
+        "nl": "Het wachtwoord staat op uw pasje.",
+        "en": "The password is on your card."
+      },
+      "note": null
+    },
+    {
+      "nl": "klacht",
+      "en": "complaint",
+      "pos": "noun",
+      "article": "de",
+      "plural": "klachten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een klacht over de kamer.",
+        "en": "I have a complaint about the room."
+      },
+      "note": null
+    },
+    {
+      "nl": "lawaai",
+      "en": "noise",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Er is veel lawaai op de gang.",
+        "en": "There is a lot of noise in the corridor."
+      },
+      "note": "Het lawaai is uncountable."
+    },
+    {
+      "nl": "vies",
+      "en": "dirty",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De handdoek is vies.",
+        "en": "The towel is dirty."
+      },
+      "note": null
+    },
+    {
+      "nl": "werken",
+      "en": "to work; to function",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik werk, jij werkt, wij werken (heeft gewerkt)",
+      "example": {
+        "nl": "De airco werkt niet.",
+        "en": "The air conditioning does not work."
+      },
+      "note": "For machines, werkt (niet) means works/does not work."
+    },
+    {
+      "nl": "vervangen",
+      "en": "to replace",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vervang, jij vervangt, wij vervangen (heeft vervangen)",
+      "example": {
+        "nl": "Zou u de handdoek kunnen vervangen?",
+        "en": "Could you replace the towel?"
+      },
+      "note": "vervangen = to replace one thing with another."
+    },
+    {
+      "nl": "ober",
+      "en": "waiter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "obers",
+      "forms": null,
+      "example": {
+        "nl": "De ober brengt het ontbijt.",
+        "en": "The waiter brings breakfast."
+      },
+      "note": null
+    },
+    {
+      "nl": "storing",
+      "en": "malfunction, problem",
+      "pos": "noun",
+      "article": "de",
+      "plural": "storingen",
+      "forms": null,
+      "example": {
+        "nl": "Er is een storing: de wifi werkt niet.",
+        "en": "There is a malfunction: the wifi does not work."
+      },
+      "note": null
+    },
+    {
+      "nl": "uitzicht",
+      "en": "view",
+      "pos": "noun",
+      "article": "het",
+      "plural": "uitzichten",
+      "forms": null,
+      "example": {
+        "nl": "Onze kamer heeft een mooi uitzicht.",
+        "en": "Our room has a beautiful view."
+      },
+      "note": null
+    },
+    {
+      "nl": "bagage",
+      "en": "luggage",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Waar kan ik mijn bagage laten?",
+        "en": "Where can I leave my luggage?"
+      },
+      "note": "de bagage has no plural."
+    },
+    {
+      "nl": "kluis",
+      "en": "safe",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kluizen",
+      "forms": null,
+      "example": {
+        "nl": "De kluis is in de kast.",
+        "en": "The safe is in the cupboard."
+      },
+      "note": null
+    },
+    {
+      "nl": "begane grond",
+      "en": "ground floor",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De receptie is op de begane grond.",
+        "en": "The reception is on the ground floor."
+      },
+      "note": "Use op de begane grond."
+    },
+    {
+      "nl": "gang",
+      "en": "corridor, hallway",
+      "pos": "noun",
+      "article": "de",
+      "plural": "gangen",
+      "forms": null,
+      "example": {
+        "nl": "Onze kamer is aan het einde van de gang.",
+        "en": "Our room is at the end of the corridor."
+      },
+      "note": null
+    },
+    {
+      "nl": "minibar",
+      "en": "minibar",
+      "pos": "noun",
+      "article": "de",
+      "plural": "minibars",
+      "forms": null,
+      "example": {
+        "nl": "Er is water in de minibar.",
+        "en": "There is water in the minibar."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik heb een reservering op naam van ...",
+      "en": "I have a reservation in the name of ...",
+      "note": "Fill in your surname."
+    },
+    {
+      "nl": "Ik wil graag inchecken.",
+      "en": "I would like to check in.",
+      "note": null
+    },
+    {
+      "nl": "Is het ontbijt inbegrepen?",
+      "en": "Is breakfast included?",
+      "note": null
+    },
+    {
+      "nl": "Op welke verdieping is de kamer?",
+      "en": "On which floor is the room?",
+      "note": null
+    },
+    {
+      "nl": "Het spijt me, maar er is een probleem.",
+      "en": "I'm sorry, but there is a problem.",
+      "note": "A soft way to start a complaint."
+    },
+    {
+      "nl": "Zou u dat kunnen vervangen?",
+      "en": "Could you replace that?",
+      "note": "Very polite; kunnen comes before the infinitive at the end."
+    },
+    {
+      "nl": "De wifi werkt niet.",
+      "en": "The wifi does not work.",
+      "note": null
+    },
+    {
+      "nl": "Dan belt u de receptie.",
+      "en": "Then you call reception.",
+      "note": "After dan, the verb comes first."
+    },
+    {
+      "nl": "Hoe laat is het ontbijt?",
+      "en": "What time is breakfast?",
+      "note": null
+    },
+    {
+      "nl": "Ik heb een klacht over de kamer.",
+      "en": "I have a complaint about the room.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Als ... (dan): real conditions",
+      "explanation": "Use **als** + a condition. The verb in the als-clause goes to the end. The main clause starts with the verb, or with **dan** + verb; **dan** is optional. **Als** het regent, **gaan** we naar het museum. **Als** u een klacht **heeft**, **belt** u de receptie.",
+      "table": {
+        "headers": [
+          "Als-clause",
+          "Main clause"
+        ],
+        "rows": [
+          [
+            "Als het regent,",
+            "gaan we naar het museum."
+          ],
+          [
+            "Als u een klacht heeft,",
+            "belt u de receptie."
+          ],
+          [
+            "Als de wifi niet werkt,",
+            "kunt u ons bellen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Als het regent, gaan we naar het museum.",
+          "en": "If it rains, we go to the museum."
+        },
+        {
+          "nl": "Als u een klacht heeft, belt u de receptie.",
+          "en": "If you have a complaint, you call reception."
+        },
+        {
+          "nl": "Als de wifi niet werkt, kunt u ons bellen.",
+          "en": "If the wifi does not work, you can call us."
+        }
+      ],
+      "tip": "Think: condition first, verb last; result second, verb first."
+    },
+    {
+      "title": "Inversion after the als-clause",
+      "explanation": "When the sentence starts with the als-clause, the main clause begins with the verb, or with **dan** + verb. Do not use normal subject-first order after the comma. **Als** u wilt, **kan** ik u helpen. **Als** het koud is, **gaan** we naar binnen.",
+      "table": {
+        "headers": [
+          "Correct",
+          "Not correct"
+        ],
+        "rows": [
+          [
+            "Als het regent, gaan we naar het museum.",
+            "Als het regent, we gaan naar het museum."
+          ],
+          [
+            "Als u wilt, kan ik u helpen.",
+            "Als u wilt, ik kan u helpen."
+          ],
+          [
+            "Als het niet werkt, dan belt u de receptie.",
+            "Als het niet werkt, dan u belt de receptie."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Als u wilt, kan ik u helpen.",
+          "en": "If you want, I can help you."
+        },
+        {
+          "nl": "Als het koud is, gaan we naar binnen.",
+          "en": "If it is cold, we go inside."
+        }
+      ],
+      "tip": "After the comma, the first word is the verb (or dan + verb)."
+    },
+    {
+      "title": "Polite complaints: Het spijt me, maar... / Zou u ... kunnen?",
+      "explanation": "Start a complaint softly with **Het spijt me, maar...**. For a polite request, use **Zou u** + object + **kunnen** + infinitive? This is very polite. **Het spijt me, maar** de airco **werkt** niet. **Zou u** de handdoek **kunnen** brengen?",
+      "table": {
+        "headers": [
+          "Function",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Soften a complaint",
+            "Het spijt me, maar de wifi werkt niet."
+          ],
+          [
+            "Polite request",
+            "Zou u de handdoek kunnen brengen?"
+          ],
+          [
+            "Very polite question",
+            "Zou u mij het wachtwoord kunnen geven?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Het spijt me, maar de airco werkt niet.",
+          "en": "I'm sorry, but the air conditioning does not work."
+        },
+        {
+          "nl": "Zou u de handdoek kunnen brengen?",
+          "en": "Could you bring the towel?"
+        },
+        {
+          "nl": "Zou u mij het wachtwoord kunnen geven?",
+          "en": "Could you give me the password?"
+        }
+      ],
+      "tip": "Zou u ... kunnen + infinitive? = could you ...? The infinitive comes at the end."
+    }
+  ],
+  "dialogue": {
+    "title": "Inchecken en een klacht",
+    "setting": "Daan checks in at a hotel in Maastricht and later calls reception about the wifi.",
+    "speakers": [
+      {
+        "name": "Lotte",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Lotte",
+        "nl": "Goedemiddag, welkom in Hotel Maaszicht. Hoe kan ik u helpen?",
+        "en": "Good afternoon, welcome to Hotel Maaszicht. How can I help you?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Goedemiddag, ik heb een reservering op naam van De Vries.",
+        "en": "Good afternoon, I have a reservation in the name of De Vries."
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Even kijken... Ja, meneer De Vries. Twee nachten, een kamer met ontbijt?",
+        "en": "Let me see... Yes, Mr De Vries. Two nights, a room with breakfast?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, dat is goed. Is het ontbijt inbegrepen?",
+        "en": "Yes, that's right. Is breakfast included?"
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Ja, het ontbijt is inbegrepen. Mag ik uw paspoort zien?",
+        "en": "Yes, breakfast is included. May I see your passport?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Alstublieft. En waar is de kamer?",
+        "en": "Here you are. And where is the room?"
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Op de derde verdieping, kamer 304. De lift is daar. Hier is uw pasje.",
+        "en": "On the third floor, room 304. The lift is there. Here is your key card."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Dank u wel. Hoe laat is het ontbijt?",
+        "en": "Thank you. What time is breakfast?"
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Van zeven tot tien uur, op de begane grond.",
+        "en": "From seven to ten, on the ground floor."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Nog een vraag: wat is het wachtwoord van de wifi?",
+        "en": "One more question: what is the wifi password?"
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Dat staat op uw pasje. Als het niet werkt, dan belt u de receptie.",
+        "en": "That is on your card. If it does not work, then you call reception."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Hallo, het spijt me, maar de wifi werkt niet.",
+        "en": "Hello, I'm sorry, but the wifi does not work."
+      },
+      {
+        "speaker": "Lotte",
+        "nl": "Wat jammer. Ik stuur u een nieuw wachtwoord. Als u wilt, kan de monteur ook komen.",
+        "en": "That's a shame. I will send you a new password. If you want, the technician can come too."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Nee, dat is niet nodig. Dank u wel!",
+        "en": "No, that is not necessary. Thank you!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de kamer",
+          "the room"
+        ],
+        [
+          "de sleutel",
+          "the key"
+        ],
+        [
+          "het pasje",
+          "the key card"
+        ],
+        [
+          "de handdoek",
+          "the towel"
+        ],
+        [
+          "de airco",
+          "the air conditioning"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "inchecken",
+          "to check in"
+        ],
+        [
+          "uitchecken",
+          "to check out"
+        ],
+        [
+          "vervangen",
+          "to replace"
+        ],
+        [
+          "inbegrepen",
+          "included"
+        ],
+        [
+          "de klacht",
+          "the complaint"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "What does 'Is het ontbijt inbegrepen?' mean?",
+      "nl": null,
+      "options": [
+        "Is breakfast included?",
+        "Is breakfast ready?",
+        "Where is breakfast?"
+      ],
+      "answer": 0,
+      "explain": "Inbegrepen means included in the price."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Als het regent, we gaan naar het museum.",
+        "Als het regent, gaan we naar het museum.",
+        "Als het regent, gaan naar het museum we."
+      ],
+      "answer": 1,
+      "explain": "In the als-clause the verb goes to the end; the main clause starts with the verb."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which complaint is the most polite?",
+      "nl": null,
+      "options": [
+        "De airco is kapot!",
+        "U moet de airco repareren.",
+        "Zou u de airco kunnen repareren?"
+      ],
+      "answer": 2,
+      "explain": "Zou u ... kunnen? is a polite request; the others are direct or rude."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word fits? 'Ik heb een ___ op naam van Jansen.'",
+      "nl": "Ik heb een ___ op naam van Jansen.",
+      "options": [
+        "receptie",
+        "reservering",
+        "sleutel"
+      ],
+      "answer": 1,
+      "explain": "A reservering is a booking; it can be on a name."
+    },
+    {
+      "type": "article",
+      "word": "kamer",
+      "en": "room",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "hotel",
+      "en": "hotel",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "wachtwoord",
+      "en": "password",
+      "answer": "het"
+    },
+    {
+      "type": "gap",
+      "text": "Is het ontbijt ___?",
+      "en": "Is breakfast included?",
+      "answers": [
+        "inbegrepen",
+        "inclusief"
+      ],
+      "hint": "included",
+      "explain": "Inbegrepen (or inclusief) means included in the price."
+    },
+    {
+      "type": "gap",
+      "text": "Het ___ me, maar de airco werkt niet.",
+      "en": "I'm sorry, but the air conditioning does not work.",
+      "answers": [
+        "spijt"
+      ],
+      "hint": "be sorry: het ___ me",
+      "explain": "The fixed phrase is Het spijt me: 'I'm sorry'."
+    },
+    {
+      "type": "gap",
+      "text": "De receptie is op de begane ___.",
+      "en": "The reception is on the ground floor.",
+      "answers": [
+        "grond"
+      ],
+      "hint": "ground: de begane ___",
+      "explain": "The fixed phrase is de begane grond: the ground floor."
+    },
+    {
+      "type": "build",
+      "en": "I have a reservation in the name of Jansen.",
+      "answer": "Ik heb een reservering op naam van Jansen.",
+      "accept": [
+        "Op naam van Jansen heb ik een reservering."
+      ],
+      "extra": [
+        "heeft"
+      ],
+      "explain": "Use op naam van to say in whose name the reservation is."
+    },
+    {
+      "type": "build",
+      "en": "If it does not work, call reception.",
+      "answer": "Als het niet werkt, belt u de receptie.",
+      "accept": [
+        "Belt u de receptie als het niet werkt."
+      ],
+      "extra": [
+        "bellen"
+      ],
+      "explain": "After the als-clause, the main clause starts with the verb: belt u."
+    },
+    {
+      "type": "build",
+      "en": "Could you replace the towel?",
+      "answer": "Zou u de handdoek kunnen vervangen?",
+      "accept": [],
+      "extra": [
+        "vervangt"
+      ],
+      "explain": "With Zou u ... kunnen?, the infinitive (vervangen) goes at the end."
+    },
+    {
+      "type": "build",
+      "en": "The wifi does not work.",
+      "answer": "De wifi werkt niet.",
+      "accept": [],
+      "extra": [
+        "werk",
+        "geen"
+      ],
+      "explain": "Negate a verb with niet, not geen: werkt niet."
+    },
+    {
+      "type": "translate",
+      "en": "I would like to check in.",
+      "answers": [
+        "Ik wil graag inchecken.",
+        "Graag wil ik inchecken.",
+        "Ik zou graag willen inchecken.",
+        "Ik zou graag inchecken."
+      ],
+      "focus": "inchecken with graag / zou graag willen",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts graag after the infinitive (Ik wil inchecken graag).",
+          "explain": "Place graag before the infinitive: 'Ik wil graag inchecken.' The verb inchecken stays at the end."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts graag before the verb (Ik graag wil inchecken).",
+          "explain": "After the subject, the verb comes first: 'Ik wil graag inchecken.' Do not put graag before wil."
+        },
+        {
+          "id": "m3",
+          "pattern": "Splits the separable verb incorrectly (Ik wil graag in checken).",
+          "explain": "Inchecken is one word in the infinitive: 'Ik wil graag inchecken.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Is breakfast included?",
+      "answers": [
+        "Is het ontbijt inbegrepen?",
+        "Is het ontbijt bij de prijs inbegrepen?",
+        "Is het ontbijt inclusief?"
+      ],
+      "focus": "inbegrepen / inclusief",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Makes a statement without inversion (Het ontbijt is inbegrepen?).",
+          "explain": "A yes/no question starts with the verb: 'Is het ontbijt inbegrepen?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses a wrong word order (Is inbegrepen het ontbijt?).",
+          "explain": "The subject comes right after the verb: 'Is het ontbijt inbegrepen?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the prefix in- (Is het ontbijt begrepen?).",
+          "explain": "The word is inbegrepen, with in-: 'Is het ontbijt inbegrepen?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "If it rains, we go to the museum.",
+      "answers": [
+        "Als het regent, gaan we naar het museum.",
+        "Als het regent, dan gaan we naar het museum.",
+        "We gaan naar het museum als het regent."
+      ],
+      "focus": "als ... (dan) + inversion",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps subject-first order after the als-clause (Als het regent, we gaan naar het museum).",
+          "explain": "After the als-clause, start the main clause with the verb: 'Als het regent, gaan we naar het museum.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb before the subject in the als-clause (Als regent het, gaan we naar het museum).",
+          "explain": "In the als-clause, the verb goes last: 'Als het regent, ...'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits het before museum (Als het regent, gaan we naar museum).",
+          "explain": "Museum is a het-word: 'naar het museum'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik wil graag inchecken.",
+      "en": "I would like to check in."
+    },
+    {
+      "type": "listen",
+      "nl": "Zou u de handdoek kunnen vervangen?",
+      "en": "Could you replace the towel?"
+    },
+    {
+      "type": "reply",
+      "context": "You are at the reception desk of a hotel in Maastricht. The receptionist says:",
+      "say": {
+        "nl": "Goedemiddag, welkom. Hoe kan ik u helpen?",
+        "en": "Good afternoon, welcome. How can I help you?"
+      },
+      "task": "Say that you have a reservation in the name of Jansen and that you want to check in.",
+      "examples": [
+        "Goedemiddag, ik heb een reservering op naam van Jansen en ik wil graag inchecken.",
+        "Hallo, ik wil graag inchecken. Mijn reservering staat op naam van Jansen.",
+        "Goedemiddag, de reservering staat op naam van Jansen. Ik wil graag inchecken."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses in naam van instead of op naam van (Ik heb een reservering in naam van Jansen).",
+          "explain": "The fixed phrase is op naam van: 'Ik heb een reservering op naam van Jansen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts graag after inchecken (Ik wil inchecken graag).",
+          "explain": "Say 'Ik wil graag inchecken': graag comes before the infinitive."
+        },
+        {
+          "id": "m3",
+          "pattern": "Gives only the reservation and does not say that they want to check in (Goedemiddag, ik heb een reservering op naam van Jansen).",
+          "explain": "Add 'Ik wil graag inchecken.' to say what you want."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The wifi in your room does not work. You call the reception.",
+      "say": {
+        "nl": "Receptie, goedemiddag. Wat is er?",
+        "en": "Reception, good afternoon. What is the matter?"
+      },
+      "task": "Make a polite complaint about the wifi and ask for help.",
+      "examples": [
+        "Het spijt me, maar de wifi werkt niet. Kunt u mij helpen?",
+        "Goedemiddag, ik heb een klacht: de wifi werkt niet.",
+        "Het spijt me, maar ik heb geen wifi. Zou u mij kunnen helpen?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses geen instead of niet with the verb (De wifi werkt geen).",
+          "explain": "Negate the verb with niet: 'De wifi werkt niet.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses van instead of over with klacht (Ik heb een klacht van de wifi).",
+          "explain": "Say 'een klacht over de wifi'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the object after helpen (Kunt u helpen mij?).",
+          "explain": "The object comes before helpen: 'Kunt u mij helpen?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "In het hotel",
+    "setting": "You are checking in at a small hotel in Maastricht. You have a reservation and later you have a problem with the wifi.",
+    "partner": {
+      "name": "Lotte",
+      "gender": "f",
+      "role": "receptionist"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag, welkom in Hotel Maaszicht. Hoe kan ik u helpen?",
+          "en": "Good afternoon, welcome to Hotel Maaszicht. How can I help you?"
+        },
+        "task": "Say hello and say that you have a reservation in the name of Jansen. Say you want to check in.",
+        "examples": [
+          "Goedemiddag, ik heb een reservering op naam van Jansen en ik wil graag inchecken.",
+          "Goedemiddag, ik wil graag inchecken. Mijn reservering staat op naam van Jansen.",
+          "Hallo, mijn reservering staat op naam van Jansen. Ik wil graag inchecken."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses in naam van instead of op naam van (Goedemiddag, ik heb een reservering in naam van Jansen).",
+            "explain": "The fixed phrase is op naam van: 'op naam van Jansen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts graag after inchecken (Ik wil inchecken graag).",
+            "explain": "Say 'Ik wil graag inchecken': graag comes before the infinitive."
+          },
+          {
+            "id": "m3",
+            "pattern": "Gives only the reservation and does not say that they want to check in (Goedemiddag, ik heb een reservering op naam van Jansen).",
+            "explain": "Add 'Ik wil graag inchecken.' to say what you want."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Mag ik uw paspoort zien? ... Dank u. Uw kamer is op de tweede verdieping. Het ontbijt is inbegrepen.",
+          "en": "May I see your passport? ... Thank you. Your room is on the second floor. Breakfast is included."
+        },
+        "task": "Ask what the wifi password is and where the lift is.",
+        "examples": [
+          "Wat is het wachtwoord van de wifi en waar is de lift?",
+          "Waar is de lift? En wat is het wachtwoord van de wifi?",
+          "Kunt u mij het wachtwoord van de wifi geven? En waar is de lift?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits the article with wachtwoord (Wat is wachtwoord van de wifi?).",
+            "explain": "Wachtwoord is a het-word: 'het wachtwoord'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses statement order in a question (Waar de lift is?).",
+            "explain": "In a question the verb comes second: 'Waar is de lift?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the object after geven (Kunt u geven mij het wachtwoord?).",
+            "explain": "Say 'Kunt u mij het wachtwoord geven?' The object comes before geven."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Het wachtwoord staat op uw pasje. De lift is daar, naast de receptie. Maar de wifi heeft vandaag een storing.",
+          "en": "The password is on your card. The lift is there, next to the reception. But the wifi has a problem today."
+        },
+        "task": "Complain politely that the wifi does not work and ask if they can help.",
+        "examples": [
+          "Het spijt me, maar de wifi werkt niet. Kunt u mij helpen?",
+          "O, dat is jammer. Zou u het kunnen repareren?",
+          "Ik heb een klacht: de wifi werkt niet."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses geen instead of niet with the verb (De wifi werkt geen).",
+            "explain": "Use niet to negate the verb: 'De wifi werkt niet.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses van instead of over with klacht (Ik heb een klacht van de wifi).",
+            "explain": "Say 'een klacht over de wifi'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the object after helpen (Kunt u helpen mij?).",
+            "explain": "Say 'Kunt u mij helpen?' The object comes before helpen."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat jammer. Ik stuur de monteur. Kan ik nog iets voor u doen?",
+          "en": "That's a shame. I will send the technician. Can I do anything else for you?"
+        },
+        "task": "Say thank you and ask what time breakfast is.",
+        "examples": [
+          "Dank u wel. Hoe laat is het ontbijt?",
+          "Dank u. En hoe laat is het ontbijt?",
+          "Nee, dank u. Hoe laat is het ontbijt?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits the article with ontbijt (Hoe laat is ontbijt?).",
+            "explain": "Ontbijt is a het-word: 'het ontbijt'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses statement order in a question (Hoe laat het ontbijt is?).",
+            "explain": "In a question the verb comes before the subject: 'Hoe laat is het ontbijt?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses hoeveel instead of hoe laat (Hoeveel laat is het ontbijt?).",
+            "explain": "Use hoe laat for time: 'Hoe laat is het ontbijt?'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Het ontbijt is van zeven tot tien uur. Fijne vakantie in Maastricht!",
+      "en": "Breakfast is from seven to ten. Enjoy your stay in Maastricht!"
+    }
+  },
+  "culture": {
+    "title": "Maastricht in het zuiden",
+    "text": "Maastricht is the capital of Limburg and lies in the far south of the Netherlands, close to Belgium. The landscape around the city is hilly, and many people speak a Limburgish dialect. Carnival is celebrated in Limburg with parades and costumes, and Maastricht has its own carnival traditions. The city also has a lively café culture on its squares."
+  },
+  "summary": [
+    "Use Ik heb een reservering op naam van ... to check in.",
+    "Als + condition sends the verb to the end; the main clause starts with the verb (dan is optional).",
+    "Soften complaints with Het spijt me, maar... and make polite requests with Zou u ... kunnen?",
+    "Hotel words: het hotel, de receptie, de kamer, de sleutel, het pasje, de handdoek, de wifi.",
+    "Ask Is het ontbijt inbegrepen? and Wat is het wachtwoord van de wifi?"
+  ]
+}

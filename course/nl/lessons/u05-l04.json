@@ -1,0 +1,1116 @@
+{
+  "id": "u05-l04",
+  "title": "Mag ik dit passen?",
+  "subtitle": "Clothes and demonstratives",
+  "level": "A1",
+  "intro": "In this lesson you will learn the Dutch words for clothes and shop for a coat in a Dutch store. You will practise deze/die and dit/dat, compare two items with groter dan and duurder dan, and say how something looks on you with staan and whether it feels right with bevallen.",
+  "words": [
+    {
+      "nl": "kleren",
+      "en": "clothes",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kleren",
+      "forms": null,
+      "example": {
+        "nl": "Mijn kleren zijn nat.",
+        "en": "My clothes are wet."
+      },
+      "note": "Plural only: de kleren."
+    },
+    {
+      "nl": "kleding",
+      "en": "clothing",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De kleding is in de uitverkoop.",
+        "en": "The clothing is on sale."
+      },
+      "note": "Uncountable."
+    },
+    {
+      "nl": "broek",
+      "en": "trousers",
+      "pos": "noun",
+      "article": "de",
+      "plural": "broeken",
+      "forms": null,
+      "example": {
+        "nl": "Deze broek is te groot.",
+        "en": "These trousers are too big."
+      },
+      "note": "De broek is singular in Dutch but means a pair of trousers."
+    },
+    {
+      "nl": "shirt",
+      "en": "shirt",
+      "pos": "noun",
+      "article": "het",
+      "plural": "shirts",
+      "forms": null,
+      "example": {
+        "nl": "Dit shirt is wit.",
+        "en": "This shirt is white."
+      },
+      "note": null
+    },
+    {
+      "nl": "trui",
+      "en": "sweater",
+      "pos": "noun",
+      "article": "de",
+      "plural": "truien",
+      "forms": null,
+      "example": {
+        "nl": "Die trui staat je goed.",
+        "en": "That sweater suits you well."
+      },
+      "note": null
+    },
+    {
+      "nl": "jas",
+      "en": "coat",
+      "pos": "noun",
+      "article": "de",
+      "plural": "jassen",
+      "forms": null,
+      "example": {
+        "nl": "Deze jas is warm.",
+        "en": "This coat is warm."
+      },
+      "note": null
+    },
+    {
+      "nl": "jurk",
+      "en": "dress",
+      "pos": "noun",
+      "article": "de",
+      "plural": "jurken",
+      "forms": null,
+      "example": {
+        "nl": "Deze jurk is mooi.",
+        "en": "This dress is beautiful."
+      },
+      "note": null
+    },
+    {
+      "nl": "rok",
+      "en": "skirt",
+      "pos": "noun",
+      "article": "de",
+      "plural": "rokken",
+      "forms": null,
+      "example": {
+        "nl": "De rok is te klein.",
+        "en": "The skirt is too small."
+      },
+      "note": null
+    },
+    {
+      "nl": "schoen",
+      "en": "shoe",
+      "pos": "noun",
+      "article": "de",
+      "plural": "schoenen",
+      "forms": null,
+      "example": {
+        "nl": "De schoenen zijn duur.",
+        "en": "The shoes are expensive."
+      },
+      "note": "Usually plural: de schoenen."
+    },
+    {
+      "nl": "sok",
+      "en": "sock",
+      "pos": "noun",
+      "article": "de",
+      "plural": "sokken",
+      "forms": null,
+      "example": {
+        "nl": "De sokken zijn nat.",
+        "en": "The socks are wet."
+      },
+      "note": "Usually plural: de sokken."
+    },
+    {
+      "nl": "muts",
+      "en": "beanie / winter hat",
+      "pos": "noun",
+      "article": "de",
+      "plural": "mutsen",
+      "forms": null,
+      "example": {
+        "nl": "De muts is warm.",
+        "en": "The beanie is warm."
+      },
+      "note": null
+    },
+    {
+      "nl": "sjaal",
+      "en": "scarf",
+      "pos": "noun",
+      "article": "de",
+      "plural": "sjaals",
+      "forms": null,
+      "example": {
+        "nl": "Deze sjaal is mooi.",
+        "en": "This scarf is beautiful."
+      },
+      "note": null
+    },
+    {
+      "nl": "maat",
+      "en": "size",
+      "pos": "noun",
+      "article": "de",
+      "plural": "maten",
+      "forms": null,
+      "example": {
+        "nl": "Hebt u deze in maat 40?",
+        "en": "Do you have this in size 40?"
+      },
+      "note": "Maat 40 is a European size."
+    },
+    {
+      "nl": "paskamer",
+      "en": "fitting room",
+      "pos": "noun",
+      "article": "de",
+      "plural": "paskamers",
+      "forms": null,
+      "example": {
+        "nl": "Waar is de paskamer?",
+        "en": "Where is the fitting room?"
+      },
+      "note": null
+    },
+    {
+      "nl": "passen",
+      "en": "to try on; to fit",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik pas, jij past, wij passen",
+      "example": {
+        "nl": "Mag ik deze jas passen?",
+        "en": "May I try on this coat?"
+      },
+      "note": "Also means to fit: De jas past."
+    },
+    {
+      "nl": "staan",
+      "en": "to suit (clothes)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik sta, jij staat, wij staan",
+      "example": {
+        "nl": "Die jas staat je goed.",
+        "en": "That coat suits you well."
+      },
+      "note": "For clothes that look good on someone."
+    },
+    {
+      "nl": "kosten",
+      "en": "to cost",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het kost, ze kosten",
+      "example": {
+        "nl": "Wat kost deze trui?",
+        "en": "How much is this sweater?"
+      },
+      "note": "Often with het or a thing as subject."
+    },
+    {
+      "nl": "te groot",
+      "en": "too big",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Deze jas is te groot.",
+        "en": "This coat is too big."
+      },
+      "note": "Te = too before an adjective."
+    },
+    {
+      "nl": "te klein",
+      "en": "too small",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De broek is te klein.",
+        "en": "The trousers are too small."
+      },
+      "note": null
+    },
+    {
+      "nl": "deze",
+      "en": "this; these",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Deze jas is mooi.",
+        "en": "This coat is beautiful."
+      },
+      "note": "With de-words and plurals."
+    },
+    {
+      "nl": "die",
+      "en": "that; those",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Die trui is duur.",
+        "en": "That sweater is expensive."
+      },
+      "note": "With de-words and plurals; also that/those farther away."
+    },
+    {
+      "nl": "dit",
+      "en": "this",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dit shirt is wit.",
+        "en": "This shirt is white."
+      },
+      "note": "With het-words."
+    },
+    {
+      "nl": "dat",
+      "en": "that",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dat shirt is te klein.",
+        "en": "That shirt is too small."
+      },
+      "note": "With het-words; also that farther away."
+    },
+    {
+      "nl": "korting",
+      "en": "discount",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kortingen",
+      "forms": null,
+      "example": {
+        "nl": "Is er korting?",
+        "en": "Is there a discount?"
+      },
+      "note": null
+    },
+    {
+      "nl": "uitverkoop",
+      "en": "sale",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De jas is in de uitverkoop.",
+        "en": "The coat is on sale."
+      },
+      "note": "Often in de uitverkoop."
+    },
+    {
+      "nl": "duurder",
+      "en": "more expensive",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "duurder (comparative of duur)",
+      "example": {
+        "nl": "Dit shirt is duurder dan dat shirt.",
+        "en": "This shirt is more expensive than that shirt."
+      },
+      "note": "Comparative of duur; use dan, not als."
+    },
+    {
+      "nl": "mooier",
+      "en": "prettier",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "mooier (comparative of mooi)",
+      "example": {
+        "nl": "Deze jurk is mooier dan die jurk.",
+        "en": "This dress is prettier than that dress."
+      },
+      "note": "Comparative of mooi."
+    },
+    {
+      "nl": "beter",
+      "en": "better",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "beter (comparative of goed)",
+      "example": {
+        "nl": "Deze maat is beter.",
+        "en": "This size is better."
+      },
+      "note": "Irregular comparative of goed."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Mag ik dit passen?",
+      "en": "May I try this on?",
+      "note": "Generic. For a specific de-word: Mag ik deze jas passen?"
+    },
+    {
+      "nl": "Hebt u deze in maat 40?",
+      "en": "Do you have this in size 40?",
+      "note": "Heeft u is also correct."
+    },
+    {
+      "nl": "Waar is de paskamer?",
+      "en": "Where is the fitting room?",
+      "note": null
+    },
+    {
+      "nl": "Deze is te groot.",
+      "en": "This one is too big.",
+      "note": "Deze points to a de-word: deze jas, deze broek."
+    },
+    {
+      "nl": "Hebt u een kleinere maat?",
+      "en": "Do you have a smaller size?",
+      "note": "Kleinere = comparative + -e."
+    },
+    {
+      "nl": "Die jas staat je goed.",
+      "en": "That coat suits you well.",
+      "note": "Staan = to suit clothes."
+    },
+    {
+      "nl": "Deze maat bevalt me goed.",
+      "en": "This size feels good to me.",
+      "note": "Bevallen = to please / feel right."
+    },
+    {
+      "nl": "Is er korting?",
+      "en": "Is there a discount?",
+      "note": null
+    },
+    {
+      "nl": "Ik neem deze.",
+      "en": "I will take this one.",
+      "note": null
+    },
+    {
+      "nl": "De jas is in de uitverkoop.",
+      "en": "The coat is on sale.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Demonstratives: deze, die, dit, dat",
+      "explanation": "Use **deze** and **die** with de-words and plurals. Use **dit** and **dat** with het-words. **Deze** and **dit** are for things close by; **die** and **dat** are for things farther away.",
+      "table": {
+        "headers": [
+          "",
+          "de-word / plural",
+          "het-word"
+        ],
+        "rows": [
+          [
+            "close by",
+            "deze",
+            "dit"
+          ],
+          [
+            "farther away",
+            "die",
+            "dat"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Deze jas is mooi.",
+          "en": "This coat is beautiful."
+        },
+        {
+          "nl": "Die broek is te klein.",
+          "en": "Those trousers are too small."
+        },
+        {
+          "nl": "Dit shirt is wit.",
+          "en": "This shirt is white."
+        },
+        {
+          "nl": "Dat shirt is duur.",
+          "en": "That shirt is expensive."
+        }
+      ],
+      "tip": "Check the noun: de jas -> deze/die; het shirt -> dit/dat."
+    },
+    {
+      "title": "Comparatives: groter dan, duurder dan, beter",
+      "explanation": "To compare two things, use the comparative and **dan**: **groter dan**, **mooier dan**, **duurder dan**. Some forms are irregular: **goed -> beter**, **veel -> meer**, **graag -> liever**. Use **dan**, not als.",
+      "table": {
+        "headers": [
+          "adjective",
+          "comparative",
+          "example"
+        ],
+        "rows": [
+          [
+            "groot",
+            "groter",
+            "Deze jas is groter."
+          ],
+          [
+            "mooi",
+            "mooier",
+            "Deze jurk is mooier."
+          ],
+          [
+            "duur",
+            "duurder",
+            "Dit shirt is duurder."
+          ],
+          [
+            "klein",
+            "kleiner",
+            "Hebt u een kleinere maat?"
+          ],
+          [
+            "goed",
+            "beter",
+            "Deze maat is beter."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Deze jas is groter dan die jas.",
+          "en": "This coat is bigger than that coat."
+        },
+        {
+          "nl": "Ik vind deze trui mooier.",
+          "en": "I think this sweater is prettier."
+        },
+        {
+          "nl": "Dit shirt is duurder dan dat shirt.",
+          "en": "This shirt is more expensive than that shirt."
+        }
+      ],
+      "tip": "Use dan after the comparative: duurder dan, not duurder als."
+    },
+    {
+      "title": "Staan en bevallen: does it suit you?",
+      "explanation": "**Staan** means to look good on someone: **Die jas staat je goed.** **Bevallen** means to please or feel right: **Deze maat bevalt me goed.** The person is the object: **me/mij, je/jou, u, hem, haar**.",
+      "table": {
+        "headers": [
+          "verb",
+          "example",
+          "meaning"
+        ],
+        "rows": [
+          [
+            "staan",
+            "Die jas staat je goed.",
+            "That coat suits you well."
+          ],
+          [
+            "bevallen",
+            "Deze maat bevalt me goed.",
+            "This size feels good to me."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Deze trui staat me goed.",
+          "en": "This sweater suits me well."
+        },
+        {
+          "nl": "Staat de jas u goed?",
+          "en": "Does the coat suit you?"
+        },
+        {
+          "nl": "Deze maat bevalt me goed.",
+          "en": "This size feels good to me."
+        }
+      ],
+      "tip": "Passen = fit (size); staan = look good; bevallen = feel right to you."
+    }
+  ],
+  "dialogue": {
+    "title": "Een winterjas",
+    "setting": "Emma is in a clothing store in Utrecht and tries on a winter coat.",
+    "speakers": [
+      {
+        "name": "Daan",
+        "gender": "m"
+      },
+      {
+        "name": "Emma",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Daan",
+        "nl": "Goedemiddag, zoekt u iets?",
+        "en": "Good afternoon, are you looking for something?"
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Ja, ik zoek een jas voor de winter.",
+        "en": "Yes, I am looking for a coat for the winter."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Deze jas is mooi en warm.",
+        "en": "This coat is beautiful and warm."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Mag ik deze passen?",
+        "en": "May I try this one on?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Natuurlijk. De paskamer is daar.",
+        "en": "Of course. The fitting room is over there."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Dank u wel. Deze jas is te groot. Hebt u deze in maat 40?",
+        "en": "Thank you. This coat is too big. Do you have this in size 40?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, hier is maat 40.",
+        "en": "Yes, here is size 40."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Dank u. Deze is beter. Hij staat me goed.",
+        "en": "Thank you. This one is better. It suits me well."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, die jas staat u goed.",
+        "en": "Yes, that coat suits you well."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Wat kost hij?",
+        "en": "How much is it?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Honderd euro. Deze week is er korting.",
+        "en": "One hundred euros. This week there is a discount."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Ja, ik neem deze.",
+        "en": "Yes, I will take this one."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Goed. Hier is uw bonnetje.",
+        "en": "Good. Here is your receipt."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de paskamer",
+          "fitting room"
+        ],
+        [
+          "de maat",
+          "size"
+        ],
+        [
+          "de korting",
+          "discount"
+        ],
+        [
+          "de uitverkoop",
+          "sale"
+        ],
+        [
+          "passen",
+          "to try on"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de sjaal",
+          "scarf"
+        ],
+        [
+          "de muts",
+          "beanie / winter hat"
+        ],
+        [
+          "de sok",
+          "sock"
+        ],
+        [
+          "de schoen",
+          "shoe"
+        ],
+        [
+          "de rok",
+          "skirt"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Deze jas is te groot.",
+        "Dit jas is te groot.",
+        "Deze jas is te groter."
+      ],
+      "answer": 0,
+      "explain": "Deze goes with de-words like jas; use te + adjective, not te groter."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word fits with het shirt?",
+      "nl": "___ shirt is wit.",
+      "options": [
+        "Dit",
+        "Deze",
+        "Die"
+      ],
+      "answer": 0,
+      "explain": "Shirt is a het-word, so use dit."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Deze trui is duurder dan die trui.",
+        "Deze trui is duurder als die trui.",
+        "Deze trui is meer duur dan die trui."
+      ],
+      "answer": 0,
+      "explain": "Use -er + dan, not als; duurder is one word."
+    },
+    {
+      "type": "article",
+      "word": "jas",
+      "en": "coat",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "shirt",
+      "en": "shirt",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "This coat is too big.",
+      "answer": "Deze jas is te groot.",
+      "accept": [],
+      "extra": [
+        "dat",
+        "groter"
+      ],
+      "explain": "Use deze with a de-word like jas and te + adjective for 'too': 'Deze jas is te groot.'"
+    },
+    {
+      "type": "build",
+      "en": "Do you have this coat in size 40?",
+      "answer": "Hebt u deze in maat veertig?",
+      "accept": [],
+      "extra": [
+        "kost",
+        "mooi"
+      ],
+      "explain": "Use hebt u for a formal question and in maat 40 for a size: 'Hebt u deze in maat veertig?'"
+    },
+    {
+      "type": "build",
+      "en": "This shirt is more expensive than that shirt.",
+      "answer": "Dit shirt is duurder dan dat shirt.",
+      "accept": [],
+      "extra": [
+        "die",
+        "mooi"
+      ],
+      "explain": "Use dit with a het-word like shirt and duurder dan for a comparison: 'Dit shirt is duurder dan dat shirt.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik zoek een jas. ___ jas is te groot.",
+      "en": "I am looking for a coat. This coat is too big.",
+      "answers": [
+        "Deze"
+      ],
+      "hint": "this (with a de-word)",
+      "explain": "Use deze with a de-word like jas: 'Deze jas is te groot.'"
+    },
+    {
+      "type": "gap",
+      "text": "Het shirt is te klein. Ik zoek ___ shirt in maat 40.",
+      "en": "The shirt is too small. I am looking for that shirt in size 40.",
+      "answers": [
+        "dat"
+      ],
+      "hint": "that (with a het-word)",
+      "explain": "Use dat with a het-word like shirt: 'dat shirt'."
+    },
+    {
+      "type": "gap",
+      "text": "Deze maat ___ me goed.",
+      "en": "This size feels good to me.",
+      "answers": [
+        "bevalt"
+      ],
+      "hint": "pleases / feels right",
+      "explain": "Use bevallen for something that feels right: 'Deze maat bevalt me goed.'"
+    },
+    {
+      "type": "translate",
+      "en": "That sweater suits you better.",
+      "answers": [
+        "Die trui staat je beter.",
+        "Die trui staat u beter.",
+        "Die trui staat jou beter."
+      ],
+      "focus": "staan + comparative beter; je/u/jou",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses goed instead of the comparative beter: 'Die trui staat je goed.'",
+          "explain": "For 'better' use **beter**: **Die trui staat je beter.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses deze for a 'that' de-word: 'Deze trui staat je beter.'",
+          "explain": "For 'that' with de-words use **die**: **Die trui staat je beter.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses past for how something looks instead of staat: 'Die trui past je beter.'",
+          "explain": "Use **staan** for clothes that look good on someone: **Die trui staat je beter.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Do you have this coat in size 40?",
+      "answers": [
+        "Hebt u deze in maat veertig?",
+        "Heeft u deze in maat veertig?",
+        "Heb je deze in maat veertig?",
+        "Heb jij deze in maat veertig?"
+      ],
+      "focus": "question with hebben; deze with a de-word like jas; maat",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses dit with a de-word coat: 'Hebt u dit in maat veertig?'",
+          "explain": "Use **deze** with de-words like **jas**: **Hebt u deze in maat veertig?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses op instead of in for size: 'Hebt u deze op maat veertig?'",
+          "explain": "Say **in maat 40**, not **op maat 40**, for clothing size."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the subject after the verb: 'Hebt deze in maat veertig?'",
+          "explain": "Put the subject after the verb: **Hebt u deze in maat veertig?**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "This coat is too big for me.",
+      "answers": [
+        "Deze jas is te groot voor me.",
+        "Deze jas is te groot voor mij."
+      ],
+      "focus": "deze with a de-word; te groot; voor me/mij",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses dit with a de-word: 'Dit jas is te groot voor me.'",
+          "explain": "Use **deze** with a de-word like **jas**: **Deze jas is te groot voor me.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses te + comparative: 'Deze jas is te groter voor me.'",
+          "explain": "Use **te** + normal adjective: **te groot**, not **te groter**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits te before the adjective: 'Deze jas is groot voor me.'",
+          "explain": "Add **te** before the adjective: **te groot** = too big."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Deze jas is te groot.",
+      "en": "This coat is too big."
+    },
+    {
+      "type": "listen",
+      "nl": "Die trui staat je goed.",
+      "en": "That sweater suits you well."
+    },
+    {
+      "type": "reply",
+      "context": "You are in a clothes shop. The assistant shows you a coat, but it is too big.",
+      "say": {
+        "nl": "Deze jas is maat 40. Past hij?",
+        "en": "This coat is size 40. Does it fit?"
+      },
+      "task": "Say that it is too big and ask for a smaller size.",
+      "examples": [
+        "Hij is te groot. Hebt u maat 38?",
+        "Deze jas is te groot. Hebt u een kleinere maat?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses te + comparative: 'Hij is te groter.'",
+          "explain": "Use **te** + normal adjective: **te groot**, not **te groter**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits te before the adjective: 'Hij is groot.'",
+          "explain": "Add **te** before the adjective: **Hij is te groot.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Asks for 'a small size' instead of 'a smaller size': 'Hebt u een kleine maat?'",
+          "explain": "Use the comparative **kleinere** for a smaller size: **Hebt u een kleinere maat?**"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You try on a sweater. It fits well. The assistant asks you about it.",
+      "say": {
+        "nl": "Is de trui goed?",
+        "en": "Is the sweater good?"
+      },
+      "task": "Say that it suits you well and ask the price.",
+      "examples": [
+        "Deze trui staat me goed. Wat kost hij?",
+        "Hij staat me goed. Wat kost de trui?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses past for looks good instead of staat: 'Deze trui past me goed.'",
+          "explain": "Use **staan** for how clothes look on you: **Deze trui staat me goed.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts me after goed: 'Deze trui staat goed me.'",
+          "explain": "Put **me** before **goed**: **Deze trui staat me goed.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses het for de trui in the price question: 'Wat kost het?'",
+          "explain": "A sweater is a de-word: use **hij** or **de trui**: **Wat kost hij?**"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "In the fitting room",
+    "setting": "You are in a clothing store in Amsterdam trying on a winter coat. The assistant helps you find the right size.",
+    "partner": {
+      "name": "Daan",
+      "gender": "m",
+      "role": "shop assistant"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag, zoekt u iets?",
+          "en": "Good afternoon, are you looking for something?"
+        },
+        "task": "Say you are looking for a warm coat for the winter.",
+        "examples": [
+          "Ja, ik zoek een jas voor de winter.",
+          "Ja, ik zoek een warme jas."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits de before winter: 'Ik zoek een jas voor winter.'",
+            "explain": "Use **de winter**: **Ik zoek een jas voor de winter.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses no -e on the adjective with a de-word: 'Ik zoek een warm jas.'",
+            "explain": "Before a de-word, the adjective gets -e: **een warme jas**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Deze jas is warm en mooi.",
+          "en": "This coat is warm and beautiful."
+        },
+        "task": "Ask if you can try it on.",
+        "examples": [
+          "Mag ik deze passen?",
+          "Mag ik de jas passen?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds te before the infinitive: 'Mag ik deze te passen?'",
+            "explain": "After mogen use the bare infinitive: **Mag ik deze passen?**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses statement order in a yes/no question: 'Ik mag deze passen?'",
+            "explain": "Start with the verb: **Mag ik deze passen?**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses aanpassen (to adjust) instead of passen (to try on): 'Mag ik deze aanpassen?'",
+            "explain": "Use **passen** for trying on clothes: **Mag ik deze passen?**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Natuurlijk. De paskamer is daar.",
+          "en": "Of course. The fitting room is over there."
+        },
+        "task": "Say thank you. Say that the coat is too big and ask for size 40.",
+        "examples": [
+          "Dank u. De jas is te groot. Hebt u maat 40?",
+          "Dank u wel. Hij is te groot. Hebt u deze in maat 40?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses te + comparative: 'De jas is te groter.'",
+            "explain": "Use **te** + normal adjective: **te groot**, not **te groter**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits te before the adjective: 'De jas is groot.'",
+            "explain": "Add **te** before the adjective: **De jas is te groot.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses heb instead of hebt/heeft with u: 'Heb u maat 40?'",
+            "explain": "With formal **u**, say **Hebt u** or **Heeft u**: **Hebt u maat 40?**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Hier is maat 40. En? Is deze goed?",
+          "en": "Here is size 40. So? Is this one good?"
+        },
+        "task": "Say that this one is better and that it suits you well.",
+        "examples": [
+          "Deze is beter. Hij staat me goed.",
+          "Ja, deze is beter. De jas staat me goed."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses meer goed instead of beter: 'Deze is meer goed.'",
+            "explain": "The comparative of goed is **beter**: **Deze is beter.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts me after goed: 'Hij staat goed me.'",
+            "explain": "Put **me** before **goed**: **Hij staat me goed.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses je instead of me: 'Hij staat je goed.'",
+            "explain": "If it suits you, say **me**: **Hij staat me goed.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Mooi. Wilt u deze nemen?",
+          "en": "Nice. Do you want to take this one?"
+        },
+        "task": "Ask the price and say that you will take it.",
+        "examples": [
+          "Wat kost hij? Ik neem deze.",
+          "Wat kost de jas? Ik neem hem."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses statement order in a question: 'Wat hij kost?'",
+            "explain": "In a question, the verb comes before the subject: **Wat kost hij?**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses het for de jas: 'Ik neem het.'",
+            "explain": "A coat is a de-word: use **hem** or **deze**: **Ik neem hem.**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses hoeveel with wrong word order: 'Hoeveel hij kost?'",
+            "explain": "Say **Hoeveel kost hij?** or **Wat kost hij?**"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Honderd euro. Deze week is er korting. Hier is uw bonnetje.",
+      "en": "One hundred euros. This week there is a discount. Here is your receipt."
+    }
+  },
+  "culture": {
+    "title": "Dutch sizes and returns",
+    "text": "Dutch clothing sizes are European sizes, so check the conversion chart: a women's 40 is usually about a UK 12 or a US 8. Many shops stock longer trouser lengths because Dutch customers are often tall. Returns are usually possible within 14 or 30 days with the receipt and the label still on, but sale items may be exchange-only."
+  },
+  "summary": [
+    "Use deze/die with de-words and plurals, and dit/dat with het-words.",
+    "Compare with adjective + -er + dan: duurder dan, mooier dan; goed becomes beter.",
+    "Staan means to suit clothes: Die jas staat je goed.",
+    "Bevallen means to please or feel right: Deze maat bevalt me goed.",
+    "In a shop: Mag ik dit passen?, Hebt u deze in maat 40?, Is er korting?"
+  ]
+}

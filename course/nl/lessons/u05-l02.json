@@ -1,0 +1,1108 @@
+{
+  "id": "u05-l02",
+  "title": "Zullen we afspreken?",
+  "subtitle": "Making plans with friends",
+  "level": "A1",
+  "intro": "After this lesson you can suggest an activity to a friend, accept or decline politely, and agree on a time and place. You will also learn to use **Zullen we...?** and **zin hebben om te...** in real conversations, so you can fill your weekend with plans.",
+  "words": [
+    {
+      "nl": "afspreken",
+      "en": "to arrange to meet, to make an appointment",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik spreek af, jij spreekt af, wij spreken af (heeft afgesproken)",
+      "example": {
+        "nl": "Zullen we om drie uur afspreken?",
+        "en": "Shall we meet at three?"
+      },
+      "note": "Separable verb: the stress is on **af**, so the prefix goes to the end: ik **spreek** om drie uur **af**."
+    },
+    {
+      "nl": "afspraak",
+      "en": "appointment, date",
+      "pos": "noun",
+      "article": "de",
+      "plural": "afspraken",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb al een afspraak op zondag.",
+        "en": "I already have an appointment on Sunday."
+      },
+      "note": "Used for the doctor, but also for a date with friends."
+    },
+    {
+      "nl": "zullen",
+      "en": "shall, will",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zal, jij zult, u zult, hij/zij zal, wij zullen, jullie zullen, zij zullen",
+      "example": {
+        "nl": "Zullen we naar het feest gaan?",
+        "en": "Shall we go to the party?"
+      },
+      "note": "In this lesson it makes suggestions with **we**: **Zullen we...?**"
+    },
+    {
+      "nl": "zin hebben",
+      "en": "to feel like",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": "ik heb zin, jij hebt zin, wij hebben zin",
+      "example": {
+        "nl": "Heb je zin om te zwemmen?",
+        "en": "Do you feel like swimming?"
+      },
+      "note": "With a noun use **zin in**: zin in koffie, zin in een biertje."
+    },
+    {
+      "nl": "idee",
+      "en": "idea",
+      "pos": "noun",
+      "article": "het",
+      "plural": "ideeën",
+      "forms": null,
+      "example": {
+        "nl": "Heb je een idee?",
+        "en": "Do you have an idea?"
+      },
+      "note": null
+    },
+    {
+      "nl": "leuk",
+      "en": "nice, fun",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Leuk! Ik kom ook.",
+        "en": "Nice! I'm coming too."
+      },
+      "note": "**Leuk** is extremely common: fun, nice, cool."
+    },
+    {
+      "nl": "gezellig",
+      "en": "cosy, sociable, nice",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het feest was erg gezellig.",
+        "en": "The party was really nice."
+      },
+      "note": "There is no exact English word: it is the warm feeling of being together."
+    },
+    {
+      "nl": "helaas",
+      "en": "unfortunately",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Helaas kan ik niet komen.",
+        "en": "Unfortunately I can't come."
+      },
+      "note": null
+    },
+    {
+      "nl": "druk",
+      "en": "busy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben dit weekend druk.",
+        "en": "I'm busy this weekend."
+      },
+      "note": "**Ik heb het druk** is the fixed phrase: literally 'I have it busy'."
+    },
+    {
+      "nl": "vrij",
+      "en": "free (not working)",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ben je zaterdag vrij?",
+        "en": "Are you free on Saturday?"
+      },
+      "note": "**Vrij** = free in the sense of not working; **gratis** = free of charge."
+    },
+    {
+      "nl": "kunnen",
+      "en": "can, to be able to",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kan, jij kunt, u kunt, hij/zij kan, wij kunnen, jullie kunnen, zij kunnen",
+      "example": {
+        "nl": "Kunnen we om vier uur afspreken?",
+        "en": "Can we meet at four?"
+      },
+      "note": null
+    },
+    {
+      "nl": "uitnodigen",
+      "en": "to invite",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik nodig uit, jij nodigt uit, wij nodigen uit (heeft uitgenodigd)",
+      "example": {
+        "nl": "Ik nodig je uit voor het feest.",
+        "en": "I'm inviting you to the party."
+      },
+      "note": "Separable: **ik nodig ... uit**."
+    },
+    {
+      "nl": "langskomen",
+      "en": "to come by, to drop by",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom langs, jij komt langs, wij komen langs (is langsgekomen)",
+      "example": {
+        "nl": "Kom je zaterdag langs?",
+        "en": "Are you coming by on Saturday?"
+      },
+      "note": "Separable: **ik kom ... langs**."
+    },
+    {
+      "nl": "feest",
+      "en": "party",
+      "pos": "noun",
+      "article": "het",
+      "plural": "feesten",
+      "forms": null,
+      "example": {
+        "nl": "Zaterdag is er een feest bij Daan.",
+        "en": "On Saturday there's a party at Daan's."
+      },
+      "note": null
+    },
+    {
+      "nl": "terras",
+      "en": "(outdoor) terrace, café seating",
+      "pos": "noun",
+      "article": "het",
+      "plural": "terrassen",
+      "forms": null,
+      "example": {
+        "nl": "We zitten op het terras.",
+        "en": "We're sitting on the terrace."
+      },
+      "note": "In the Netherlands a **terras** is the outdoor seating of a café, where everyone sits when the sun is out."
+    },
+    {
+      "nl": "bioscoop",
+      "en": "cinema",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bioscopen",
+      "forms": null,
+      "example": {
+        "nl": "Zullen we naar de bioscoop gaan?",
+        "en": "Shall we go to the cinema?"
+      },
+      "note": null
+    },
+    {
+      "nl": "concert",
+      "en": "concert",
+      "pos": "noun",
+      "article": "het",
+      "plural": "concerten",
+      "forms": null,
+      "example": {
+        "nl": "Het concert begint om acht uur.",
+        "en": "The concert starts at eight."
+      },
+      "note": null
+    },
+    {
+      "nl": "samen",
+      "en": "together",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zullen we samen koken?",
+        "en": "Shall we cook together?"
+      },
+      "note": null
+    },
+    {
+      "nl": "wanneer",
+      "en": "when",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wanneer spreken we af?",
+        "en": "When shall we meet?"
+      },
+      "note": "**Wanneer** asks for a day or date; **hoe laat** asks for a clock time."
+    },
+    {
+      "nl": "hoe laat",
+      "en": "what time",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoe laat begint de film?",
+        "en": "What time does the film start?"
+      },
+      "note": null
+    },
+    {
+      "nl": "waar",
+      "en": "where",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Waar is het feest?",
+        "en": "Where is the party?"
+      },
+      "note": null
+    },
+    {
+      "nl": "ontmoeten",
+      "en": "to meet (someone)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ontmoet, jij ontmoet, wij ontmoeten (heeft ontmoet)",
+      "example": {
+        "nl": "Ik ontmoet je bij de bioscoop.",
+        "en": "I'll meet you at the cinema."
+      },
+      "note": "**Ontmoeten** needs a person after it: ik ontmoet **je**. For a time or place alone, use **afspreken**."
+    },
+    {
+      "nl": "bellen",
+      "en": "to call (by phone)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bel, jij belt, wij bellen (heeft gebeld)",
+      "example": {
+        "nl": "Ik bel je om acht uur.",
+        "en": "I'll call you at eight."
+      },
+      "note": "Same as **opbellen** from u04-l06, but **bellen** does not split: **Ik bel je.**"
+    },
+    {
+      "nl": "agenda",
+      "en": "diary, calendar",
+      "pos": "noun",
+      "article": "de",
+      "plural": "agenda's",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een drukke agenda.",
+        "en": "I have a busy calendar."
+      },
+      "note": "False friend: Dutch **agenda** is your diary or calendar, not a meeting agenda."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Zullen we...?",
+      "en": "Shall we...?",
+      "note": "The other verb goes to the end: Zullen we naar de bioscoop **gaan**?"
+    },
+    {
+      "nl": "Heb je zin om te...?",
+      "en": "Do you feel like...?",
+      "note": "**om te** + infinitive: Heb je zin om te dansen?"
+    },
+    {
+      "nl": "Zin in een biertje?",
+      "en": "Feel like a beer?",
+      "note": "Informal: **zin in** + noun. A **biertje** is the normal way to order a beer."
+    },
+    {
+      "nl": "Goed idee!",
+      "en": "Good idea!",
+      "note": "The easiest way to say yes to a suggestion."
+    },
+    {
+      "nl": "Helaas kan ik niet, want...",
+      "en": "Unfortunately I can't, because...",
+      "note": "**want** keeps normal word order: want ik **ben** druk."
+    },
+    {
+      "nl": "Ik heb het druk.",
+      "en": "I'm busy.",
+      "note": "Literally 'I have it busy'; **het** is fixed."
+    },
+    {
+      "nl": "Waar spreken we af?",
+      "en": "Where shall we meet?",
+      "note": "Separable **afspreken**: **af** goes to the end."
+    },
+    {
+      "nl": "Hoe laat spreken we af?",
+      "en": "What time shall we meet?",
+      "note": null
+    },
+    {
+      "nl": "Ik nodig je uit.",
+      "en": "I'm inviting you.",
+      "note": "Separable: **uit** goes to the end."
+    },
+    {
+      "nl": "Kom je langs?",
+      "en": "Will you come by?",
+      "note": "Separable: **langs** goes to the end."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Suggestions: Zullen we...?",
+      "explanation": "**Zullen we...?** is the easiest way to suggest something: *Zullen we naar de bioscoop gaan?* The verb **zullen** comes first, then **we**, and the other verb goes to the end as an infinitive. With a noun you can also say **Zin in...?**: *Zin in een biertje?*",
+      "table": {
+        "headers": [
+          "",
+          "zullen"
+        ],
+        "rows": [
+          [
+            "ik",
+            "zal"
+          ],
+          [
+            "jij",
+            "zult"
+          ],
+          [
+            "u",
+            "zult"
+          ],
+          [
+            "hij/zij/het",
+            "zal"
+          ],
+          [
+            "wij",
+            "zullen"
+          ],
+          [
+            "jullie",
+            "zullen"
+          ],
+          [
+            "zij",
+            "zullen"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Zullen we samen eten?",
+          "en": "Shall we eat together?"
+        },
+        {
+          "nl": "Zullen we naar het feest gaan?",
+          "en": "Shall we go to the party?"
+        },
+        {
+          "nl": "Zin in een biertje?",
+          "en": "Feel like a beer?"
+        }
+      ],
+      "tip": "Never say *Zullen we gaan naar de bioscoop?*: put the infinitive at the end."
+    },
+    {
+      "title": "Zin hebben om ... te + infinitive",
+      "explanation": "**Zin hebben** means 'to feel like'. With a verb, use **om ... te** + infinitive: *Heb je zin om te dansen?* With a noun, use **zin in**: *Heb je zin in een biertje?* A short answer is fine: *Ja, ik heb zin!*",
+      "table": {
+        "headers": [
+          "",
+          "om te + verb",
+          "in + noun"
+        ],
+        "rows": [
+          [
+            "Ik heb zin",
+            "om te zwemmen.",
+            "in een biertje."
+          ],
+          [
+            "Heb je zin",
+            "om te dansen?",
+            "in koffie?"
+          ],
+          [
+            "Wij hebben zin",
+            "om te koken.",
+            "in koffie."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Heb je zin om te zwemmen?",
+          "en": "Do you feel like swimming?"
+        },
+        {
+          "nl": "Ik heb zin om naar het concert te gaan.",
+          "en": "I feel like going to the concert."
+        },
+        {
+          "nl": "Heb je zin in een biertje?",
+          "en": "Do you feel like a beer?"
+        }
+      ],
+      "tip": "**zin** has no article: *Ik heb zin*, not *Ik heb een zin*."
+    },
+    {
+      "title": "Saying yes and no to an invitation",
+      "explanation": "Say yes with **Goed idee!**, **Leuk!** or **Ja, gezellig!**. Say no politely with **Helaas kan ik niet**. Add a reason with **want**: *Helaas kan ik niet, want ik ben druk.* **Helaas** softens the no; after **want** the word order stays normal (subject + verb).",
+      "table": {
+        "headers": [
+          "Yes",
+          "No"
+        ],
+        "rows": [
+          [
+            "Goed idee!",
+            "Helaas kan ik niet."
+          ],
+          [
+            "Leuk!",
+            "Helaas heb ik al een afspraak."
+          ],
+          [
+            "Ja, gezellig!",
+            "Helaas ben ik dat weekend druk."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Goed idee! Hoe laat?",
+          "en": "Good idea! What time?"
+        },
+        {
+          "nl": "Leuk! Ik kom langs.",
+          "en": "Nice! I'll come by."
+        },
+        {
+          "nl": "Helaas kan ik niet, want ik ben druk.",
+          "en": "Unfortunately I can't, because I'm busy."
+        }
+      ],
+      "tip": "**want** + normal order (*want ik ben druk*), but **omdat** sends the verb to the end (*omdat ik druk ben*)."
+    }
+  ],
+  "dialogue": {
+    "title": "Een plan voor zaterdag",
+    "setting": "Sanne and Daan text and then call each other to plan Saturday afternoon.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Daan! Wat doe je op zaterdag?",
+        "en": "Hi Daan! What are you doing on Saturday?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Hoi Sanne! Ik ben vrij. Waarom?",
+        "en": "Hi Sanne! I'm free. Why?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Zullen we samen naar het concert gaan? Ik heb zin om te dansen!",
+        "en": "Shall we go to the concert together? I feel like dancing!"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Goed idee! Hoe laat begint het concert?",
+        "en": "Good idea! What time does the concert start?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Om acht uur. Waar spreken we af?",
+        "en": "At eight. Where shall we meet?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ik ontmoet je om zeven uur bij de bioscoop. Daarna kunnen we naar het terras.",
+        "en": "I'll meet you at seven at the cinema. Afterwards we can go to the terrace."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Gezellig! Maar helaas ben ik om zeven uur nog druk. Kan het om half acht?",
+        "en": "Nice! But unfortunately I'm still busy at seven. Can it be at half past seven?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, dat is goed. Ik heb zin in een biertje op het terras.",
+        "en": "Yes, that's fine. I feel like a beer on the terrace."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik ook! En ik nodig je uit voor een feest op zondag. Kom je langs?",
+        "en": "Me too! And I'm inviting you to a party on Sunday. Will you come by?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Leuk! Maar ik heb al een afspraak, helaas. Ik kan je zondag bellen.",
+        "en": "Nice! But I already have an appointment, unfortunately. I can call you on Sunday."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Is goed. Tot zaterdag!",
+        "en": "All right. See you Saturday!"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Tot zaterdag!",
+        "en": "See you Saturday!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "afspreken",
+          "to arrange to meet"
+        ],
+        [
+          "de afspraak",
+          "the appointment"
+        ],
+        [
+          "gezellig",
+          "cosy, sociable"
+        ],
+        [
+          "helaas",
+          "unfortunately"
+        ],
+        [
+          "uitnodigen",
+          "to invite"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het feest",
+          "the party"
+        ],
+        [
+          "het terras",
+          "the terrace"
+        ],
+        [
+          "de bioscoop",
+          "the cinema"
+        ],
+        [
+          "het concert",
+          "the concert"
+        ],
+        [
+          "druk",
+          "busy"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence suggests doing something together?",
+      "nl": null,
+      "options": [
+        "Zullen we naar het concert gaan?",
+        "Ik ben helaas druk.",
+        "Waar woon je?"
+      ],
+      "answer": 0,
+      "explain": "**Zullen we...?** is the standard way to make a suggestion."
+    },
+    {
+      "type": "choice",
+      "prompt": "You want to ask if someone feels like swimming. What do you say?",
+      "nl": null,
+      "options": [
+        "Heb je zin om te zwemmen?",
+        "Heb je zin in zwemmen?",
+        "Heb je zin te zwemmen?"
+      ],
+      "answer": 0,
+      "explain": "After **zin hebben** use **om ... te** + infinitive: **om te zwemmen**."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which answer declines an invitation politely?",
+      "nl": null,
+      "options": [
+        "Helaas kan ik niet, want ik ben druk.",
+        "Ja, gezellig!",
+        "Goed idee!"
+      ],
+      "answer": 0,
+      "explain": "**Helaas** plus a reason with **want** is a polite no."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Zullen we gaan naar het feest?",
+        "Zullen we naar het feest gaan?",
+        "Zullen we naar het feest?"
+      ],
+      "answer": 1,
+      "explain": "With **zullen** the other verb goes to the end as an infinitive: **naar het feest gaan**."
+    },
+    {
+      "type": "article",
+      "word": "idee",
+      "en": "idea",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "afspraak",
+      "en": "appointment",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "terras",
+      "en": "terrace",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "Shall we go to the cinema?",
+      "answer": "Zullen we naar de bioscoop gaan?",
+      "accept": [],
+      "extra": [
+        "gaat",
+        "zaterdag"
+      ],
+      "explain": "With **zullen** the other verb goes to the end as an infinitive: **Zullen we naar de bioscoop gaan?**"
+    },
+    {
+      "type": "build",
+      "en": "Do you feel like dancing?",
+      "answer": "Heb je zin om te dansen?",
+      "accept": [],
+      "extra": [
+        "op",
+        "gaat"
+      ],
+      "explain": "Use **zin hebben om te** + infinitive: **Heb je zin om te dansen?**"
+    },
+    {
+      "type": "build",
+      "en": "I'm inviting you to the party.",
+      "answer": "Ik nodig je uit voor het feest.",
+      "accept": [],
+      "extra": [
+        "op",
+        "de"
+      ],
+      "explain": "**uitnodigen** is separable: **ik nodig ... uit**; and **het feest** takes **het**."
+    },
+    {
+      "type": "gap",
+      "text": "___ we samen naar het feest gaan?",
+      "en": "Shall we go to the party together?",
+      "answers": [
+        "Zullen"
+      ],
+      "hint": "shall (modal verb)",
+      "explain": "Start a suggestion with **Zullen we...?**; the other verb goes at the end: **Zullen we samen naar het feest gaan?**"
+    },
+    {
+      "type": "gap",
+      "text": "Heb je zin ___ een biertje?",
+      "en": "Do you feel like a beer?",
+      "answers": [
+        "in"
+      ],
+      "hint": "preposition used with zin before a noun",
+      "explain": "With a noun use **zin in**: **Heb je zin in een biertje?**"
+    },
+    {
+      "type": "gap",
+      "text": "Helaas kan ik niet, ___ ik ben druk.",
+      "en": "Unfortunately I can't, because I'm busy.",
+      "answers": [
+        "want"
+      ],
+      "hint": "because (normal word order follows)",
+      "explain": "Use **want** to give a reason; after **want** the word order stays normal: **want ik ben druk**."
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb het heel ___, maar ik bel je zondag.",
+      "en": "I'm very busy, but I'll call you on Sunday.",
+      "answers": [
+        "druk"
+      ],
+      "hint": "busy",
+      "explain": "The fixed phrase is **ik heb het druk** = I'm busy."
+    },
+    {
+      "type": "translate",
+      "en": "Shall we go to the concert?",
+      "answers": [
+        "Zullen we naar het concert gaan?",
+        "Zullen wij naar het concert gaan?"
+      ],
+      "focus": "Zullen we...? + infinitive at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the infinitive before the phrase: *Zullen we gaan naar het concert?*",
+          "explain": "With **zullen** the other verb goes to the end: **Zullen we naar het concert gaan?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits the final verb: *Zullen we naar het concert?*",
+          "explain": "A suggestion with **zullen** still needs the infinitive at the end: **gaan**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a conjugated verb after zullen: *Zullen we naar het concert gaat?*",
+          "explain": "After **zullen** use the infinitive **gaan**, not **gaat**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I'm free on Saturday.",
+      "answers": [
+        "Ik ben vrij op zaterdag.",
+        "Op zaterdag ben ik vrij.",
+        "Ik ben zaterdag vrij."
+      ],
+      "focus": "vrij = free; time at the start sends the verb second",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps subject before verb after a time phrase: *Op zaterdag ik ben vrij.*",
+          "explain": "If the sentence starts with time, the verb comes second: **Op zaterdag ben ik vrij.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses *gratis* for free: *Ik ben gratis op zaterdag.*",
+          "explain": "**vrij** means free (not working); **gratis** means free of charge."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses *in* before a day: *Ik ben vrij in zaterdag.*",
+          "explain": "Use **op** with days: **op zaterdag**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Do you feel like a beer?",
+      "answers": [
+        "Heb je zin in een biertje?",
+        "Heb jij zin in een biertje?"
+      ],
+      "focus": "zin in + noun",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses om te before a noun: *Heb je zin om te een biertje?*",
+          "explain": "With a noun use **zin in**: **zin in een biertje**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits *in*: *Heb je zin een biertje?*",
+          "explain": "The phrase is **zin in** + noun: **zin in een biertje**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses *zijn* instead of *hebben*: *Ben je zin in een biertje?*",
+          "explain": "**zin hebben** uses **hebben**: **Heb je zin in een biertje?**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds *een* before zin: *Heb je een zin in een biertje?*",
+          "explain": "**zin** has no article: **Heb je zin...?**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Unfortunately I'm busy.",
+      "answers": [
+        "Helaas ben ik druk.",
+        "Helaas heb ik het druk."
+      ],
+      "focus": "helaas at the start; **ik heb het druk**",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps subject before verb after helaas: *Helaas ik ben druk.*",
+          "explain": "After **helaas** at the start, the verb comes before the subject: **Helaas ben ik druk.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits *het* in the fixed phrase: *Helaas heb ik druk.*",
+          "explain": "The fixed phrase is **ik heb het druk**; **het** is required."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses *zijn* with the fixed phrase: *Helaas ben ik het druk.*",
+          "explain": "Use **hebben** in **ik heb het druk**; or say **ik ben druk** without **het**."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Zullen we samen naar het terras gaan?",
+      "en": "Shall we go to the terrace together?"
+    },
+    {
+      "type": "listen",
+      "nl": "Ik heb zin om te dansen.",
+      "en": "I feel like dancing."
+    },
+    {
+      "type": "reply",
+      "context": "Your friend Daan asks you a question.",
+      "say": {
+        "nl": "Zullen we naar de bioscoop gaan?",
+        "en": "Shall we go to the cinema?"
+      },
+      "task": "Say yes and suggest a time: eight o'clock.",
+      "examples": [
+        "Goed idee! Om acht uur?",
+        "Leuk! Zullen we om acht uur gaan?",
+        "Ja, gezellig! Zullen we om acht uur naar de bioscoop gaan?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses *op* for a clock time: *Goed idee! Op acht uur?*",
+          "explain": "Clock times take **om**: **om acht uur**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitive before the time phrase: *Leuk! Zullen we gaan om acht uur?*",
+          "explain": "With **zullen** the infinitive goes at the end: **Zullen we om acht uur gaan?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Declines instead of accepting: *Helaas kan ik niet.*",
+          "explain": "The task asks you to accept; start with **Goed idee!** or **Leuk!** and add a time."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your friend Noor invites you to a party, but you already have an appointment.",
+      "say": {
+        "nl": "Ik nodig je uit voor een feest op zondag.",
+        "en": "I'm inviting you to a party on Sunday."
+      },
+      "task": "Decline politely and give a reason.",
+      "examples": [
+        "Helaas kan ik niet, want ik heb al een afspraak.",
+        "Leuk! Maar helaas kan ik niet. Ik ben zondag druk.",
+        "Dank je wel! Helaas heb ik al een afspraak."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps subject before verb after helaas: *Helaas ik kan niet.*",
+          "explain": "After **helaas** at the start, invert: **Helaas kan ik niet.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses wrong word order after want: *Helaas kan ik niet, want ik al een afspraak heb.*",
+          "explain": "After **want** use normal order: **want ik heb al een afspraak**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses *ben* with afspraak: *Helaas kan ik niet, want ik ben al een afspraak.*",
+          "explain": "You **hebt** an appointment: **ik heb al een afspraak**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Gives no reason: *Helaas kan ik niet.*",
+          "explain": "Add a reason with **want**: **Helaas kan ik niet, want ik heb al een afspraak.**"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Plannen voor zaterdag",
+    "setting": "You are texting and then calling your friend Noor to plan Saturday afternoon.",
+    "partner": {
+      "name": "Noor",
+      "gender": "f",
+      "role": "your friend"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Wat doe je zaterdag?",
+          "en": "Hi! What are you doing on Saturday?"
+        },
+        "task": "Say that you're free and suggest doing something together.",
+        "examples": [
+          "Hoi! Ik ben vrij. Zullen we samen iets doen?",
+          "Hoi Noor! Ik ben zaterdag vrij. Heb je zin om iets te doen?",
+          "Hoi! Ik ben vrij. Zullen we naar de bioscoop gaan?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses *gratis* for free: *Ik ben gratis.*",
+            "explain": "**vrij** = free (not working); **gratis** = free of charge."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the infinitive before samen: *Zullen we doen samen iets?*",
+            "explain": "With **zullen** the infinitive goes at the end: **Zullen we samen iets doen?**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets the verb zijn: *Ik vrij.*",
+            "explain": "Say **Ik ben vrij.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Leuk! Ik heb zin om naar het terras te gaan. En jij?",
+          "en": "Nice! I feel like going to the terrace. And you?"
+        },
+        "task": "Agree enthusiastically and suggest a time.",
+        "examples": [
+          "Goed idee! Hoe laat spreken we af?",
+          "Gezellig! Zullen we om drie uur afspreken?",
+          "Ja, leuk! Om twee uur?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses *op* for a clock time: *Zullen we op drie uur afspreken?*",
+            "explain": "Clock times take **om**: **om drie uur**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Splits the infinitive afspreken after zullen: *Zullen we om drie uur spreken af?*",
+            "explain": "With **zullen**, keep the separable verb together at the end: **afspreken**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Answers without suggesting a time: *Goed idee!*",
+            "explain": "The task asks for a time; add **Hoe laat** or a concrete time like **om drie uur**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Helaas ben ik om drie uur druk. Kan het om vier uur?",
+          "en": "Unfortunately I'm busy at three. Can it be at four?"
+        },
+        "task": "Say that's fine and agree on where to meet.",
+        "examples": [
+          "Ja, dat is goed. Waar spreken we af?",
+          "Dat is goed. Ik ontmoet je bij de bioscoop.",
+          "Oké, om vier uur bij de bioscoop."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits the separable prefix af: *Waar spreken we?*",
+            "explain": "Use the full separable verb: **Waar spreken we af?**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses *in* for a meeting point: *Ik ontmoet je in de bioscoop.*",
+            "explain": "Use **bij** for meeting at a place: **bij de bioscoop**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets the object after ontmoeten: *Ik ontmoet bij de bioscoop.*",
+            "explain": "**ontmoeten** needs a person: **Ik ontmoet je bij de bioscoop.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Bij de bioscoop is goed. Ik heb zin in een biertje!",
+          "en": "At the cinema is fine. I feel like a beer!"
+        },
+        "task": "Say you feel the same and say goodbye.",
+        "examples": [
+          "Ik ook! Tot zaterdag!",
+          "Haha, ik ook! Tot zaterdag.",
+          "Gezellig! Tot zaterdag!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses *mij* instead of *ik*: *Mij ook!*",
+            "explain": "Say **Ik ook!** to agree."
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits *in* before the noun: *Ik heb ook zin een biertje.*",
+            "explain": "Use **zin in** + noun: **zin in een biertje**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Says goodbye with *Tot ziens zaterdag*: *Tot ziens zaterdag!*",
+            "explain": "Say **Tot zaterdag!** or **Tot ziens!**, not **Tot ziens zaterdag**."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot zaterdag!",
+      "en": "See you Saturday!"
+    }
+  },
+  "culture": {
+    "title": "Plannen maken: the Dutch agenda",
+    "text": "In the Netherlands, social plans are often made weeks ahead: friends check their **agenda** and pick a date that works for everyone. **Zullen we een keer afspreken?** therefore usually means 'let's find a date', not 'let's meet right now'. A last-minute invitation is fine, but a polite **Helaas, ik heb al een afspraak** is completely normal and is not a sign that someone does not like you."
+  },
+  "summary": [
+    "Suggest something with **Zullen we...?**; the other verb goes to the end: *Zullen we naar de bioscoop gaan?*",
+    "**Zin hebben** works with **om ... te** + verb (*zin om te dansen*) and with **zin in** + noun (*zin in een biertje*).",
+    "Accept with **Goed idee!** or **Leuk!**; decline softly with **Helaas kan ik niet, want...**.",
+    "**afspreken** and **uitnodigen** are separable: *Ik spreek om drie uur af*, *Ik nodig je uit*.",
+    "**wanneer** asks for a day or date, **hoe laat** asks for a clock time."
+  ]
+}

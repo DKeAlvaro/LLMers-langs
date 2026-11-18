@@ -1,0 +1,1187 @@
+{
+  "id": "u01-l05",
+  "title": "Een koffie, graag",
+  "subtitle": "Ordering in a café",
+  "level": "A0",
+  "intro": "After this lesson you can order a drink politely at a Dutch café and ask for the bill. You will also learn the articles een, de and het, and when to use alstublieft or alsjeblieft.",
+  "words": [
+    {
+      "nl": "koffie",
+      "en": "coffee",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag een koffie.",
+        "en": "I would like a coffee."
+      },
+      "note": "A mass noun: 'een koffie' means one cup of coffee."
+    },
+    {
+      "nl": "thee",
+      "en": "tea",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag thee.",
+        "en": "I would like tea."
+      },
+      "note": null
+    },
+    {
+      "nl": "water",
+      "en": "water",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mag ik een glas water, alstublieft?",
+        "en": "May I have a glass of water, please?"
+      },
+      "note": null
+    },
+    {
+      "nl": "melk",
+      "en": "milk",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Met melk, graag.",
+        "en": "With milk, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "suiker",
+      "en": "sugar",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zonder suiker, graag.",
+        "en": "Without sugar, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "bier",
+      "en": "beer",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag een bier.",
+        "en": "I would like a beer."
+      },
+      "note": null
+    },
+    {
+      "nl": "wijn",
+      "en": "wine",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij wil graag een glas wijn.",
+        "en": "She would like a glass of wine."
+      },
+      "note": null
+    },
+    {
+      "nl": "jus d'orange",
+      "en": "orange juice",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Een jus d'orange, graag.",
+        "en": "An orange juice, please."
+      },
+      "note": "Say it roughly as 'zjuu d'orangje'."
+    },
+    {
+      "nl": "glas",
+      "en": "glass (for drinking)",
+      "pos": "noun",
+      "article": "het",
+      "plural": "glazen",
+      "forms": null,
+      "example": {
+        "nl": "Een glas water, alstublieft.",
+        "en": "A glass of water, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "kopje",
+      "en": "cup (for tea or coffee)",
+      "pos": "noun",
+      "article": "het",
+      "plural": "kopjes",
+      "forms": null,
+      "example": {
+        "nl": "Een kopje thee, graag.",
+        "en": "A cup of tea, please."
+      },
+      "note": "A diminutive of kop, so it takes het."
+    },
+    {
+      "nl": "appeltaart",
+      "en": "apple pie",
+      "pos": "noun",
+      "article": "de",
+      "plural": "appeltaarten",
+      "forms": null,
+      "example": {
+        "nl": "De appeltaart is lekker.",
+        "en": "The apple pie is tasty."
+      },
+      "note": null
+    },
+    {
+      "nl": "rekening",
+      "en": "bill (in a café)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "rekeningen",
+      "forms": null,
+      "example": {
+        "nl": "Mag ik de rekening, alstublieft?",
+        "en": "May I have the bill, please?"
+      },
+      "note": null
+    },
+    {
+      "nl": "ober",
+      "en": "waiter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "obers",
+      "forms": null,
+      "example": {
+        "nl": "Waar is de ober?",
+        "en": "Where is the waiter?"
+      },
+      "note": null
+    },
+    {
+      "nl": "café",
+      "en": "café",
+      "pos": "noun",
+      "article": "het",
+      "plural": "cafés",
+      "forms": null,
+      "example": {
+        "nl": "Het café is in Utrecht.",
+        "en": "The café is in Utrecht."
+      },
+      "note": null
+    },
+    {
+      "nl": "terras",
+      "en": "terrace",
+      "pos": "noun",
+      "article": "het",
+      "plural": "terrassen",
+      "forms": null,
+      "example": {
+        "nl": "Het café heeft een terras.",
+        "en": "The café has a terrace."
+      },
+      "note": null
+    },
+    {
+      "nl": "alstublieft",
+      "en": "please (formal); here you are",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Een koffie, alstublieft.",
+        "en": "A coffee, please."
+      },
+      "note": "Formal: to a waiter, a stranger, or more than one person."
+    },
+    {
+      "nl": "alsjeblieft",
+      "en": "please (informal); here you are",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Een kopje thee, alsjeblieft.",
+        "en": "A cup of tea, please."
+      },
+      "note": "Informal: to friends, family and children."
+    },
+    {
+      "nl": "dank u wel",
+      "en": "thank you (formal)",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dank u wel, meneer.",
+        "en": "Thank you, sir."
+      },
+      "note": "Use u with the waiter or people you do not know."
+    },
+    {
+      "nl": "dank je wel",
+      "en": "thanks (informal)",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dank je wel, Sanne!",
+        "en": "Thanks, Sanne!"
+      },
+      "note": null
+    },
+    {
+      "nl": "graag",
+      "en": "gladly; please (in orders)",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag een koffie.",
+        "en": "I would like a coffee."
+      },
+      "note": "Graag makes a request polite; it does not mean 'like' here."
+    },
+    {
+      "nl": "met",
+      "en": "with",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Koffie met melk, graag.",
+        "en": "Coffee with milk, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "zonder",
+      "en": "without",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Thee zonder suiker, graag.",
+        "en": "Tea without sugar, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "mag ik",
+      "en": "may I",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mag ik een glas water?",
+        "en": "May I have a glass of water?"
+      },
+      "note": "A polite way to ask for something."
+    },
+    {
+      "nl": "willen",
+      "en": "to want",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik wil, jij wilt, u wilt, hij/zij wil, wij willen, jullie willen, zij willen",
+      "example": {
+        "nl": "Ik wil graag betalen.",
+        "en": "I would like to pay."
+      },
+      "note": "Ik wil graag... is the normal polite way to say 'I would like...'."
+    },
+    {
+      "nl": "bestellen",
+      "en": "to order",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bestel, jij bestelt, u bestelt, hij/zij bestelt, wij bestellen, jullie bestellen, zij bestellen",
+      "example": {
+        "nl": "Wat wilt u bestellen?",
+        "en": "What would you like to order?"
+      },
+      "note": null
+    },
+    {
+      "nl": "betalen",
+      "en": "to pay",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik betaal, jij betaalt, u betaalt, hij/zij betaalt, wij betalen, jullie betalen, zij betalen",
+      "example": {
+        "nl": "Ik wil graag betalen.",
+        "en": "I would like to pay."
+      },
+      "note": null
+    },
+    {
+      "nl": "pinnen",
+      "en": "to pay by debit card",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik pin, jij pint, u pint, hij/zij pint, wij pinnen, jullie pinnen, zij pinnen",
+      "example": {
+        "nl": "Wilt u pinnen?",
+        "en": "Would you like to pay by card?"
+      },
+      "note": "In Dutch shops and cafés, pinnen means paying by debit card."
+    },
+    {
+      "nl": "lekker",
+      "en": "tasty, nice",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De appeltaart is lekker.",
+        "en": "The apple pie is tasty."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Een koffie, graag.",
+      "en": "A coffee, please.",
+      "note": "The most common short way to order."
+    },
+    {
+      "nl": "Ik wil graag een kopje thee.",
+      "en": "I would like a cup of tea.",
+      "note": null
+    },
+    {
+      "nl": "Mag ik een glas water, alstublieft?",
+      "en": "May I have a glass of water, please?",
+      "note": null
+    },
+    {
+      "nl": "Met melk, graag. Zonder suiker.",
+      "en": "With milk, please. Without sugar.",
+      "note": null
+    },
+    {
+      "nl": "Wat wilt u bestellen?",
+      "en": "What would you like to order?",
+      "note": "The waiter asks this."
+    },
+    {
+      "nl": "De rekening, alstublieft.",
+      "en": "The bill, please.",
+      "note": null
+    },
+    {
+      "nl": "Ik wil graag betalen.",
+      "en": "I would like to pay.",
+      "note": null
+    },
+    {
+      "nl": "Mag ik pinnen?",
+      "en": "Can I pay by card?",
+      "note": "Literally 'May I pin?'"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "een, de and het",
+      "explanation": "Dutch has one word for 'a/an': **een**. For 'the' there are two words: **de** and **het**. Most nouns take **de**; a smaller group takes **het**, so learn the article with every new noun.",
+      "table": {
+        "headers": [
+          "Word",
+          "Use",
+          "Examples"
+        ],
+        "rows": [
+          [
+            "een",
+            "a / an",
+            "een koffie, een glas"
+          ],
+          [
+            "de",
+            "the (most nouns)",
+            "de koffie, de rekening"
+          ],
+          [
+            "het",
+            "the (a smaller group)",
+            "het water, het kopje"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "een koffie",
+          "en": "a coffee"
+        },
+        {
+          "nl": "de koffie",
+          "en": "the coffee"
+        },
+        {
+          "nl": "het water",
+          "en": "the water"
+        },
+        {
+          "nl": "de rekening",
+          "en": "the bill"
+        }
+      ],
+      "tip": "Always learn a noun with its article: not koffie, but de koffie."
+    },
+    {
+      "title": "Polite ordering: Ik wil graag..., Mag ik...?, ... graag",
+      "explanation": "To order politely, use **Ik wil graag** + the thing: **Ik wil graag een koffie**. You can also ask **Mag ik** + the thing: **Mag ik een glas water?** A short, very common order is the thing + **graag**: **Een koffie, graag.**",
+      "table": {
+        "headers": [
+          "Polite way",
+          "Example",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "Ik wil graag ...",
+            "Ik wil graag een koffie.",
+            "I would like a coffee."
+          ],
+          [
+            "Mag ik ...?",
+            "Mag ik een glas water?",
+            "May I have a glass of water?"
+          ],
+          [
+            "... , graag.",
+            "Een koffie, graag.",
+            "A coffee, please."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik wil graag een koffie.",
+          "en": "I would like a coffee."
+        },
+        {
+          "nl": "Mag ik een glas water?",
+          "en": "May I have a glass of water?"
+        },
+        {
+          "nl": "Een koffie, graag.",
+          "en": "A coffee, please."
+        }
+      ],
+      "tip": "Put graag after the thing you want: Een koffie, graag."
+    },
+    {
+      "title": "Formal and informal: alstublieft / alsjeblieft",
+      "explanation": "Use **u** forms with a waiter, a stranger, or a group you address formally: **alstublieft**, **dank u wel**, **Wilt u...?**. Use **je/jij** forms with friends, family and children: **alsjeblieft**, **dank je wel**, **Wil je...?**.",
+      "table": {
+        "headers": [
+          "Formal (u)",
+          "Informal (je/jij)"
+        ],
+        "rows": [
+          [
+            "alstublieft",
+            "alsjeblieft"
+          ],
+          [
+            "dank u wel",
+            "dank je wel"
+          ],
+          [
+            "Wilt u ...?",
+            "Wil je ...?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Alstublieft, meneer.",
+          "en": "Here you are, sir."
+        },
+        {
+          "nl": "Dank u wel!",
+          "en": "Thank you!"
+        },
+        {
+          "nl": "Dank je wel, Sanne!",
+          "en": "Thanks, Sanne!"
+        }
+      ],
+      "tip": "When in doubt with an adult you do not know, use the u form; it is never rude."
+    }
+  ],
+  "dialogue": {
+    "title": "Op het terras",
+    "setting": "A sunny afternoon on a café terrace in Utrecht.",
+    "speakers": [
+      {
+        "name": "Daan",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Daan",
+        "nl": "Goedemiddag! Wat wilt u bestellen?",
+        "en": "Good afternoon! What would you like to order?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemiddag. Ik wil graag een koffie, alstublieft.",
+        "en": "Good afternoon. I would like a coffee, please."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Met melk en suiker?",
+        "en": "With milk and sugar?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Met melk, graag. Zonder suiker.",
+        "en": "With milk, please. Without sugar."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Wilt u ook appeltaart?",
+        "en": "Would you like apple pie too?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, lekker! Een appeltaart, graag.",
+        "en": "Yes, tasty! An apple pie, please."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Een koffie en een appeltaart. Alstublieft.",
+        "en": "A coffee and an apple pie. Here you are."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel!",
+        "en": "Thank you!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Mag ik de rekening, alstublieft?",
+        "en": "May I have the bill, please?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja. Wilt u pinnen?",
+        "en": "Yes. Would you like to pay by card?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik wil graag pinnen.",
+        "en": "Yes, I would like to pay by card."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Pinnen is goed. Dank u wel, tot ziens!",
+        "en": "Paying by card is fine. Thank you, goodbye!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de koffie",
+          "coffee"
+        ],
+        [
+          "de thee",
+          "tea"
+        ],
+        [
+          "het water",
+          "water"
+        ],
+        [
+          "de melk",
+          "milk"
+        ],
+        [
+          "het bier",
+          "beer"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de rekening",
+          "the bill"
+        ],
+        [
+          "de ober",
+          "the waiter"
+        ],
+        [
+          "het terras",
+          "the terrace"
+        ],
+        [
+          "het kopje",
+          "the cup"
+        ],
+        [
+          "de appeltaart",
+          "the apple pie"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which is the most polite way to order a coffee?",
+      "nl": null,
+      "options": [
+        "Ik wil koffie.",
+        "Een koffie, graag.",
+        "Koffie!"
+      ],
+      "answer": 1,
+      "explain": "Adding graag makes the order sound polite and friendly."
+    },
+    {
+      "type": "choice",
+      "prompt": "You are speaking to the waiter. Which thank-you is formal?",
+      "nl": null,
+      "options": [
+        "Dank je wel.",
+        "Dank u wel.",
+        "Doei!"
+      ],
+      "answer": 1,
+      "explain": "Use dank u wel with u: to a waiter or someone you do not know."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence asks for the bill politely?",
+      "nl": null,
+      "options": [
+        "De rekening, alstublieft.",
+        "De rekening is.",
+        "Ik rekening, graag."
+      ],
+      "answer": 0,
+      "explain": "The thing + alstublieft is a polite request."
+    },
+    {
+      "type": "choice",
+      "prompt": "In 'Ik wil graag een kopje thee', what does graag do?",
+      "nl": null,
+      "options": [
+        "It makes the request polite.",
+        "It means 'without'.",
+        "It means 'the bill'."
+      ],
+      "answer": 0,
+      "explain": "Graag softens a request and makes it polite."
+    },
+    {
+      "type": "article",
+      "word": "koffie",
+      "en": "coffee",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "glas",
+      "en": "glass",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "rekening",
+      "en": "bill",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I would like a coffee.",
+      "answer": "Ik wil graag een koffie.",
+      "accept": [
+        "Graag wil ik een koffie.",
+        "Ik wil een koffie, graag."
+      ],
+      "extra": [
+        "jij",
+        "willen"
+      ],
+      "explain": "Use 'Ik wil graag' + thing for a polite order; graag can also go at the end."
+    },
+    {
+      "type": "build",
+      "en": "May I have the bill, please?",
+      "answer": "Mag ik de rekening, alstublieft?",
+      "accept": [
+        "Mag ik de rekening alstublieft?",
+        "Alstublieft, mag ik de rekening?",
+        "Mag ik alstublieft de rekening?"
+      ],
+      "extra": [
+        "u",
+        "willen"
+      ],
+      "explain": "Start a polite request with Mag ik and add alstublieft for 'please'."
+    },
+    {
+      "type": "build",
+      "en": "A glass of water, please.",
+      "answer": "Een glas water, graag.",
+      "accept": [
+        "Een glas water graag.",
+        "Graag een glas water."
+      ],
+      "extra": [
+        "de",
+        "met"
+      ],
+      "explain": "Use thing + graag for a short polite order; glas takes het, so 'een glas'."
+    },
+    {
+      "type": "gap",
+      "text": "Ik wil graag ___ kopje thee.",
+      "en": "I would like a cup of tea.",
+      "answers": [
+        "een"
+      ],
+      "hint": "a / an",
+      "explain": "Use een before a singular noun: 'een kopje thee'."
+    },
+    {
+      "type": "gap",
+      "text": "Ik wil koffie ___ suiker.",
+      "en": "I want coffee without sugar.",
+      "answers": [
+        "zonder"
+      ],
+      "hint": "without",
+      "explain": "Use zonder for 'without': 'zonder suiker'."
+    },
+    {
+      "type": "gap",
+      "text": "___ ik de rekening, alstublieft?",
+      "en": "May I have the bill, please?",
+      "answers": [
+        "Mag",
+        "mag"
+      ],
+      "hint": "May (start of a polite question)",
+      "explain": "Start a polite request with Mag: 'Mag ik de rekening?'."
+    },
+    {
+      "type": "gap",
+      "text": "Wij willen graag ___.",
+      "en": "We would like to pay.",
+      "answers": [
+        "betalen"
+      ],
+      "hint": "to pay",
+      "explain": "After willen, use the infinitive: 'willen betalen'."
+    },
+    {
+      "type": "translate",
+      "en": "A coffee, please.",
+      "answers": [
+        "Een koffie, graag.",
+        "Een koffie graag.",
+        "Koffie, graag.",
+        "Graag een koffie.",
+        "Een koffie, alstublieft.",
+        "Een koffie, alsjeblieft.",
+        "Koffie, alsjeblieft."
+      ],
+      "focus": "Ordering politely with graag",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses het with koffie: 'het koffie, graag'.",
+          "explain": "Koffie takes de: say 'de koffie'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the wrong verb form after ik: 'Ik wilt graag een koffie'.",
+          "explain": "With ik use wil, not wilt: 'Ik wil graag een koffie'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts graag before wil in a statement: 'Ik graag wil een koffie'.",
+          "explain": "Put graag after wil or after the noun: 'Ik wil graag een koffie' / 'Een koffie, graag'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Leaves out the polite word: 'Ik wil een koffie'.",
+          "explain": "Add graag or alstublieft to make it a polite order: 'Een koffie, graag'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I would like a glass of water.",
+      "answers": [
+        "Ik wil graag een glas water.",
+        "Ik wil een glas water, graag.",
+        "Graag wil ik een glas water.",
+        "Ik wil graag een glas water, alstublieft."
+      ],
+      "focus": "willen + graag",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Leaves out graag: 'Ik wil een glas water'.",
+          "explain": "For 'I would like', say 'Ik wil graag een glas water'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses de with glas: 'de glas water'.",
+          "explain": "Glas takes het: 'het glas'; here say 'een glas water'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the words in the wrong order: 'Ik wil graag water een glas'.",
+          "explain": "Say 'een glas water', not 'water een glas'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses the wrong verb form with ik: 'Ik wilt graag een glas water'.",
+          "explain": "With ik use wil: 'Ik wil graag een glas water'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The bill, please.",
+      "answers": [
+        "De rekening, alstublieft.",
+        "De rekening, alsjeblieft.",
+        "De rekening graag.",
+        "De rekening alstublieft.",
+        "Mag ik de rekening, alstublieft?",
+        "Mag ik de rekening alstublieft?",
+        "Mag ik de rekening, alsjeblieft?"
+      ],
+      "focus": "Ask for the bill",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses het with rekening: 'het rekening, alstublieft'.",
+          "explain": "Rekening takes de: 'de rekening'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out the polite word: 'De rekening'.",
+          "explain": "Add alstublieft/alsjeblieft or graag: 'De rekening, alstublieft'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the words in an impossible order: 'De alstublieft rekening'.",
+          "explain": "Say 'De rekening, alstublieft'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses a verb instead of a polite request: 'Ik rekening, graag'.",
+          "explain": "Use 'Mag ik...?' or just 'De rekening, alstublieft': 'Mag ik de rekening, alstublieft?'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I would like to pay.",
+      "answers": [
+        "Ik wil graag betalen.",
+        "Ik wil betalen, graag.",
+        "Graag wil ik betalen.",
+        "Ik wil graag betalen, alstublieft."
+      ],
+      "focus": "willen + infinitive",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the wrong verb form with ik: 'Ik wilt graag betalen'.",
+          "explain": "With ik use wil: 'Ik wil graag betalen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds te before the infinitive: 'Ik wil graag te betalen'.",
+          "explain": "After willen, use the infinitive without te: 'Ik wil graag betalen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out graag: 'Ik wil betalen'.",
+          "explain": "For 'I would like to pay', say 'Ik wil graag betalen'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses a finite verb after wil: 'Ik wil graag betaal'.",
+          "explain": "After wil use the infinitive: 'betalen', not 'betaal'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik wil graag een kopje thee.",
+      "en": "I would like a cup of tea."
+    },
+    {
+      "type": "listen",
+      "nl": "Mag ik de rekening, alstublieft?",
+      "en": "May I have the bill, please?"
+    },
+    {
+      "type": "reply",
+      "context": "You are on a café terrace in Utrecht. The waiter comes to your table.",
+      "say": {
+        "nl": "Goedemiddag! Wat wilt u bestellen?",
+        "en": "Good afternoon! What would you like to order?"
+      },
+      "task": "Order a coffee politely.",
+      "examples": [
+        "Ik wil graag een koffie, alstublieft.",
+        "Een koffie, graag.",
+        "Mag ik een koffie, alstublieft?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Orders without graag/alstublieft: 'Ik wil een koffie'.",
+          "explain": "Add graag or alstublieft to make it polite: 'Ik wil graag een koffie' / 'Een koffie, graag'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses het with koffie: 'het koffie, graag'.",
+          "explain": "Koffie takes de: 'de koffie'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the wrong verb form with ik: 'Ik wilt graag een koffie'.",
+          "explain": "With ik use wil: 'Ik wil graag een koffie'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts graag before wil: 'Ik graag wil een koffie'.",
+          "explain": "Put graag after wil or at the end: 'Ik wil graag een koffie' / 'Een koffie, graag'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The waiter asks about milk and sugar.",
+      "say": {
+        "nl": "Met melk en suiker?",
+        "en": "With milk and sugar?"
+      },
+      "task": "Say: with milk, please, without sugar.",
+      "examples": [
+        "Met melk, graag. Zonder suiker.",
+        "Graag met melk, zonder suiker.",
+        "Met melk, alstublieft. Zonder suiker."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses met for without: 'Met suiker, graag'.",
+          "explain": "For 'without' use zonder: 'zonder suiker'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out melk: 'Zonder suiker, graag'.",
+          "explain": "Say 'met melk' for with milk: 'Met melk, graag'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out the polite word: 'Met melk. Zonder suiker'.",
+          "explain": "Add graag or alstublieft: 'Met melk, graag. Zonder suiker'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Says 'zonder melk' instead of 'met melk': 'Zonder melk, graag'.",
+          "explain": "Use met for 'with': 'met melk'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op het terras",
+    "setting": "You are at a café terrace in Utrecht. Daan is your waiter.",
+    "partner": {
+      "name": "Daan",
+      "gender": "m",
+      "role": "waiter"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag! Wat wilt u bestellen?",
+          "en": "Good afternoon! What would you like to order?"
+        },
+        "task": "Order a coffee, politely.",
+        "examples": [
+          "Ik wil graag een koffie, alstublieft.",
+          "Een koffie, graag."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Orders without graag/alstublieft: 'Ik wil een koffie'.",
+            "explain": "Add graag or alstublieft to make it polite: 'Ik wil graag een koffie' / 'Een koffie, graag'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses het with koffie: 'het koffie, graag'.",
+            "explain": "Koffie takes de: 'de koffie'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the wrong verb form with ik: 'Ik wilt graag een koffie'.",
+            "explain": "With ik use wil: 'Ik wil graag een koffie'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Met melk en suiker?",
+          "en": "With milk and sugar?"
+        },
+        "task": "Say: with milk, please, and without sugar.",
+        "examples": [
+          "Met melk, graag. Zonder suiker.",
+          "Graag met melk, zonder suiker."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses met for without: 'Met suiker, graag'.",
+            "explain": "For 'without' use zonder: 'zonder suiker'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves out melk: 'Zonder suiker, graag'.",
+            "explain": "Say 'met melk' for with milk: 'Met melk, graag'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Leaves out the polite word: 'Met melk. Zonder suiker'.",
+            "explain": "Add graag or alstublieft: 'Met melk, graag. Zonder suiker'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wilt u ook appeltaart?",
+          "en": "Would you like apple pie too?"
+        },
+        "task": "Say yes, you would like an apple pie.",
+        "examples": [
+          "Ja, graag! Een appeltaart, alstublieft.",
+          "Ja, lekker. Ik wil graag een appeltaart."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Leaves out graag/alstublieft: 'Ja, een appeltaart'.",
+            "explain": "Add graag or alstublieft: 'Een appeltaart, graag'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses het with appeltaart: 'het appeltaart'.",
+            "explain": "Appeltaart takes de: 'de appeltaart'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the wrong verb form with ik: 'Ik wilt graag een appeltaart'.",
+            "explain": "With ik use wil: 'Ik wil graag een appeltaart'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wilt u de rekening?",
+          "en": "Would you like the bill?"
+        },
+        "task": "Say yes, please, and that you would like to pay by card.",
+        "examples": [
+          "Ja, graag. Ik wil graag pinnen.",
+          "Ja, de rekening, alstublieft. Ik wil graag pinnen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says betalen instead of pinnen for paying by card: 'Ik wil graag betalen'.",
+            "explain": "For paying by card, say 'Ik wil graag pinnen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves out graag: 'Ik wil pinnen'.",
+            "explain": "Add graag: 'Ik wil graag pinnen'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses pin after wil: 'Ik wil graag pin'.",
+            "explain": "After wil use the infinitive 'pinnen': 'Ik wil graag pinnen'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses the wrong verb form with ik: 'Ik wilt graag pinnen'.",
+            "explain": "With ik use wil: 'Ik wil graag pinnen'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Pinnen is goed. Dank u wel, tot ziens!",
+      "en": "Paying by card is fine. Thank you, goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Paying and tipping",
+    "text": "In the Netherlands you usually pay by card; in shops and cafés you will hear the verb pinnen (to pay by debit card). Cash is accepted in most places, but some cafés are card-only. Tipping is not compulsory: rounding up the bill or leaving about 5-10% in a restaurant is normal for good service, and in a café it is often just a rounding-up or nothing."
+  },
+  "summary": [
+    "Use een for 'a/an' and de or het for 'the'; learn each noun with its article.",
+    "Order politely with Ik wil graag..., Mag ik...? or just the thing + graag.",
+    "Use alstublieft and dank u wel with u (formal); alsjeblieft and dank je wel with friends.",
+    "Ask for the bill with De rekening, alstublieft.",
+    "In the Netherlands, paying by card is called pinnen."
+  ]
+}

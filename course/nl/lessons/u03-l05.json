@@ -1,0 +1,1152 @@
+{
+  "id": "u03-l05",
+  "title": "Samen koken",
+  "subtitle": "Cooking and the imperative",
+  "level": "A1",
+  "intro": "In this lesson you learn to follow a simple recipe and give short instructions in Dutch. You practise the imperative, polite requests with u, and adjectives after is/zijn. You also talk about cooking pancakes with a Dutch friend.",
+  "words": [
+    {
+      "nl": "koken",
+      "en": "to cook",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kook, jij kookt, wij koken",
+      "example": {
+        "nl": "Ik kook de soep.",
+        "en": "I am cooking the soup."
+      },
+      "note": null
+    },
+    {
+      "nl": "snijden",
+      "en": "to cut",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik snijd, jij snijdt, wij snijden",
+      "example": {
+        "nl": "Snijd de ui.",
+        "en": "Cut the onion."
+      },
+      "note": null
+    },
+    {
+      "nl": "bakken",
+      "en": "to fry, to bake",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bak, jij bakt, wij bakken",
+      "example": {
+        "nl": "We bakken pannenkoeken.",
+        "en": "We are making pancakes."
+      },
+      "note": null
+    },
+    {
+      "nl": "roeren",
+      "en": "to stir",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik roer, jij roert, wij roeren",
+      "example": {
+        "nl": "Roer de soep.",
+        "en": "Stir the soup."
+      },
+      "note": null
+    },
+    {
+      "nl": "toevoegen",
+      "en": "to add",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik voeg toe, jij voegt toe, wij voegen toe",
+      "example": {
+        "nl": "Voeg het zout toe.",
+        "en": "Add the salt."
+      },
+      "note": "In a command, toe goes at the end: Voeg het zout toe."
+    },
+    {
+      "nl": "wassen",
+      "en": "to wash",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik was, jij wast, wij wassen",
+      "example": {
+        "nl": "Was de kom.",
+        "en": "Wash the bowl."
+      },
+      "note": "Ik was can also mean 'I was'; context makes it clear."
+    },
+    {
+      "nl": "doen",
+      "en": "to do, to put",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik doe, jij doet, wij doen",
+      "example": {
+        "nl": "Doe de olie in de pan.",
+        "en": "Put the oil in the pan."
+      },
+      "note": "You already know doen; here it means 'put'."
+    },
+    {
+      "nl": "nemen",
+      "en": "to take",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik neem, jij neemt, wij nemen",
+      "example": {
+        "nl": "Neem de lepel.",
+        "en": "Take the spoon."
+      },
+      "note": null
+    },
+    {
+      "nl": "pan",
+      "en": "pan",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de pannen",
+      "forms": null,
+      "example": {
+        "nl": "De pan is heet.",
+        "en": "The pan is hot."
+      },
+      "note": null
+    },
+    {
+      "nl": "oven",
+      "en": "oven",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de ovens",
+      "forms": null,
+      "example": {
+        "nl": "De oven is warm.",
+        "en": "The oven is warm."
+      },
+      "note": null
+    },
+    {
+      "nl": "mes",
+      "en": "knife",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de messen",
+      "forms": null,
+      "example": {
+        "nl": "Snijd het brood met het mes.",
+        "en": "Cut the bread with the knife."
+      },
+      "note": null
+    },
+    {
+      "nl": "lepel",
+      "en": "spoon",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de lepels",
+      "forms": null,
+      "example": {
+        "nl": "Neem de lepel.",
+        "en": "Take the spoon."
+      },
+      "note": null
+    },
+    {
+      "nl": "vork",
+      "en": "fork",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vorken",
+      "forms": null,
+      "example": {
+        "nl": "De vork ligt op tafel.",
+        "en": "The fork is on the table."
+      },
+      "note": null
+    },
+    {
+      "nl": "bord",
+      "en": "plate",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de borden",
+      "forms": null,
+      "example": {
+        "nl": "Doe de pannenkoek op het bord.",
+        "en": "Put the pancake on the plate."
+      },
+      "note": null
+    },
+    {
+      "nl": "kom",
+      "en": "bowl",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de kommen",
+      "forms": null,
+      "example": {
+        "nl": "Doe de melk in de kom.",
+        "en": "Put the milk in the bowl."
+      },
+      "note": null
+    },
+    {
+      "nl": "recept",
+      "en": "recipe",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de recepten",
+      "forms": null,
+      "example": {
+        "nl": "Wat is het recept?",
+        "en": "What is the recipe?"
+      },
+      "note": null
+    },
+    {
+      "nl": "minuut",
+      "en": "minute",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de minuten",
+      "forms": null,
+      "example": {
+        "nl": "Bak de pannenkoek twee minuten.",
+        "en": "Fry the pancake for two minutes."
+      },
+      "note": "You already know de minuut from telling time."
+    },
+    {
+      "nl": "heet",
+      "en": "hot",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De pan is heet.",
+        "en": "The pan is hot."
+      },
+      "note": "After is/zijn, no -e: De pan is heet."
+    },
+    {
+      "nl": "klaar",
+      "en": "ready, done",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De soep is klaar.",
+        "en": "The soup is ready."
+      },
+      "note": null
+    },
+    {
+      "nl": "eerst",
+      "en": "first",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Eerst wassen we de kom.",
+        "en": "First we wash the bowl."
+      },
+      "note": null
+    },
+    {
+      "nl": "dan",
+      "en": "then",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dan is de pannenkoek klaar.",
+        "en": "Then the pancake is ready."
+      },
+      "note": null
+    },
+    {
+      "nl": "daarna",
+      "en": "after that",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Daarna doen we de pannenkoek op het bord.",
+        "en": "After that we put the pancake on the plate."
+      },
+      "note": null
+    },
+    {
+      "nl": "tot slot",
+      "en": "finally",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Tot slot eten we de pannenkoek.",
+        "en": "Finally we eat the pancake."
+      },
+      "note": null
+    },
+    {
+      "nl": "zout",
+      "en": "salt",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Voeg het zout toe.",
+        "en": "Add the salt."
+      },
+      "note": "You already know zout as 'salty'; as a noun it is het zout."
+    },
+    {
+      "nl": "peper",
+      "en": "pepper",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Voeg de peper toe.",
+        "en": "Add the pepper."
+      },
+      "note": null
+    },
+    {
+      "nl": "olie",
+      "en": "oil",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Doe de olie in de pan.",
+        "en": "Put the oil in the pan."
+      },
+      "note": null
+    },
+    {
+      "nl": "pannenkoek",
+      "en": "pancake",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de pannenkoeken",
+      "forms": null,
+      "example": {
+        "nl": "We bakken pannenkoeken.",
+        "en": "We are making pancakes."
+      },
+      "note": "A typical Dutch dinner dish."
+    },
+    {
+      "nl": "stroop",
+      "en": "syrup",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik eet de pannenkoek met stroop.",
+        "en": "I eat the pancake with syrup."
+      },
+      "note": "In the Netherlands, pannenkoeken are often eaten with stroop or bacon."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Wat is het recept?",
+      "en": "What is the recipe?",
+      "note": null
+    },
+    {
+      "nl": "Eerst wassen, dan snijden.",
+      "en": "First wash, then cut.",
+      "note": "Two imperatives in a row."
+    },
+    {
+      "nl": "Doe de olie in de pan.",
+      "en": "Put the oil in the pan.",
+      "note": null
+    },
+    {
+      "nl": "Snijd de ui.",
+      "en": "Cut the onion.",
+      "note": "Ui is known; the command is snijd."
+    },
+    {
+      "nl": "Roer het goed.",
+      "en": "Stir it well.",
+      "note": null
+    },
+    {
+      "nl": "Voeg het zout toe.",
+      "en": "Add the salt.",
+      "note": "Toe goes at the end."
+    },
+    {
+      "nl": "Bak de pannenkoek twee minuten.",
+      "en": "Fry the pancake for two minutes.",
+      "note": null
+    },
+    {
+      "nl": "Het is klaar.",
+      "en": "It is ready.",
+      "note": null
+    },
+    {
+      "nl": "Tot slot eten we de pannenkoek.",
+      "en": "Finally we eat the pancake.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "The imperative: use the stem",
+      "explanation": "To give an instruction, use the stem of the verb. The stem is the form you use with **ik**: **snijden** -> **ik snijd** -> **snijd**. You do not use a subject: **Snijd de ui.** **Kook het water.** **Doe het in de pan.**",
+      "table": {
+        "headers": [
+          "Infinitive",
+          "Stem / command",
+          "Example"
+        ],
+        "rows": [
+          [
+            "koken",
+            "kook",
+            "Kook het water."
+          ],
+          [
+            "snijden",
+            "snijd",
+            "Snijd de ui."
+          ],
+          [
+            "doen",
+            "doe",
+            "Doe de olie in de pan."
+          ],
+          [
+            "nemen",
+            "neem",
+            "Neem de lepel."
+          ],
+          [
+            "wassen",
+            "was",
+            "Was de kom."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Snijd de ui.",
+          "en": "Cut the onion."
+        },
+        {
+          "nl": "Kook het water.",
+          "en": "Boil the water."
+        },
+        {
+          "nl": "Doe het in de pan.",
+          "en": "Put it in the pan."
+        }
+      ],
+      "tip": "The stem can look different from the infinitive: **nemen** -> **neem**, **wassen** -> **was**."
+    },
+    {
+      "title": "Polite instructions: add alstublieft or use the u-form",
+      "explanation": "A plain command with the stem is normal between friends. To be polite, add **alstublieft** or use a form with **u**. In a polite u-form the verb often has **-t**: **Komt u binnen.** For a very polite request, use **Wilt u ...?** with the infinitive at the end.",
+      "table": {
+        "headers": [
+          "Plain command",
+          "Polite option"
+        ],
+        "rows": [
+          [
+            "Kom binnen.",
+            "Komt u binnen."
+          ],
+          [
+            "Neem een bord.",
+            "Neem een bord, alstublieft."
+          ],
+          [
+            "Doe de olie in de pan.",
+            "Wilt u de olie in de pan doen?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Komt u binnen.",
+          "en": "Please come in."
+        },
+        {
+          "nl": "Neem een bord, alstublieft.",
+          "en": "Take a plate, please."
+        },
+        {
+          "nl": "Wilt u de olie in de pan doen?",
+          "en": "Would you put the oil in the pan?"
+        }
+      ],
+      "tip": "Between friends, a short stem is friendly: **Neem een bord.** Use **u** with strangers, older people or in a shop."
+    },
+    {
+      "title": "Adjectives after the verb: no ending",
+      "explanation": "When an adjective comes after **is**, **bent** or **zijn**, it does not get an ending. Say **De soep is heet.** Do not add **-e**. The same is true for **koud**, **klaar** and **lekker**: **Het water is koud.** **De pannenkoek is klaar.**",
+      "table": {
+        "headers": [
+          "Correct",
+          "Why"
+        ],
+        "rows": [
+          [
+            "De soep is heet.",
+            "adjective after is: no -e"
+          ],
+          [
+            "Het water is koud.",
+            "adjective after is: no -e"
+          ],
+          [
+            "De pannenkoek is klaar.",
+            "adjective after is: no -e"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De pan is heet.",
+          "en": "The pan is hot."
+        },
+        {
+          "nl": "Het water is koud.",
+          "en": "The water is cold."
+        },
+        {
+          "nl": "De soep is klaar.",
+          "en": "The soup is ready."
+        }
+      ],
+      "tip": "Do not say **De soep is hete.** After the verb, keep the adjective plain: **heet**."
+    }
+  ],
+  "dialogue": {
+    "title": "Pannenkoeken bakken",
+    "setting": "You are in your Dutch friend Sanne's kitchen. She gives you instructions for making pannenkoeken.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Jij",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi! Vandaag bakken we pannenkoeken.",
+        "en": "Hi! Today we are making pancakes."
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Lekker! Wat is het recept?",
+        "en": "Delicious! What is the recipe?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Eerst wassen we de kom.",
+        "en": "First we wash the bowl."
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Goed. En dan?",
+        "en": "Good. And then?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Doe de olie in de pan. Neem de lepel en roer het goed.",
+        "en": "Put the oil in the pan. Take the spoon and stir it well."
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Hoeveel minuten moet de pannenkoek bakken?",
+        "en": "How many minutes must the pancake fry?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Twee minuten. Dan is de pannenkoek klaar.",
+        "en": "Two minutes. Then the pancake is ready."
+      },
+      {
+        "speaker": "Jij",
+        "nl": "De pan is heet!",
+        "en": "The pan is hot!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja. Bak de pannenkoek één minuut.",
+        "en": "Yes. Fry the pancake for one minute."
+      },
+      {
+        "speaker": "Jij",
+        "nl": "En daarna?",
+        "en": "And after that?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Daarna doen we de pannenkoek op het bord. Tot slot eten we hem.",
+        "en": "After that we put the pancake on the plate. Finally we eat it."
+      },
+      {
+        "speaker": "Jij",
+        "nl": "Met zout of met stroop?",
+        "en": "With salt or with stroop?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Met stroop!",
+        "en": "With stroop!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de pan",
+          "the pan"
+        ],
+        [
+          "het mes",
+          "the knife"
+        ],
+        [
+          "de lepel",
+          "the spoon"
+        ],
+        [
+          "het bord",
+          "the plate"
+        ],
+        [
+          "de kom",
+          "the bowl"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "koken",
+          "to cook"
+        ],
+        [
+          "snijden",
+          "to cut"
+        ],
+        [
+          "bakken",
+          "to fry, to bake"
+        ],
+        [
+          "roeren",
+          "to stir"
+        ],
+        [
+          "toevoegen",
+          "to add"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'first'?",
+      "nl": null,
+      "options": [
+        "dan",
+        "eerst",
+        "daarna",
+        "tot slot"
+      ],
+      "answer": 1,
+      "explain": "**Eerst** means 'first' in a recipe."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: ___ de olie in de pan.",
+      "nl": null,
+      "options": [
+        "Doe",
+        "Doet",
+        "Doen",
+        "Doe u"
+      ],
+      "answer": 0,
+      "explain": "The imperative uses the stem: **doe**."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "De pan is heet.",
+        "De pan is hete.",
+        "De pan is heet is.",
+        "De heet pan is."
+      ],
+      "answer": 0,
+      "explain": "After **is**, the adjective has no **-e**."
+    },
+    {
+      "type": "article",
+      "word": "recept",
+      "en": "recipe",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "lepel",
+      "en": "spoon",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "Cut the onion.",
+      "answer": "Snijd de ui.",
+      "accept": [],
+      "extra": [
+        "snijdt",
+        "het"
+      ],
+      "explain": "A command uses the stem: **snijden** -> **snijd**, and **ui** keeps its article **de**."
+    },
+    {
+      "type": "build",
+      "en": "Put the oil in the pan.",
+      "answer": "Doe de olie in de pan.",
+      "accept": [],
+      "extra": [
+        "doet",
+        "op"
+      ],
+      "explain": "The command is **doe** (stem of **doen**), and oil goes **in** the pan, not *op*."
+    },
+    {
+      "type": "build",
+      "en": "First wash the bowl, then stir it well.",
+      "answer": "Eerst was de kom, dan roer het goed.",
+      "accept": [
+        "Was eerst de kom, dan roer het goed."
+      ],
+      "extra": [
+        "wast",
+        "toe"
+      ],
+      "explain": "Use **eerst** for the first step and **dan** for the next; both commands use the stem: **was**, **roer**."
+    },
+    {
+      "type": "gap",
+      "text": "___ het zout toe.",
+      "en": "Add the salt.",
+      "answers": [
+        "Voeg"
+      ],
+      "hint": "toevoegen",
+      "explain": "**Toevoegen** splits: **voeg ... toe**. The command is **voeg**, and **toe** goes at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Bak de pannenkoek twee ___.",
+      "en": "Fry the pancake for two minutes.",
+      "answers": [
+        "minuten"
+      ],
+      "hint": "minuut (plural)",
+      "explain": "After **twee** use the plural **minuten**."
+    },
+    {
+      "type": "gap",
+      "text": "De soep is ___.",
+      "en": "The soup is hot.",
+      "answers": [
+        "heet"
+      ],
+      "hint": "hot (no -e after is)",
+      "explain": "After **is**, the adjective has no **-e**: **heet**, not *hete*."
+    },
+    {
+      "type": "translate",
+      "en": "Cut the onion.",
+      "answers": [
+        "Snijd de ui.",
+        "Snijd de ui",
+        "Snij de ui.",
+        "Snij de ui"
+      ],
+      "focus": "imperative of snijden + de ui",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the infinitive instead of the imperative: 'Snijden de ui.'",
+          "explain": "A command uses the stem, not the infinitive: **Snijd de ui.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'het ui' instead of 'de ui': 'Snijd het ui.'",
+          "explain": "**Ui** is a de-word: **de ui**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds -t as if there were a subject: 'Snijdt de ui.'",
+          "explain": "With no subject (a command), the stem has no -t: **Snijd de ui.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds a subject: 'Jij snijdt de ui.'",
+          "explain": "A command has no subject: **Snijd de ui.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Put the oil in the pan.",
+      "answers": [
+        "Doe de olie in de pan.",
+        "Doe de olie in de pan",
+        "Doe de olie in de pan!"
+      ],
+      "focus": "imperative doen + in de pan",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'op' instead of 'in': 'Doe de olie op de pan.'",
+          "explain": "Oil goes **in** the pan: **in de pan**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds -t to the command: 'Doet de olie in de pan.'",
+          "explain": "The command is the stem **doe**, without -t."
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out the article: 'Doe de olie in pan.'",
+          "explain": "**Pan** needs its article: **in de pan**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses the infinitive as a command: 'Doen de olie in de pan.'",
+          "explain": "For a command use the stem: **Doe de olie in de pan.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The water is cold.",
+      "answers": [
+        "Het water is koud.",
+        "Het water is koud"
+      ],
+      "focus": "adjective after is: no -e",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds -e after 'is': 'Het water is koude.'",
+          "explain": "After **is**, the adjective has no -e: **koud**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'de water': 'De water is koud.'",
+          "explain": "**Water** is a het-word: **het water**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the verb at the end: 'Het water koud is.'",
+          "explain": "The verb comes second: **Het water is koud.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds -t to the adjective: 'Het water is koudt.'",
+          "explain": "Adjectives never take -t: **koud**."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Snijd de ui.",
+      "en": "Cut the onion."
+    },
+    {
+      "type": "listen",
+      "nl": "De pan is heet.",
+      "en": "The pan is hot."
+    },
+    {
+      "type": "reply",
+      "context": "You are cooking soup with a friend. He gives you an instruction.",
+      "say": {
+        "nl": "Voeg het zout toe.",
+        "en": "Add the salt."
+      },
+      "task": "Say that you are doing it, and ask if the soup is ready.",
+      "examples": [
+        "Ja, ik doe het. Is de soep klaar?",
+        "Ja, ik voeg het zout toe. Is de soep klaar?",
+        "Goed, ik doe het. Is de soep klaar?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Forgets the object 'het': 'Ja, ik doe. Is de soep klaar?'",
+          "explain": "**Het** refers to the salt: **ik doe het**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the object before the verb: 'Ja, ik het doe.'",
+          "explain": "The verb comes second: **ik doe het**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Makes a statement instead of a yes/no question: 'Ja, ik doe het. De soep is klaar?'",
+          "explain": "Start a yes/no question with the verb: **Is de soep klaar?**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Leaves out 'de' with soep: 'Is soep klaar?'",
+          "explain": "**Soep** is a de-word: **de soep**."
+        },
+        {
+          "id": "m5",
+          "pattern": "Only says 'Ja' and asks the question, without saying that he/she is doing it: 'Ja. Is de soep klaar?'",
+          "explain": "The task has two parts: say you are doing it (**ik doe het**) and ask **Is de soep klaar?**"
+        },
+        {
+          "id": "m6",
+          "pattern": "Uses 'het' instead of 'de soep': 'Is het klaar?'",
+          "explain": "**Soep** is a de-word: **de soep**. Ask **Is de soep klaar?**"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You are making pancakes with a friend. She gives an instruction.",
+      "say": {
+        "nl": "Bak de pannenkoek twee minuten.",
+        "en": "Fry the pancake for two minutes."
+      },
+      "task": "Ask how many minutes the pancake must bake.",
+      "examples": [
+        "Hoeveel minuten moet de pannenkoek bakken?",
+        "Hoeveel minuten moet hij bakken?",
+        "Hoeveel minuten bakken?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the modal after the subject: 'Hoeveel minuten de pannenkoek moet bakken?'",
+          "explain": "In a question the verb comes before the subject: **moet de pannenkoek bakken?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the singular 'minuut': 'Hoeveel minuut moet de pannenkoek bakken?'",
+          "explain": "After **hoeveel** use the plural: **hoeveel minuten**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a finite verb after the modal: 'Hoeveel minuten moet de pannenkoek bakt?'",
+          "explain": "After **moet**, use the infinitive: **bakken**."
+        },
+        {
+          "id": "m4",
+          "pattern": "Leaves out 'de': 'Hoeveel minuten moet pannenkoek bakken?'",
+          "explain": "**Pannenkoek** needs **de**: **de pannenkoek**."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Samen pannenkoeken bakken",
+    "setting": "You are in your Dutch friend Sanne's kitchen. She gives you instructions for making pannenkoeken.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "your Dutch friend"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Eerst wassen we de kom. Wil jij de kom wassen?",
+          "en": "First we wash the bowl. Will you wash the bowl?"
+        },
+        "task": "Say yes, and ask what comes next.",
+        "examples": [
+          "Ja, ik was de kom. En dan?",
+          "Ja. Wat doen we daarna?",
+          "Goed, ik was de kom. En dan?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the wrong ik-form: 'Ja, ik wast de kom.'",
+            "explain": "With **ik** use the stem: **ik was de kom**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Makes a question without a verb: 'Ja, ik was de kom. Wat daarna?'",
+            "explain": "A question needs a verb: **Wat doen we daarna?** or **En dan?**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the subject before the verb in the question: 'En dan we doen?'",
+            "explain": "In a question the verb comes before the subject: **Wat doen we daarna?**"
+          },
+          {
+            "id": "m4",
+            "pattern": "Answers 'nee': 'Nee, ik was de kom.'",
+            "explain": "Sanne asks if you will wash it; answer **Ja**: **Ja, ik was de kom.**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Goed. Doe de olie in de pan. Neem de lepel en roer het goed.",
+          "en": "Good. Put the oil in the pan. Take the spoon and stir it well."
+        },
+        "task": "Repeat the two instructions to show you understand.",
+        "examples": [
+          "Doe de olie in de pan. Neem de lepel en roer het goed.",
+          "Olie in de pan, en dan roeren.",
+          "Doe de olie in de pan en roer met de lepel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds -t to the command: 'Doet de olie in de pan.'",
+            "explain": "The command is the stem: **doe**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'op' instead of 'in': 'Doe de olie op de pan.'",
+            "explain": "Oil goes **in** the pan: **in de pan**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Makes the second verb finite: 'Neem de lepel en roert het goed.'",
+            "explain": "Both are commands: **neem** and **roer**."
+          },
+          {
+            "id": "m4",
+            "pattern": "Leaves out the object 'het': 'Neem de lepel en roer goed.'",
+            "explain": "Say **roer het goed** — 'het' refers to the mixture."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Bak de pannenkoek twee minuten. De pan is heet!",
+          "en": "Fry the pancake for two minutes. The pan is hot!"
+        },
+        "task": "Say that the pan is hot and ask how many minutes.",
+        "examples": [
+          "De pan is heet. Hoeveel minuten?",
+          "De pan is heet. Hoeveel minuten moet de pannenkoek bakken?",
+          "Twee minuten? De pan is heet!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds -e after 'is': 'De pan is hete.'",
+            "explain": "After **is**, no -e: **De pan is heet.**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses the singular 'minuut': 'Hoeveel minuut?'",
+            "explain": "Use the plural: **hoeveel minuten**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Leaves out 'de': 'Pan is heet.'",
+            "explain": "**Pan** needs **de**: **De pan is heet.**"
+          },
+          {
+            "id": "m4",
+            "pattern": "Only says the statement, without asking the question: 'De pan is heet.'",
+            "explain": "Add the question: **Hoeveel minuten moet de pannenkoek bakken?**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Twee minuten. Dan is de pannenkoek klaar. Doe hem op het bord.",
+          "en": "Two minutes. Then the pancake is ready. Put it on the plate."
+        },
+        "task": "Say that it is ready and ask: with salt or with stroop?",
+        "examples": [
+          "Hij is klaar. Met zout of met stroop?",
+          "De pannenkoek is klaar. Met zout of met stroop?",
+          "Klaar! Met zout of met stroop?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'het pannenkoek': 'Het pannenkoek is klaar.'",
+            "explain": "**Pannenkoek** is a de-word: **de pannenkoek**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds -e after 'is': 'De pannenkoek is klare.'",
+            "explain": "After **is**, no -e: **klaar**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Leaves out the second 'met': 'Met zout of stroop?'",
+            "explain": "Repeat **met**: **met zout of met stroop**."
+          },
+          {
+            "id": "m4",
+            "pattern": "Forgets the subject: 'Is klaar.'",
+            "explain": "Name the subject: **Hij is klaar** or **De pannenkoek is klaar**."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Met stroop! Lekker!",
+      "en": "With stroop! Delicious!"
+    }
+  },
+  "culture": {
+    "title": "Pannenkoeken: dinner, not breakfast",
+    "text": "In the Netherlands, pannenkoeken are usually a main meal, often dinner, not breakfast. People eat them with stroop (a thick syrup) or with bacon (spek), and sometimes with both. Pannenkoekenhuizen are casual restaurants that serve many sweet and savoury versions. At home, making them together is a common family activity."
+  },
+  "summary": [
+    "Use the stem for commands: **Snijd de ui.** **Doe de olie in de pan.**",
+    "Add **alstublieft** or use a polite **u**-form when you need to be polite.",
+    "After **is** or **zijn**, adjectives have no **-e**: **De soep is heet.**",
+    "Use **eerst**, **dan**, **daarna** and **tot slot** to order the steps in a recipe.",
+    "Pannenkoeken are a Dutch dinner dish, often eaten with **stroop** or bacon."
+  ]
+}

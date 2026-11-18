@@ -1,0 +1,1053 @@
+{
+  "id": "u09-l05",
+  "title": "De man die naast mij woont",
+  "subtitle": "Bank, post and relative clauses",
+  "level": "A2",
+  "intro": "In this lesson you learn to talk about the bank and the post: opening an account, transferring money, sending a letter and collecting a parcel. You also learn how to describe people and things with relative clauses: de man die..., het pakket dat..., de vrouw met wie....",
+  "words": [
+    {
+      "nl": "bank",
+      "en": "bank (for money)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de banken",
+      "forms": null,
+      "example": {
+        "nl": "De bank is vandaag open.",
+        "en": "The bank is open today."
+      },
+      "note": "Here it means a financial bank; you already know de bank as a couch and as a place in the city."
+    },
+    {
+      "nl": "rekening",
+      "en": "account (bank); bill",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de rekeningen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een rekening bij de bank.",
+        "en": "I have an account at the bank."
+      },
+      "note": "You already know de rekening as the bill in a café or restaurant; here it means a bank account."
+    },
+    {
+      "nl": "rekeningnummer",
+      "en": "account number",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de rekeningnummers",
+      "forms": null,
+      "example": {
+        "nl": "Wat is uw rekeningnummer?",
+        "en": "What is your account number?"
+      },
+      "note": null
+    },
+    {
+      "nl": "bankpas",
+      "en": "bank card",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de bankpassen",
+      "forms": null,
+      "example": {
+        "nl": "Ik betaal met mijn bankpas.",
+        "en": "I pay with my bank card."
+      },
+      "note": null
+    },
+    {
+      "nl": "pincode",
+      "en": "PIN code",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de pincodes",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb mijn pincode nodig.",
+        "en": "I need my PIN code."
+      },
+      "note": "The secret number for your bank card."
+    },
+    {
+      "nl": "overmaken",
+      "en": "to transfer (money)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik maak over, jij maakt over, wij maken over (heeft overgemaakt)",
+      "example": {
+        "nl": "Ik maak de huur vandaag over.",
+        "en": "I transfer the rent today."
+      },
+      "note": "Separable: ik maak over, ik heb overgemaakt."
+    },
+    {
+      "nl": "opnemen",
+      "en": "to withdraw (money)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik neem op, jij neemt op, wij nemen op (heeft opgenomen)",
+      "example": {
+        "nl": "Ik neem geld op bij de bank.",
+        "en": "I withdraw money at the bank."
+      },
+      "note": "Separable: ik neem op, ik heb opgenomen."
+    },
+    {
+      "nl": "sparen",
+      "en": "to save (money)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik spaar, jij spaart, wij sparen (heeft gespaard)",
+      "example": {
+        "nl": "Wij sparen voor een nieuwe fiets.",
+        "en": "We are saving for a new bike."
+      },
+      "note": null
+    },
+    {
+      "nl": "rente",
+      "en": "interest (on money)",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik krijg rente op mijn rekening.",
+        "en": "I get interest on my account."
+      },
+      "note": "Usually uncountable; no plural in everyday use."
+    },
+    {
+      "nl": "afschrijving",
+      "en": "debit, charge",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de afschrijvingen",
+      "forms": null,
+      "example": {
+        "nl": "Er staat een afschrijving op mijn rekening.",
+        "en": "There is a debit on my account."
+      },
+      "note": "Money that leaves your account."
+    },
+    {
+      "nl": "post",
+      "en": "mail, post",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De post komt elke dag.",
+        "en": "The mail comes every day."
+      },
+      "note": "Uncountable here: mail, not a post office."
+    },
+    {
+      "nl": "pakket",
+      "en": "parcel",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de pakketten",
+      "forms": null,
+      "example": {
+        "nl": "Het pakket is bij de buren.",
+        "en": "The parcel is at the neighbours."
+      },
+      "note": null
+    },
+    {
+      "nl": "brief",
+      "en": "letter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de brieven",
+      "forms": null,
+      "example": {
+        "nl": "Ik stuur een brief naar mijn oma.",
+        "en": "I send a letter to my grandmother."
+      },
+      "note": "You already know de brief; here it is a letter you send by post."
+    },
+    {
+      "nl": "postzegel",
+      "en": "stamp",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de postzegels",
+      "forms": null,
+      "example": {
+        "nl": "Ik koop een postzegel voor de brief.",
+        "en": "I buy a stamp for the letter."
+      },
+      "note": null
+    },
+    {
+      "nl": "postkantoor",
+      "en": "post office",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de postkantoren",
+      "forms": null,
+      "example": {
+        "nl": "Het postkantoor is naast de bank.",
+        "en": "The post office is next to the bank."
+      },
+      "note": "You already know this place; it is useful for sending parcels and letters."
+    },
+    {
+      "nl": "versturen",
+      "en": "to send",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verstuur, jij verstuurt, wij versturen (heeft verstuurd)",
+      "example": {
+        "nl": "Ik verstuur de brief vandaag.",
+        "en": "I send the letter today."
+      },
+      "note": null
+    },
+    {
+      "nl": "ophalen",
+      "en": "to pick up, collect",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik haal op, jij haalt op, wij halen op (heeft opgehaald)",
+      "example": {
+        "nl": "Ik haal het pakket op.",
+        "en": "I pick up the parcel."
+      },
+      "note": "Separable: ik haal op, ik heb opgehaald."
+    },
+    {
+      "nl": "bezorgen",
+      "en": "to deliver",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bezorg, jij bezorgt, wij bezorgen (heeft bezorgd)",
+      "example": {
+        "nl": "De bezorger bezorgt het pakket bij de buren.",
+        "en": "The delivery person delivers the parcel to the neighbours."
+      },
+      "note": "With be- there is no ge- in the participle: heeft bezorgd."
+    },
+    {
+      "nl": "bezorger",
+      "en": "delivery person",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de bezorgers",
+      "forms": null,
+      "example": {
+        "nl": "De bezorger komt om drie uur.",
+        "en": "The delivery person comes at three o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "afhaalpunt",
+      "en": "pick-up point",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de afhaalpunten",
+      "forms": null,
+      "example": {
+        "nl": "Ik haal het pakket op bij het afhaalpunt.",
+        "en": "I pick up the parcel at the pick-up point."
+      },
+      "note": "A shop or small place where you collect parcels."
+    },
+    {
+      "nl": "bestellen",
+      "en": "to order",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bestel, jij bestelt, wij bestellen (heeft besteld)",
+      "example": {
+        "nl": "Ik bestel een boek.",
+        "en": "I order a book."
+      },
+      "note": "You already know bestellen for food; here you can also order a parcel or a book."
+    },
+    {
+      "nl": "die",
+      "en": "who, which, that (relative)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De man die naast mij woont, is aardig.",
+        "en": "The man who lives next to me is nice."
+      },
+      "note": "Use die for de-words and plural nouns; die is also the demonstrative 'that/those'."
+    },
+    {
+      "nl": "dat",
+      "en": "that, which (relative)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het pakket dat ik heb besteld, is er niet.",
+        "en": "The parcel that I ordered is not there."
+      },
+      "note": "Use dat for het-words; dat is also the conjunction 'that' and the demonstrative 'that'."
+    },
+    {
+      "nl": "wie",
+      "en": "who, whom (relative)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De vrouw met wie ik werk, is aardig.",
+        "en": "The woman I work with is nice."
+      },
+      "note": "Use wie for people after a preposition; wie is also the question word 'who'."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik wil graag een rekening openen.",
+      "en": "I would like to open an account.",
+      "note": "openen is a fixed verb for accounts."
+    },
+    {
+      "nl": "Hoe kan ik geld overmaken?",
+      "en": "How can I transfer money?",
+      "note": null
+    },
+    {
+      "nl": "Ik neem geld op bij de bank.",
+      "en": "I withdraw money at the bank.",
+      "note": null
+    },
+    {
+      "nl": "Wat is uw rekeningnummer?",
+      "en": "What is your account number?",
+      "note": null
+    },
+    {
+      "nl": "Ik heb een pakket besteld.",
+      "en": "I have ordered a parcel.",
+      "note": null
+    },
+    {
+      "nl": "Het pakket is bij de buren bezorgd.",
+      "en": "The parcel has been delivered to the neighbours.",
+      "note": null
+    },
+    {
+      "nl": "Ik kom het pakket ophalen.",
+      "en": "I'm coming to pick up the parcel.",
+      "note": null
+    },
+    {
+      "nl": "De vrouw met wie ik werk, is mijn buurvrouw.",
+      "en": "The woman I work with is my neighbour.",
+      "note": null
+    },
+    {
+      "nl": "Het pakket dat ik heb besteld, is er niet.",
+      "en": "The parcel that I ordered is not there.",
+      "note": null
+    },
+    {
+      "nl": "Waar is het afhaalpunt?",
+      "en": "Where is the pick-up point?",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Relative pronouns: die and dat",
+      "explanation": "Use **die** for de-words and for plural nouns. Use **dat** for het-words. The relative clause comes straight after the noun, and its verbs go to the end: **De man die naast mij woont, is aardig.** In the perfect tense the whole verb group stays at the end: **Het pakket dat ik heb besteld, is er niet.** Put a comma between the relative clause and the main clause when the main clause follows.",
+      "table": {
+        "headers": [
+          "Noun",
+          "Relative",
+          "Example"
+        ],
+        "rows": [
+          [
+            "de buurman / de buren",
+            "die",
+            "De buren die naast mij wonen, zijn niet thuis."
+          ],
+          [
+            "het pakket / het huis",
+            "dat",
+            "Het pakket dat ik heb besteld, is er niet."
+          ],
+          [
+            "de brieven (plural)",
+            "die",
+            "De brieven die op tafel liggen, zijn voor jou."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De man die naast mij woont, is aardig.",
+          "en": "The man who lives next to me is nice."
+        },
+        {
+          "nl": "Het pakket dat ik heb besteld, is er niet.",
+          "en": "The parcel that I ordered is not there."
+        },
+        {
+          "nl": "De buren die naast mij wonen, zijn niet thuis.",
+          "en": "The neighbours who live next to me are not at home."
+        }
+      ],
+      "tip": "Common mistake: 'de man dat' and 'het pakket die' are wrong. Look at the noun: de/plural -> die, het -> dat."
+    },
+    {
+      "title": "Relative pronoun with a preposition: met wie, aan wie",
+      "explanation": "When a person is the object of a preposition, use **wie**, not **die** or **dat**. The preposition comes before **wie**: **de vrouw met wie ik werk**. The verb still goes to the end of the relative clause: **de man aan wie ik het pakket geef**. For things, Dutch uses **waar + preposition** (for example **waarmee**), not **wie**.",
+      "table": {
+        "headers": [
+          "Person",
+          "Relative",
+          "Example"
+        ],
+        "rows": [
+          [
+            "de vrouw",
+            "met wie",
+            "De vrouw met wie ik werk, is aardig."
+          ],
+          [
+            "de buurman",
+            "aan wie",
+            "De buurman aan wie ik het pakket geef, is morgen thuis."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De vrouw met wie ik werk, is mijn buurvrouw.",
+          "en": "The woman I work with is my neighbour."
+        },
+        {
+          "nl": "De man aan wie ik het pakket geef, is mijn buurman.",
+          "en": "The man I give the parcel to is my neighbour."
+        },
+        {
+          "nl": "De buurman met wie ik praat, heeft een brief voor mij.",
+          "en": "The neighbour I am talking to has a letter for me."
+        }
+      ],
+      "tip": "Do not say 'de vrouw met die ik werk'; after a preposition for a person, use **wie**."
+    },
+    {
+      "title": "Word order in the relative clause",
+      "explanation": "The relative clause is a subordinate clause, so all verbs go to the end. With one verb: **... die daar woont**. With a modal: **... die het pakket wil ophalen**. With the perfect tense: **... dat ik heb besteld**. Do not put the verb right after **die** or **dat**.",
+      "table": null,
+      "examples": [
+        {
+          "nl": "Ken je de man die daar woont?",
+          "en": "Do you know the man who lives there?"
+        },
+        {
+          "nl": "Het pakket dat ik heb besteld, is er niet.",
+          "en": "The parcel that I ordered is not there."
+        },
+        {
+          "nl": "De vrouw met wie ik werk, wil het pakket ophalen.",
+          "en": "The woman I work with wants to pick up the parcel."
+        }
+      ],
+      "tip": "In a short relative clause, the verb at the end can feel far away. Keep the clause short at first."
+    }
+  ],
+  "dialogue": {
+    "title": "Het pakket bij de buurman",
+    "setting": "At a neighbourhood pick-up point; Sanne's parcel was delivered to her neighbour by mistake.",
+    "speakers": [
+      {
+        "name": "Mark",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Mark",
+        "nl": "Goedemiddag, wat kan ik voor u doen?",
+        "en": "Good afternoon, what can I do for you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik kom een pakket ophalen. Het is bij mijn buurman bezorgd.",
+        "en": "I'm coming to pick up a parcel. It was delivered to my neighbour."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Wat is uw naam en uw adres?",
+        "en": "What is your name and your address?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Sanne de Vries, Stationsstraat 14. De buurman die naast mij woont, is niet thuis.",
+        "en": "Sanne de Vries, Stationsstraat 14. The neighbour who lives next to me is not at home."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Heeft u een bericht van de bezorger?",
+        "en": "Do you have a message from the delivery person?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, hier is het bericht. Het pakket dat ik heb besteld, is bij hem bezorgd.",
+        "en": "Yes, here is the message. The parcel that I ordered was delivered to him."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ik heb het. Het pakket is hier. Heeft u een identiteitsbewijs?",
+        "en": "I have it. The parcel is here. Do you have ID?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, alstublieft. Ik heb ook een brief voor de buurman. Kan ik die meenemen?",
+        "en": "Yes, here you are. I also have a letter for the neighbour. Can I take it with me?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Natuurlijk. De brief die bij het pakket zit, mag u meenemen.",
+        "en": "Of course. The letter that is with the parcel, you may take with you."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Ik breng de brief naar de buurman.",
+        "en": "Thank you. I'll bring the letter to the neighbour."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Graag gedaan. Tot ziens!",
+        "en": "You're welcome. Goodbye!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Tot ziens!",
+        "en": "Goodbye!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de bank",
+          "bank (for money)"
+        ],
+        [
+          "de postzegel",
+          "stamp"
+        ],
+        [
+          "het afhaalpunt",
+          "pick-up point"
+        ],
+        [
+          "de bezorger",
+          "delivery person"
+        ],
+        [
+          "de rente",
+          "interest"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "overmaken",
+          "to transfer (money)"
+        ],
+        [
+          "opnemen",
+          "to withdraw"
+        ],
+        [
+          "sparen",
+          "to save"
+        ],
+        [
+          "versturen",
+          "to send"
+        ],
+        [
+          "ophalen",
+          "to pick up"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct relative pronoun.",
+      "nl": "De man ___ naast mij woont, is aardig.",
+      "options": [
+        "die",
+        "dat",
+        "wie"
+      ],
+      "answer": 0,
+      "explain": "De man is a de-word, so use die."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct relative pronoun.",
+      "nl": "Het pakket ___ ik heb besteld, is er niet.",
+      "options": [
+        "die",
+        "dat",
+        "wie"
+      ],
+      "answer": 1,
+      "explain": "Het pakket is a het-word, so use dat."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct relative pronoun.",
+      "nl": "De vrouw met ___ ik werk, is mijn buurvrouw.",
+      "options": [
+        "die",
+        "dat",
+        "wie"
+      ],
+      "answer": 2,
+      "explain": "After a preposition for a person, use wie."
+    },
+    {
+      "type": "article",
+      "word": "bank",
+      "en": "bank (for money)",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "pakket",
+      "en": "parcel",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "Do you know the man who lives there?",
+      "answer": "Ken je de man die daar woont",
+      "accept": [],
+      "extra": [
+        "dat",
+        "woon"
+      ],
+      "explain": "Use die for de-words; in the relative clause the verb comes at the end: 'de man die daar woont'."
+    },
+    {
+      "type": "build",
+      "en": "The parcel that I ordered is not there.",
+      "answer": "Het pakket dat ik heb besteld is er niet",
+      "accept": [
+        "Het pakket dat ik besteld heb is er niet"
+      ],
+      "extra": [
+        "die",
+        "heeft"
+      ],
+      "explain": "Use dat for het-words; in the perfect tense the verb group goes to the end: 'dat ik heb besteld'."
+    },
+    {
+      "type": "build",
+      "en": "The woman I work with is nice.",
+      "answer": "De vrouw met wie ik werk is aardig",
+      "accept": [],
+      "extra": [
+        "die",
+        "dat"
+      ],
+      "explain": "After a preposition for a person, use wie; the relative clause verb goes to the end: 'met wie ik werk'."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ geld op bij de bank.",
+      "en": "I withdraw money at the bank.",
+      "answers": [
+        "neem"
+      ],
+      "hint": "opnemen, ik-form",
+      "explain": "opnemen is separable: in the present the prefix op goes to the end: 'Ik neem geld op.'"
+    },
+    {
+      "type": "gap",
+      "text": "Het pakket ___ ik heb besteld, is bij de buren bezorgd.",
+      "en": "The parcel that I ordered has been delivered to the neighbours.",
+      "answers": [
+        "dat"
+      ],
+      "hint": "relative pronoun for a het-word",
+      "explain": "Het pakket is a het-word, so the relative pronoun is dat."
+    },
+    {
+      "type": "gap",
+      "text": "De man met ___ ik praat, is de bezorger.",
+      "en": "The man I am talking to is the delivery person.",
+      "answers": [
+        "wie"
+      ],
+      "hint": "relative pronoun after a preposition for people",
+      "explain": "After a preposition for a person, use wie: 'met wie ik praat'."
+    },
+    {
+      "type": "translate",
+      "en": "I want to transfer money.",
+      "answers": [
+        "Ik wil geld overmaken.",
+        "Ik wil graag geld overmaken.",
+        "Ik wil het geld overmaken."
+      ],
+      "focus": "wil + infinitive at the end; overmaken",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the infinitive before the object after a modal ('Ik wil overmaken geld').",
+          "explain": "With a modal, the infinitive goes to the end: \"Ik wil geld overmaken.\""
+        },
+        {
+          "id": "m2",
+          "pattern": "Splits the separable verb with a modal ('Ik wil geld over maken' / 'Ik wil geld maken over').",
+          "explain": "With 'wil', keep 'overmaken' together at the end: \"Ik wil geld overmaken.\""
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the wrong subject verb form ('Ik wilt geld overmaken').",
+          "explain": "'Ik' takes 'wil', not 'wilt': \"Ik wil geld overmaken.\""
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits the separable prefix 'over' ('Ik wil geld maken').",
+          "explain": "'overmaken' needs 'over': \"Ik wil geld overmaken.\""
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The parcel that I ordered is not there.",
+      "answers": [
+        "Het pakket dat ik heb besteld, is er niet.",
+        "Het pakket dat ik besteld heb, is er niet.",
+        "Het pakket dat ik heb besteld is er niet.",
+        "Het pakket dat ik besteld heb is er niet."
+      ],
+      "focus": "dat for het-words; verb group at the end of the relative clause",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'die' for 'het pakket' ('Het pakket die ik heb besteld, is er niet').",
+          "explain": "Het pakket is a het-word, so use dat: \"Het pakket dat ik heb besteld.\""
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts 'niet' before 'er' ('... is niet er').",
+          "explain": "The fixed order is 'er niet': \"... is er niet.\""
+        },
+        {
+          "id": "m3",
+          "pattern": "Starts the main clause with 'er' ('... er is niet').",
+          "explain": "After the relative clause, the main clause starts with the verb: \"... is er niet.\""
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits 'heb' in the perfect tense ('Het pakket dat ik besteld, is er niet').",
+          "explain": "The perfect tense needs 'heb': \"dat ik heb besteld\" or \"dat ik besteld heb\"."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The woman I work with is nice.",
+      "answers": [
+        "De vrouw met wie ik werk, is aardig.",
+        "De vrouw met wie ik werk, is leuk.",
+        "De vrouw met wie ik werk is aardig.",
+        "De vrouw met wie ik werk is leuk."
+      ],
+      "focus": "met wie for people; verb at the end of the relative clause",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'met die' for a person ('De vrouw met die ik werk, is aardig').",
+          "explain": "After a preposition for a person, use wie: \"met wie ik werk.\""
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'met dat' for a person ('De vrouw met dat ik werk, is aardig').",
+          "explain": "After a preposition for a person, use wie: \"met wie ik werk.\""
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the adjective before the verb in the main clause ('... aardig is').",
+          "explain": "The main clause has verb second: \"... is aardig.\""
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds an ending to the adjective after 'is' ('... is aardige').",
+          "explain": "After 'is' the adjective has no -e: \"... is aardig.\""
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik neem geld op bij de bank.",
+      "en": "I withdraw money at the bank."
+    },
+    {
+      "type": "listen",
+      "nl": "Het pakket dat ik heb besteld, is er niet.",
+      "en": "The parcel that I ordered is not there."
+    },
+    {
+      "type": "reply",
+      "context": "At the bank, you want to open a bank account. The employee says:",
+      "say": {
+        "nl": "Goedemiddag, wat kan ik voor u doen?",
+        "en": "Good afternoon, what can I do for you?"
+      },
+      "task": "Say that you would like to open an account.",
+      "examples": [
+        "Ik wil graag een rekening openen.",
+        "Ik zou graag een rekening willen openen."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'open' instead of the infinitive 'openen' after 'wil' ('Ik wil graag een rekening open').",
+          "explain": "After 'wil' use the infinitive 'openen': \"Ik wil graag een rekening openen.\""
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitive before the object ('Ik wil graag openen een rekening').",
+          "explain": "The infinitive goes at the end: \"Ik wil graag een rekening openen.\""
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds 'te' after the modal ('Ik wil graag een rekening te openen').",
+          "explain": "Do not use 'te' after 'wil': \"Ik wil graag een rekening openen.\""
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'wilt' with 'ik' ('Ik wilt graag een rekening openen').",
+          "explain": "'Ik' takes 'wil': \"Ik wil graag een rekening openen.\""
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "At the afhaalpunt, the employee cannot find your parcel. She says:",
+      "say": {
+        "nl": "Heeft u een bericht van de bezorger?",
+        "en": "Do you have a message from the delivery person?"
+      },
+      "task": "Say that the parcel was delivered to your neighbour and show the message.",
+      "examples": [
+        "Het pakket is bij mijn buurman bezorgd. Hier is het bericht.",
+        "De bezorger heeft het bij de buren bezorgd. Dit is het bericht.",
+        "Mijn pakket is bij de buurman. Hier is het bericht."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'heeft' instead of 'is' with 'bezorgd' ('Het pakket heeft bij mijn buurman bezorgd').",
+          "explain": "The parcel is the thing delivered, so use 'is bezorgd': \"Het pakket is bij mijn buurman bezorgd.\""
+        },
+        {
+          "id": "m2",
+          "pattern": "Says 'de bericht' ('Hier is de bericht').",
+          "explain": "'bericht' is a het-word: \"het bericht\"."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'door mijn buurman' for the place ('Het pakket is door mijn buurman bezorgd').",
+          "explain": "'door' means by the neighbour; for the place/to him use 'bij': \"bij mijn buurman\"."
+        },
+        {
+          "id": "m4",
+          "pattern": "Writes 'bezorgt' instead of the participle 'bezorgd' ('Het pakket is bij mijn buurman bezorgt').",
+          "explain": "The participle is 'bezorgd': \"is bezorgd\"."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Het pakket ophalen",
+    "setting": "You are at the afhaalpunt. Your parcel was delivered to your neighbour by mistake. The employee helps you.",
+    "partner": {
+      "name": "Mark",
+      "gender": "m",
+      "role": "employee at the pick-up point"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag, wat kan ik voor u doen?",
+          "en": "Good afternoon, what can I do for you?"
+        },
+        "task": "Say that you come to pick up a parcel and that it was delivered to your neighbour.",
+        "examples": [
+          "Ik kom een pakket ophalen. Het is bij mijn buurman bezorgd.",
+          "Mijn pakket is bij de buren bezorgd. Ik kom het ophalen.",
+          "Ik zoek een pakket. De bezorger heeft het bij mijn buurman bezorgd."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the infinitive before the object ('Ik kom ophalen een pakket').",
+            "explain": "The infinitive goes at the end: \"Ik kom een pakket ophalen.\""
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds 'te' after 'kom' ('Ik kom een pakket op te halen').",
+            "explain": "Use 'ophalen' without 'te': \"Ik kom een pakket ophalen.\""
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'heeft' with 'bezorgd' ('Het pakket heeft bij mijn buurman bezorgd').",
+            "explain": "Use 'is bezorgd': \"Het pakket is bij mijn buurman bezorgd.\""
+          },
+          {
+            "id": "m4",
+            "pattern": "Spells the participle as 'bezorgt' ('Het pakket is bij mijn buurman bezorgt').",
+            "explain": "The participle is 'bezorgd': \"is bezorgd\"."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is uw naam en uw adres?",
+          "en": "What is your name and address?"
+        },
+        "task": "Give your name and address, and say that the neighbour is not at home.",
+        "examples": [
+          "Sanne de Vries, Stationsstraat 14. De buurman die naast mij woont, is niet thuis.",
+          "Mijn naam is Sanne de Vries. Ik woon op nummer 14. Mijn buurman is niet thuis.",
+          "Sanne de Vries, Stationsstraat 14. De buurman is niet thuis."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the verb before the preposition in the relative clause ('De buurman die woont naast mij, is niet thuis').",
+            "explain": "In the relative clause the verb goes at the end: \"die naast mij woont\"."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'dat' for a de-word ('De buurman dat naast mij woont').",
+            "explain": "'de buurman' takes 'die': \"de buurman die...\"."
+          },
+          {
+            "id": "m3",
+            "pattern": "Says 'in nummer 14' ('Ik woon in nummer 14').",
+            "explain": "For an address use 'op': \"op nummer 14\"."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Heeft u een bericht van de bezorger?",
+          "en": "Do you have a message from the delivery person?"
+        },
+        "task": "Say yes, show the message, and say that the parcel you ordered is there.",
+        "examples": [
+          "Ja, hier is het bericht. Het pakket dat ik heb besteld, is bij hem bezorgd.",
+          "Ja, dit is het bericht. Het pakket dat ik heb besteld, is bij de buurman.",
+          "Ja. Hier is het bericht. Mijn pakket is bij de buren."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'die' for 'het pakket' ('Het pakket die ik heb besteld').",
+            "explain": "'het pakket' takes 'dat': \"Het pakket dat ik heb besteld.\""
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'bij hij' instead of 'bij hem' ('... is bij hij bezorgd').",
+            "explain": "After a preposition use the object form 'hem': \"bij hem\"."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits 'het' before 'bericht' ('Hier is bericht').",
+            "explain": "'bericht' is a het-word: \"het bericht\"."
+          },
+          {
+            "id": "m4",
+            "pattern": "Spells the participle as 'bezorgt' ('... is bij hem bezorgt').",
+            "explain": "The participle is 'bezorgd': \"is bezorgd\"."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Hier is het pakket. Heeft u een identiteitsbewijs?",
+          "en": "Here is the parcel. Do you have ID?"
+        },
+        "task": "Give your ID, ask if you can take the letter for your neighbour, and thank the employee.",
+        "examples": [
+          "Hier is mijn identiteitsbewijs. Mag ik de brief voor mijn buurman meenemen? Dank u wel.",
+          "Hier is mijn identiteitsbewijs. Kan ik de brief voor mijn buurman meenemen? Dank u wel.",
+          "Hier is mijn identiteitsbewijs. De brief die bij het pakket zit, is voor mijn buurman. Mag ik die meenemen? Dank u wel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Splits 'meenemen' after a modal ('Mag ik de brief voor mijn buurman nemen mee?').",
+            "explain": "With 'mag', keep 'meenemen' together at the end: \"Mag ik ... meenemen?\""
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the infinitive before the object ('Mag ik meenemen de brief voor mijn buurman?').",
+            "explain": "The infinitive goes at the end: \"Mag ik de brief ... meenemen?\""
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'de identiteitsbewijs' ('Hier is de identiteitsbewijs').",
+            "explain": "'identiteitsbewijs' is a het-word: \"het identiteitsbewijs\"."
+          },
+          {
+            "id": "m4",
+            "pattern": "Does not name the ID document ('Ja, alstublieft' without 'identiteitsbewijs').",
+            "explain": "The employee asks for ID, so say: \"Hier is mijn identiteitsbewijs.\""
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Graag gedaan. Tot ziens!",
+      "en": "You're welcome. Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Buren, bezorgers en afhaalpunten",
+    "text": "In the Netherlands, if you are not at home, the bezorger often leaves your parcel with a neighbour or takes it to a nearby afhaalpunt, such as a shop. You usually get a note or a message with the name of the neighbour or the address of the pick-up point. When you collect a parcel, bring your identiteitsbewijs; shops often ask for it. Neighbours usually accept parcels for each other, so it is normal to say thank you when you collect it."
+  },
+  "summary": [
+    "Use **die** for de-words and plurals, and **dat** for het-words: de man die..., het pakket dat....",
+    "In a relative clause, the verbs go to the end: ... die naast mij woont; ... dat ik heb besteld.",
+    "After a preposition for a person, use **wie**: de vrouw met wie ik werk.",
+    "Bank words: geld overmaken, geld opnemen, sparen, de pincode.",
+    "Post words: een pakket bestellen, versturen, ophalen; het pakket is bij de buren bezorgd."
+  ]
+}

@@ -1,0 +1,1001 @@
+{
+  "id": "u06-l04",
+  "title": "Hoe voel je je?",
+  "subtitle": "Feelings and reflexive verbs",
+  "level": "A1",
+  "intro": "After this lesson you can say how you feel and ask someone else how they feel. You will use reflexive verbs such as zich voelen, zich vervelen and zich zorgen maken. You can also reassure a friend before an exam.",
+  "words": [
+    {
+      "nl": "gevoel",
+      "en": "feeling",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de gevoelens",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een goed gevoel.",
+        "en": "I have a good feeling."
+      },
+      "note": "The plural de gevoelens is also common."
+    },
+    {
+      "nl": "blij",
+      "en": "happy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben blij.",
+        "en": "I am happy."
+      },
+      "note": null
+    },
+    {
+      "nl": "verdrietig",
+      "en": "sad",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij is verdrietig.",
+        "en": "She is sad."
+      },
+      "note": null
+    },
+    {
+      "nl": "boos",
+      "en": "angry",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hij is boos.",
+        "en": "He is angry."
+      },
+      "note": null
+    },
+    {
+      "nl": "bang",
+      "en": "afraid",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben bang.",
+        "en": "I am afraid."
+      },
+      "note": null
+    },
+    {
+      "nl": "zenuwachtig",
+      "en": "nervous",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben zenuwachtig.",
+        "en": "I am nervous."
+      },
+      "note": null
+    },
+    {
+      "nl": "gestrest",
+      "en": "stressed",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij is gestrest.",
+        "en": "She is stressed."
+      },
+      "note": "Less formal than zenuwachtig; common in study and work situations."
+    },
+    {
+      "nl": "rustig",
+      "en": "calm",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben rustig.",
+        "en": "I am calm."
+      },
+      "note": null
+    },
+    {
+      "nl": "moe",
+      "en": "tired",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben moe.",
+        "en": "I am tired."
+      },
+      "note": "Review from u02-l06."
+    },
+    {
+      "nl": "eenzaam",
+      "en": "lonely",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hij is eenzaam.",
+        "en": "He is lonely."
+      },
+      "note": null
+    },
+    {
+      "nl": "trots",
+      "en": "proud",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben trots op mijn zus.",
+        "en": "I am proud of my sister."
+      },
+      "note": "trots op = proud of."
+    },
+    {
+      "nl": "verliefd",
+      "en": "in love",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij is verliefd.",
+        "en": "She is in love."
+      },
+      "note": "verliefd op iemand = in love with someone."
+    },
+    {
+      "nl": "jaloers",
+      "en": "jealous",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hij is jaloers.",
+        "en": "He is jealous."
+      },
+      "note": "jaloers op iemand = jealous of someone."
+    },
+    {
+      "nl": "tevreden",
+      "en": "content, satisfied",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben tevreden.",
+        "en": "I am content."
+      },
+      "note": null
+    },
+    {
+      "nl": "zich voelen",
+      "en": "to feel",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik voel me, jij voelt je, wij voelen ons",
+      "example": {
+        "nl": "Ik voel me goed.",
+        "en": "I feel good."
+      },
+      "note": "The reflexive pronoun comes after the verb: Ik voel me goed."
+    },
+    {
+      "nl": "zich vervelen",
+      "en": "to be bored",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verveel me, jij verveelt je, wij vervelen ons",
+      "example": {
+        "nl": "Hij verveelt zich.",
+        "en": "He is bored."
+      },
+      "note": "zich vervelen = to be bored, not to bore someone."
+    },
+    {
+      "nl": "zich haasten",
+      "en": "to hurry",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik haast me, jij haast je, wij haasten ons",
+      "example": {
+        "nl": "Ik haast me naar de bus.",
+        "en": "I am hurrying to the bus."
+      },
+      "note": "The reflexive pronoun comes after the verb: Ik haast me."
+    },
+    {
+      "nl": "zich zorgen maken",
+      "en": "to worry",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik maak me zorgen, jij maakt je zorgen, wij maken ons zorgen",
+      "example": {
+        "nl": "Ik maak me zorgen.",
+        "en": "I am worried."
+      },
+      "note": "The reflexive pronoun comes after maken."
+    },
+    {
+      "nl": "zich verheugen op",
+      "en": "to look forward to",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verheug me op, jij verheugt je op, wij verheugen ons op",
+      "example": {
+        "nl": "Ik verheug me op het weekend.",
+        "en": "I am looking forward to the weekend."
+      },
+      "note": "op comes before the thing you look forward to: Ik verheug me op de vakantie."
+    },
+    {
+      "nl": "zich herinneren",
+      "en": "to remember",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik herinner me, jij herinnert je, wij herinneren ons",
+      "example": {
+        "nl": "Ik herinner me de vraag niet.",
+        "en": "I don't remember the question."
+      },
+      "note": "Also mij is possible for emphasis: Ik herinner mij de vraag niet."
+    },
+    {
+      "nl": "huilen",
+      "en": "to cry",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik huil, jij huilt, wij huilen",
+      "example": {
+        "nl": "Het kind huilt.",
+        "en": "The child is crying."
+      },
+      "note": null
+    },
+    {
+      "nl": "lachen",
+      "en": "to laugh",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik lach, jij lacht, wij lachen",
+      "example": {
+        "nl": "Wij lachen.",
+        "en": "We are laughing."
+      },
+      "note": null
+    },
+    {
+      "nl": "examen",
+      "en": "exam",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de examens",
+      "forms": null,
+      "example": {
+        "nl": "Morgen heb ik een examen.",
+        "en": "I have an exam tomorrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "toets",
+      "en": "test",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de toetsen",
+      "forms": null,
+      "example": {
+        "nl": "Wij hebben een toets.",
+        "en": "We have a test."
+      },
+      "note": "A toets is usually smaller than an examen."
+    },
+    {
+      "nl": "omdat",
+      "en": "because",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben gestrest, omdat ik een examen heb.",
+        "en": "I am stressed because I have an exam."
+      },
+      "note": "In an omdat-clause the verb goes at the end: ... een examen heb."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hoe voel je je?",
+      "en": "How do you feel?",
+      "note": "Informal; formal: Hoe voelt u zich?"
+    },
+    {
+      "nl": "Ik voel me goed.",
+      "en": "I feel good.",
+      "note": null
+    },
+    {
+      "nl": "Ik voel me niet zo goed.",
+      "en": "I don't feel very well.",
+      "note": "zo = so/very here."
+    },
+    {
+      "nl": "Maak je geen zorgen.",
+      "en": "Don't worry.",
+      "note": "Literally 'make yourself no worries'; the reflexive je comes after maak."
+    },
+    {
+      "nl": "Het komt goed.",
+      "en": "It will be all right.",
+      "note": "A fixed reassurance; literally 'it comes good'."
+    },
+    {
+      "nl": "Ik ben zo zenuwachtig.",
+      "en": "I am so nervous.",
+      "note": "zo makes the feeling stronger."
+    },
+    {
+      "nl": "Ik verheug me op het weekend.",
+      "en": "I'm looking forward to the weekend.",
+      "note": null
+    },
+    {
+      "nl": "Ik herinner me niets.",
+      "en": "I don't remember anything.",
+      "note": null
+    },
+    {
+      "nl": "Waarom ben je zo gestrest?",
+      "en": "Why are you so stressed?",
+      "note": "Answer with omdat + verb at the end."
+    },
+    {
+      "nl": "Ik maak me zorgen.",
+      "en": "I am worried.",
+      "note": "The reflexive pronoun comes after maken."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Reflexive pronouns",
+      "explanation": "A reflexive verb has an extra pronoun that points back to the subject. In the present tense this pronoun comes right after the verb: **Ik voel me goed.** With **u**, **hij**, **zij**, **het** and plural **zij** the form is **zich**; **jullie** takes **je**. With **wij** the form is **ons**.",
+      "table": {
+        "headers": [
+          "person",
+          "reflexive pronoun"
+        ],
+        "rows": [
+          [
+            "ik",
+            "me"
+          ],
+          [
+            "jij / je",
+            "je"
+          ],
+          [
+            "u",
+            "zich"
+          ],
+          [
+            "hij / zij / het",
+            "zich"
+          ],
+          [
+            "wij / we",
+            "ons"
+          ],
+          [
+            "jullie",
+            "je"
+          ],
+          [
+            "zij / ze (plural)",
+            "zich"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik voel me goed.",
+          "en": "I feel good."
+        },
+        {
+          "nl": "U voelt zich goed.",
+          "en": "You feel good. (formal)"
+        },
+        {
+          "nl": "Wij voelen ons goed.",
+          "en": "We feel good."
+        }
+      ],
+      "tip": "me is the normal form; mij can be stressed: Ik voel mij goed."
+    },
+    {
+      "title": "Reflexive verbs for feelings",
+      "explanation": "Many feeling verbs are reflexive: **zich voelen**, **zich vervelen**, **zich haasten**, **zich zorgen maken**, **zich verheugen op**, **zich herinneren**. In a simple sentence the reflexive pronoun comes after the verb. The verb agrees with the subject: **ik verveel me**, **jij verveelt je**, **wij vervelen ons**. With **zich zorgen maken**, the pronoun comes after **maken**: **Ik maak me zorgen.**",
+      "table": null,
+      "examples": [
+        {
+          "nl": "Ik voel me goed.",
+          "en": "I feel good."
+        },
+        {
+          "nl": "Hij verveelt zich.",
+          "en": "He is bored."
+        },
+        {
+          "nl": "Wij maken ons zorgen.",
+          "en": "We are worried."
+        },
+        {
+          "nl": "Ik verheug me op het weekend.",
+          "en": "I'm looking forward to the weekend."
+        }
+      ],
+      "tip": "Learn the verb with zich; then change zich to the right form (me, je, ons, zich) for the subject."
+    }
+  ],
+  "dialogue": {
+    "title": "Voor het examen",
+    "setting": "Sanne sees her friend Tom before an exam at university.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Tom",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Tom! Hoe gaat het?",
+        "en": "Hi Tom! How are you?"
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Hoi Sanne. Ik voel me niet goed.",
+        "en": "Hi Sanne. I don't feel well."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wat is er? Ben je moe?",
+        "en": "What's wrong? Are you tired?"
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Ja, en ik ben zenuwachtig. Morgen heb ik een examen.",
+        "en": "Yes, and I am nervous. I have an exam tomorrow."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Maak je geen zorgen. Je kunt het.",
+        "en": "Don't worry. You can do it."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Dank je. Maar ik ben bang. Ik maak me zorgen.",
+        "en": "Thank you. But I am afraid. I am worried."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Haast je niet. Ga rustig zitten. Drink een glas water.",
+        "en": "Don't hurry. Sit down calmly. Drink a glass of water."
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Ik verheug me op het weekend. Dan ben ik vrij.",
+        "en": "I'm looking forward to the weekend. Then I am free."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed idee. Zullen we koffie drinken?",
+        "en": "Good idea. Shall we drink coffee?"
+      },
+      {
+        "speaker": "Tom",
+        "nl": "Ja, graag. Dan voel ik me beter.",
+        "en": "Yes, please. Then I feel better."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En lach! Het komt goed.",
+        "en": "And laugh! It will be all right."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "blij",
+          "happy"
+        ],
+        [
+          "boos",
+          "angry"
+        ],
+        [
+          "bang",
+          "afraid"
+        ],
+        [
+          "moe",
+          "tired"
+        ],
+        [
+          "trots",
+          "proud"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "zich voelen",
+          "to feel"
+        ],
+        [
+          "zich vervelen",
+          "to be bored"
+        ],
+        [
+          "zich haasten",
+          "to hurry"
+        ],
+        [
+          "zich herinneren",
+          "to remember"
+        ],
+        [
+          "zich verheugen op",
+          "to look forward to"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "Ik ___ me goed.",
+      "options": [
+        "voel",
+        "voelt",
+        "voelen"
+      ],
+      "answer": 0,
+      "explain": "With ik you use the ik-form: ik voel."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "Hij ___ zich.",
+      "options": [
+        "verveel",
+        "verveelt",
+        "vervelen"
+      ],
+      "answer": 1,
+      "explain": "With hij the verb gets -t: hij verveelt."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct reflexive pronoun.",
+      "nl": "Wij voelen ___ goed.",
+      "options": [
+        "ons",
+        "zich",
+        "je"
+      ],
+      "answer": 0,
+      "explain": "With wij the reflexive pronoun is ons."
+    },
+    {
+      "type": "article",
+      "word": "gevoel",
+      "en": "feeling",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "toets",
+      "en": "test",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I feel good.",
+      "answer": "Ik voel me goed.",
+      "accept": [],
+      "extra": [
+        "voelt",
+        "zich",
+        "ons"
+      ],
+      "explain": "Place the reflexive pronoun **me** right after the verb: 'Ik voel me goed.'"
+    },
+    {
+      "type": "build",
+      "en": "He is bored.",
+      "answer": "Hij verveelt zich.",
+      "accept": [],
+      "extra": [
+        "verveel",
+        "is",
+        "ik"
+      ],
+      "explain": "With **hij** the verb gets -t and the reflexive pronoun is **zich**: 'Hij verveelt zich.'"
+    },
+    {
+      "type": "build",
+      "en": "We are worried.",
+      "answer": "Wij maken ons zorgen.",
+      "accept": [],
+      "extra": [
+        "zich",
+        "maakt",
+        "is"
+      ],
+      "explain": "With **wij** the reflexive pronoun is **ons**, and **maken** agrees with wij: 'Wij maken ons zorgen.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik voel ___ goed.",
+      "en": "I feel good.",
+      "answers": [
+        "me",
+        "mij"
+      ],
+      "hint": "myself",
+      "explain": "After **voel** with **ik**, use the reflexive pronoun **me** (or stressed **mij**): 'Ik voel me goed.'"
+    },
+    {
+      "type": "gap",
+      "text": "Hij verveelt ___.",
+      "en": "He is bored.",
+      "answers": [
+        "zich"
+      ],
+      "hint": "himself",
+      "explain": "With **hij** the reflexive pronoun is **zich**: 'Hij verveelt zich.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ben zenuwachtig, ___ ik morgen een examen heb.",
+      "en": "I am nervous because I have an exam tomorrow.",
+      "answers": [
+        "omdat"
+      ],
+      "hint": "because",
+      "explain": "**omdat** means 'because'; in an omdat-clause the verb goes at the end: '... omdat ik morgen een examen heb.'"
+    },
+    {
+      "type": "translate",
+      "en": "I am nervous.",
+      "answers": [
+        "Ik ben zenuwachtig."
+      ],
+      "focus": "zenuwachtig",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'heb' instead of 'ben' before an adjective: 'Ik heb zenuwachtig.'",
+          "explain": "With feelings use **zijn**: 'Ik ben zenuwachtig.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the wrong verb form with ik: 'Ik is zenuwachtig.'",
+          "explain": "With **ik** the form is **ben**: 'Ik ben zenuwachtig.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the English word: 'Ik ben nervous.'",
+          "explain": "The Dutch word is **zenuwachtig**: 'Ik ben zenuwachtig.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "She is sad.",
+      "answers": [
+        "Zij is verdrietig.",
+        "Ze is verdrietig."
+      ],
+      "focus": "verdrietig",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'heeft' instead of 'is': 'Zij heeft verdrietig.'",
+          "explain": "Use **zijn** with feelings: 'Zij is verdrietig.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'bent' with zij: 'Zij bent verdrietig.'",
+          "explain": "With **zij** the form is **is**: 'Zij is verdrietig.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the male pronoun: 'Hij is verdrietig.'",
+          "explain": "For 'she' use **zij/ze**: 'Zij is verdrietig.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "We are worried.",
+      "answers": [
+        "Wij maken ons zorgen.",
+        "We maken ons zorgen."
+      ],
+      "focus": "zich zorgen maken",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses zich with wij: 'Wij maken zich zorgen.'",
+          "explain": "With **wij/we** the reflexive pronoun is **ons**: 'Wij maken ons zorgen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the singular verb with wij: 'Wij maakt ons zorgen.'",
+          "explain": "With **wij** the verb is **maken**: 'Wij maken ons zorgen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses zijn + infinitive instead of maken: 'Wij zijn ons zorgen maken.'",
+          "explain": "The verb is **zich zorgen maken**: 'Wij maken ons zorgen.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses singular 'zorg' instead of 'zorgen': 'Wij maken ons zorg.'",
+          "explain": "The fixed expression uses plural **zorgen**: 'Wij maken ons zorgen.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik voel me goed.",
+      "en": "I feel good."
+    },
+    {
+      "type": "listen",
+      "nl": "Hij verveelt zich.",
+      "en": "He is bored."
+    },
+    {
+      "type": "reply",
+      "context": "Your friend looks tired before an exam.",
+      "say": {
+        "nl": "Gaat het goed?",
+        "en": "Are you okay?"
+      },
+      "task": "Ask how your friend feels.",
+      "examples": [
+        "Hoe voel je je?",
+        "Voel je je goed?",
+        "Gaat het?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Omits the reflexive pronoun: 'Hoe voel je?'",
+          "explain": "Use **je** after **voel**: 'Hoe voel je je?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'zijn' instead of 'zich voelen': 'Hoe ben je?'",
+          "explain": "Ask about feelings with **zich voelen**: 'Hoe voel je je?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'voelt' with je as subject: 'Hoe voelt je?'",
+          "explain": "In a question with **je** the verb has no -t: 'Hoe voel je je?'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your friend says: Ik ben zenuwachtig.",
+      "say": {
+        "nl": "Ik ben zenuwachtig.",
+        "en": "I am nervous."
+      },
+      "task": "Tell your friend not to worry.",
+      "examples": [
+        "Maak je geen zorgen.",
+        "Het komt goed.",
+        "Haast je niet."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Omits reflexive je: 'Maak geen zorgen.'",
+          "explain": "The fixed phrase is **Maak je geen zorgen.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'niet' where 'geen' is needed before zorgen: 'Maak je niet zorgen.'",
+          "explain": "Use **geen** before the noun **zorgen**: 'Maak je geen zorgen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a literal 'make worries' without reflexive: 'Je moet niet zorgen maken.'",
+          "explain": "Use the fixed reflexive phrase: 'Maak je geen zorgen.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Voor het examen",
+    "setting": "You meet your friend Sanne before an exam. She sees that you are not happy.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "a friendly classmate"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Hoe gaat het? Je bent niet blij.",
+          "en": "Hi! How are you? You are not happy."
+        },
+        "task": "Greet Sanne and say that you are nervous about the exam tomorrow.",
+        "examples": [
+          "Hoi Sanne. Ik ben zenuwachtig, omdat ik morgen een examen heb.",
+          "Hoi Sanne. Ik voel me zenuwachtig. Morgen heb ik een examen.",
+          "Hoi Sanne. Ik ben zenuwachtig voor het examen van morgen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps subject before verb after 'Morgen': 'Morgen ik heb een examen.'",
+            "explain": "After a time phrase the verb comes before the subject: 'Morgen heb ik een examen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'heb' instead of 'ben' with a feeling: 'Ik heb zenuwachtig.'",
+            "explain": "Use **zijn** with feelings: 'Ik ben zenuwachtig.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits reflexive me with zich voelen: 'Ik voel zenuwachtig.'",
+            "explain": "Use **me** after **voel**: 'Ik voel me zenuwachtig.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Morgen? Maak je geen zorgen. Je kunt het.",
+          "en": "Tomorrow? Don't worry. You can do it."
+        },
+        "task": "Say that you cannot remember anything and that you are worried.",
+        "examples": [
+          "Ik herinner me niets. Ik maak me zorgen.",
+          "Ik ben bang. Ik herinner me niets.",
+          "Ik maak me zorgen. Ik ben niet rustig."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits reflexive me with herinneren: 'Ik herinner niets.'",
+            "explain": "Use **me** after **herinner**: 'Ik herinner me niets.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits reflexive me with zorgen maken: 'Ik maak zorgen.'",
+            "explain": "Use **me** after **maak**: 'Ik maak me zorgen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'ben' instead of 'maak': 'Ik ben me zorgen.'",
+            "explain": "The expression is **zich zorgen maken**: 'Ik maak me zorgen.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Haast je niet. Ga rustig zitten. Drink een glas water.",
+          "en": "Don't hurry. Sit down calmly. Drink a glass of water."
+        },
+        "task": "Say that you are looking forward to the weekend and that you will relax.",
+        "examples": [
+          "Ik verheug me op het weekend. Dan ben ik rustig.",
+          "Ik verheug me op het weekend. Dan voel ik me goed.",
+          "Ik verheug me op zaterdag. Dan ben ik vrij."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits reflexive me: 'Ik verheug op het weekend.'",
+            "explain": "Use **me** after **verheug**: 'Ik verheug me op het weekend.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts op at the end: 'Ik verheug me het weekend op.'",
+            "explain": "Put **op** before the thing: 'Ik verheug me op het weekend.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses zich with ik: 'Ik verheug zich op het weekend.'",
+            "explain": "With **ik** use **me**: 'Ik verheug me op het weekend.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Goed idee. Zullen we koffie drinken?",
+          "en": "Good idea. Shall we drink coffee?"
+        },
+        "task": "Say yes and that you feel better now.",
+        "examples": [
+          "Ja, graag. Ik voel me beter.",
+          "Ja, graag. Dan voel ik me goed.",
+          "Ja. Dank je. Ik voel me beter."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits reflexive me: 'Ik voel beter.'",
+            "explain": "Use **me** after **voel**: 'Ik voel me beter.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses voelt with ik: 'Ik voelt me beter.'",
+            "explain": "With **ik** the verb is **voel**: 'Ik voel me beter.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'meer goed' for 'better': 'Ik voel me meer goed.'",
+            "explain": "The comparative of **goed** is **beter**: 'Ik voel me beter.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot morgen! Het komt goed.",
+      "en": "See you tomorrow! It will be all right."
+    }
+  },
+  "culture": {
+    "title": "Gewoon doen",
+    "text": "Dutch culture values 'gewoon doen': not acting special or dramatic. A well-known saying is 'Doe maar gewoon, dan doe je al gek genoeg' (just act normal, that's crazy enough). At the same time, students and colleagues often talk quite openly about stress, deadlines and feeling tired; saying 'Ik ben gestrest' is common and not a sign of weakness."
+  },
+  "summary": [
+    "Say how you feel with adjectives: Ik ben blij, moe, zenuwachtig.",
+    "Use reflexive verbs: Ik voel me goed. Hij verveelt zich.",
+    "Reflexive pronouns: me, je, zich, ons, je, zich.",
+    "Ask: Hoe voel je je? / Hoe voelt u zich?",
+    "Use omdat for 'because'; in an omdat-clause the verb goes at the end: omdat ik een examen heb."
+  ]
+}

@@ -1,0 +1,1087 @@
+{
+  "id": "u04-l04",
+  "title": "In de stad",
+  "subtitle": "Places and opening hours",
+  "level": "A1",
+  "intro": "In this lesson you learn to name useful places in town, such as the bakery, the pharmacy and the library. You also learn to ask about opening hours and to say where you are going with gaan + naar.",
+  "words": [
+    {
+      "nl": "stad",
+      "en": "town, city",
+      "pos": "noun",
+      "article": "de",
+      "plural": "steden",
+      "forms": null,
+      "example": {
+        "nl": "Het centrum is in de stad.",
+        "en": "The centre is in the town."
+      },
+      "note": "You already know de stad from u01-l04; here it contrasts with het centrum."
+    },
+    {
+      "nl": "centrum",
+      "en": "centre, town centre",
+      "pos": "noun",
+      "article": "het",
+      "plural": "centra",
+      "forms": null,
+      "example": {
+        "nl": "Ik ga naar het centrum.",
+        "en": "I am going to the town centre."
+      },
+      "note": null
+    },
+    {
+      "nl": "station",
+      "en": "station",
+      "pos": "noun",
+      "article": "het",
+      "plural": "stations",
+      "forms": null,
+      "example": {
+        "nl": "Waar is het station?",
+        "en": "Where is the station?"
+      },
+      "note": null
+    },
+    {
+      "nl": "bibliotheek",
+      "en": "library",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bibliotheken",
+      "forms": null,
+      "example": {
+        "nl": "De bibliotheek is vandaag open.",
+        "en": "The library is open today."
+      },
+      "note": null
+    },
+    {
+      "nl": "gemeentehuis",
+      "en": "town hall",
+      "pos": "noun",
+      "article": "het",
+      "plural": "gemeentehuizen",
+      "forms": null,
+      "example": {
+        "nl": "Het gemeentehuis is dicht.",
+        "en": "The town hall is closed."
+      },
+      "note": null
+    },
+    {
+      "nl": "apotheek",
+      "en": "pharmacy",
+      "pos": "noun",
+      "article": "de",
+      "plural": "apotheken",
+      "forms": null,
+      "example": {
+        "nl": "Ik ga naar de apotheek.",
+        "en": "I am going to the pharmacy."
+      },
+      "note": null
+    },
+    {
+      "nl": "bakker",
+      "en": "bakery; baker",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bakkers",
+      "forms": null,
+      "example": {
+        "nl": "De bakker is van acht tot zes open.",
+        "en": "The bakery is open from eight to six."
+      },
+      "note": "De bakker can mean the shop or the person."
+    },
+    {
+      "nl": "slager",
+      "en": "butcher; butcher's shop",
+      "pos": "noun",
+      "article": "de",
+      "plural": "slagers",
+      "forms": null,
+      "example": {
+        "nl": "Ik moet naar de slager.",
+        "en": "I have to go to the butcher."
+      },
+      "note": null
+    },
+    {
+      "nl": "drogist",
+      "en": "drugstore",
+      "pos": "noun",
+      "article": "de",
+      "plural": "drogisten",
+      "forms": null,
+      "example": {
+        "nl": "De drogist is vandaag gesloten.",
+        "en": "The drugstore is closed today."
+      },
+      "note": null
+    },
+    {
+      "nl": "postkantoor",
+      "en": "post office",
+      "pos": "noun",
+      "article": "het",
+      "plural": "postkantoren",
+      "forms": null,
+      "example": {
+        "nl": "Het postkantoor is dicht.",
+        "en": "The post office is closed."
+      },
+      "note": null
+    },
+    {
+      "nl": "bank",
+      "en": "bank",
+      "pos": "noun",
+      "article": "de",
+      "plural": "banken",
+      "forms": null,
+      "example": {
+        "nl": "De bank is morgen open.",
+        "en": "The bank is open tomorrow."
+      },
+      "note": "Also means couch, as in u04-l01."
+    },
+    {
+      "nl": "park",
+      "en": "park",
+      "pos": "noun",
+      "article": "het",
+      "plural": "parken",
+      "forms": null,
+      "example": {
+        "nl": "Het park is in het centrum.",
+        "en": "The park is in the centre."
+      },
+      "note": null
+    },
+    {
+      "nl": "museum",
+      "en": "museum",
+      "pos": "noun",
+      "article": "het",
+      "plural": "musea",
+      "forms": null,
+      "example": {
+        "nl": "Het museum is vandaag open.",
+        "en": "The museum is open today."
+      },
+      "note": null
+    },
+    {
+      "nl": "bioscoop",
+      "en": "cinema",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bioscopen",
+      "forms": null,
+      "example": {
+        "nl": "Ik ga naar de bioscoop.",
+        "en": "I am going to the cinema."
+      },
+      "note": null
+    },
+    {
+      "nl": "ziekenhuis",
+      "en": "hospital",
+      "pos": "noun",
+      "article": "het",
+      "plural": "ziekenhuizen",
+      "forms": null,
+      "example": {
+        "nl": "Het ziekenhuis is groot.",
+        "en": "The hospital is big."
+      },
+      "note": null
+    },
+    {
+      "nl": "open",
+      "en": "open",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De winkel is open.",
+        "en": "The shop is open."
+      },
+      "note": null
+    },
+    {
+      "nl": "dicht",
+      "en": "closed",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De bank is vandaag dicht.",
+        "en": "The bank is closed today."
+      },
+      "note": null
+    },
+    {
+      "nl": "gesloten",
+      "en": "closed",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De bibliotheek is gesloten.",
+        "en": "The library is closed."
+      },
+      "note": "More formal than dicht; common on signs."
+    },
+    {
+      "nl": "openingstijden",
+      "en": "opening hours",
+      "pos": "noun",
+      "article": "de",
+      "plural": "openingstijden",
+      "forms": null,
+      "example": {
+        "nl": "De openingstijden zijn van negen tot vijf.",
+        "en": "The opening hours are from nine to five."
+      },
+      "note": "Usually plural."
+    },
+    {
+      "nl": "tot",
+      "en": "until, to",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De winkel is open tot vijf uur.",
+        "en": "The shop is open until five o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "vanaf",
+      "en": "from, starting from",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Vanaf maandag is de bank open.",
+        "en": "From Monday the bank is open."
+      },
+      "note": null
+    },
+    {
+      "nl": "van",
+      "en": "from",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De apotheek is van negen tot vijf open.",
+        "en": "The pharmacy is open from nine to five."
+      },
+      "note": null
+    },
+    {
+      "nl": "naar",
+      "en": "to",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ga naar het station.",
+        "en": "I am going to the station."
+      },
+      "note": "Use naar for movement to a place."
+    },
+    {
+      "nl": "gaan",
+      "en": "to go",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ga, jij gaat, wij gaan",
+      "example": {
+        "nl": "Ik ga naar de bakker.",
+        "en": "I am going to the bakery."
+      },
+      "note": null
+    },
+    {
+      "nl": "kopen",
+      "en": "to buy",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik koop, jij koopt, wij kopen",
+      "example": {
+        "nl": "Ik wil brood kopen.",
+        "en": "I want to buy bread."
+      },
+      "note": null
+    },
+    {
+      "nl": "halen",
+      "en": "to fetch, to collect",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik haal, jij haalt, wij halen",
+      "example": {
+        "nl": "Ik moet brood halen.",
+        "en": "I need to fetch bread."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Waar is de bibliotheek?",
+      "en": "Where is the library?",
+      "note": null
+    },
+    {
+      "nl": "Hoe laat gaat de bakker open?",
+      "en": "What time does the bakery open?",
+      "note": null
+    },
+    {
+      "nl": "De apotheek is van negen tot vijf open.",
+      "en": "The pharmacy is open from nine to five.",
+      "note": null
+    },
+    {
+      "nl": "De bank is vandaag gesloten.",
+      "en": "The bank is closed today.",
+      "note": null
+    },
+    {
+      "nl": "Ik ga naar de slager.",
+      "en": "I am going to the butcher.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben bij de bakker.",
+      "en": "I am at the bakery.",
+      "note": "bij = at a shop or counter."
+    },
+    {
+      "nl": "Wat zijn de openingstijden?",
+      "en": "What are the opening hours?",
+      "note": "Use zijn with plural openingstijden."
+    },
+    {
+      "nl": "Ik moet brood halen.",
+      "en": "I need to fetch bread.",
+      "note": "halen = to fetch or collect."
+    },
+    {
+      "nl": "Ik wil een boek kopen.",
+      "en": "I want to buy a book.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "naar, in of bij?",
+      "explanation": "Use **naar** for movement to a place: **Ik ga naar de bakker.** Use **in** for inside a place: **Ik ben in de bibliotheek.** Use **bij** for at a shop, a counter or someone's place: **Ik ben bij de bakker.**",
+      "table": {
+        "headers": [
+          "Woord",
+          "Gebruik",
+          "Voorbeeld"
+        ],
+        "rows": [
+          [
+            "naar",
+            "to a place (movement)",
+            "Ik ga naar het station."
+          ],
+          [
+            "in",
+            "inside a place",
+            "Ik ben in het museum."
+          ],
+          [
+            "bij",
+            "at a shop or person",
+            "Ik ben bij de apotheek."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ga naar de bakker.",
+          "en": "I am going to the bakery."
+        },
+        {
+          "nl": "Ik ben bij de bakker.",
+          "en": "I am at the bakery."
+        },
+        {
+          "nl": "Ik ben in de bibliotheek.",
+          "en": "I am in the library."
+        }
+      ],
+      "tip": "Think: naar = moving, in = inside, bij = at the shop or counter."
+    },
+    {
+      "title": "Openingstijden: van ... tot ...",
+      "explanation": "Ask **Hoe laat gaat ... open?** or **Hoe laat gaat ... dicht?** Answer with **van ... tot ...**: **De winkel is van negen tot vijf open.** **Vanaf** means from a starting point: **Vanaf maandag is de bank open.**",
+      "table": {
+        "headers": [
+          "Vraag",
+          "Antwoord"
+        ],
+        "rows": [
+          [
+            "Hoe laat gaat de bakker open?",
+            "De bakker gaat om acht uur open."
+          ],
+          [
+            "Hoe laat gaat de bank dicht?",
+            "De bank gaat om vijf uur dicht."
+          ],
+          [
+            "Wat zijn de openingstijden?",
+            "Van negen tot vijf."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De apotheek is van negen tot vijf open.",
+          "en": "The pharmacy is open from nine to five."
+        },
+        {
+          "nl": "Vanaf maandag is de bank open.",
+          "en": "From Monday the bank is open."
+        }
+      ],
+      "tip": "Use **om** before a clock time: om negen uur."
+    },
+    {
+      "title": "Gaan + naar: Ik ga naar de bibliotheek.",
+      "explanation": "**Gaan** means to go. Use **naar** before the place. The forms are **ik ga**, **jij gaat**, **wij gaan**. In a question with jij, the -t drops: **Ga jij naar de bank?**",
+      "table": {
+        "headers": [
+          "Persoon",
+          "Vorm",
+          "Voorbeeld"
+        ],
+        "rows": [
+          [
+            "ik",
+            "ga",
+            "Ik ga naar de bank."
+          ],
+          [
+            "jij/u/hij/zij",
+            "gaat",
+            "Jij gaat naar het station."
+          ],
+          [
+            "wij/jullie/zij",
+            "gaan",
+            "Wij gaan naar het centrum."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ga naar de bibliotheek.",
+          "en": "I am going to the library."
+        },
+        {
+          "nl": "Ga jij naar de bakker?",
+          "en": "Are you going to the bakery?"
+        }
+      ],
+      "tip": "Put the place after **naar**: naar de bakker, naar het station."
+    }
+  ],
+  "dialogue": {
+    "title": "Op zaterdag in de stad",
+    "setting": "It is Saturday. Sanne and Mark are in the town centre. They need bread, a book and a few errands.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mark",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Mark",
+        "nl": "Waar ga je eerst?",
+        "en": "Where are you going first?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik ga naar de bakker. Ik moet brood halen.",
+        "en": "I am going to the bakery. I need to fetch bread."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Hoe laat gaat de bakker open?",
+        "en": "What time does the bakery open?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Om acht uur. De bakker is van acht tot zes open.",
+        "en": "At eight o'clock. The bakery is open from eight to six."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "En de apotheek? Is de apotheek open?",
+        "en": "And the pharmacy? Is the pharmacy open?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, de apotheek gaat om negen uur open. Ik ga om tien uur naar de apotheek.",
+        "en": "Yes, the pharmacy opens at nine. I am going to the pharmacy at ten."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ik ga naar de bibliotheek. Ik wil een boek kopen.",
+        "en": "I am going to the library. I want to buy a book."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Is de bibliotheek vandaag open?",
+        "en": "Is the library open today?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja, maar de openingstijden zijn anders. Van tien tot vier.",
+        "en": "Yes, but the opening hours are different. From ten to four."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En de bank? Is de bank open?",
+        "en": "And the bank? Is the bank open?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Nee, de bank is vandaag gesloten. De bank is morgen open.",
+        "en": "No, the bank is closed today. The bank is open tomorrow."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed. Tot straks bij de bakker!",
+        "en": "Good. See you later at the bakery!"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Tot straks!",
+        "en": "See you later!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de bakker",
+          "the bakery"
+        ],
+        [
+          "de apotheek",
+          "the pharmacy"
+        ],
+        [
+          "het station",
+          "the station"
+        ],
+        [
+          "de bank",
+          "the bank"
+        ],
+        [
+          "de openingstijden",
+          "the opening hours"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "open",
+          "open"
+        ],
+        [
+          "dicht",
+          "closed"
+        ],
+        [
+          "gesloten",
+          "closed (on a sign)"
+        ],
+        [
+          "naar",
+          "to (a place)"
+        ],
+        [
+          "halen",
+          "to fetch / collect"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Je wilt brood kopen. Waar ga je?",
+      "nl": null,
+      "options": [
+        "Naar de bakker.",
+        "Naar de bank.",
+        "Naar de bioscoop."
+      ],
+      "answer": 0,
+      "explain": "Bread is sold at the bakery: de bakker."
+    },
+    {
+      "type": "choice",
+      "prompt": "Hoe laat ___ de bibliotheek open?",
+      "nl": null,
+      "options": [
+        "gaat",
+        "ga",
+        "gaan"
+      ],
+      "answer": 0,
+      "explain": "With a singular place like de bibliotheek, use gaat."
+    },
+    {
+      "type": "choice",
+      "prompt": "Ik ben ___ de apotheek.",
+      "nl": null,
+      "options": [
+        "bij",
+        "naar",
+        "tot"
+      ],
+      "answer": 0,
+      "explain": "Use bij for at a shop or counter; naar means to with movement."
+    },
+    {
+      "type": "article",
+      "word": "station",
+      "en": "station",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "bibliotheek",
+      "en": "library",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I am going to the bakery.",
+      "answer": "Ik ga naar de bakker.",
+      "accept": [
+        "Naar de bakker ga ik."
+      ],
+      "extra": [
+        "in",
+        "het"
+      ],
+      "explain": "Use naar for movement to a place: Ik ga naar de bakker."
+    },
+    {
+      "type": "build",
+      "en": "The pharmacy is open from nine to five.",
+      "answer": "De apotheek is van negen tot vijf open.",
+      "accept": [
+        "De apotheek is open van negen tot vijf."
+      ],
+      "extra": [
+        "bij",
+        "het"
+      ],
+      "explain": "Use van ... tot ... for opening hours: van negen tot vijf."
+    },
+    {
+      "type": "build",
+      "en": "I am at the bakery.",
+      "answer": "Ik ben bij de bakker.",
+      "accept": [
+        "Bij de bakker ben ik."
+      ],
+      "extra": [
+        "naar",
+        "in",
+        "het"
+      ],
+      "explain": "Use bij for at a shop: Ik ben bij de bakker."
+    },
+    {
+      "type": "gap",
+      "text": "De bank is vandaag ___.",
+      "en": "The bank is closed today.",
+      "answers": [
+        "gesloten",
+        "dicht"
+      ],
+      "hint": "closed",
+      "explain": "Use dicht or gesloten for closed: De bank is vandaag dicht/gesloten."
+    },
+    {
+      "type": "gap",
+      "text": "De winkel is van negen ___ vijf open.",
+      "en": "The shop is open from nine to five.",
+      "answers": [
+        "tot"
+      ],
+      "hint": "until",
+      "explain": "Use van ... tot ...: van negen tot vijf."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ga ___ de bibliotheek.",
+      "en": "I am going to the library.",
+      "answers": [
+        "naar"
+      ],
+      "hint": "to",
+      "explain": "Use naar for movement to a place: naar de bibliotheek."
+    },
+    {
+      "type": "translate",
+      "en": "I am going to the pharmacy.",
+      "answers": [
+        "Ik ga naar de apotheek.",
+        "Naar de apotheek ga ik."
+      ],
+      "focus": "gaan + naar with a place",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'bij' instead of 'naar' for movement: 'Ik ga bij de apotheek.'",
+          "explain": "Use **naar** for moving to a place. Say 'Ik ga naar de apotheek.' **bij** means at the shop, e.g. 'Ik ben bij de apotheek.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'in' instead of 'naar' for movement: 'Ik ga in de apotheek.'",
+          "explain": "**in** means inside a place. For going there, use 'Ik ga naar de apotheek.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits article 'de' before apotheek: 'Ik ga naar apotheek.'",
+          "explain": "Apotheek is a de-word; use 'de apotheek': 'Ik ga naar de apotheek.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Wrong verb form 'gaat' with ik: 'Ik gaat naar de apotheek.'",
+          "explain": "With **ik**, gaan is 'ga': 'Ik ga naar de apotheek.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The bakery is open from eight to six.",
+      "answers": [
+        "De bakker is van acht tot zes open.",
+        "De bakker is open van acht tot zes."
+      ],
+      "focus": "opening hours: van ... tot ...",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'voor' instead of 'van' for the start time: 'De bakker is open voor acht tot zes.'",
+          "explain": "Use **van ... tot ...** for opening hours: 'De bakker is open van acht tot zes.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'om' before the end time: 'De bakker is open van acht om zes.'",
+          "explain": "Use **tot** for the end: 'van acht tot zes'. **om** is only for a clock time by itself: 'om acht uur'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Says the bakery is closed instead of open: 'De bakker is van acht tot zes gesloten.'",
+          "explain": "The English says open, so use **open**, not **gesloten** or **dicht**."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I am at the bakery.",
+      "answers": [
+        "Ik ben bij de bakker.",
+        "Bij de bakker ben ik."
+      ],
+      "focus": "bij = at a shop",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'naar' for being at the shop: 'Ik ben naar de bakker.'",
+          "explain": "Use **bij** for being at a shop: 'Ik ben bij de bakker.' **naar** is for movement: 'Ik ga naar de bakker.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'in' for at the shop: 'Ik ben in de bakker.'",
+          "explain": "**in de bakker** sounds like inside the baker. Say 'Ik ben bij de bakker.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits article 'de': 'Ik ben bij bakker.'",
+          "explain": "Use 'de bakker': 'Ik ben bij de bakker.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Wrong verb form 'is' with ik: 'Ik is bij de bakker.'",
+          "explain": "With **ik**, zijn is 'ben': 'Ik ben bij de bakker.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "De apotheek is van negen tot vijf open.",
+      "en": "The pharmacy is open from nine to five."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik ga naar de slager.",
+      "en": "I am going to the butcher."
+    },
+    {
+      "type": "reply",
+      "context": "You are at the bakery. The baker asks you what you want.",
+      "say": {
+        "nl": "Wat wilt u?",
+        "en": "What would you like?"
+      },
+      "task": "Ask for bread politely.",
+      "examples": [
+        "Ik wil graag een brood.",
+        "Mag ik een brood, alstublieft?",
+        "Een brood, graag."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Gives a bare order without graag/alstublieft: 'Ik wil brood.'",
+          "explain": "Add **graag** or **alstublieft** to sound polite: 'Ik wil graag een brood.' / 'Mag ik een brood, alstublieft?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses informal 'alsjeblieft' to the baker after 'u': 'Mag ik een brood, alsjeblieft?'",
+          "explain": "The baker says **u**, so use **alstublieft**: 'Mag ik een brood, alstublieft?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses wrong verb form 'wilt' with ik: 'Ik wilt graag een brood.'",
+          "explain": "With **ik**, willen is 'wil': 'Ik wil graag een brood.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Places 'graag' after the noun at the end: 'Ik wil een brood graag.'",
+          "explain": "Put **graag** before the thing you want: 'Ik wil graag een brood.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You are at the library. You want to know the opening time.",
+      "say": {
+        "nl": "De bibliotheek is vandaag open.",
+        "en": "The library is open today."
+      },
+      "task": "Ask what time the library opens.",
+      "examples": [
+        "Hoe laat gaat de bibliotheek open?",
+        "Hoe laat is de bibliotheek open?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Wrong word order in question: 'Hoe laat de bibliotheek gaat open?'",
+          "explain": "In a question the verb comes before the subject: 'Hoe laat gaat de bibliotheek open?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'open': 'Hoe laat gaat de bibliotheek?'",
+          "explain": "Add **open**: 'Hoe laat gaat de bibliotheek open?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'hoeveel' instead of 'hoe laat': 'Hoeveel laat gaat de bibliotheek open?'",
+          "explain": "Use **hoe laat** for time: 'Hoe laat gaat de bibliotheek open?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses two verbs: 'Hoe laat is gaat de bibliotheek open?'",
+          "explain": "Use either **gaat ... open** or **is ... open**: 'Hoe laat gaat de bibliotheek open?' / 'Hoe laat is de bibliotheek open?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op zaterdag in de stad",
+    "setting": "It is Saturday in the town centre. You meet Sanne, a friend who knows the shops. You need bread, medicine and a book.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "a friend in the town centre"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Wat ga je vandaag doen?",
+          "en": "Hi! What are you going to do today?"
+        },
+        "task": "Say that you are going to the bakery, the pharmacy and the library.",
+        "examples": [
+          "Ik ga naar de bakker, de apotheek en de bibliotheek.",
+          "Ik moet brood halen en ik ga naar de apotheek en de bibliotheek."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'bij' for movement to the shops: 'Ik ga bij de bakker.'",
+            "explain": "Use **naar** for movement: 'Ik ga naar de bakker.' **bij** is for being at the shop: 'Ik ben bij de bakker.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits articles before the places: 'Ik ga naar bakker, apotheek en bibliotheek.'",
+            "explain": "Use **de** with these places: 'naar de bakker, de apotheek en de bibliotheek.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Wrong verb form with ik: 'Ik gaat naar de bakker.'",
+            "explain": "With **ik**, gaan is 'ga': 'Ik ga naar de bakker.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Mentions only one place instead of all three: 'Ik ga naar de bakker.'",
+            "explain": "Name all three: 'Ik ga naar de bakker, de apotheek en de bibliotheek.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De bakker is open. De apotheek gaat om negen uur open.",
+          "en": "The bakery is open. The pharmacy opens at nine."
+        },
+        "task": "Ask what time the library opens.",
+        "examples": [
+          "Hoe laat gaat de bibliotheek open?",
+          "Hoe laat is de bibliotheek open?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Wrong word order in question: 'Hoe laat de bibliotheek gaat open?'",
+            "explain": "In a question the verb comes before the subject: 'Hoe laat gaat de bibliotheek open?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits 'open': 'Hoe laat gaat de bibliotheek?'",
+            "explain": "Add **open**: 'Hoe laat gaat de bibliotheek open?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'hoeveel' instead of 'hoe laat': 'Hoeveel laat gaat de bibliotheek open?'",
+            "explain": "Use **hoe laat** for time: 'Hoe laat gaat de bibliotheek open?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De bibliotheek is van tien tot vier open.",
+          "en": "The library is open from ten to four."
+        },
+        "task": "Say that you are going to the library at eleven o'clock.",
+        "examples": [
+          "Ik ga om elf uur naar de bibliotheek.",
+          "Om elf uur ga ik naar de bibliotheek."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Starts with time but keeps subject before verb: 'Om elf uur ik ga naar de bibliotheek.'",
+            "explain": "After **om elf uur**, the verb comes second: 'Om elf uur ga ik naar de bibliotheek.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'op' for a clock time: 'Ik ga op elf uur naar de bibliotheek.'",
+            "explain": "Use **om** with clock times: 'om elf uur'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits article 'de' before bibliotheek: 'Ik ga om elf uur naar bibliotheek.'",
+            "explain": "Use 'de bibliotheek': 'Ik ga om elf uur naar de bibliotheek.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Wrong verb form 'gaat' with ik: 'Ik gaat om elf uur naar de bibliotheek.'",
+            "explain": "With **ik**, gaan is 'ga': 'Ik ga om elf uur naar de bibliotheek.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En de bank? Is de bank vandaag open?",
+          "en": "And the bank? Is the bank open today?"
+        },
+        "task": "Say that the bank is closed today, but open tomorrow.",
+        "examples": [
+          "De bank is vandaag gesloten, maar morgen open.",
+          "De bank is vandaag dicht. Morgen is de bank open."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'op' with morgen: 'De bank is op morgen open.'",
+            "explain": "Do not use **op** with **morgen**: 'De bank is morgen open.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Wrong word order after 'maar morgen': 'De bank is vandaag dicht, maar morgen de bank is open.'",
+            "explain": "After **morgen**, the verb comes before the subject: 'maar morgen is de bank open.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits subject after 'maar': 'De bank is vandaag dicht, maar morgen is open.'",
+            "explain": "Add **de bank**: 'maar morgen is de bank open.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Says the bank is open today and closed tomorrow: 'De bank is vandaag open, maar morgen gesloten.'",
+            "explain": "The task says closed today and open tomorrow: 'De bank is vandaag gesloten, maar morgen open.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot straks!",
+      "en": "See you later!"
+    }
+  },
+  "culture": {
+    "title": "Openingstijden in Nederland",
+    "text": "Many shops in the Netherlands close around 18:00 on weekdays. One evening a week is often **koopavond**, usually Thursday or Friday, when shops stay open later. On Sundays many shops open later, often around 12:00, and close around 17:00 or 18:00. Opening hours differ by town and by shop, so check the **openingstijden** on the door or online."
+  },
+  "summary": [
+    "Name useful places in town: de bakker, de apotheek, de bibliotheek, het station.",
+    "Use naar for movement to a place, in for inside a place, and bij for at a shop or counter.",
+    "Ask Hoe laat gaat ... open/dicht? and answer with van ... tot ...",
+    "Gaan: ik ga, jij gaat, wij gaan; use naar before the place.",
+    "Open, dicht and gesloten are common on signs and in opening hours."
+  ]
+}

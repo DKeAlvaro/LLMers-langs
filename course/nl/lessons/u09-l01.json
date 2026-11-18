@@ -1,0 +1,1093 @@
+{
+  "id": "u09-l01",
+  "title": "Een huis huren",
+  "subtitle": "Renting a place",
+  "level": "A2",
+  "intro": "In this lesson you learn to read a Dutch rental ad and to call about it. You can ask what the rent and the deposit are, what is included in the price, and when you can come and have a look. You also practise polite indirect questions with of, which make you sound natural on the phone.",
+  "words": [
+    {
+      "nl": "huren",
+      "en": "to rent",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik huur, jij huurt, wij huren (heeft gehuurd)",
+      "example": {
+        "nl": "Wij huren een appartement in de buurt.",
+        "en": "We rent an apartment in the neighbourhood."
+      },
+      "note": null
+    },
+    {
+      "nl": "verhuren",
+      "en": "to rent out",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verhuur, jij verhuurt, wij verhuren (heeft verhuurd)",
+      "example": {
+        "nl": "Zij verhuren hun huis in Utrecht.",
+        "en": "They rent out their house in Utrecht."
+      },
+      "note": null
+    },
+    {
+      "nl": "huur",
+      "en": "the rent",
+      "pos": "noun",
+      "article": "de",
+      "plural": "huren",
+      "forms": null,
+      "example": {
+        "nl": "De huur is 950 euro per maand.",
+        "en": "The rent is 950 euros a month."
+      },
+      "note": "The rent you pay every month; the borg you pay only once."
+    },
+    {
+      "nl": "huurder",
+      "en": "the tenant",
+      "pos": "noun",
+      "article": "de",
+      "plural": "huurders",
+      "forms": null,
+      "example": {
+        "nl": "De huurder betaalt elke maand de huur.",
+        "en": "The tenant pays the rent every month."
+      },
+      "note": null
+    },
+    {
+      "nl": "verhuurder",
+      "en": "the landlord",
+      "pos": "noun",
+      "article": "de",
+      "plural": "verhuurders",
+      "forms": null,
+      "example": {
+        "nl": "Ik bel de verhuurder over het appartement.",
+        "en": "I am calling the landlord about the apartment."
+      },
+      "note": null
+    },
+    {
+      "nl": "woning",
+      "en": "the home, the dwelling",
+      "pos": "noun",
+      "article": "de",
+      "plural": "woningen",
+      "forms": null,
+      "example": {
+        "nl": "De woning is 55 vierkante meter.",
+        "en": "The home is 55 square metres."
+      },
+      "note": null
+    },
+    {
+      "nl": "advertentie",
+      "en": "the advertisement, the ad",
+      "pos": "noun",
+      "article": "de",
+      "plural": "advertenties",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb de advertentie gelezen.",
+        "en": "I have read the ad."
+      },
+      "note": null
+    },
+    {
+      "nl": "makelaar",
+      "en": "the estate agent",
+      "pos": "noun",
+      "article": "de",
+      "plural": "makelaars",
+      "forms": null,
+      "example": {
+        "nl": "De makelaar stuurt mij de advertentie.",
+        "en": "The estate agent sends me the ad."
+      },
+      "note": null
+    },
+    {
+      "nl": "beschikbaar",
+      "en": "available",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "beschikbare",
+      "example": {
+        "nl": "Het appartement is nog beschikbaar.",
+        "en": "The apartment is still available."
+      },
+      "note": null
+    },
+    {
+      "nl": "bezichtiging",
+      "en": "the viewing",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bezichtigingen",
+      "forms": null,
+      "example": {
+        "nl": "De bezichtiging is morgen om vier uur.",
+        "en": "The viewing is tomorrow at four o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "sleutel",
+      "en": "the key",
+      "pos": "noun",
+      "article": "de",
+      "plural": "sleutels",
+      "forms": null,
+      "example": {
+        "nl": "De verhuurder geeft u de sleutel.",
+        "en": "The landlord gives you the key."
+      },
+      "note": null
+    },
+    {
+      "nl": "contract",
+      "en": "the contract",
+      "pos": "noun",
+      "article": "het",
+      "plural": "contracten",
+      "forms": null,
+      "example": {
+        "nl": "Het contract is voor één jaar.",
+        "en": "The contract is for one year."
+      },
+      "note": null
+    },
+    {
+      "nl": "borg",
+      "en": "the deposit",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De borg is één maand huur.",
+        "en": "The deposit is one month's rent."
+      },
+      "note": "You get the deposit back when you leave, if everything in the house is fine."
+    },
+    {
+      "nl": "servicekosten",
+      "en": "the service charges",
+      "pos": "noun",
+      "article": "de",
+      "plural": "servicekosten",
+      "forms": null,
+      "example": {
+        "nl": "De servicekosten zijn 50 euro per maand.",
+        "en": "The service charges are 50 euros a month."
+      },
+      "note": "Used in the plural only: de servicekosten zijn hoog."
+    },
+    {
+      "nl": "inclusief",
+      "en": "including, included",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De huur is inclusief gas, water en licht.",
+        "en": "The rent includes gas, water and electricity."
+      },
+      "note": null
+    },
+    {
+      "nl": "exclusief",
+      "en": "excluding, not included",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De huur is 950 euro exclusief de servicekosten.",
+        "en": "The rent is 950 euros excluding the service charges."
+      },
+      "note": null
+    },
+    {
+      "nl": "per maand",
+      "en": "per month",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De huur is 950 euro per maand.",
+        "en": "The rent is 950 euros per month."
+      },
+      "note": "Also per week and per jaar."
+    },
+    {
+      "nl": "gemeubileerd",
+      "en": "furnished",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "gemeubileerde",
+      "example": {
+        "nl": "Het appartement is gemeubileerd: er is een bank, een bed en een tafel.",
+        "en": "The apartment is furnished: there is a sofa, a bed and a table."
+      },
+      "note": null
+    },
+    {
+      "nl": "ongemeubileerd",
+      "en": "unfurnished",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "ongemeubileerde",
+      "example": {
+        "nl": "Het huis is ongemeubileerd, dus er is geen bank en geen bed.",
+        "en": "The house is unfurnished, so there is no sofa and no bed."
+      },
+      "note": null
+    },
+    {
+      "nl": "vierkante meter",
+      "en": "the square metre",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vierkante meters",
+      "forms": null,
+      "example": {
+        "nl": "Het appartement is zestig vierkante meter.",
+        "en": "The apartment is sixty square metres."
+      },
+      "note": "After a number the form stays the same: vijftig vierkante meter."
+    },
+    {
+      "nl": "verdieping",
+      "en": "the floor, the storey",
+      "pos": "noun",
+      "article": "de",
+      "plural": "verdiepingen",
+      "forms": null,
+      "example": {
+        "nl": "Het appartement is op de tweede verdieping.",
+        "en": "The apartment is on the second floor."
+      },
+      "note": null
+    },
+    {
+      "nl": "lift",
+      "en": "the lift",
+      "pos": "noun",
+      "article": "de",
+      "plural": "liften",
+      "forms": null,
+      "example": {
+        "nl": "De lift is naast de trap.",
+        "en": "The lift is next to the stairs."
+      },
+      "note": null
+    },
+    {
+      "nl": "berging",
+      "en": "the storage room",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bergingen",
+      "forms": null,
+      "example": {
+        "nl": "Er is een berging voor de fietsen.",
+        "en": "There is a storage room for the bikes."
+      },
+      "note": null
+    },
+    {
+      "nl": "buurt",
+      "en": "the neighbourhood",
+      "pos": "noun",
+      "article": "de",
+      "plural": "buurten",
+      "forms": null,
+      "example": {
+        "nl": "De buurt is rustig.",
+        "en": "The neighbourhood is quiet."
+      },
+      "note": null
+    },
+    {
+      "nl": "rustig",
+      "en": "quiet, calm",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "rustige",
+      "example": {
+        "nl": "Het is een rustige buurt.",
+        "en": "It is a quiet neighbourhood."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Is het appartement nog beschikbaar?",
+      "en": "Is the apartment still available?",
+      "note": "The standard opening question about an ad."
+    },
+    {
+      "nl": "Hoeveel is de borg?",
+      "en": "How much is the deposit?",
+      "note": "Also: Hoe hoog is de borg?"
+    },
+    {
+      "nl": "Is het inclusief gas, water en licht?",
+      "en": "Does that include gas, water and electricity?",
+      "note": "gas, water en licht = the utility costs."
+    },
+    {
+      "nl": "Weet u of het appartement nog vrij is?",
+      "en": "Do you know whether the apartment is still available?",
+      "note": "Polite indirect question with of."
+    },
+    {
+      "nl": "Wanneer kan ik komen kijken?",
+      "en": "When can I come and have a look?",
+      "note": null
+    },
+    {
+      "nl": "Ik bel over uw advertentie.",
+      "en": "I'm calling about your ad.",
+      "note": "Perfect for the first line of a phone call."
+    },
+    {
+      "nl": "De huur is 950 euro per maand.",
+      "en": "The rent is 950 euros a month.",
+      "note": null
+    },
+    {
+      "nl": "Ik wil graag een afspraak maken voor een bezichtiging.",
+      "en": "I would like to make an appointment for a viewing.",
+      "note": null
+    },
+    {
+      "nl": "Zijn de servicekosten inclusief of exclusief?",
+      "en": "Are the service charges included or not?",
+      "note": null
+    },
+    {
+      "nl": "Het contract is voor één jaar.",
+      "en": "The contract is for one year.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Yes/no questions about the rental conditions",
+      "explanation": "In a yes/no question the verb comes first and the subject comes after it: **Is het appartement nog beschikbaar?** The rest of the sentence stays the same. With a question word like **hoeveel** the order is question word + verb + subject: **Hoeveel is de borg?**",
+      "table": {
+        "headers": [
+          "Vraag",
+          "Antwoord"
+        ],
+        "rows": [
+          [
+            "Is het gemeubileerd?",
+            "Ja, het is gemeubileerd."
+          ],
+          [
+            "Zijn de servicekosten inclusief?",
+            "Nee, de servicekosten zijn exclusief."
+          ],
+          [
+            "Hoeveel is de huur?",
+            "De huur is 950 euro per maand."
+          ],
+          [
+            "Is er een lift?",
+            "Ja, er is een lift."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Is het appartement nog beschikbaar?",
+          "en": "Is the apartment still available?"
+        },
+        {
+          "nl": "Hoeveel is de borg?",
+          "en": "How much is the deposit?"
+        },
+        {
+          "nl": "Zijn de servicekosten inclusief of exclusief?",
+          "en": "Are the service charges included or not?"
+        }
+      ],
+      "tip": "Dutch and English do the same thing here: het appartement is -> is het appartement?"
+    },
+    {
+      "title": "Indirect questions with of and question words",
+      "explanation": "After a polite opening such as **Weet u...?** or **Kunt u zeggen...?** you use **of** for a yes/no question, or a question word (**wanneer, hoe, wat, waar**). Then the subject comes first and the verb goes to the end: **Weet u of het appartement nog vrij is?** With a modal verb the infinitive comes last: **Kunt u zeggen wanneer ik kan komen kijken?**",
+      "table": {
+        "headers": [
+          "Directe vraag",
+          "Indirecte vraag"
+        ],
+        "rows": [
+          [
+            "Is het appartement vrij?",
+            "Weet u of het appartement vrij is?"
+          ],
+          [
+            "Wanneer kan ik komen?",
+            "Kunt u zeggen wanneer ik kan komen?"
+          ],
+          [
+            "Hoeveel is de huur?",
+            "Mag ik vragen hoeveel de huur is?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Weet u of het appartement nog vrij is?",
+          "en": "Do you know whether the apartment is still available?"
+        },
+        {
+          "nl": "Kunt u zeggen wanneer ik kan komen kijken?",
+          "en": "Can you tell me when I can come and have a look?"
+        },
+        {
+          "nl": "Mag ik vragen hoeveel de servicekosten zijn?",
+          "en": "May I ask how much the service charges are?"
+        }
+      ],
+      "tip": "of means 'whether' here. Think: Weet u of ... + subject + verb at the end."
+    },
+    {
+      "title": "Rents, numbers and per maand",
+      "explanation": "Amounts under 1000 are written as one word: **negenhonderdvijftig**. For 1100–1999 you often say **elfhonderd**, **twaalfhonderd**, ... **veertienhonderdvijftig**. **euro** does not get an -s after a number. Use **per maand**, **per week**, **per jaar**. **inclusief** and **exclusief** stand before the thing they talk about: **inclusief servicekosten**.",
+      "table": {
+        "headers": [
+          "Bedrag",
+          "Zo zeg je het"
+        ],
+        "rows": [
+          [
+            "950",
+            "negenhonderdvijftig"
+          ],
+          [
+            "1100",
+            "elfhonderd"
+          ],
+          [
+            "1450",
+            "veertienhonderdvijftig"
+          ],
+          [
+            "2000",
+            "tweeduizend"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De huur is negenhonderdvijftig euro per maand.",
+          "en": "The rent is 950 euros a month."
+        },
+        {
+          "nl": "De huur is veertienhonderdvijftig euro exclusief servicekosten.",
+          "en": "The rent is 1450 euros excluding service charges."
+        },
+        {
+          "nl": "Het appartement is zestig vierkante meter.",
+          "en": "The apartment is sixty square metres."
+        }
+      ],
+      "tip": "Say euro, not euro's: twee euro, 950 euro, twintig euro."
+    }
+  ],
+  "dialogue": {
+    "title": "Ik bel over uw advertentie",
+    "setting": "Sanne calls a landlord about an ad and then asks about the apartment.",
+    "speakers": [
+      {
+        "name": "Meneer De Boer",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Meneer De Boer",
+        "nl": "Goedemiddag, met De Boer.",
+        "en": "Good afternoon, De Boer speaking."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemiddag, u spreekt met Sanne Visser. Ik bel over uw advertentie. Is het appartement nog beschikbaar?",
+        "en": "Good afternoon, this is Sanne Visser. I'm calling about your ad. Is the apartment still available?"
+      },
+      {
+        "speaker": "Meneer De Boer",
+        "nl": "Ja, het is nog vrij. Het is op de tweede verdieping.",
+        "en": "Yes, it is still free. It is on the second floor."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Is het gemeubileerd of ongemeubileerd?",
+        "en": "Is it furnished or unfurnished?"
+      },
+      {
+        "speaker": "Meneer De Boer",
+        "nl": "Het is ongemeubileerd. De huur is 950 euro per maand, exclusief de servicekosten.",
+        "en": "It is unfurnished. The rent is 950 euros a month, excluding the service charges."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hoeveel is de borg?",
+        "en": "How much is the deposit?"
+      },
+      {
+        "speaker": "Meneer De Boer",
+        "nl": "De borg is één maand huur. Wilt u alleen wonen?",
+        "en": "The deposit is one month's rent. Do you want to live alone?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik wil alleen wonen. Is er een lift?",
+        "en": "Yes, I want to live alone. Is there a lift?"
+      },
+      {
+        "speaker": "Meneer De Boer",
+        "nl": "Ja, er is een lift. De buurt is rustig en het centrum is dichtbij.",
+        "en": "Yes, there is a lift. The neighbourhood is quiet and the centre is nearby."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hoeveel vierkante meter is het appartement?",
+        "en": "How many square metres is the apartment?"
+      },
+      {
+        "speaker": "Meneer De Boer",
+        "nl": "Zestig vierkante meter. Wanneer wilt u komen kijken?",
+        "en": "Sixty square metres. When would you like to come and have a look?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Kan ik morgen om vier uur komen kijken?",
+        "en": "Can I come and have a look tomorrow at four o'clock?"
+      },
+      {
+        "speaker": "Meneer De Boer",
+        "nl": "Dat is goed. Dan stuur ik u het contract alvast.",
+        "en": "That's fine. Then I will send you the contract in advance."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Tot morgen!",
+        "en": "Thank you. See you tomorrow!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "huren",
+          "to rent"
+        ],
+        [
+          "verhuren",
+          "to rent out"
+        ],
+        [
+          "de borg",
+          "the deposit"
+        ],
+        [
+          "de makelaar",
+          "the estate agent"
+        ],
+        [
+          "gemeubileerd",
+          "furnished"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de advertentie",
+          "the ad"
+        ],
+        [
+          "de bezichtiging",
+          "the viewing"
+        ],
+        [
+          "beschikbaar",
+          "available"
+        ],
+        [
+          "de verdieping",
+          "the floor (level)"
+        ],
+        [
+          "exclusief",
+          "excluding / not included"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'the deposit'?",
+      "nl": null,
+      "options": [
+        "de borg",
+        "de huur",
+        "de buurt"
+      ],
+      "answer": 0,
+      "explain": "De borg is the money you pay at the start and get back when you leave."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which question is correct?",
+      "nl": null,
+      "options": [
+        "Is de huur inclusief gas, water en licht?",
+        "Is inclusief de huur gas, water en licht?",
+        "De huur is inclusief gas, water en licht."
+      ],
+      "answer": 0,
+      "explain": "In a yes/no question the verb comes first and then the subject."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Weet u of het appartement nog vrij is?",
+        "Weet u of is het appartement nog vrij?",
+        "Weet u of het appartement is nog vrij?"
+      ],
+      "answer": 0,
+      "explain": "After of the subject comes first and the verb goes to the end."
+    },
+    {
+      "type": "article",
+      "word": "contract",
+      "en": "the contract",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "verdieping",
+      "en": "the floor (level)",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "The rent is 950 euros per month.",
+      "answer": "De huur is negenhonderdvijftig euro per maand.",
+      "accept": [
+        "Negenhonderdvijftig euro per maand is de huur."
+      ],
+      "extra": [
+        "verhuur",
+        "exclusief"
+      ],
+      "explain": "Use the amount before per maand and keep the verb in second position: \"De huur is negenhonderdvijftig euro per maand.\""
+    },
+    {
+      "type": "build",
+      "en": "Is the apartment still available?",
+      "answer": "Is het appartement nog beschikbaar?",
+      "accept": [],
+      "extra": [
+        "beschikbare",
+        "de"
+      ],
+      "explain": "A yes/no question starts with the verb; appartement takes het: \"Is het appartement nog beschikbaar?\""
+    },
+    {
+      "type": "build",
+      "en": "Can you tell me when I can come and have a look?",
+      "answer": "Kunt u zeggen wanneer ik kan komen kijken?",
+      "accept": [],
+      "extra": [
+        "hoeveel",
+        "de"
+      ],
+      "explain": "After of or a question word in an indirect question, the subject comes first and the verbs go to the end: \"... wanneer ik kan komen kijken?\""
+    },
+    {
+      "type": "gap",
+      "text": "De huur is 950 euro ___ maand.",
+      "en": "The rent is 950 euros per month.",
+      "answers": [
+        "per"
+      ],
+      "hint": "per",
+      "explain": "Use per before a time unit: \"per maand\" means per month."
+    },
+    {
+      "type": "gap",
+      "text": "Weet u ___ het appartement nog vrij is?",
+      "en": "Do you know whether the apartment is still available?",
+      "answers": [
+        "of"
+      ],
+      "hint": "whether",
+      "explain": "Use of to mean whether; after of the subject comes first and the verb goes to the end: \"... of het appartement nog vrij is?\""
+    },
+    {
+      "type": "gap",
+      "text": "De ___ is één maand huur.",
+      "en": "The deposit is one month's rent.",
+      "answers": [
+        "borg"
+      ],
+      "hint": "deposit",
+      "explain": "The deposit is de borg, so use de: \"De borg is één maand huur.\""
+    },
+    {
+      "type": "translate",
+      "en": "Is the apartment still available?",
+      "answers": [
+        "Is het appartement nog beschikbaar?",
+        "Is het appartement nog vrij?"
+      ],
+      "focus": "yes/no question: verb first, then the subject",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps statement order in a yes/no question (Het appartement is nog beschikbaar?)",
+          "explain": "In a yes/no question the verb comes first: \"Is het appartement nog beschikbaar?\""
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses de with het appartement (De appartement is nog beschikbaar?)",
+          "explain": "Appartement is a het-word: \"het appartement\"."
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds -e to beschikbaar after is (Is het appartement nog beschikbare?)",
+          "explain": "After is, the adjective has no ending: \"nog beschikbaar\"."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Do you know whether the apartment is still free?",
+      "answers": [
+        "Weet u of het appartement nog vrij is?",
+        "Weet je of het appartement nog vrij is?",
+        "Weet u of het appartement nog beschikbaar is?",
+        "Weet je of het appartement nog beschikbaar is?"
+      ],
+      "focus": "indirect question with of, verb at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps direct question order after of (Weet u of is het appartement nog vrij?)",
+          "explain": "After of, use statement order: subject first, verb at the end: \"... of het appartement nog vrij is?\""
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb before nog in the of-clause (Weet u of het appartement is nog vrij?)",
+          "explain": "In the of-clause the verb goes to the end: \"... of het appartement nog vrij is?\""
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses dat instead of of for whether (Weet u dat het appartement nog vrij is?)",
+          "explain": "Use of for 'whether': \"Weet u of ...?\""
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses de with appartement (Weet u of de appartement nog vrij is?)",
+          "explain": "It is het appartement."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The rent is 950 euros per month.",
+      "answers": [
+        "De huur is negenhonderdvijftig euro per maand.",
+        "De huur is 950 euro per maand.",
+        "Per maand is de huur negenhonderdvijftig euro.",
+        "Per maand is de huur 950 euro.",
+        "Negenhonderdvijftig euro per maand is de huur."
+      ],
+      "focus": "numbers and per maand",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses euro's after a number (De huur is 950 euro's per maand.)",
+          "explain": "After a number, euro stays the same: \"950 euro\"."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses euros after a number (De huur is 950 euros per maand.)",
+          "explain": "The Dutch word is euro, also after a number: \"950 euro\"."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses voor maand instead of per maand (De huur is 950 euro voor maand.)",
+          "explain": "Use per maand for 'per month': \"950 euro per maand\"."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses de maand instead of per maand (De huur is 950 euro de maand.)",
+          "explain": "Use per maand for 'per month': \"950 euro per maand\"."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "De huur is inclusief de servicekosten.",
+      "en": "The rent includes the service charges."
+    },
+    {
+      "type": "listen",
+      "nl": "Weet u of het appartement nog vrij is?",
+      "en": "Do you know whether the apartment is still available?"
+    },
+    {
+      "type": "reply",
+      "context": "You are on the phone about a rental ad in Utrecht.",
+      "say": {
+        "nl": "Goedemiddag, met De Boer.",
+        "en": "Good afternoon, De Boer speaking."
+      },
+      "task": "Say who you are, that you are calling about the ad, and ask whether the apartment is still available.",
+      "examples": [
+        "Goedemiddag, u spreekt met Sanne Visser. Ik bel over uw advertentie. Is het appartement nog beschikbaar?",
+        "Hallo, met Sanne Visser. Ik bel over uw advertentie. Is het appartement nog vrij?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps statement order in the question (Het appartement is nog beschikbaar?)",
+          "explain": "In a yes/no question the verb comes first: \"Is het appartement nog beschikbaar?\""
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses de with appartement (De appartement is nog beschikbaar?)",
+          "explain": "Appartement is a het-word: \"het appartement\"."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses voor instead of over about the ad (Ik bel voor uw advertentie.)",
+          "explain": "Call about an ad is \"Ik bel over uw advertentie\"."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The landlord has just told you the price.",
+      "say": {
+        "nl": "De huur is 950 euro per maand, exclusief de servicekosten.",
+        "en": "The rent is 950 euros a month, excluding the service charges."
+      },
+      "task": "Ask how much the deposit is and whether gas, water and electricity are included.",
+      "examples": [
+        "Hoeveel is de borg? En is gas, water en licht inclusief?",
+        "Hoe hoog is de borg? Zijn gas, water en licht inclusief?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts hoeveel at the end (De borg is hoeveel?)",
+          "explain": "In a question with hoeveel, start with hoeveel: \"Hoeveel is de borg?\""
+        },
+        {
+          "id": "m2",
+          "pattern": "Drops de before borg (Hoeveel is borg?)",
+          "explain": "Borg is a de-word: \"de borg\"."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses de with gas, water and light (Zijn de gas, water en licht inclusief?)",
+          "explain": "Gas, water en licht take no article here: \"Zijn gas, water en licht inclusief?\""
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Een appartement in Utrecht",
+    "setting": "You call a landlord about an ad for an apartment in Utrecht. You want to know the price, the deposit and when you can visit.",
+    "partner": {
+      "name": "Meneer De Boer",
+      "gender": "m",
+      "role": "verhuurder"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag, met De Boer.",
+          "en": "Good afternoon, De Boer speaking."
+        },
+        "task": "Say who you are, that you are calling about the ad, and ask whether the apartment is still available.",
+        "examples": [
+          "Goedemiddag, u spreekt met Sanne Visser. Ik bel over uw advertentie. Is het appartement nog beschikbaar?",
+          "Hallo, met Sanne Visser. Ik bel over uw advertentie. Is het appartement nog vrij?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps statement order in the question (Het appartement is nog beschikbaar?)",
+            "explain": "In a yes/no question the verb comes first: \"Is het appartement nog beschikbaar?\""
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses de with appartement (De appartement is nog beschikbaar?)",
+            "explain": "Appartement is a het-word: \"het appartement\"."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses voor instead of over about the ad (Ik bel voor uw advertentie.)",
+            "explain": "Call about an ad is \"Ik bel over uw advertentie\"."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja, het is nog beschikbaar. Het is op de eerste verdieping, 55 vierkante meter. De huur is 950 euro per maand.",
+          "en": "Yes, it is still available. It is on the first floor, 55 square metres. The rent is 950 euros a month."
+        },
+        "task": "Ask how much the deposit is and whether the service charges are included.",
+        "examples": [
+          "Hoeveel is de borg? En zijn de servicekosten inclusief?",
+          "Hoe hoog is de borg? Zijn de servicekosten inclusief of exclusief?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts hoeveel at the end (De borg is hoeveel?)",
+            "explain": "In a question with hoeveel, start with hoeveel: \"Hoeveel is de borg?\""
+          },
+          {
+            "id": "m2",
+            "pattern": "Drops de before borg (Hoeveel is borg?)",
+            "explain": "Borg is a de-word: \"de borg\"."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses de with servicekosten (Zijn de servicekosten inclusief?) is correct, but uses de with gas/water/light if talking about utilities (Zijn de gas, water en licht inclusief?)",
+            "explain": "Servicekosten take de, but gas, water en licht take no article here: \"Zijn gas, water en licht inclusief?\""
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De borg is één maand huur. De servicekosten zijn 50 euro per maand, exclusief gas, water en licht.",
+          "en": "The deposit is one month's rent. The service charges are 50 euros a month, excluding gas, water and electricity."
+        },
+        "task": "Ask when you can come and have a look, and whether the apartment is furnished.",
+        "examples": [
+          "Wanneer kan ik komen kijken? En is het appartement gemeubileerd?",
+          "Kan ik een afspraak maken voor een bezichtiging? Is het appartement gemeubileerd of ongemeubileerd?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps the verb at the end after wanneer in a direct question (Wanneer ik kan komen kijken?)",
+            "explain": "In a direct question the verb comes after wanneer: \"Wanneer kan ik komen kijken?\""
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses maken with bezichtiging (Kan ik een bezichtiging maken?)",
+            "explain": "Say \"een afspraak maken voor een bezichtiging\" or \"komen kijken\"."
+          },
+          {
+            "id": "m3",
+            "pattern": "Drops het before appartement (Is appartement gemeubileerd?)",
+            "explain": "Use \"het appartement\"."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Het is ongemeubileerd. U kunt morgen om vier uur komen kijken.",
+          "en": "It is unfurnished. You can come and have a look tomorrow at four o'clock."
+        },
+        "task": "Say that is fine and that you will be there at four o'clock. Ask whether there is a lift.",
+        "examples": [
+          "Dat is goed, ik ben er om vier uur. Is er een lift?",
+          "Morgen om vier uur is goed. Heeft het gebouw een lift?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses op with a clock time (ik ben er op vier uur)",
+            "explain": "Use om with clock times: \"om vier uur\"."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses de with gebouw (Heeft de gebouw een lift?)",
+            "explain": "Gebouw is a het-word: \"het gebouw\"."
+          },
+          {
+            "id": "m3",
+            "pattern": "Drops een before lift (Is er lift?)",
+            "explain": "Say \"een lift\"."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja, er is een lift. Dan stuur ik u het contract alvast per e-mail.",
+          "en": "Yes, there is a lift. Then I will send you the contract in advance by email."
+        },
+        "task": "Thank him politely and say goodbye.",
+        "examples": [
+          "Dank u wel. Tot morgen!",
+          "Dank u wel. Tot ziens!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses informal dank je wel to the landlord (Dank je wel, tot morgen!)",
+            "explain": "Be polite with u: \"Dank u wel, tot morgen.\""
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses doei to the landlord (Doei!)",
+            "explain": "Say \"Tot ziens\" or \"Tot morgen\"; doei is for friends."
+          },
+          {
+            "id": "m3",
+            "pattern": "Says Tot straks although they meet tomorrow (Tot straks!)",
+            "explain": "They meet tomorrow, so say \"Tot morgen\"."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot morgen!",
+      "en": "See you tomorrow!"
+    }
+  },
+  "culture": {
+    "title": "Woningnood: snel reageren en alles op papier",
+    "text": "In large Dutch cities there are far fewer rentals than people looking for one, so a single ad can get dozens of reactions in a day. Call or email the same day and have your documents ready. Always ask for a written contract and check what is included, because service costs, gas, water and light are often separate. Never pay a deposit without a contract and a receipt."
+  },
+  "summary": [
+    "Ask about the huur, the borg and the servicekosten before you visit.",
+    "Yes/no questions start with the verb: Is het appartement nog beschikbaar?",
+    "Indirect questions use of or a question word, with the verbs at the end: Weet u of het nog vrij is?",
+    "Say amounts like negenhonderdvijftig euro per maand; euro does not take -s.",
+    "Good rentals go fast: react the same day and ask for a written contract."
+  ]
+}

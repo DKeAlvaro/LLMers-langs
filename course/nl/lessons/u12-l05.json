@@ -1,0 +1,1122 @@
+{
+  "id": "u12-l05",
+  "title": "Klaar voor A2",
+  "subtitle": "Final review and exam practice",
+  "level": "A2+",
+  "intro": "In this final review lesson you bring the whole course together. You practise typical A2 exam tasks: reading a short notice, answering a question and writing a short reply. You also repeat the word order, tenses and polite phrases that examiners expect at A2.",
+  "words": [
+    {
+      "nl": "toets",
+      "en": "test",
+      "pos": "noun",
+      "article": "de",
+      "plural": "toetsen",
+      "forms": null,
+      "example": {
+        "nl": "Ik maak vandaag een toets.",
+        "en": "I am taking a test today."
+      },
+      "note": "A toets is usually at school; an examen is often more official."
+    },
+    {
+      "nl": "examen",
+      "en": "exam",
+      "pos": "noun",
+      "article": "het",
+      "plural": "examens",
+      "forms": null,
+      "example": {
+        "nl": "Het examen A2 is volgende week.",
+        "en": "The A2 exam is next week."
+      },
+      "note": "The four parts are reading, listening, writing and speaking."
+    },
+    {
+      "nl": "opdracht",
+      "en": "assignment, task",
+      "pos": "noun",
+      "article": "de",
+      "plural": "opdrachten",
+      "forms": null,
+      "example": {
+        "nl": "De opdracht is duidelijk.",
+        "en": "The assignment is clear."
+      },
+      "note": "You get an opdracht and you complete it."
+    },
+    {
+      "nl": "tekst",
+      "en": "text",
+      "pos": "noun",
+      "article": "de",
+      "plural": "teksten",
+      "forms": null,
+      "example": {
+        "nl": "Ik lees een korte tekst.",
+        "en": "I am reading a short text."
+      },
+      "note": null
+    },
+    {
+      "nl": "mededeling",
+      "en": "announcement, notice",
+      "pos": "noun",
+      "article": "de",
+      "plural": "mededelingen",
+      "forms": null,
+      "example": {
+        "nl": "De mededeling staat op het bord.",
+        "en": "The announcement is on the sign."
+      },
+      "note": "You hear a mededeling at the station or read one on a sign."
+    },
+    {
+      "nl": "folder",
+      "en": "brochure, leaflet",
+      "pos": "noun",
+      "article": "de",
+      "plural": "folders",
+      "forms": null,
+      "example": {
+        "nl": "In de folder staat informatie over de cursus.",
+        "en": "The brochure contains information about the course."
+      },
+      "note": "A folder is a thin booklet with information."
+    },
+    {
+      "nl": "regel",
+      "en": "rule; line",
+      "pos": "noun",
+      "article": "de",
+      "plural": "regels",
+      "forms": null,
+      "example": {
+        "nl": "Op het bord staat een regel over de trein.",
+        "en": "There is a line about the train on the sign."
+      },
+      "note": "In a text, a regel is a line; a regel is also a rule."
+    },
+    {
+      "nl": "bord",
+      "en": "sign; board; plate",
+      "pos": "noun",
+      "article": "het",
+      "plural": "borden",
+      "forms": null,
+      "example": {
+        "nl": "Op het station lees ik het bord.",
+        "en": "At the station I read the sign."
+      },
+      "note": "At the station a bord is a sign; at home you eat from a bord."
+    },
+    {
+      "nl": "slagen",
+      "en": "to pass (an exam)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik slaag, jij slaagt, wij slagen (is geslaagd)",
+      "example": {
+        "nl": "Ik hoop dat ik slaag.",
+        "en": "I hope that I pass."
+      },
+      "note": "zakken is the opposite of slagen."
+    },
+    {
+      "nl": "zakken",
+      "en": "to fail (an exam)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zak, jij zakt, wij zakken (is gezakt)",
+      "example": {
+        "nl": "Helaas, ik ben gezakt.",
+        "en": "Unfortunately, I failed."
+      },
+      "note": "You have gezakt if you have too few points."
+    },
+    {
+      "nl": "certificaat",
+      "en": "certificate",
+      "pos": "noun",
+      "article": "het",
+      "plural": "certificaten",
+      "forms": null,
+      "example": {
+        "nl": "Na het examen krijg je een certificaat.",
+        "en": "After the exam you get a certificate."
+      },
+      "note": null
+    },
+    {
+      "nl": "niveau",
+      "en": "level",
+      "pos": "noun",
+      "article": "het",
+      "plural": "niveaus",
+      "forms": null,
+      "example": {
+        "nl": "A2 en B1 zijn twee niveaus.",
+        "en": "A2 and B1 are two levels."
+      },
+      "note": null
+    },
+    {
+      "nl": "voldoende",
+      "en": "pass, satisfactory grade",
+      "pos": "noun",
+      "article": "de",
+      "plural": "voldoendes",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een voldoende voor de toets.",
+        "en": "I have a pass for the test."
+      },
+      "note": "A voldoende is enough; an onvoldoende is not enough."
+    },
+    {
+      "nl": "kiezen",
+      "en": "to choose",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kies, jij kiest, wij kiezen (heeft gekozen)",
+      "example": {
+        "nl": "Kies je de tekst of de folder?",
+        "en": "Do you choose the text or the brochure?"
+      },
+      "note": null
+    },
+    {
+      "nl": "oefening",
+      "en": "exercise",
+      "pos": "noun",
+      "article": "de",
+      "plural": "oefeningen",
+      "forms": null,
+      "example": {
+        "nl": "De oefening is niet moeilijk.",
+        "en": "The exercise is not difficult."
+      },
+      "note": null
+    },
+    {
+      "nl": "voorbeeld",
+      "en": "example",
+      "pos": "noun",
+      "article": "het",
+      "plural": "voorbeelden",
+      "forms": null,
+      "example": {
+        "nl": "Het voorbeeld helpt mij.",
+        "en": "The example helps me."
+      },
+      "note": null
+    },
+    {
+      "nl": "tijd",
+      "en": "time",
+      "pos": "noun",
+      "article": "de",
+      "plural": "tijden",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb genoeg tijd.",
+        "en": "I have enough time."
+      },
+      "note": "You have tijd or geen tijd; to ask the time: Hoe laat is het?"
+    },
+    {
+      "nl": "punt",
+      "en": "point, mark",
+      "pos": "noun",
+      "article": "het",
+      "plural": "punten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb tien punten.",
+        "en": "I have ten points."
+      },
+      "note": "In an exam you get punten for your answers."
+    },
+    {
+      "nl": "zenuwen",
+      "en": "nerves",
+      "pos": "noun",
+      "article": "de",
+      "plural": "zenuwen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb de zenuwen voor het examen.",
+        "en": "I have nerves before the exam."
+      },
+      "note": "You have de zenuwen when you are zenuwachtig."
+    },
+    {
+      "nl": "zenuwachtig",
+      "en": "nervous",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben zo zenuwachtig.",
+        "en": "I am so nervous."
+      },
+      "note": "Being zenuwachtig is normal before an exam."
+    },
+    {
+      "nl": "klaar",
+      "en": "ready; done",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben klaar voor het examen.",
+        "en": "I am ready for the exam."
+      },
+      "note": "Klaar means you have finished something or you are ready for it."
+    },
+    {
+      "nl": "brief",
+      "en": "letter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "brieven",
+      "forms": null,
+      "example": {
+        "nl": "Ik schrijf een korte brief.",
+        "en": "I am writing a short letter."
+      },
+      "note": "A brief starts with Beste ... and ends with Met vriendelijke groet."
+    },
+    {
+      "nl": "vraag",
+      "en": "question",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vragen",
+      "forms": null,
+      "example": {
+        "nl": "Lees de vraag goed.",
+        "en": "Read the question carefully."
+      },
+      "note": "In an exam you read the vraag first."
+    },
+    {
+      "nl": "antwoord",
+      "en": "answer",
+      "pos": "noun",
+      "article": "het",
+      "plural": "antwoorden",
+      "forms": null,
+      "example": {
+        "nl": "Schrijf je antwoord in een hele zin.",
+        "en": "Write your answer in a full sentence."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik ben klaar voor het examen.",
+      "en": "I am ready for the exam.",
+      "note": null
+    },
+    {
+      "nl": "Doe je best!",
+      "en": "Do your best!",
+      "note": "You say this to encourage someone."
+    },
+    {
+      "nl": "Ik ben zo zenuwachtig.",
+      "en": "I am so nervous.",
+      "note": null
+    },
+    {
+      "nl": "Lees de vraag goed.",
+      "en": "Read the question carefully.",
+      "note": null
+    },
+    {
+      "nl": "Schrijf je antwoord in een hele zin.",
+      "en": "Write your answer in a full sentence.",
+      "note": null
+    },
+    {
+      "nl": "Mag ik een pen?",
+      "en": "May I have a pen?",
+      "note": null
+    },
+    {
+      "nl": "Veel succes!",
+      "en": "Good luck!",
+      "note": "Succes is a het-word: het succes."
+    },
+    {
+      "nl": "Ik ben geslaagd!",
+      "en": "I passed!",
+      "note": null
+    },
+    {
+      "nl": "Helaas, ik ben gezakt.",
+      "en": "Unfortunately, I failed.",
+      "note": null
+    },
+    {
+      "nl": "Wat staat er op het bord?",
+      "en": "What does it say on the sign?",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Review: sentence order",
+      "explanation": "In a normal sentence the verb is in second position: **Ik lees de tekst.** If the sentence starts with time or place, the verb comes before the subject: **Morgen lees ik de tekst.** In a subordinate clause the verb goes to the end: **Ik denk dat ik slaag.**",
+      "table": {
+        "headers": [
+          "Type of clause",
+          "Example",
+          "Watch out"
+        ],
+        "rows": [
+          [
+            "Main clause",
+            "Ik maak de toets.",
+            "verb in second position"
+          ],
+          [
+            "Inversion",
+            "Vandaag maak ik de toets.",
+            "verb before ik"
+          ],
+          [
+            "Subordinate clause",
+            "Ik hoop dat ik slaag.",
+            "verb at the end"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik lees de tekst en ik schrijf het antwoord.",
+          "en": "I read the text and I write the answer."
+        },
+        {
+          "nl": "Morgen heb ik het examen.",
+          "en": "Tomorrow I have the exam."
+        },
+        {
+          "nl": "Ik weet niet of ik klaar ben.",
+          "en": "I do not know whether I am ready."
+        }
+      ],
+      "tip": "Keep your sentence short. Always check: is the verb in the right place?"
+    },
+    {
+      "title": "Review: tenses",
+      "explanation": "Use the perfect for something that is finished: **Ik heb de toets gemaakt.** Use the simple past for a story: **Gisteren maakte ik de toets.** Make the future with **gaan** or **zullen**: **Ik ga morgen het examen doen.**",
+      "table": {
+        "headers": [
+          "Time",
+          "Form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Now",
+            "present",
+            "Ik maak de toets."
+          ],
+          [
+            "Finished",
+            "hebben/zijn + past participle",
+            "Ik heb de toets gemaakt."
+          ],
+          [
+            "Story",
+            "simple past",
+            "Gisteren maakte ik de toets."
+          ],
+          [
+            "Future",
+            "gaan/zullen + infinitive",
+            "Ik ga morgen het examen doen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben naar het station gegaan.",
+          "en": "I went to the station."
+        },
+        {
+          "nl": "Ik had geen tijd.",
+          "en": "I had no time."
+        },
+        {
+          "nl": "Ik zal mijn best doen.",
+          "en": "I will do my best."
+        }
+      ],
+      "tip": "Choose one tense and keep it in your answer."
+    },
+    {
+      "title": "Exam tips: short and correct",
+      "explanation": "Read the **vraag** first, then the **tekst**. Write your **antwoord** in a short, full sentence. Use words you know. Check **de** and **het**, the verb form and the spelling.",
+      "table": {
+        "headers": [
+          "Task",
+          "What do you do?",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Mededeling",
+            "find the key information: who, what, where, when",
+            "De trein heeft tien minuten vertraging."
+          ],
+          [
+            "Vraag",
+            "answer in a full sentence",
+            "Ja, ik ben klaar."
+          ],
+          [
+            "Brief",
+            "greeting, core, closing",
+            "Beste mevrouw, ... Met vriendelijke groet, Sanne"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Wat staat er op het bord?",
+          "en": "What does it say on the sign?"
+        },
+        {
+          "nl": "Ik schrijf een korte brief.",
+          "en": "I am writing a short letter."
+        },
+        {
+          "nl": "Ik ben klaar voor het examen.",
+          "en": "I am ready for the exam."
+        }
+      ],
+      "tip": "If you doubt, write a shorter sentence that you are sure about."
+    }
+  ],
+  "dialogue": {
+    "title": "Op het station",
+    "setting": "Sanne has just finished a practice A2 exam. At the station she reads a notice, meets her neighbour and writes a short reply to her teacher.",
+    "speakers": [
+      {
+        "name": "Mees",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Mees",
+        "nl": "Hoi Sanne! Hoe ging je examen?",
+        "en": "Hi Sanne! How did your exam go?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed, maar ik was wel zenuwachtig.",
+        "en": "Well, but I was nervous."
+      },
+      {
+        "speaker": "Mees",
+        "nl": "Wat moest je doen?",
+        "en": "What did you have to do?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik moest een tekst lezen en de antwoorden invullen.",
+        "en": "I had to read a text and fill in the answers."
+      },
+      {
+        "speaker": "Mees",
+        "nl": "En had je genoeg tijd?",
+        "en": "And did you have enough time?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik had tijd genoeg. De opdracht was niet moeilijk.",
+        "en": "Yes, I had enough time. The assignment was not difficult."
+      },
+      {
+        "speaker": "Mees",
+        "nl": "Wat ga je nu doen?",
+        "en": "What are you going to do now?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik ga de mededeling op het bord lezen. De trein naar Utrecht heeft misschien vertraging.",
+        "en": "I am going to read the announcement on the sign. The train to Utrecht may be delayed."
+      },
+      {
+        "speaker": "Mees",
+        "nl": "Kijk, daar staat het: de trein heeft tien minuten vertraging.",
+        "en": "Look, there it says: the train has a ten-minute delay."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank je. Ik stuur even een briefje naar mijn leraar.",
+        "en": "Thanks. I will send a short note to my teacher."
+      },
+      {
+        "speaker": "Mees",
+        "nl": "Schrijf je dat je geslaagd bent?",
+        "en": "Are you writing that you passed?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, nog niet. Ik schrijf dat ik voor het examen van morgen klaar ben.",
+        "en": "No, not yet. I am writing that I am ready for tomorrow's exam."
+      },
+      {
+        "speaker": "Mees",
+        "nl": "Veel succes! Doe je best.",
+        "en": "Good luck! Do your best."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank je wel!",
+        "en": "Thank you!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de toets",
+          "the test"
+        ],
+        [
+          "de mededeling",
+          "the announcement"
+        ],
+        [
+          "de folder",
+          "the brochure"
+        ],
+        [
+          "slagen",
+          "to pass"
+        ],
+        [
+          "het certificaat",
+          "the certificate"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de opdracht",
+          "the assignment"
+        ],
+        [
+          "de regel",
+          "the rule"
+        ],
+        [
+          "het bord",
+          "the sign"
+        ],
+        [
+          "de voldoende",
+          "the pass mark"
+        ],
+        [
+          "het niveau",
+          "the level"
+        ]
+      ]
+    },
+    {
+      "type": "article",
+      "word": "opdracht",
+      "en": "assignment",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "bord",
+      "en": "sign",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "certificaat",
+      "en": "certificate",
+      "answer": "het"
+    },
+    {
+      "type": "choice",
+      "prompt": "You see this on a sign at the station. What is it?",
+      "nl": "De trein naar Utrecht vertrekt van spoor 5.",
+      "options": [
+        "een mededeling",
+        "een brief",
+        "een certificaat"
+      ],
+      "answer": 0,
+      "explain": "A mededeling on a bord gives information to travellers."
+    },
+    {
+      "type": "choice",
+      "prompt": "You feel nervous before the exam. What do you say?",
+      "nl": null,
+      "options": [
+        "Ik ben zo zenuwachtig.",
+        "Ik ben een certificaat.",
+        "Ik lees de folder."
+      ],
+      "answer": 0,
+      "explain": "Zenuwachtig means that you feel tension."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": "Kies de goede zin.",
+      "options": [
+        "Ik hoop dat ik slaag.",
+        "Ik hoop dat slaag ik.",
+        "Ik hoop dat ik ben slagen."
+      ],
+      "answer": 0,
+      "explain": "In a subordinate clause the verb goes to the end: dat ik slaag."
+    },
+    {
+      "type": "build",
+      "en": "I am ready for the exam.",
+      "answer": "Ik ben klaar voor het examen.",
+      "accept": [
+        "Voor het examen ben ik klaar."
+      ],
+      "extra": [
+        "de",
+        "op"
+      ],
+      "explain": "Use 'klaar voor' + het examen; in a main clause the verb ben stays in second position."
+    },
+    {
+      "type": "build",
+      "en": "Tomorrow I have the exam.",
+      "answer": "Morgen heb ik het examen.",
+      "accept": [
+        "Ik heb morgen het examen.",
+        "Het examen heb ik morgen."
+      ],
+      "extra": [
+        "de",
+        "op"
+      ],
+      "explain": "If the sentence starts with time, the verb comes before the subject: 'Morgen heb ik...'."
+    },
+    {
+      "type": "build",
+      "en": "I am writing a short letter to my teacher.",
+      "answer": "Ik schrijf een korte brief aan mijn leraar.",
+      "accept": [
+        "Aan mijn leraar schrijf ik een korte brief.",
+        "Ik schrijf aan mijn leraar een korte brief."
+      ],
+      "extra": [
+        "de",
+        "op"
+      ],
+      "explain": "The adjective takes -e before a de-word: 'een korte brief'; use 'aan' for the person you write to."
+    },
+    {
+      "type": "gap",
+      "text": "Lees de ___ goed voordat je antwoordt.",
+      "en": "Read the question carefully before you answer.",
+      "answers": [
+        "vraag"
+      ],
+      "hint": "de ... (question)",
+      "explain": "'De vraag' is the question; after 'voordat je' the verb keeps -t: 'je antwoordt'."
+    },
+    {
+      "type": "gap",
+      "text": "Ik hoop dat ik voor het examen ___ ben.",
+      "en": "I hope that I am ready for the exam.",
+      "answers": [
+        "klaar"
+      ],
+      "hint": "ready",
+      "explain": "Use 'klaar voor' with a noun; in a subordinate clause the verb ben comes at the end: 'dat ik voor het examen klaar ben'."
+    },
+    {
+      "type": "gap",
+      "text": "Na het examen krijg je een ___.",
+      "en": "After the exam you get a certificate.",
+      "answers": [
+        "certificaat",
+        "diploma"
+      ],
+      "hint": "het ... (certificate)",
+      "explain": "Both 'het certificaat' and 'het diploma' are het-words; here the lesson word is 'certificaat'."
+    },
+    {
+      "type": "translate",
+      "en": "I am ready for the exam.",
+      "answers": [
+        "Ik ben klaar voor het examen.",
+        "Ik ben klaar voor mijn examen."
+      ],
+      "focus": "klaar voor",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'de' with 'examen': 'Ik ben klaar voor de examen.'",
+          "explain": "'Examen' is a het-word, so use 'het examen'. Say: 'Ik ben klaar voor het examen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out the article: 'Ik ben klaar voor examen.'",
+          "explain": "Use an article before the noun: 'het examen'. Say: 'Ik ben klaar voor het examen.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the verb at the end in a main clause: 'Ik klaar ben voor het examen.'",
+          "explain": "In a main clause the verb ben comes second: 'Ik ben klaar voor het examen.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'is' with 'ik': 'Ik is klaar voor het examen.'",
+          "explain": "With 'ik' use 'ben', not 'is': 'Ik ben klaar voor het examen.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I am nervous, but I will do my best.",
+      "answers": [
+        "Ik ben zenuwachtig, maar ik zal mijn best doen.",
+        "Ik ben zenuwachtig, maar ik ga mijn best doen."
+      ],
+      "focus": "maar + future",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Misses the auxiliary before 'mijn best doen': 'Ik ben zenuwachtig, maar ik mijn best doen.'",
+          "explain": "After 'maar' the main clause needs a subject and a verb: 'maar ik zal mijn best doen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'maken' for 'doen': 'Ik ben zenuwachtig, maar ik zal mijn best maken.'",
+          "explain": "The fixed phrase is 'mijn best doen', not 'mijn best maken'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Places 'zal' too late: 'Ik ben zenuwachtig, maar ik mijn best zal doen.'",
+          "explain": "In the main clause the auxiliary comes second: 'maar ik zal mijn best doen'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "What does the announcement say?",
+      "answers": [
+        "Wat staat er in de mededeling?",
+        "Wat zegt de mededeling?"
+      ],
+      "focus": "mededeling",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'op' instead of 'in' with a text: 'Wat staat er op de mededeling?'",
+          "explain": "For text or information use 'in': 'Wat staat er in de mededeling?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the wrong verb form: 'Wat zeg de mededeling?'",
+          "explain": "With 'de mededeling' use 'zegt': 'Wat zegt de mededeling?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Keeps the subject before the verb in a question: 'Wat de mededeling zegt?'",
+          "explain": "In a question the verb comes before the subject: 'Wat zegt de mededeling?'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik ben klaar voor het examen.",
+      "en": "I am ready for the exam."
+    },
+    {
+      "type": "listen",
+      "nl": "De mededeling staat op het bord.",
+      "en": "The announcement is on the sign."
+    },
+    {
+      "type": "reply",
+      "context": "Your teacher asks about your exam.",
+      "say": {
+        "nl": "Hoe was je examen?",
+        "en": "How was your exam?"
+      },
+      "task": "Say that it went well, but that you were nervous.",
+      "examples": [
+        "Het ging goed, maar ik was zenuwachtig.",
+        "Goed, maar ik was wel zenuwachtig."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the present for a finished exam: 'Het gaat goed, maar ik ben zenuwachtig.'",
+          "explain": "For the exam that is finished use the simple past: 'Het ging goed, maar ik was zenuwachtig.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Places the verb at the end after 'maar': 'Het ging goed, maar ik zenuwachtig was.'",
+          "explain": "After 'maar' the main clause keeps normal order: 'maar ik was zenuwachtig'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'had' instead of 'was' with an adjective: 'Ik had zenuwachtig.'",
+          "explain": "With an adjective use 'zijn': 'Ik was zenuwachtig'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your neighbour asks what you are going to do now.",
+      "say": {
+        "nl": "Wat ga je nu doen?",
+        "en": "What are you going to do now?"
+      },
+      "task": "Say that you are going to read the announcement and that you are writing a short letter.",
+      "examples": [
+        "Ik ga de mededeling lezen en ik schrijf een korte brief.",
+        "Ik lees de mededeling en ik schrijf een brief."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts 'te' after 'gaan': 'Ik ga de mededeling te lezen.'",
+          "explain": "After 'gaan' use the infinitive without 'te': 'Ik ga de mededeling lezen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the object after the infinitive: 'Ik ga lezen de mededeling.'",
+          "explain": "The object comes before the infinitive at the end: 'Ik ga de mededeling lezen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'naar' instead of 'aan' for the person receiving a letter: 'Ik schrijf een korte brief naar mijn leraar.'",
+          "explain": "For the person who receives the letter use 'aan': 'een brief aan mijn leraar'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your friend wishes you good luck with your exam.",
+      "say": {
+        "nl": "Veel succes met je examen!",
+        "en": "Good luck with your exam!"
+      },
+      "task": "Thank her and say that you are ready.",
+      "examples": [
+        "Dank je wel, ik ben klaar.",
+        "Dank je, ik ben er klaar voor."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses formal 'u' to a friend: 'Dank u wel, ik ben klaar.'",
+          "explain": "A friend is informal: say 'Dank je wel'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'de' with 'examen': 'Dank je wel, ik ben klaar voor de examen.'",
+          "explain": "Use 'het examen': 'klaar voor het examen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Places the verb at the end in a main clause: 'Dank je wel, ik klaar ben.'",
+          "explain": "In a main clause the verb comes second: 'ik ben klaar'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op het station na het examen",
+    "setting": "You have just finished a practice A2 exam. At the station you meet your neighbour, who asks about the exam and about your plans. You also read a notice on the sign.",
+    "partner": {
+      "name": "Mevrouw De Boer",
+      "gender": "f",
+      "role": "buurvrouw"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Hoe ging je examen?",
+          "en": "Hi! How did your exam go?"
+        },
+        "task": "Say that it went well, but that you were nervous.",
+        "examples": [
+          "Het ging goed, maar ik was zenuwachtig.",
+          "Goed, maar ik was wel zenuwachtig."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the present instead of the past: 'Het gaat goed, maar ik ben zenuwachtig.'",
+            "explain": "The exam is finished, so use the simple past: 'Het ging goed, maar ik was zenuwachtig.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the verb at the end after 'maar': 'Het ging goed, maar ik zenuwachtig was.'",
+            "explain": "After 'maar' keep normal main-clause order: 'maar ik was zenuwachtig'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'had' with an adjective: 'Ik had zenuwachtig.'",
+            "explain": "With 'zenuwachtig' use 'zijn': 'Ik was zenuwachtig'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat moest je doen op het examen?",
+          "en": "What did you have to do in the exam?"
+        },
+        "task": "Say that you had to read a text and fill in the answers.",
+        "examples": [
+          "Ik moest een tekst lezen en de antwoorden invullen.",
+          "Ik moest lezen en de antwoorden invullen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'de vragen invullen' instead of 'de antwoorden invullen': 'Ik moest de vragen invullen.'",
+            "explain": "You read the questions but fill in the answers: 'de antwoorden invullen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the object after the infinitive: 'Ik moest lezen een tekst en de antwoorden invullen.'",
+            "explain": "The object comes before the infinitive: 'Ik moest een tekst lezen'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'maken' for 'invullen': 'de antwoorden maken'.",
+            "explain": "For a form or exam, use 'invullen': 'de antwoorden invullen'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En wat ga je nu doen?",
+          "en": "And what are you going to do now?"
+        },
+        "task": "Say that you are going to read the announcement on the sign and ask if the train to Utrecht is on time.",
+        "examples": [
+          "Ik ga de mededeling op het bord lezen. Is de trein naar Utrecht op tijd?",
+          "Ik lees de mededeling. Gaat de trein naar Utrecht op tijd?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts 'te' after 'gaan': 'Ik ga de mededeling te lezen.'",
+            "explain": "After 'gaan' use the infinitive without 'te': 'Ik ga de mededeling lezen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Makes a fragment with 'of' and no main clause: 'Of de trein naar Utrecht op tijd is?'",
+            "explain": "Ask a direct question: 'Is de trein naar Utrecht op tijd?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Keeps statement order in a yes/no question: 'De trein naar Utrecht is op tijd?'",
+            "explain": "Start a yes/no question with the verb: 'Is de trein naar Utrecht op tijd?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De trein heeft tien minuten vertraging. Maar je bent klaar voor A2!",
+          "en": "The train has a ten-minute delay. But you are ready for A2!"
+        },
+        "task": "Thank her and say that you hope to pass the exam.",
+        "examples": [
+          "Dank je wel. Ik hoop dat ik slaag.",
+          "Dank je. Ik wil graag slagen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts 'te' after a modal: 'Ik wil graag te slagen.'",
+            "explain": "After a modal verb use the infinitive without 'te': 'Ik wil graag slagen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the verb before the subject after 'dat': 'Ik hoop dat slaag ik.'",
+            "explain": "After 'dat' use subject + verb at the end: 'Ik hoop dat ik slaag'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'slagen' instead of the participle 'geslaagd': 'Ik ben slagen.'",
+            "explain": "The participle is 'geslaagd': 'Ik ben geslaagd'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Veel succes! Doe je best.",
+          "en": "Good luck! Do your best."
+        },
+        "task": "Say thanks and that you are going to write a short letter to your teacher.",
+        "examples": [
+          "Dank je wel. Ik ga een korte brief aan mijn leraar schrijven.",
+          "Dank je. Ik schrijf een korte brief aan mijn leraar."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts 'te' after 'gaan': 'Ik ga een korte brief te schrijven.'",
+            "explain": "After 'gaan' use the infinitive without 'te': 'Ik ga een korte brief schrijven'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the object after the infinitive: 'Ik ga schrijven een korte brief.'",
+            "explain": "The object comes before the infinitive: 'Ik ga een korte brief schrijven'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'voor' instead of 'aan' for the person: 'een brief voor mijn leraar schrijven'.",
+            "explain": "Write 'aan' the person: 'een brief aan mijn leraar'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot ziens en succes!",
+      "en": "Goodbye and good luck!"
+    }
+  },
+  "culture": {
+    "title": "After A2 comes B1",
+    "text": "After A2 comes B1. At A2 you can already handle many everyday situations: shopping, travelling, going to the doctor and writing short messages. B1 asks more: you learn to understand longer texts, give your opinion and speak more fluently. You do not need to be perfect; practising real situations helps most."
+  },
+  "summary": [
+    "Use short, correct sentences and check the verb position.",
+    "Read the question first, then the text; answer in a full sentence.",
+    "Know the exam words: de toets, het examen, de opdracht, de mededeling.",
+    "Being zenuwachtig is normal; stay calm and do your best.",
+    "After A2, B1 is the next step."
+  ]
+}

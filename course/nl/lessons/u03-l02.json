@@ -1,0 +1,1111 @@
+{
+  "id": "u03-l02",
+  "title": "Op de markt",
+  "subtitle": "Quantities and big numbers",
+  "level": "A1",
+  "intro": "After this lesson you can buy food in the right quantity at a Dutch market: a kilo of apples, half a kilo of cheese, a bag of onions. You can also understand and say numbers up to 1000. And you know exactly what to say when the seller asks if you want anything else.",
+  "words": [
+    {
+      "nl": "markt",
+      "en": "market (outdoor market)",
+      "pos": "noun",
+      "article": "de",
+      "plural": "markten",
+      "forms": null,
+      "example": {
+        "nl": "De markt is op zaterdag.",
+        "en": "The market is on Saturday."
+      },
+      "note": null
+    },
+    {
+      "nl": "kraam",
+      "en": "stall",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kramen",
+      "forms": null,
+      "example": {
+        "nl": "De kraam heeft verse aardbeien.",
+        "en": "The stall has fresh strawberries."
+      },
+      "note": null
+    },
+    {
+      "nl": "kilo",
+      "en": "kilo",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kilo's",
+      "forms": null,
+      "example": {
+        "nl": "Een kilo appels, graag.",
+        "en": "A kilo of apples, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "pond",
+      "en": "half a kilo (500 grams)",
+      "pos": "noun",
+      "article": "het",
+      "plural": "ponden",
+      "forms": null,
+      "example": {
+        "nl": "Een pond kaas is vijfhonderd gram.",
+        "en": "Half a kilo of cheese is 500 grams."
+      },
+      "note": "A Dutch pond is 500 grams, not 454 grams like an English pound."
+    },
+    {
+      "nl": "ons",
+      "en": "100 grams",
+      "pos": "noun",
+      "article": "het",
+      "plural": "ons",
+      "forms": null,
+      "example": {
+        "nl": "Twee ons kaas, alstublieft.",
+        "en": "200 grams of cheese, please."
+      },
+      "note": "An ons is 100 grams (plural ons); do not confuse it with possessive ons 'our'."
+    },
+    {
+      "nl": "gram",
+      "en": "gram",
+      "pos": "noun",
+      "article": "het",
+      "plural": "gram",
+      "forms": null,
+      "example": {
+        "nl": "Honderd gram kaas, alstublieft.",
+        "en": "100 grams of cheese, please."
+      },
+      "note": "Usually used without an article: honderd gram kaas."
+    },
+    {
+      "nl": "stuk",
+      "en": "piece",
+      "pos": "noun",
+      "article": "het",
+      "plural": "stukken",
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag twee stukken kaas.",
+        "en": "I would like two pieces of cheese."
+      },
+      "note": "Twee stuks means two items, for example two apples."
+    },
+    {
+      "nl": "zak",
+      "en": "bag",
+      "pos": "noun",
+      "article": "de",
+      "plural": "zakken",
+      "forms": null,
+      "example": {
+        "nl": "Een zak uien, graag.",
+        "en": "A bag of onions, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "doos",
+      "en": "box",
+      "pos": "noun",
+      "article": "de",
+      "plural": "dozen",
+      "forms": null,
+      "example": {
+        "nl": "Een doos aardbeien is drie euro.",
+        "en": "A box of strawberries is three euros."
+      },
+      "note": null
+    },
+    {
+      "nl": "bos",
+      "en": "bunch",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bossen",
+      "forms": null,
+      "example": {
+        "nl": "Een bos bloemen, alstublieft.",
+        "en": "A bunch of flowers, please."
+      },
+      "note": "You mostly hear it in een bos bloemen."
+    },
+    {
+      "nl": "aardbei",
+      "en": "strawberry",
+      "pos": "noun",
+      "article": "de",
+      "plural": "aardbeien",
+      "forms": null,
+      "example": {
+        "nl": "De aardbeien zijn rijp.",
+        "en": "The strawberries are ripe."
+      },
+      "note": null
+    },
+    {
+      "nl": "druif",
+      "en": "grape",
+      "pos": "noun",
+      "article": "de",
+      "plural": "druiven",
+      "forms": null,
+      "example": {
+        "nl": "Twee ons druiven, graag.",
+        "en": "200 grams of grapes, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "peer",
+      "en": "pear",
+      "pos": "noun",
+      "article": "de",
+      "plural": "peren",
+      "forms": null,
+      "example": {
+        "nl": "Een kilo peren, alstublieft.",
+        "en": "A kilo of pears, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "ui",
+      "en": "onion",
+      "pos": "noun",
+      "article": "de",
+      "plural": "uien",
+      "forms": null,
+      "example": {
+        "nl": "De uien zijn heel vers.",
+        "en": "The onions are very fresh."
+      },
+      "note": "Say ui with rounded lips; it is not the English word you."
+    },
+    {
+      "nl": "wortel",
+      "en": "carrot",
+      "pos": "noun",
+      "article": "de",
+      "plural": "wortels",
+      "forms": null,
+      "example": {
+        "nl": "Een kilo wortels, graag.",
+        "en": "A kilo of carrots, please."
+      },
+      "note": null
+    },
+    {
+      "nl": "vers",
+      "en": "fresh",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "vers, verse",
+      "example": {
+        "nl": "De vis is heel vers.",
+        "en": "The fish is very fresh."
+      },
+      "note": "Before a de-word or a plural you say verse: verse appels."
+    },
+    {
+      "nl": "rijp",
+      "en": "ripe",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "rijp, rijpe",
+      "example": {
+        "nl": "De peren zijn rijp.",
+        "en": "The pears are ripe."
+      },
+      "note": null
+    },
+    {
+      "nl": "honderd",
+      "en": "hundred",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De markt heeft honderd kramen.",
+        "en": "The market has a hundred stalls."
+      },
+      "note": null
+    },
+    {
+      "nl": "duizend",
+      "en": "thousand",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Een kilo is duizend gram.",
+        "en": "A kilo is a thousand grams."
+      },
+      "note": null
+    },
+    {
+      "nl": "iets",
+      "en": "something",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Anders nog iets?",
+        "en": "Anything else?"
+      },
+      "note": null
+    },
+    {
+      "nl": "alles",
+      "en": "everything",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Dat is alles.",
+        "en": "That's everything."
+      },
+      "note": null
+    },
+    {
+      "nl": "anders",
+      "en": "else, different",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Nog iets anders?",
+        "en": "Anything else?"
+      },
+      "note": null
+    },
+    {
+      "nl": "nog",
+      "en": "still, more",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Nog een pond kaas, graag.",
+        "en": "Another half kilo of cheese, please."
+      },
+      "note": "Nog een often means another."
+    },
+    {
+      "nl": "wegen",
+      "en": "to weigh",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik weeg, jij weegt, wij wegen",
+      "example": {
+        "nl": "Hij weegt de appels.",
+        "en": "He weighs the apples."
+      },
+      "note": null
+    },
+    {
+      "nl": "proeven",
+      "en": "to taste",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik proef, jij proeft, wij proeven",
+      "example": {
+        "nl": "Mag ik de kaas proeven?",
+        "en": "May I taste the cheese?"
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Oké",
+      "en": "Okay",
+      "note": "Common interjection; use it when you agree."
+    },
+    {
+      "nl": "Wat mag het zijn?",
+      "en": "What can I get you?",
+      "note": "Standard seller's question; less formal: Wat wil je?"
+    },
+    {
+      "nl": "Anders nog iets?",
+      "en": "Anything else?",
+      "note": "Fixed shop question; a shorter form is Nog iets?"
+    },
+    {
+      "nl": "Nee, dat is alles.",
+      "en": "No, that's everything.",
+      "note": null
+    },
+    {
+      "nl": "Dat was het.",
+      "en": "That's it.",
+      "note": "Said when you have finished ordering."
+    },
+    {
+      "nl": "Een kilo appels, graag.",
+      "en": "A kilo of apples, please.",
+      "note": "No of and no article after the quantity."
+    },
+    {
+      "nl": "Mag ik twee ons kaas?",
+      "en": "Could I have 200 grams of cheese?",
+      "note": null
+    },
+    {
+      "nl": "Wat kost een pond kaas?",
+      "en": "How much does half a kilo of cheese cost?",
+      "note": "Hoeveel kost een pond kaas? is also fine."
+    },
+    {
+      "nl": "Heeft u verse aardbeien?",
+      "en": "Do you have fresh strawberries?",
+      "note": "U is polite; with friends you say Heb je verse aardbeien?"
+    },
+    {
+      "nl": "Doet u maar een pond.",
+      "en": "Just give me half a kilo.",
+      "note": "Very common at markets and bakeries; maar makes it sound friendly."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Quantities without 'of'",
+      "explanation": "In Dutch you do not put **of** between a quantity and a product: **een kilo appels**, **een pond kaas**. The product comes straight after the quantity. Countable things come in the plural (**een kilo appels**); things you cannot count stay singular and take no article (**een pond kaas**).",
+      "table": {
+        "headers": [
+          "Quantity + product",
+          "English"
+        ],
+        "rows": [
+          [
+            "een kilo appels",
+            "a kilo of apples"
+          ],
+          [
+            "een pond kaas",
+            "half a kilo of cheese"
+          ],
+          [
+            "twee ons druiven",
+            "200 grams of grapes"
+          ],
+          [
+            "een zak uien",
+            "a bag of onions"
+          ],
+          [
+            "een bos bloemen",
+            "a bunch of flowers"
+          ],
+          [
+            "twee stuks",
+            "two items"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik wil graag een kilo peren.",
+          "en": "I would like a kilo of pears."
+        },
+        {
+          "nl": "Een pond kaas, alstublieft.",
+          "en": "Half a kilo of cheese, please."
+        },
+        {
+          "nl": "Twee ons druiven, graag.",
+          "en": "200 grams of grapes, please."
+        }
+      ],
+      "tip": "Never say een kilo van appels. Dutch simply leaves of out."
+    },
+    {
+      "title": "Numbers from 100 to 1000",
+      "explanation": "**Honderd** is 100 and **duizend** is 1000. For the hundreds you put the number in front: **tweehonderd**, **vijfhonderd**. Tens and units come after it, and everything is written as one word: **honderdvijftig**, **tweehonderdvijftig**.",
+      "table": {
+        "headers": [
+          "Number",
+          "Dutch"
+        ],
+        "rows": [
+          [
+            "100",
+            "honderd"
+          ],
+          [
+            "150",
+            "honderdvijftig"
+          ],
+          [
+            "200",
+            "tweehonderd"
+          ],
+          [
+            "250",
+            "tweehonderdvijftig"
+          ],
+          [
+            "500",
+            "vijfhonderd"
+          ],
+          [
+            "1000",
+            "duizend"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De markt heeft honderd kramen.",
+          "en": "The market has a hundred stalls."
+        },
+        {
+          "nl": "Een kilo is duizend gram.",
+          "en": "A kilo is a thousand grams."
+        },
+        {
+          "nl": "Dat is vijfhonderd gram.",
+          "en": "That is five hundred grams."
+        }
+      ],
+      "tip": "Say the big part first: 250 is twee-honderd-vijftig, 'two hundred and fifty'."
+    },
+    {
+      "title": "Anders nog iets? — finishing a purchase",
+      "explanation": "The seller often asks **Anders nog iets?**, which means 'anything else?'. You answer **Nee, dat is alles** or **Dat was het**. **Iets** is 'something', **alles** is 'everything' and **anders** is 'else'. **Nog** adds 'more' or 'still': **nog een kilo**, **nog iets**.",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "Anders nog iets?",
+            "Anything else?"
+          ],
+          [
+            "Nee, dat is alles.",
+            "No, that's everything."
+          ],
+          [
+            "Dat was het.",
+            "That's it."
+          ],
+          [
+            "Nog een pond, graag.",
+            "Another half kilo, please."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Anders nog iets? — Nee, dat is alles, dank u wel.",
+          "en": "Anything else? — No, that's everything, thank you."
+        },
+        {
+          "nl": "Dat was het. Alstublieft.",
+          "en": "That's it. Here you go."
+        }
+      ],
+      "tip": "If you answer ja, say what you want: Ja, nog een zak uien."
+    }
+  ],
+  "dialogue": {
+    "title": "Op de zaterdagmarkt",
+    "setting": "Saturday morning at a market in Utrecht. Lisa buys fruit, cheese and vegetables at Bram's stall.",
+    "speakers": [
+      {
+        "name": "Bram",
+        "gender": "m"
+      },
+      {
+        "name": "Lisa",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Bram",
+        "nl": "Goedemorgen! Wat mag het zijn?",
+        "en": "Good morning! What can I get you?"
+      },
+      {
+        "speaker": "Lisa",
+        "nl": "Goedemorgen. Heeft u verse aardbeien?",
+        "en": "Good morning. Do you have fresh strawberries?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Ja, ze zijn heel rijp. Een doos is drie euro, een kilo is vijf euro.",
+        "en": "Yes, they are very ripe. A box is three euros, a kilo is five euros."
+      },
+      {
+        "speaker": "Lisa",
+        "nl": "Een kilo, graag. Hoeveel gram is een pond?",
+        "en": "A kilo, please. How many grams is half a kilo?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Vijfhonderd gram. Een ons is honderd gram, en een kilo is duizend gram.",
+        "en": "Five hundred grams. An ons is a hundred grams, and a kilo is a thousand grams."
+      },
+      {
+        "speaker": "Lisa",
+        "nl": "Oké. Mag ik ook twee ons kaas?",
+        "en": "Okay. Could I also have 200 grams of cheese?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Natuurlijk. De kaas is vers. Anders nog iets?",
+        "en": "Of course. The cheese is fresh. Anything else?"
+      },
+      {
+        "speaker": "Lisa",
+        "nl": "Ja, een zak uien en een bos bloemen.",
+        "en": "Yes, a bag of onions and a bunch of flowers."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Alstublieft. Dat is samen twaalf euro vijftig.",
+        "en": "Here you go. That is twelve euros fifty in total."
+      },
+      {
+        "speaker": "Lisa",
+        "nl": "Dat was het. Alstublieft.",
+        "en": "That's it. Here you go."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Dank u wel. Tot ziens!",
+        "en": "Thank you. Goodbye!"
+      },
+      {
+        "speaker": "Lisa",
+        "nl": "Tot ziens!",
+        "en": "Goodbye!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de markt",
+          "the market"
+        ],
+        [
+          "de kraam",
+          "the stall"
+        ],
+        [
+          "de zak",
+          "the bag"
+        ],
+        [
+          "de doos",
+          "the box"
+        ],
+        [
+          "de bos bloemen",
+          "the bunch of flowers"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het pond",
+          "half a kilo (500 grams)"
+        ],
+        [
+          "het ons",
+          "100 grams"
+        ],
+        [
+          "het stuk",
+          "the piece"
+        ],
+        [
+          "vers",
+          "fresh"
+        ],
+        [
+          "rijp",
+          "ripe"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "een kilo van appels",
+        "een kilo appels",
+        "een kilo appel",
+        "een kilo de appels"
+      ],
+      "answer": 1,
+      "explain": "After a quantity Dutch uses no of and no article: een kilo appels."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the correct Dutch for 250?",
+      "nl": null,
+      "options": [
+        "twee honderd vijftig",
+        "tweehonderdenvijftig",
+        "tweehonderdvijftig",
+        "vijfentwintighonderd"
+      ],
+      "answer": 2,
+      "explain": "Dutch numbers are written as one word: tweehonderdvijftig."
+    },
+    {
+      "type": "choice",
+      "prompt": "The seller asks: 'Anders nog iets?' What does he want to know?",
+      "nl": "Anders nog iets?",
+      "options": [
+        "Do you want something else?",
+        "Is that everything?",
+        "How much is it?",
+        "Where is the market?"
+      ],
+      "answer": 0,
+      "explain": "Anders nog iets? means 'anything else?'; you answer Nee, dat is alles."
+    },
+    {
+      "type": "article",
+      "word": "kilo",
+      "en": "kilo",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "pond",
+      "en": "half a kilo",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I would like a kilo of apples.",
+      "answer": "Ik wil graag een kilo appels",
+      "accept": [
+        "Graag wil ik een kilo appels"
+      ],
+      "extra": [
+        "van",
+        "de"
+      ],
+      "explain": "After a quantity Dutch uses no of and no article: een kilo appels."
+    },
+    {
+      "type": "build",
+      "en": "How much does half a kilo of cheese cost?",
+      "answer": "Hoeveel kost een pond kaas",
+      "accept": [],
+      "extra": [
+        "van",
+        "of"
+      ],
+      "explain": "Use Hoeveel kost...? with a singular quantity; no van between quantity and product."
+    },
+    {
+      "type": "build",
+      "en": "The market has a hundred stalls.",
+      "answer": "De markt heeft honderd kramen",
+      "accept": [],
+      "extra": [
+        "kraam"
+      ],
+      "explain": "After honderd the plural noun comes directly: honderd kramen."
+    },
+    {
+      "type": "gap",
+      "text": "Anders ___ iets?",
+      "en": "Anything else?",
+      "answers": [
+        "nog"
+      ],
+      "hint": "still / more",
+      "explain": "The fixed question is Anders nog iets?; nog means 'more/still'."
+    },
+    {
+      "type": "gap",
+      "text": "Tweehonderd en driehonderd is ___.",
+      "en": "Two hundred plus three hundred is five hundred.",
+      "answers": [
+        "vijfhonderd"
+      ],
+      "hint": "500",
+      "explain": "Tweehonderd + driehonderd = vijfhonderd; write the number as one word."
+    },
+    {
+      "type": "gap",
+      "text": "De appels zijn heel ___.",
+      "en": "The apples are very fresh.",
+      "answers": [
+        "vers"
+      ],
+      "hint": "fresh",
+      "explain": "After zijn the adjective has no -e: De appels zijn vers."
+    },
+    {
+      "type": "translate",
+      "en": "A bag of onions, please.",
+      "answers": [
+        "Een zak uien, alstublieft",
+        "Een zak uien, alsjeblieft",
+        "Een zak uien, graag",
+        "Graag een zak uien",
+        "Een zak uien graag"
+      ],
+      "focus": "quantities without of",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Inserts 'van' after the quantity: 'Een zak van uien, alstublieft.'",
+          "explain": "Dutch puts the product directly after the quantity: 'een zak uien' (no 'van')."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses a singular product after 'zak': 'Een zak ui, alstublieft.'",
+          "explain": "Countable products come in the plural after a quantity: 'een zak uien'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds an article before the product: 'Een zak de uien, alstublieft.'",
+          "explain": "Do not put 'de' or 'het' after the quantity: 'een zak uien'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "How much does a kilo of pears cost?",
+      "answers": [
+        "Hoeveel kost een kilo peren",
+        "Wat kost een kilo peren"
+      ],
+      "focus": "Hoeveel kost...? with a quantity",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Inserts 'van' between quantity and product: 'Hoeveel kost een kilo van peren?'",
+          "explain": "Dutch leaves 'van' out: 'Hoeveel kost een kilo peren?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses plural 'kosten' with singular 'een kilo': 'Hoeveel kosten een kilo peren?'",
+          "explain": "Use 'kost' with a singular quantity: 'Hoeveel kost een kilo peren?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the subject before the verb in the question: 'Hoeveel een kilo peren kost?'",
+          "explain": "In a question the verb comes right after 'hoeveel': 'Hoeveel kost een kilo peren?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds 'de' before 'peren' after the quantity: 'Hoeveel kost een kilo de peren?'",
+          "explain": "Do not put an article after the quantity: 'Hoeveel kost een kilo peren?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Two hundred grams of cheese, please.",
+      "answers": [
+        "Tweehonderd gram kaas, alstublieft",
+        "Tweehonderd gram kaas, alsjeblieft",
+        "Tweehonderd gram kaas, graag",
+        "Twee ons kaas, alstublieft",
+        "Twee ons kaas, alsjeblieft",
+        "Twee ons kaas, graag",
+        "Graag twee ons kaas",
+        "Graag tweehonderd gram kaas"
+      ],
+      "focus": "numbers from 100 to 1000 with quantities",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'grammen' after a number: 'Tweehonderd grammen kaas, alstublieft.'",
+          "explain": "The unit stays 'gram' after a number: 'tweehonderd gram kaas'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Inserts 'van' between quantity and product: 'Tweehonderd gram van kaas, alstublieft.'",
+          "explain": "Dutch leaves 'van' out: 'tweehonderd gram kaas'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Writes the number as separate words: 'Twee honderd gram kaas, alstublieft.'",
+          "explain": "Dutch writes numbers as one word: 'tweehonderd gram kaas'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Een kilo appels, alstublieft.",
+      "en": "A kilo of apples, please."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik wil graag twee ons kaas.",
+      "en": "I would like 200 grams of cheese."
+    },
+    {
+      "type": "reply",
+      "context": "You are at the cheese stall and you have everything you need. The seller asks:",
+      "say": {
+        "nl": "Anders nog iets?",
+        "en": "Anything else?"
+      },
+      "task": "Say that's everything and thank him politely.",
+      "examples": [
+        "Nee, dat is alles. Dank u wel.",
+        "Dat was het, dank u wel.",
+        "Nee, dat is alles, dank u wel."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Starts with 'Ja' although the customer wants nothing else: 'Ja, dat is alles.'",
+          "explain": "If that is everything, start with 'Nee' or use 'Dat was het': 'Nee, dat is alles.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'geen' before 'alles': 'Nee, dat is geen alles.'",
+          "explain": "'Alles' is not used with 'geen'; say 'Nee, dat is alles.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Gets the word order wrong: 'Nee, alles dat is.'",
+          "explain": "The fixed order is 'dat is alles': 'Nee, dat is alles.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You want strawberries at the fruit stall. The seller says:",
+      "say": {
+        "nl": "Een doos is drie euro, een kilo is vijf euro.",
+        "en": "A box is three euros, a kilo is five euros."
+      },
+      "task": "Say you want a kilo, and ask if the strawberries are ripe.",
+      "examples": [
+        "Een kilo, graag. Zijn ze rijp?",
+        "Een kilo, alstublieft. Zijn ze rijp?",
+        "Graag een kilo. Zijn de aardbeien rijp?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the adjective with -e after 'zijn': 'Zijn ze rijpe?'",
+          "explain": "After 'zijn' the adjective has no -e: 'Zijn ze rijp?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Asks whether they are fresh instead of ripe: 'Zijn ze vers?'",
+          "explain": "'Ripe' is 'rijp'; 'fresh' is 'vers': 'Zijn ze rijp?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a singular noun for strawberries: 'Zijn de aardbei rijp?'",
+          "explain": "The plural is 'aardbeien': 'Zijn de aardbeien rijp?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op de markt",
+    "setting": "Saturday morning at the market in Utrecht. You want fruit, vegetables and cheese for the weekend, and you are talking to Bram, the stallholder.",
+    "partner": {
+      "name": "Bram",
+      "gender": "m",
+      "role": "market stallholder"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen! Wat mag het zijn?",
+          "en": "Good morning! What can I get you?"
+        },
+        "task": "Greet him and ask for a kilo of apples.",
+        "examples": [
+          "Goedemorgen. Een kilo appels, graag.",
+          "Goedemorgen! Mag ik een kilo appels?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Starts ordering without a greeting: 'Een kilo appels, graag.'",
+            "explain": "Open with a greeting: 'Goedemorgen. Een kilo appels, graag.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Inserts 'van' after the quantity: 'Een kilo van appels, graag.'",
+            "explain": "Dutch leaves 'van' out: 'een kilo appels'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses singular 'appel' after the quantity: 'Een kilo appel, graag.'",
+            "explain": "Countable products are plural after a quantity: 'een kilo appels'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Adds an article before 'appels': 'Een kilo de appels, graag.'",
+            "explain": "Do not put 'de' after the quantity: 'een kilo appels'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Natuurlijk. Anders nog iets?",
+          "en": "Of course. Anything else?"
+        },
+        "task": "Ask how much half a kilo of cheese costs.",
+        "examples": [
+          "Wat kost een pond kaas?",
+          "Hoeveel kost een pond kaas?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Inserts 'van' between quantity and product: 'Hoeveel kost een pond van kaas?'",
+            "explain": "Dutch leaves 'van' out: 'Hoeveel kost een pond kaas?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'kosten' with singular 'een pond': 'Hoeveel kosten een pond kaas?'",
+            "explain": "Use 'kost' with a singular quantity: 'Hoeveel kost een pond kaas?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the subject before the verb: 'Hoeveel een pond kaas kost?'",
+            "explain": "In a question the verb comes right after 'hoeveel': 'Hoeveel kost een pond kaas?'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses the wrong article before 'pond': 'Hoeveel kost de pond kaas?'",
+            "explain": "'Pond' is a het-word; use 'een pond' for a quantity: 'Hoeveel kost een pond kaas?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Een pond is acht euro. De kaas is heel vers.",
+          "en": "Half a kilo is eight euros. The cheese is very fresh."
+        },
+        "task": "Say you want 200 grams of cheese and a bag of onions.",
+        "examples": [
+          "Mag ik twee ons kaas en een zak uien?",
+          "Twee ons kaas en een zak uien, graag."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Inserts 'van' after a quantity: 'Twee ons van kaas en een zak uien.'",
+            "explain": "Dutch leaves 'van' out: 'twee ons kaas'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses singular 'ui' after 'zak': 'Twee ons kaas en een zak ui.'",
+            "explain": "Use the plural after a quantity: 'een zak uien'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Adds an article before 'uien': 'Twee ons kaas en een zak de uien.'",
+            "explain": "Do not put 'de' after the quantity: 'een zak uien'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Prima. Nog iets anders?",
+          "en": "Great. Anything else?"
+        },
+        "task": "Say that's everything and ask what the total is.",
+        "examples": [
+          "Nee, dat is alles. Wat is het totaal?",
+          "Dat was het. Hoeveel is het samen?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Starts with 'Ja' although the customer has finished: 'Ja, dat is alles.'",
+            "explain": "Use 'Nee, dat is alles' or 'Dat was het': 'Nee, dat is alles.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets 'het' in the total question: 'Wat is totaal?'",
+            "explain": "Say 'Wat is het totaal?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Gets the word order wrong in the total question: 'Hoeveel samen is het?'",
+            "explain": "Say 'Hoeveel is het samen?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Samen is het veertien euro vijftig.",
+          "en": "Together it is fourteen euros fifty."
+        },
+        "task": "Pay politely and say goodbye.",
+        "examples": [
+          "Alstublieft. Dank u wel. Tot ziens!",
+          "Alstublieft, dank u wel. Tot ziens!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the informal 'alsjeblieft' when paying politely: 'Alsjeblieft, dank u wel. Tot ziens!'",
+            "explain": "With 'u' use 'alstublieft': 'Alstublieft, dank u wel.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits the polite word when handing over money: 'Dank u wel. Tot ziens!'",
+            "explain": "Say 'Alstublieft' when you give the money: 'Alstublieft, dank u wel.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'Tot straks' (see you later) for a final goodbye: 'Dank u wel. Tot straks!'",
+            "explain": "For a final goodbye say 'Tot ziens': 'Dank u wel. Tot ziens!'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Dank u wel. Tot ziens!",
+      "en": "Thank you. Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Een pond is 500 gram, een ons is 100 gram",
+    "text": "In the Netherlands a pond is 500 grams and an ons is 100 grams. These old words are still used every day at markets, at the butcher and at the bakery, even though supermarket labels show grams. So if you ask for een pond kaas, you get half a kilo, not the 454 grams of an English pound."
+  },
+  "summary": [
+    "Give quantities without of: een kilo appels, een pond kaas, een zak uien, een bos bloemen.",
+    "Remember the old weights: een pond = 500 gram, een ons = 100 gram.",
+    "Count to 1000 in one word: honderd, honderdvijftig, tweehonderdvijftig, vijfhonderd, duizend.",
+    "Finish a purchase with Nee, dat is alles or Dat was het, and pay with Alstublieft."
+  ]
+}

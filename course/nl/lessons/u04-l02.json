@@ -1,0 +1,1226 @@
+{
+  "id": "u04-l02",
+  "title": "Een groot huis",
+  "subtitle": "Adjective endings and colours",
+  "level": "A1",
+  "intro": "In this lesson you learn to describe things with colours and adjectives. You will practise the adjective ending -e and the important exception with een + het-word. By the end you can say things like de rode bank and een groot huis.",
+  "words": [
+    {
+      "nl": "kleur",
+      "en": "colour",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kleuren",
+      "forms": null,
+      "example": {
+        "nl": "De kleur is rood.",
+        "en": "The colour is red."
+      },
+      "note": null
+    },
+    {
+      "nl": "rood",
+      "en": "red",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "rood, rode",
+      "example": {
+        "nl": "De bank is rood.",
+        "en": "The sofa is red."
+      },
+      "note": "Before a noun: de rode bank."
+    },
+    {
+      "nl": "oranje",
+      "en": "orange",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "oranje (does not change)",
+      "example": {
+        "nl": "De lamp is oranje.",
+        "en": "The lamp is orange."
+      },
+      "note": "Oranje already ends in -e; it does not change before a noun."
+    },
+    {
+      "nl": "geel",
+      "en": "yellow",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "geel, gele",
+      "example": {
+        "nl": "De muur is geel.",
+        "en": "The wall is yellow."
+      },
+      "note": null
+    },
+    {
+      "nl": "groen",
+      "en": "green",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "groen, groene",
+      "example": {
+        "nl": "De stoel is groen.",
+        "en": "The chair is green."
+      },
+      "note": null
+    },
+    {
+      "nl": "blauw",
+      "en": "blue",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "blauw, blauwe",
+      "example": {
+        "nl": "Het bed is blauw.",
+        "en": "The bed is blue."
+      },
+      "note": null
+    },
+    {
+      "nl": "paars",
+      "en": "purple",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "paars, paarse",
+      "example": {
+        "nl": "De kast is paars.",
+        "en": "The cupboard is purple."
+      },
+      "note": null
+    },
+    {
+      "nl": "roze",
+      "en": "pink",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "roze (does not change)",
+      "example": {
+        "nl": "De stoel is roze.",
+        "en": "The chair is pink."
+      },
+      "note": "Roze already ends in -e; it does not change before a noun."
+    },
+    {
+      "nl": "bruin",
+      "en": "brown",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "bruin, bruine",
+      "example": {
+        "nl": "De tafel is bruin.",
+        "en": "The table is brown."
+      },
+      "note": null
+    },
+    {
+      "nl": "zwart",
+      "en": "black",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "zwart, zwarte",
+      "example": {
+        "nl": "De fiets is zwart.",
+        "en": "The bicycle is black."
+      },
+      "note": null
+    },
+    {
+      "nl": "wit",
+      "en": "white",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "wit, witte",
+      "example": {
+        "nl": "Het raam is wit.",
+        "en": "The window is white."
+      },
+      "note": null
+    },
+    {
+      "nl": "grijs",
+      "en": "grey",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "grijs, grijze",
+      "example": {
+        "nl": "De muur is grijs.",
+        "en": "The wall is grey."
+      },
+      "note": null
+    },
+    {
+      "nl": "licht",
+      "en": "light",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "licht, lichte",
+      "example": {
+        "nl": "De kamer is licht.",
+        "en": "The room is light."
+      },
+      "note": "Also used for light colours: lichtblauw."
+    },
+    {
+      "nl": "donker",
+      "en": "dark",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "donker, donkere",
+      "example": {
+        "nl": "De kamer is donker.",
+        "en": "The room is dark."
+      },
+      "note": null
+    },
+    {
+      "nl": "mooi",
+      "en": "beautiful, nice",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "mooi, mooie",
+      "example": {
+        "nl": "De bank is mooi.",
+        "en": "The sofa is beautiful."
+      },
+      "note": null
+    },
+    {
+      "nl": "lelijk",
+      "en": "ugly",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "lelijk, lelijke",
+      "example": {
+        "nl": "De lamp is lelijk.",
+        "en": "The lamp is ugly."
+      },
+      "note": null
+    },
+    {
+      "nl": "nieuw",
+      "en": "new",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "nieuw, nieuwe",
+      "example": {
+        "nl": "De stoel is nieuw.",
+        "en": "The chair is new."
+      },
+      "note": null
+    },
+    {
+      "nl": "oud",
+      "en": "old",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "oud, oude",
+      "example": {
+        "nl": "De tafel is oud.",
+        "en": "The table is old."
+      },
+      "note": "For age: Ik ben twintig jaar oud."
+    },
+    {
+      "nl": "schoon",
+      "en": "clean",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "schoon, schone",
+      "example": {
+        "nl": "De vloer is schoon.",
+        "en": "The floor is clean."
+      },
+      "note": "schoon = clean; 'beautiful' is mooi."
+    },
+    {
+      "nl": "vies",
+      "en": "dirty",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "vies, vieze",
+      "example": {
+        "nl": "De vloer is vies.",
+        "en": "The floor is dirty."
+      },
+      "note": null
+    },
+    {
+      "nl": "duur",
+      "en": "expensive",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "duur, dure",
+      "example": {
+        "nl": "De bank is duur.",
+        "en": "The sofa is expensive."
+      },
+      "note": null
+    },
+    {
+      "nl": "goedkoop",
+      "en": "cheap",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "goedkoop, goedkope",
+      "example": {
+        "nl": "De stoel is goedkoop.",
+        "en": "The chair is cheap."
+      },
+      "note": null
+    },
+    {
+      "nl": "lang",
+      "en": "long",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "lang, lange",
+      "example": {
+        "nl": "De tafel is lang.",
+        "en": "The table is long."
+      },
+      "note": null
+    },
+    {
+      "nl": "kort",
+      "en": "short",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "kort, korte",
+      "example": {
+        "nl": "De stoel is kort.",
+        "en": "The chair is short."
+      },
+      "note": null
+    },
+    {
+      "nl": "breed",
+      "en": "wide",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "breed, brede",
+      "example": {
+        "nl": "Het bed is breed.",
+        "en": "The bed is wide."
+      },
+      "note": null
+    },
+    {
+      "nl": "smal",
+      "en": "narrow",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "smal, smalle",
+      "example": {
+        "nl": "De kast is smal.",
+        "en": "The cupboard is narrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "meubel",
+      "en": "piece of furniture",
+      "pos": "noun",
+      "article": "het",
+      "plural": "meubels",
+      "forms": null,
+      "example": {
+        "nl": "Het meubel is nieuw.",
+        "en": "The piece of furniture is new."
+      },
+      "note": "Plural: meubels."
+    },
+    {
+      "nl": "helpen",
+      "en": "to help",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik help, jij helpt, wij helpen",
+      "example": {
+        "nl": "Kan ik u helpen?",
+        "en": "Can I help you?"
+      },
+      "note": "In shops: Kan ik u helpen?"
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Welke kleur heeft de bank?",
+      "en": "What colour is the sofa?",
+      "note": "Literally: which colour does the sofa have?"
+    },
+    {
+      "nl": "Het is een rode bank.",
+      "en": "It is a red sofa.",
+      "note": null
+    },
+    {
+      "nl": "Ik zoek een grote tafel.",
+      "en": "I am looking for a big table.",
+      "note": null
+    },
+    {
+      "nl": "De stoel is te duur.",
+      "en": "The chair is too expensive.",
+      "note": "te = too, before an adjective."
+    },
+    {
+      "nl": "Heeft u iets goedkopers?",
+      "en": "Do you have something cheaper?",
+      "note": "Fixed chunk; goedkopers = cheaper."
+    },
+    {
+      "nl": "Hij is mooi, maar te groot.",
+      "en": "It is nice, but too big.",
+      "note": "hij = it for a de-word."
+    },
+    {
+      "nl": "Ik neem hem.",
+      "en": "I'll take it.",
+      "note": "For a de-word: hem. For a het-word: het."
+    },
+    {
+      "nl": "Ik neem het.",
+      "en": "I'll take it.",
+      "note": "For a het-word."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Adjective before a noun: add -e",
+      "explanation": "When an adjective stands before a noun, it usually gets **-e**: **de grote tafel**, **het grote huis**. This is the same for de-words, het-words and plurals: **grote huizen**. Adjectives that already end in **-e** (**oranje**, **roze**) do not change.",
+      "table": {
+        "headers": [
+          "Noun",
+          "Adjective + noun",
+          "English"
+        ],
+        "rows": [
+          [
+            "de tafel",
+            "de grote tafel",
+            "the big table"
+          ],
+          [
+            "het huis",
+            "het grote huis",
+            "the big house"
+          ],
+          [
+            "de huizen (plural)",
+            "grote huizen",
+            "big houses"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De rode bank is mooi.",
+          "en": "The red sofa is beautiful."
+        },
+        {
+          "nl": "Het nieuwe bed is groot.",
+          "en": "The new bed is big."
+        },
+        {
+          "nl": "Wij hebben kleine lampen.",
+          "en": "We have small lamps."
+        }
+      ],
+      "tip": "With de/het and plurals, the adjective takes -e; the only exception is een + het-word."
+    },
+    {
+      "title": "Exception: een + het-word",
+      "explanation": "After **een**, an adjective before a het-word has no **-e**: **een groot huis**, **een mooi raam**. After **een** with a de-word, the adjective does get **-e**: **een grote tafel**.",
+      "table": {
+        "headers": [
+          "Article",
+          "het-word",
+          "de-word"
+        ],
+        "rows": [
+          [
+            "een",
+            "een groot huis",
+            "een grote tafel"
+          ],
+          [
+            "de/het",
+            "het grote huis",
+            "de grote tafel"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Het is een groot huis.",
+          "en": "It is a big house."
+        },
+        {
+          "nl": "Het is een grote kamer.",
+          "en": "It is a big room."
+        },
+        {
+          "nl": "Wij zoeken een goedkope bank.",
+          "en": "We are looking for a cheap sofa."
+        }
+      ],
+      "tip": "Only een + het-word has no added -e; all other combinations add -e."
+    },
+    {
+      "title": "Spelling and adjectives after the verb",
+      "explanation": "Some adjectives change spelling before **-e**: **groot** -> **grote**, **wit** -> **witte**, **vies** -> **vieze**. After the verb **is** or **zijn**, the adjective has no **-e**: **De bank is rood**.",
+      "table": {
+        "headers": [
+          "Adjective",
+          "Before a noun",
+          "After the verb"
+        ],
+        "rows": [
+          [
+            "groot",
+            "de grote tafel",
+            "De tafel is groot."
+          ],
+          [
+            "wit",
+            "het witte raam",
+            "Het raam is wit."
+          ],
+          [
+            "vies",
+            "de vieze vloer",
+            "De vloer is vies."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De stoel is wit.",
+          "en": "The chair is white."
+        },
+        {
+          "nl": "Wij hebben een witte stoel.",
+          "en": "We have a white chair."
+        }
+      ],
+      "tip": "Spelling: groot -> grote (drop one o), wit -> witte (double the t), vies -> vieze (s becomes z)."
+    }
+  ],
+  "dialogue": {
+    "title": "Een tafel en een stoel",
+    "setting": "Sanne is looking for furniture for her new room in a second-hand shop.",
+    "speakers": [
+      {
+        "name": "Verkoper",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Verkoper",
+        "nl": "Goedemorgen. Kan ik u helpen?",
+        "en": "Good morning. Can I help you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik zoek een tafel voor mijn kamer.",
+        "en": "Yes, I am looking for a table for my room."
+      },
+      {
+        "speaker": "Verkoper",
+        "nl": "De bruine tafel is niet duur.",
+        "en": "The brown table is not expensive."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hij is mooi, maar te groot. Heeft u een kleine tafel?",
+        "en": "It is nice, but too big. Do you have a small table?"
+      },
+      {
+        "speaker": "Verkoper",
+        "nl": "Ja, de tafel bij het raam. Het is een oude tafel, maar hij is schoon.",
+        "en": "Yes, the table by the window. It is an old table, but it is clean."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wat kost hij?",
+        "en": "How much does it cost?"
+      },
+      {
+        "speaker": "Verkoper",
+        "nl": "Honderd euro.",
+        "en": "One hundred euros."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is duur. En de witte tafel?",
+        "en": "That is expensive. And the white table?"
+      },
+      {
+        "speaker": "Verkoper",
+        "nl": "De witte tafel is negentig euro. Hij is smal en lang.",
+        "en": "The white table is ninety euros. It is narrow and long."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Mooi. Ik neem hem. Ik zoek ook een stoel.",
+        "en": "Nice. I'll take it. I am also looking for a chair."
+      },
+      {
+        "speaker": "Verkoper",
+        "nl": "De rode stoel is goedkoop.",
+        "en": "The red chair is cheap."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Rood is een mooie kleur. Ik neem de stoel ook.",
+        "en": "Red is a beautiful colour. I'll take the chair too."
+      },
+      {
+        "speaker": "Verkoper",
+        "nl": "Prima. Samen is dat honderdzestig euro.",
+        "en": "Fine. Together that is one hundred and sixty euros."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Alstublieft. Dank u wel!",
+        "en": "Here you are. Thank you!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "rood",
+          "red"
+        ],
+        [
+          "geel",
+          "yellow"
+        ],
+        [
+          "groen",
+          "green"
+        ],
+        [
+          "blauw",
+          "blue"
+        ],
+        [
+          "zwart",
+          "black"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "mooi",
+          "beautiful"
+        ],
+        [
+          "lelijk",
+          "ugly"
+        ],
+        [
+          "nieuw",
+          "new"
+        ],
+        [
+          "schoon",
+          "clean"
+        ],
+        [
+          "duur",
+          "expensive"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "De ___ bank is duur.",
+      "options": [
+        "rode",
+        "rood",
+        "roode"
+      ],
+      "answer": 0,
+      "explain": "Before a de-word the adjective gets -e: de rode bank."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "Het is een ___ huis.",
+      "options": [
+        "groot",
+        "grote",
+        "groote"
+      ],
+      "answer": 0,
+      "explain": "After een with a het-word, there is no -e: een groot huis."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "Wij hebben ___ stoelen.",
+      "options": [
+        "grote",
+        "groot",
+        "groote"
+      ],
+      "answer": 0,
+      "explain": "Plurals take -e before the noun: grote stoelen."
+    },
+    {
+      "type": "article",
+      "word": "kleur",
+      "en": "colour",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "meubel",
+      "en": "piece of furniture",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "The table is brown.",
+      "answer": "De tafel is bruin.",
+      "accept": [
+        "De tafel is bruin"
+      ],
+      "extra": [
+        "bruine",
+        "grote",
+        "mooie"
+      ],
+      "explain": "After the verb is, the adjective has no -e: 'De tafel is bruin.'"
+    },
+    {
+      "type": "build",
+      "en": "We have a big house.",
+      "answer": "Wij hebben een groot huis.",
+      "accept": [
+        "Wij hebben een groot huis"
+      ],
+      "extra": [
+        "grote",
+        "de",
+        "mooie"
+      ],
+      "explain": "After een + het-word (huis), the adjective has no -e: 'een groot huis'."
+    },
+    {
+      "type": "build",
+      "en": "I am looking for a red sofa.",
+      "answer": "Ik zoek een rode bank.",
+      "accept": [
+        "Ik zoek een rode bank"
+      ],
+      "extra": [
+        "rood",
+        "groot",
+        "klein"
+      ],
+      "explain": "Bank is a de-word, so after een the adjective gets -e: 'een rode bank'."
+    },
+    {
+      "type": "gap",
+      "text": "De stoel is ___.",
+      "en": "The chair is white.",
+      "answers": [
+        "wit"
+      ],
+      "hint": "wit (colour)",
+      "explain": "After the verb is, the adjective has no -e: 'De stoel is wit.'"
+    },
+    {
+      "type": "gap",
+      "text": "Wij hebben een ___ tafel.",
+      "en": "We have a white table.",
+      "answers": [
+        "witte"
+      ],
+      "hint": "wit",
+      "explain": "Tafel is a de-word, so after een the adjective gets -e: 'een witte tafel'."
+    },
+    {
+      "type": "gap",
+      "text": "Het is een ___ huis.",
+      "en": "It is an old house.",
+      "answers": [
+        "oud"
+      ],
+      "hint": "oud",
+      "explain": "Huis is a het-word, so after een the adjective has no -e: 'een oud huis'."
+    },
+    {
+      "type": "translate",
+      "en": "The sofa is expensive.",
+      "answers": [
+        "De bank is duur.",
+        "De bank is duur"
+      ],
+      "focus": "adjective after the verb: no -e",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds -e after the verb: 'De bank is dure.'",
+          "explain": "After is/zijn, the adjective has no -e: 'De bank is duur.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the adjective before the verb: 'De bank duur is.'",
+          "explain": "The verb comes second in a statement: 'De bank is duur.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Writes the opposite with niet: 'De bank is niet duur.'",
+          "explain": "niet duur means 'not expensive'; 'expensive' is 'duur'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses the wrong article for bank: 'Het bank is duur.'",
+          "explain": "Bank is a de-word: 'de bank'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "It is a beautiful colour.",
+      "answers": [
+        "Het is een mooie kleur.",
+        "Het is een mooie kleur"
+      ],
+      "focus": "een + de-word: mooie",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Leaves off -e with een + de-word: 'Het is een mooi kleur.'",
+          "explain": "Kleur is a de-word, so after een the adjective gets -e: 'een mooie kleur'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Forgets een: 'Het is mooie kleur.'",
+          "explain": "Use 'een' before a singular noun: 'een mooie kleur'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the adjective after the noun: 'Het is een kleur mooie.'",
+          "explain": "The adjective comes before the noun: 'een mooie kleur'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts mooi before een: 'Het is mooi een kleur.'",
+          "explain": "The adjective goes between een and the noun: 'een mooie kleur'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "We have a small car.",
+      "answers": [
+        "Wij hebben een kleine auto.",
+        "Wij hebben een kleine auto",
+        "We hebben een kleine auto.",
+        "We hebben een kleine auto"
+      ],
+      "focus": "een + de-word: kleine",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses no -e with een + de-word: 'Wij hebben een klein auto.'",
+          "explain": "Auto is a de-word, so after een the adjective gets -e: 'een kleine auto'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Forgets een: 'Wij hebben kleine auto.'",
+          "explain": "Use 'een' before a singular noun: 'een kleine auto'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the adjective after the noun: 'Wij hebben een auto kleine.'",
+          "explain": "The adjective comes before the noun: 'een kleine auto'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses grote (big) instead of kleine (small): 'Wij hebben een grote auto.'",
+          "explain": "grote means 'big'; small is 'kleine'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "De tafel is bruin.",
+      "en": "The table is brown."
+    },
+    {
+      "type": "listen",
+      "nl": "Het is een groot huis.",
+      "en": "It is a big house."
+    },
+    {
+      "type": "reply",
+      "context": "You are in a second-hand shop. The seller asks:",
+      "say": {
+        "nl": "Kan ik u helpen?",
+        "en": "Can I help you?"
+      },
+      "task": "Say that you are looking for a big table.",
+      "examples": [
+        "Ja, ik zoek een grote tafel.",
+        "Ja, ik zoek een grote tafel voor mijn kamer."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses no -e with een + de-word: 'Ik zoek een groot tafel.'",
+          "explain": "Tafel is a de-word, so after een the adjective gets -e: 'een grote tafel'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Forgets een: 'Ik zoek grote tafel.'",
+          "explain": "Use 'een' before a singular noun: 'een grote tafel'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the adjective after the noun: 'Ik zoek een tafel grote.'",
+          "explain": "The adjective comes before the noun: 'een grote tafel'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds voor before the object: 'Ik zoek voor een grote tafel.'",
+          "explain": "zoeken takes a direct object: 'Ik zoek een grote tafel'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You look at a red chair. The seller asks:",
+      "say": {
+        "nl": "Wat kost de stoel?",
+        "en": "How much is the chair?"
+      },
+      "task": "Say that the chair is beautiful but too expensive.",
+      "examples": [
+        "De stoel is mooi, maar te duur.",
+        "Hij is mooi, maar te duur."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds -e after is: 'De stoel is mooie, maar te duur.'",
+          "explain": "After is/zijn, the adjective has no -e: 'De stoel is mooi.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out te before duur: 'De stoel is mooi, maar duur.'",
+          "explain": "'too expensive' is 'te duur'; without te it just means 'expensive'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts te after the adjective: 'De stoel is mooi, maar duur te.'",
+          "explain": "te comes before the adjective: 'te duur'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds -e after te: 'De stoel is mooi, maar te dure.'",
+          "explain": "After te, the adjective has no -e: 'te duur'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The seller asks:",
+      "say": {
+        "nl": "Wilt u de stoel?",
+        "en": "Do you want the chair?"
+      },
+      "task": "Say yes, you'll take it (the chair is a de-word).",
+      "examples": [
+        "Ja, ik neem hem.",
+        "Ja, ik neem de stoel."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses het for a de-word: 'Ja, ik neem het.'",
+          "explain": "De stoel is a de-word, so use 'hem': 'Ik neem hem.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses haar for a thing: 'Ja, ik neem haar.'",
+          "explain": "For a de-word thing, use 'hem', not 'haar': 'Ik neem hem.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Forgets the object: 'Ja, ik neem.'",
+          "explain": "Say what you take: 'Ik neem hem' or 'Ik neem de stoel'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses the wrong verb form: 'Ja, ik neemt hem.'",
+          "explain": "With ik, the verb is 'neem': 'Ik neem hem.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The seller says:",
+      "say": {
+        "nl": "Dat is honderd euro.",
+        "en": "That is one hundred euros."
+      },
+      "task": "Say that is too expensive and ask for something cheaper.",
+      "examples": [
+        "Dat is te duur. Heeft u iets goedkopers?",
+        "Honderd euro is te duur. Heeft u iets goedkopers?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Leaves out te: 'Dat is duur. Heeft u iets goedkopers?'",
+          "explain": "'too expensive' is 'te duur'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses goedkoop instead of goedkopers: 'Heeft u iets goedkoop?'",
+          "explain": "After 'iets', use the comparative with -s: 'iets goedkopers'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the adjective before iets: 'Heeft u goedkopers iets?'",
+          "explain": "The order is 'iets goedkopers'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Makes a statement instead of a question: 'U heeft iets goedkopers.'",
+          "explain": "Ask a yes/no question with the verb first: 'Heeft u iets goedkopers?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "In de winkel",
+    "setting": "You are in a second-hand furniture shop. You want a table and a chair for your room.",
+    "partner": {
+      "name": "Mevrouw Jansen",
+      "gender": "f",
+      "role": "shop assistant"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag. Kan ik u helpen?",
+          "en": "Good afternoon. Can I help you?"
+        },
+        "task": "Say that you are looking for a big table.",
+        "examples": [
+          "Ja, ik zoek een grote tafel.",
+          "Goedemiddag. Ik zoek een grote tafel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses no -e with een + de-word: 'Ik zoek een groot tafel.'",
+            "explain": "Tafel is a de-word, so after een the adjective gets -e: 'een grote tafel'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets een: 'Ik zoek grote tafel.'",
+            "explain": "Use 'een' before a singular noun: 'een grote tafel'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the adjective after the noun: 'Ik zoek een tafel grote.'",
+            "explain": "The adjective comes before the noun: 'een grote tafel'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Adds voor before the object: 'Ik zoek voor een grote tafel.'",
+            "explain": "zoeken takes a direct object: 'Ik zoek een grote tafel'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De bruine tafel is niet duur.",
+          "en": "The brown table is not expensive."
+        },
+        "task": "Ask how much the table costs.",
+        "examples": [
+          "Hoeveel kost de tafel?",
+          "Wat kost hij?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the verb at the end: 'Hoeveel de tafel kost?'",
+            "explain": "In a question, the verb comes right after the question word: 'Hoeveel kost de tafel?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses het for de tafel: 'Hoeveel kost het?'",
+            "explain": "De tafel is a de-word; refer to it with 'hij': 'Wat kost hij?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses plural kosten with a singular subject: 'Hoeveel kosten de tafel?'",
+            "explain": "With a singular subject, use 'kost': 'Hoeveel kost de tafel?'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses is instead of kost for price: 'Hoeveel is de tafel?'",
+            "explain": "For price, use 'kosten': 'Hoeveel kost de tafel?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Honderd euro.",
+          "en": "One hundred euros."
+        },
+        "task": "Say that is too expensive and ask if she has something cheaper.",
+        "examples": [
+          "Dat is te duur. Heeft u iets goedkopers?",
+          "Honderd euro is te duur. Heeft u iets goedkopers?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Leaves out te: 'Dat is duur. Heeft u iets goedkopers?'",
+            "explain": "'too expensive' is 'te duur'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses goedkoop instead of goedkopers: 'Heeft u iets goedkoop?'",
+            "explain": "After 'iets', use the comparative with -s: 'iets goedkopers'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the adjective before iets: 'Heeft u goedkopers iets?'",
+            "explain": "The order is 'iets goedkopers'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Makes a statement instead of a question: 'U heeft iets goedkopers.'",
+            "explain": "Ask a yes/no question with the verb first: 'Heeft u iets goedkopers?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja, de witte tafel is negentig euro. Hij is smal en lang.",
+          "en": "Yes, the white table is ninety euros. It is narrow and long."
+        },
+        "task": "Say that the white table is beautiful and that you take it.",
+        "examples": [
+          "De witte tafel is mooi. Ik neem hem.",
+          "Mooi. Ik neem de witte tafel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Leaves -e off the adjective before a de-word: 'De wit tafel is mooi.'",
+            "explain": "Before a de-word, the adjective gets -e: 'de witte tafel' (wit -> witte)."
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds -e after is: 'De witte tafel is mooie.'",
+            "explain": "After the verb, no -e: 'De tafel is mooi.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses het for de tafel: 'Ik neem het.'",
+            "explain": "De tafel is a de-word, so use 'hem': 'Ik neem hem.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses neemt with ik: 'Ik neemt hem.'",
+            "explain": "With ik, the verb is 'neem': 'Ik neem hem.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Prima. Samen is dat negentig euro.",
+          "en": "Fine. That is ninety euros together."
+        },
+        "task": "Pay and say thank you.",
+        "examples": [
+          "Alstublieft. Dank u wel.",
+          "Alstublieft, dank u wel."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses informal alsjeblieft with the shop assistant: 'Alsjeblieft.'",
+            "explain": "With u/mevrouw, use formal 'alstublieft'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses dank je wel instead of dank u wel.",
+            "explain": "With a shop assistant, say 'dank u wel'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets to say thank you: 'Alstublieft.'",
+            "explain": "Say both: 'Alstublieft. Dank u wel.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Dank u wel. Tot ziens!",
+      "en": "Thank you. Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Why is the Netherlands orange?",
+    "text": "The Dutch national colour is orange, but the flag is red, white and blue. The orange comes from the House of Orange-Nassau, the royal family of the Netherlands. On King's Day and at football matches, many Dutch people wear orange. That is why people call the national team 'Oranje'."
+  },
+  "summary": [
+    "Before a noun, an adjective usually gets -e: de rode bank, het grote huis, grote huizen.",
+    "Exception: after een + het-word, there is no -e: een groot huis. But een grote tafel.",
+    "Spelling changes: groot -> grote, wit -> witte, vies -> vieze.",
+    "After the verb is or zijn, the adjective has no -e: De bank is rood.",
+    "Use colours and adjectives to describe furniture and rooms."
+  ]
+}

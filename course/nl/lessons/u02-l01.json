@@ -1,0 +1,1058 @@
+{
+  "id": "u02-l01",
+  "title": "Mijn familie",
+  "subtitle": "Family and possessives",
+  "level": "A1",
+  "intro": "In this lesson you will learn to talk about your family: parents, brothers and sisters, children, and grandparents. You will also learn possessive words like mijn, jouw, zijn and haar, and how to say who someone is. By the end you can show a photo and introduce your family in simple Dutch.",
+  "words": [
+    {
+      "nl": "familie",
+      "en": "family",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de families",
+      "forms": null,
+      "example": {
+        "nl": "Dit is mijn familie.",
+        "en": "This is my family."
+      },
+      "note": "De familie is the wider family; het gezin is the household."
+    },
+    {
+      "nl": "gezin",
+      "en": "household, family unit",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de gezinnen",
+      "forms": null,
+      "example": {
+        "nl": "Dit is ons gezin.",
+        "en": "This is our household."
+      },
+      "note": "The household: parents and children living together."
+    },
+    {
+      "nl": "ouders",
+      "en": "parents",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de ouders",
+      "forms": null,
+      "example": {
+        "nl": "Mijn ouders wonen in Utrecht.",
+        "en": "My parents live in Utrecht."
+      },
+      "note": "Plural only; used for both parents."
+    },
+    {
+      "nl": "vader",
+      "en": "father",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vaders",
+      "forms": null,
+      "example": {
+        "nl": "Mijn vader heet Peter.",
+        "en": "My father is called Peter."
+      },
+      "note": null
+    },
+    {
+      "nl": "moeder",
+      "en": "mother",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de moeders",
+      "forms": null,
+      "example": {
+        "nl": "Mijn moeder heet Anna.",
+        "en": "My mother is called Anna."
+      },
+      "note": null
+    },
+    {
+      "nl": "broer",
+      "en": "brother",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de broers",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een broer.",
+        "en": "I have a brother."
+      },
+      "note": null
+    },
+    {
+      "nl": "zus",
+      "en": "sister",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de zussen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn zus woont in Amsterdam.",
+        "en": "My sister lives in Amsterdam."
+      },
+      "note": null
+    },
+    {
+      "nl": "zoon",
+      "en": "son",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de zonen",
+      "forms": null,
+      "example": {
+        "nl": "Dit is mijn zoon.",
+        "en": "This is my son."
+      },
+      "note": null
+    },
+    {
+      "nl": "dochter",
+      "en": "daughter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de dochters",
+      "forms": null,
+      "example": {
+        "nl": "Dit is mijn dochter.",
+        "en": "This is my daughter."
+      },
+      "note": null
+    },
+    {
+      "nl": "kind",
+      "en": "child",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de kinderen",
+      "forms": null,
+      "example": {
+        "nl": "Het kind is jong.",
+        "en": "The child is young."
+      },
+      "note": null
+    },
+    {
+      "nl": "kinderen",
+      "en": "children",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de kinderen",
+      "forms": null,
+      "example": {
+        "nl": "Wij hebben twee kinderen.",
+        "en": "We have two children."
+      },
+      "note": "Plural of het kind."
+    },
+    {
+      "nl": "man",
+      "en": "man; husband",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de mannen",
+      "forms": null,
+      "example": {
+        "nl": "Dit is mijn man.",
+        "en": "This is my husband."
+      },
+      "note": "Can mean 'man' or 'husband'."
+    },
+    {
+      "nl": "vrouw",
+      "en": "woman; wife",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vrouwen",
+      "forms": null,
+      "example": {
+        "nl": "Dit is mijn vrouw.",
+        "en": "This is my wife."
+      },
+      "note": "Can mean 'woman' or 'wife'."
+    },
+    {
+      "nl": "vriend",
+      "en": "friend; boyfriend",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vrienden",
+      "forms": null,
+      "example": {
+        "nl": "Dit is mijn vriend.",
+        "en": "This is my boyfriend."
+      },
+      "note": "Context decides whether it means friend or boyfriend."
+    },
+    {
+      "nl": "vriendin",
+      "en": "friend; girlfriend",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vriendinnen",
+      "forms": null,
+      "example": {
+        "nl": "Dit is mijn vriendin.",
+        "en": "This is my girlfriend."
+      },
+      "note": "Context decides whether it means friend or girlfriend."
+    },
+    {
+      "nl": "opa",
+      "en": "grandfather, grandpa",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de opa's",
+      "forms": null,
+      "example": {
+        "nl": "Mijn opa is oud.",
+        "en": "My grandfather is old."
+      },
+      "note": null
+    },
+    {
+      "nl": "oma",
+      "en": "grandmother, grandma",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de oma's",
+      "forms": null,
+      "example": {
+        "nl": "Mijn oma woont in Rotterdam.",
+        "en": "My grandmother lives in Rotterdam."
+      },
+      "note": null
+    },
+    {
+      "nl": "oom",
+      "en": "uncle",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de ooms",
+      "forms": null,
+      "example": {
+        "nl": "Mijn oom heet Jan.",
+        "en": "My uncle is called Jan."
+      },
+      "note": null
+    },
+    {
+      "nl": "tante",
+      "en": "aunt",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de tantes",
+      "forms": null,
+      "example": {
+        "nl": "Mijn tante woont in Utrecht.",
+        "en": "My aunt lives in Utrecht."
+      },
+      "note": null
+    },
+    {
+      "nl": "foto",
+      "en": "photo",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de foto's",
+      "forms": null,
+      "example": {
+        "nl": "Dit is een foto.",
+        "en": "This is a photo."
+      },
+      "note": "Plural: de foto's."
+    },
+    {
+      "nl": "getrouwd",
+      "en": "married",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mijn ouders zijn getrouwd.",
+        "en": "My parents are married."
+      },
+      "note": "Used with zijn: Hij is getrouwd."
+    },
+    {
+      "nl": "alleen",
+      "en": "alone",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik woon alleen.",
+        "en": "I live alone."
+      },
+      "note": "In this lesson: alone."
+    },
+    {
+      "nl": "samen",
+      "en": "together",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wij wonen samen.",
+        "en": "We live together."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Dit is mijn familie.",
+      "en": "This is my family.",
+      "note": null
+    },
+    {
+      "nl": "Dat is mijn broer.",
+      "en": "That is my brother.",
+      "note": null
+    },
+    {
+      "nl": "Dit is ons gezin.",
+      "en": "This is our household.",
+      "note": null
+    },
+    {
+      "nl": "Heb je broers of zussen?",
+      "en": "Do you have brothers or sisters?",
+      "note": null
+    },
+    {
+      "nl": "Ik heb een broer en twee zussen.",
+      "en": "I have one brother and two sisters.",
+      "note": null
+    },
+    {
+      "nl": "Mijn ouders zijn getrouwd.",
+      "en": "My parents are married.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben niet getrouwd.",
+      "en": "I am not married.",
+      "note": null
+    },
+    {
+      "nl": "Wij wonen samen.",
+      "en": "We live together.",
+      "note": null
+    },
+    {
+      "nl": "Ik woon alleen.",
+      "en": "I live alone.",
+      "note": null
+    },
+    {
+      "nl": "Hoe heet je zus?",
+      "en": "What is your sister's name?",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Possessive pronouns: mijn, jouw, zijn, haar...",
+      "explanation": "Possessives say who something belongs to: **mijn** vader, **jouw** zus. In informal Dutch, **je** is common instead of **jouw**. **Zijn** means his, **haar** means her, and **hun** means their.",
+      "table": {
+        "headers": [
+          "Person",
+          "Possessive",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "mijn",
+            "mijn vader"
+          ],
+          [
+            "jij",
+            "jouw / je",
+            "jouw zus"
+          ],
+          [
+            "u",
+            "uw",
+            "uw dochter"
+          ],
+          [
+            "hij",
+            "zijn",
+            "zijn broer"
+          ],
+          [
+            "zij",
+            "haar",
+            "haar moeder"
+          ],
+          [
+            "wij",
+            "ons / onze",
+            "ons kind / onze kinderen"
+          ],
+          [
+            "jullie",
+            "jullie",
+            "jullie ouders"
+          ],
+          [
+            "zij (plural)",
+            "hun",
+            "hun kinderen"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Dit is mijn broer.",
+          "en": "This is my brother."
+        },
+        {
+          "nl": "Haar broer heet Daan.",
+          "en": "Her brother is called Daan."
+        },
+        {
+          "nl": "Hun kinderen wonen in Utrecht.",
+          "en": "Their children live in Utrecht."
+        }
+      ],
+      "tip": "Use **je** in everyday speech; **jouw** gives extra emphasis."
+    },
+    {
+      "title": "Ons or onze?",
+      "explanation": "Use **ons** before a singular **het**-word: **ons gezin**. Use **onze** before a **de**-word and before all plurals: **onze familie**, **onze ouders**. The possessive itself does not change for mijn, jouw, zijn or haar.",
+      "table": {
+        "headers": [
+          "Noun",
+          "Type",
+          "Possessive",
+          "Example"
+        ],
+        "rows": [
+          [
+            "het gezin",
+            "het-word, singular",
+            "ons",
+            "ons gezin"
+          ],
+          [
+            "de familie",
+            "de-word, singular",
+            "onze",
+            "onze familie"
+          ],
+          [
+            "de ouders",
+            "plural",
+            "onze",
+            "onze ouders"
+          ],
+          [
+            "de kinderen",
+            "plural",
+            "onze",
+            "onze kinderen"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Dit is ons gezin.",
+          "en": "This is our household."
+        },
+        {
+          "nl": "Dit is onze familie.",
+          "en": "This is our family."
+        },
+        {
+          "nl": "Onze kinderen zijn jong.",
+          "en": "Our children are young."
+        }
+      ],
+      "tip": "Use **ons** only before a singular **het**-word; use **onze** before every **de**-word and before all plurals."
+    },
+    {
+      "title": "Hebben with family",
+      "explanation": "Use **hebben** to say which family members you have. The forms are **ik heb**, **jij hebt**, **u hebt/heeft**, **hij/zij heeft**, **wij/jullie/zij hebben**. In a yes/no question with **je**, use **heb**: **Heb je...?**",
+      "table": {
+        "headers": [
+          "Person",
+          "Form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "heb",
+            "Ik heb een broer."
+          ],
+          [
+            "jij",
+            "hebt",
+            "Jij hebt een zus."
+          ],
+          [
+            "u",
+            "hebt / heeft",
+            "U heeft een dochter."
+          ],
+          [
+            "hij/zij",
+            "heeft",
+            "Zij heeft twee kinderen."
+          ],
+          [
+            "wij/jullie/zij",
+            "hebben",
+            "Wij hebben een gezin."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb een broer en een zus.",
+          "en": "I have a brother and a sister."
+        },
+        {
+          "nl": "Heb je kinderen?",
+          "en": "Do you have children?"
+        },
+        {
+          "nl": "Zij hebben twee kinderen.",
+          "en": "They have two children."
+        }
+      ],
+      "tip": "In a question with **je**: **Heb je...?**, not **Hebt je...?**."
+    }
+  ],
+  "dialogue": {
+    "title": "Foto's op de koffiepauze",
+    "setting": "Sanne shows family photos on her phone to Mark, a new colleague, during the coffee break.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mark",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Mark, dit is mijn familie.",
+        "en": "Mark, this is my family."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Leuk! Is dat je vader?",
+        "en": "Nice! Is that your father?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, dat is mijn vader. En dat is mijn moeder.",
+        "en": "Yes, that is my father. And that is my mother."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "En wie is dat?",
+        "en": "And who is that?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is mijn broer. Hij heet Daan.",
+        "en": "That is my brother. He is called Daan."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Heb je ook zussen?",
+        "en": "Do you also have sisters?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, ik heb een zus. Zij is getrouwd.",
+        "en": "Yes, I have a sister. She is married."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "En heb je kinderen?",
+        "en": "And do you have children?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, een zoon en een dochter. Dit is ons gezin.",
+        "en": "Yes, a son and a daughter. This is our household."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "En je ouders? Wonen zij samen?",
+        "en": "And your parents? Do they live together?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, mijn ouders wonen samen in Utrecht.",
+        "en": "Yes, my parents live together in Utrecht."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Leuk, Sanne. Dank je wel.",
+        "en": "Nice, Sanne. Thank you."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Tot straks!",
+        "en": "See you later!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de vader",
+          "the father"
+        ],
+        [
+          "de moeder",
+          "the mother"
+        ],
+        [
+          "de broer",
+          "the brother"
+        ],
+        [
+          "de zus",
+          "the sister"
+        ],
+        [
+          "de ouders",
+          "the parents"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "mijn broer",
+          "my brother"
+        ],
+        [
+          "jouw zus",
+          "your sister"
+        ],
+        [
+          "zijn vader",
+          "his father"
+        ],
+        [
+          "haar moeder",
+          "her mother"
+        ],
+        [
+          "onze kinderen",
+          "our children"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the possessive meaning 'my'.",
+      "nl": "Dit is ___ zus.",
+      "options": [
+        "mijn",
+        "jouw",
+        "zijn",
+        "haar"
+      ],
+      "answer": 0,
+      "explain": "Mijn means 'my'; the possessive does not change for de- or het-words."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct possessive.",
+      "nl": "Hij is getrouwd. ___ vrouw heet Anna.",
+      "options": [
+        "Zijn",
+        "Haar",
+        "Mijn",
+        "Onze"
+      ],
+      "answer": 0,
+      "explain": "Zijn means his; the sentence is about hij."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct possessive for 'our children'.",
+      "nl": "Wij hebben twee kinderen. ___ kinderen zijn jong.",
+      "options": [
+        "Onze",
+        "Ons",
+        "Mijn",
+        "Jouw"
+      ],
+      "answer": 0,
+      "explain": "Kinderen is plural, so use onze for 'our': 'onze kinderen'."
+    },
+    {
+      "type": "article",
+      "word": "familie",
+      "en": "family",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "gezin",
+      "en": "household, family unit",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "This is my father.",
+      "answer": "Dit is mijn vader.",
+      "accept": [],
+      "extra": [
+        "hebt",
+        "en"
+      ],
+      "explain": "Use 'Dit is...' and the possessive 'mijn' before 'vader': 'Dit is mijn vader.'"
+    },
+    {
+      "type": "build",
+      "en": "She is my sister.",
+      "answer": "Zij is mijn zus.",
+      "accept": [],
+      "extra": [
+        "hebt",
+        "en"
+      ],
+      "explain": "Use 'Zij is...' for a female subject and 'mijn' before 'zus': 'Zij is mijn zus.'"
+    },
+    {
+      "type": "build",
+      "en": "We have two children.",
+      "answer": "Wij hebben twee kinderen.",
+      "accept": [
+        "Twee kinderen hebben wij."
+      ],
+      "extra": [
+        "heeft",
+        "kind"
+      ],
+      "explain": "With 'wij' use 'hebben', and 'kinderen' is the plural of 'kind': 'Wij hebben twee kinderen.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ een broer en een zus.",
+      "en": "I have a brother and a sister.",
+      "answers": [
+        "heb"
+      ],
+      "hint": "hebben (ik-form)",
+      "explain": "With 'ik' use 'heb': 'Ik heb een broer en een zus.'"
+    },
+    {
+      "type": "gap",
+      "text": "Mijn ouders ___ getrouwd.",
+      "en": "My parents are married.",
+      "answers": [
+        "zijn"
+      ],
+      "hint": "zijn (wij/zij-form)",
+      "explain": "'Ouders' is plural, so use 'zijn': 'Mijn ouders zijn getrouwd.'"
+    },
+    {
+      "type": "gap",
+      "text": "Wij wonen met ___ kinderen in Utrecht.",
+      "en": "We live with our children in Utrecht.",
+      "answers": [
+        "onze"
+      ],
+      "hint": "our before plural",
+      "explain": "'Kinderen' is plural, so use 'onze' for 'our': 'onze kinderen'."
+    },
+    {
+      "type": "gap",
+      "text": "Mijn broer ___ Daan.",
+      "en": "My brother is called Daan.",
+      "answers": [
+        "heet"
+      ],
+      "hint": "heten (hij-form)",
+      "explain": "With hij use 'heet': 'Mijn broer heet Daan.'"
+    },
+    {
+      "type": "gap",
+      "text": "Mijn zus ___ in Amsterdam.",
+      "en": "My sister lives in Amsterdam.",
+      "answers": [
+        "woont"
+      ],
+      "hint": "wonen (zij-form)",
+      "explain": "With zij use 'woont': 'Mijn zus woont in Amsterdam.'"
+    },
+    {
+      "type": "translate",
+      "en": "This is my sister.",
+      "answers": [
+        "Dit is mijn zus.",
+        "Dit is mijn zus"
+      ],
+      "focus": "mijn (my) + zus",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'zijn' or 'haar' for 'my' (e.g. 'Dit is zijn zus.')",
+          "explain": "For 'my' use 'mijn': 'Dit is mijn zus.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds 'de' after the possessive (e.g. 'Dit is mijn de zus.')",
+          "explain": "Do not put 'de/het' after a possessive: 'Dit is mijn zus.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the possessive (e.g. 'Dit is zus.')",
+          "explain": "Say 'mijn zus' for 'my sister': 'Dit is mijn zus.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Her brother is called Daan.",
+      "answers": [
+        "Haar broer heet Daan.",
+        "Haar broer heet Daan"
+      ],
+      "focus": "haar (her) + heet",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'zijn' for 'her' (e.g. 'Zijn broer heet Daan.')",
+          "explain": "'Haar' means her: 'Haar broer heet Daan.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'is' instead of 'heet' for a name (e.g. 'Haar broer is Daan.')",
+          "explain": "For someone's name use 'heten': 'Haar broer heet Daan.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'heten' with one person (e.g. 'Haar broer heten Daan.')",
+          "explain": "With one person use 'heet': 'Haar broer heet Daan.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Do you have children?",
+      "answers": [
+        "Heb je kinderen?",
+        "Heb jij kinderen?",
+        "Hebt u kinderen?",
+        "Heeft u kinderen?",
+        "Hebben jullie kinderen?"
+      ],
+      "focus": "hebben in a yes/no question; je/jij and u/je",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'Hebt je...?' with an extra -t (e.g. 'Hebt je kinderen?')",
+          "explain": "In a question with 'je', use 'heb': 'Heb je kinderen?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'hebben' with 'je' (e.g. 'Hebben je kinderen?')",
+          "explain": "With 'je' use 'heb': 'Heb je kinderen?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'een' with plural 'kinderen' (e.g. 'Heb je een kinderen?')",
+          "explain": "Do not use 'een' with a plural: 'Heb je kinderen?'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You show a photo to a colleague. Mark asks: 'Wie is dat?'",
+      "say": {
+        "nl": "Wie is dat?",
+        "en": "Who is that?"
+      },
+      "task": "Say that it is your sister and that she is called Anna.",
+      "examples": [
+        "Dat is mijn zus. Zij heet Anna.",
+        "Dat is mijn zus Anna."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Answers with 'Hij is...' for a sister (e.g. 'Hij is mijn zus.')",
+          "explain": "For a female use 'zij' or repeat the noun: 'Dat is mijn zus.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Forgets the possessive (e.g. 'Dat is zus.')",
+          "explain": "Say 'mijn zus' for 'my sister': 'Dat is mijn zus.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'is' instead of 'heet' for the name (e.g. 'Zij is Anna.')",
+          "explain": "For a name use 'heten': 'Zij heet Anna.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'heten' with one person (e.g. 'Zij heten Anna.')",
+          "explain": "With one person use 'heet': 'Zij heet Anna.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Familiefoto's",
+    "setting": "During the coffee break, you show your new colleague Mark photos of your family. Answer his questions in simple Dutch.",
+    "partner": {
+      "name": "Mark",
+      "gender": "m",
+      "role": "new colleague"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Dit is een leuke foto. Wie is dat?",
+          "en": "This is a nice photo. Who is that?"
+        },
+        "task": "Say that it is your brother and that he is called Daan.",
+        "examples": [
+          "Dat is mijn broer. Hij heet Daan.",
+          "Dat is mijn broer Daan."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits the possessive before 'broer' (e.g. 'Dat is broer.')",
+            "explain": "Say 'mijn broer' for 'my brother': 'Dat is mijn broer.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'is' instead of 'heet' for a name (e.g. 'Hij is Daan.')",
+            "explain": "For a name use 'heten': 'Hij heet Daan.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'heten' with one person (e.g. 'Hij heten Daan.')",
+            "explain": "With one person use 'heet': 'Hij heet Daan.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Heb je ook zussen?",
+          "en": "Do you also have sisters?"
+        },
+        "task": "Say you have one sister and that she is married.",
+        "examples": [
+          "Ja, ik heb een zus. Zij is getrouwd."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'hebben' with 'ik' (e.g. 'Ik hebben een zus.')",
+            "explain": "With 'ik' use 'heb': 'Ik heb een zus.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'heeft' with 'getrouwd' (e.g. 'Zij heeft getrouwd.')",
+            "explain": "Use 'zijn' with 'getrouwd': 'Zij is getrouwd.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'getrouw' instead of 'getrouwd' (e.g. 'Zij is getrouw.')",
+            "explain": "The adjective is 'getrouwd': 'Zij is getrouwd.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En je ouders? Wonen zij samen?",
+          "en": "And your parents? Do they live together?"
+        },
+        "task": "Say that your parents live together in Utrecht.",
+        "examples": [
+          "Ja, mijn ouders wonen samen in Utrecht.",
+          "Ja, zij wonen samen in Utrecht."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses a singular verb with 'ouders' (e.g. 'Mijn ouders woont samen.')",
+            "explain": "'Ouders' is plural, so use 'wonen': 'Mijn ouders wonen samen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts 'samen' before the verb (e.g. 'Mijn ouders samen wonen in Utrecht.')",
+            "explain": "The verb comes second: 'Mijn ouders wonen samen in Utrecht.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the verb at the end (e.g. 'Mijn ouders in Utrecht wonen.')",
+            "explain": "Use the normal word order: 'Mijn ouders wonen in Utrecht.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En heb je kinderen?",
+          "en": "And do you have children?"
+        },
+        "task": "Say that you have a son and a daughter. They are young.",
+        "examples": [
+          "Ja, ik heb een zoon en een dochter. Zij zijn jong.",
+          "Ja, een zoon en een dochter. Zij zijn jong."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'heeft' with 'ik' (e.g. 'Ik heeft een zoon.')",
+            "explain": "With 'ik' use 'heb': 'Ik heb een zoon.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'is' with plural 'zij' (e.g. 'Zij is jong.')",
+            "explain": "With plural 'zij' use 'zijn': 'Zij zijn jong.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets 'een' with singular family members (e.g. 'Ik heb zoon en dochter.')",
+            "explain": "Use 'een' for one person: 'een zoon en een dochter'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Leuk, dank je wel!",
+      "en": "Nice, thank you!"
+    }
+  },
+  "culture": {
+    "title": "Gezin of familie?",
+    "text": "In Dutch, **het gezin** means the household: parents and children living together. **De familie** is the wider family, including grandparents, aunts, uncles and cousins. So **ons gezin** is your own household, while **mijn familie** can be the whole family. Use **gezin** for the people you live with and **familie** for relatives in general."
+  },
+  "summary": [
+    "Mijn, jouw/je, zijn and haar change with the owner, not with the noun.",
+    "Use **ons** with singular **het**-words and **onze** with **de**-words and all plurals.",
+    "Use **hebben** with family: **Ik heb een broer. Heb je zussen?**",
+    "In a question with **je**, use **Heb je...?**; for names use **heet**.",
+    "**Het gezin** is the household; **de familie** is the wider family."
+  ]
+}

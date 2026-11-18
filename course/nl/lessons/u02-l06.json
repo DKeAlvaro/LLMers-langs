@@ -1,0 +1,1116 @@
+{
+  "id": "u02-l06",
+  "title": "Niet of geen?",
+  "subtitle": "Saying no",
+  "level": "A1",
+  "intro": "In this lesson you learn to make negative sentences in Dutch. You will choose correctly between geen and niet, talk about habits you do not have, and refuse something politely with Nee, dank je.",
+  "words": [
+    {
+      "nl": "niet",
+      "en": "not",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik werk niet.",
+        "en": "I don't work."
+      },
+      "note": "Niet negates verbs, adjectives, names and specific things, including de/het words."
+    },
+    {
+      "nl": "geen",
+      "en": "no, not any",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb geen auto.",
+        "en": "I don't have a car."
+      },
+      "note": "Geen replaces een or no article before an indefinite noun: een auto becomes geen auto."
+    },
+    {
+      "nl": "niemand",
+      "en": "nobody",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Niemand rookt.",
+        "en": "Nobody smokes."
+      },
+      "note": "Only for people."
+    },
+    {
+      "nl": "niets",
+      "en": "nothing",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik doe niets.",
+        "en": "I do nothing."
+      },
+      "note": "Only for things."
+    },
+    {
+      "nl": "nooit",
+      "en": "never",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik rook nooit.",
+        "en": "I never smoke."
+      },
+      "note": "It answers the question hoe vaak? (how often?)."
+    },
+    {
+      "nl": "nog niet",
+      "en": "not yet",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben nog niet moe.",
+        "en": "I am not tired yet."
+      },
+      "note": "Nog means still or yet; together with niet it means not yet."
+    },
+    {
+      "nl": "auto",
+      "en": "car",
+      "pos": "noun",
+      "article": "de",
+      "plural": "auto's",
+      "forms": null,
+      "example": {
+        "nl": "De auto is duur.",
+        "en": "The car is expensive."
+      },
+      "note": null
+    },
+    {
+      "nl": "fiets",
+      "en": "bicycle",
+      "pos": "noun",
+      "article": "de",
+      "plural": "fietsen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn fiets is oud.",
+        "en": "My bike is old."
+      },
+      "note": "The Netherlands is a real cycling country."
+    },
+    {
+      "nl": "huisdier",
+      "en": "pet",
+      "pos": "noun",
+      "article": "het",
+      "plural": "huisdieren",
+      "forms": null,
+      "example": {
+        "nl": "Wij hebben een huisdier.",
+        "en": "We have a pet."
+      },
+      "note": "A het-word: het huisdier."
+    },
+    {
+      "nl": "hond",
+      "en": "dog",
+      "pos": "noun",
+      "article": "de",
+      "plural": "honden",
+      "forms": null,
+      "example": {
+        "nl": "De hond heet Max.",
+        "en": "The dog is called Max."
+      },
+      "note": null
+    },
+    {
+      "nl": "kat",
+      "en": "cat",
+      "pos": "noun",
+      "article": "de",
+      "plural": "katten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een kat.",
+        "en": "I have a cat."
+      },
+      "note": null
+    },
+    {
+      "nl": "huisgenoot",
+      "en": "flatmate, housemate",
+      "pos": "noun",
+      "article": "de",
+      "plural": "huisgenoten",
+      "forms": null,
+      "example": {
+        "nl": "Mijn huisgenoot heet Daan.",
+        "en": "My flatmate is called Daan."
+      },
+      "note": "Someone you share a house with."
+    },
+    {
+      "nl": "roken",
+      "en": "to smoke",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik rook, jij rookt, wij roken",
+      "example": {
+        "nl": "Rook jij?",
+        "en": "Do you smoke?"
+      },
+      "note": "Smoking is banned in many Dutch cafés and on trains."
+    },
+    {
+      "nl": "houden van",
+      "en": "to love, to like",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik houd van / ik hou van, jij houdt van, wij houden van",
+      "example": {
+        "nl": "Ik houd van koffie.",
+        "en": "I love coffee."
+      },
+      "note": "Ik hou van is more common in speech; both are correct."
+    },
+    {
+      "nl": "wandelen",
+      "en": "to walk",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik wandel, jij wandelt, wij wandelen",
+      "example": {
+        "nl": "Ik wandel graag.",
+        "en": "I like walking."
+      },
+      "note": "Walking for pleasure, not to get somewhere fast."
+    },
+    {
+      "nl": "lezen",
+      "en": "to read",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik lees, jij leest, wij lezen",
+      "example": {
+        "nl": "Ik lees een boek.",
+        "en": "I am reading a book."
+      },
+      "note": null
+    },
+    {
+      "nl": "lekker",
+      "en": "tasty, nice",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De koffie is lekker.",
+        "en": "The coffee is tasty."
+      },
+      "note": "Use lekker mainly for food and drinks."
+    },
+    {
+      "nl": "leuk",
+      "en": "fun, nice",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het werk is leuk.",
+        "en": "The work is fun."
+      },
+      "note": "Leuk is a very common word in Dutch."
+    },
+    {
+      "nl": "saai",
+      "en": "boring",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mijn werk is saai.",
+        "en": "My work is boring."
+      },
+      "note": null
+    },
+    {
+      "nl": "moe",
+      "en": "tired",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben moe.",
+        "en": "I am tired."
+      },
+      "note": "Dutch says ik ben moe, not ik heb moe."
+    },
+    {
+      "nl": "druk",
+      "en": "busy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben druk.",
+        "en": "I am busy."
+      },
+      "note": null
+    },
+    {
+      "nl": "sportschool",
+      "en": "gym",
+      "pos": "noun",
+      "article": "de",
+      "plural": "sportscholen",
+      "forms": null,
+      "example": {
+        "nl": "Ik ben in de sportschool.",
+        "en": "I am at the gym."
+      },
+      "note": null
+    },
+    {
+      "nl": "boek",
+      "en": "book",
+      "pos": "noun",
+      "article": "het",
+      "plural": "boeken",
+      "forms": null,
+      "example": {
+        "nl": "Het boek is leuk.",
+        "en": "The book is nice."
+      },
+      "note": null
+    },
+    {
+      "nl": "televisie",
+      "en": "television",
+      "pos": "noun",
+      "article": "de",
+      "plural": "televisies",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een televisie.",
+        "en": "I have a television."
+      },
+      "note": "Many people also say de tv."
+    },
+    {
+      "nl": "welkom",
+      "en": "welcome",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Welkom, huisgenoot!",
+        "en": "Welcome, flatmate!"
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Nee, dank je.",
+      "en": "No, thank you.",
+      "note": "The normal polite refusal for friends, colleagues and family."
+    },
+    {
+      "nl": "Nee, dank u wel.",
+      "en": "No, thank you.",
+      "note": "Formal: use u with strangers, older people and in shops."
+    },
+    {
+      "nl": "Ik houd niet van koffie.",
+      "en": "I don't like coffee.",
+      "note": "Ik hou niet van is more common in speech."
+    },
+    {
+      "nl": "Ik heb geen hond.",
+      "en": "I don't have a dog.",
+      "note": null
+    },
+    {
+      "nl": "Ik rook niet.",
+      "en": "I don't smoke.",
+      "note": "A complete answer; no excuse needed."
+    },
+    {
+      "nl": "Ik werk vandaag niet.",
+      "en": "I'm not working today.",
+      "note": "Niet comes at the end of the sentence."
+    },
+    {
+      "nl": "Ik heb nog geen fiets.",
+      "en": "I don't have a bike yet.",
+      "note": "Nog geen = not ... yet before a noun."
+    },
+    {
+      "nl": "Geen probleem.",
+      "en": "No problem.",
+      "note": "Very common and friendly."
+    },
+    {
+      "nl": "Dat is niet erg.",
+      "en": "That's not a problem.",
+      "note": "A friendly answer when someone apologises."
+    },
+    {
+      "nl": "Ik ook niet.",
+      "en": "Me neither.",
+      "note": "Agree with a negative: Ik rook niet. — Ik ook niet."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "geen: not a, not any",
+      "explanation": "Use **geen** before an indefinite noun to say not a or not any. **een** becomes **geen**: Ik heb **een** auto becomes Ik heb **geen** auto. If the positive noun has no article (plural or uncountable), you also use **geen**: Wij hebben kinderen becomes Wij hebben **geen** kinderen.",
+      "table": {
+        "headers": [
+          "Positive",
+          "Negative"
+        ],
+        "rows": [
+          [
+            "Ik heb een hond.",
+            "Ik heb geen hond."
+          ],
+          [
+            "Wij hebben een auto.",
+            "Wij hebben geen auto."
+          ],
+          [
+            "Wij hebben kinderen.",
+            "Wij hebben geen kinderen."
+          ],
+          [
+            "Zij spreken Engels.",
+            "Zij spreken geen Engels."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb geen fiets.",
+          "en": "I don't have a bike."
+        },
+        {
+          "nl": "Wij hebben geen huisdier.",
+          "en": "We don't have a pet."
+        },
+        {
+          "nl": "Sanne heeft geen kat.",
+          "en": "Sanne doesn't have a cat."
+        }
+      ],
+      "tip": "Think: **een** or no article before a noun goes to **geen**. If the positive sentence has **een** or no article, the negative uses **geen**."
+    },
+    {
+      "title": "niet: not",
+      "explanation": "**niet** makes verbs, adjectives and names negative. It comes after the finite verb: Ik werk **niet**. Het is **niet** duur. With a specific thing, use **niet** too: Dat is **niet** mijn fiets. Dat is **niet** de bus.",
+      "table": {
+        "headers": [
+          "Positive",
+          "Negative"
+        ],
+        "rows": [
+          [
+            "Ik rook.",
+            "Ik rook niet."
+          ],
+          [
+            "Het is duur.",
+            "Het is niet duur."
+          ],
+          [
+            "Wij wonen in Utrecht.",
+            "Wij wonen niet in Utrecht."
+          ],
+          [
+            "Dat is mijn fiets.",
+            "Dat is niet mijn fiets."
+          ],
+          [
+            "Dat is de bus.",
+            "Dat is niet de bus."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik werk niet.",
+          "en": "I don't work."
+        },
+        {
+          "nl": "Het is niet leuk.",
+          "en": "It is not nice."
+        },
+        {
+          "nl": "Mijn auto is niet oud.",
+          "en": "My car is not old."
+        }
+      ],
+      "tip": "Geen before an indefinite noun; niet for verbs, adjectives, names and specific nouns."
+    },
+    {
+      "title": "Where does niet go?",
+      "explanation": "In a short sentence **niet** usually comes at the end: Ik rook **niet**. Before an adjective or a place it comes earlier: Het is **niet** duur. Ik woon **niet** in Amsterdam. **Geen** always comes directly before an indefinite noun: Ik heb **geen** auto.",
+      "table": {
+        "headers": [
+          "Where",
+          "Example"
+        ],
+        "rows": [
+          [
+            "at the end",
+            "Ik rook niet."
+          ],
+          [
+            "before an adjective",
+            "Het is niet duur."
+          ],
+          [
+            "before a place",
+            "Ik woon niet in Amsterdam."
+          ],
+          [
+            "before an indefinite noun: use geen",
+            "Ik heb geen auto."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben niet moe.",
+          "en": "I am not tired."
+        },
+        {
+          "nl": "Wij wandelen niet in de stad.",
+          "en": "We don't walk in the city."
+        },
+        {
+          "nl": "Hij heeft geen televisie.",
+          "en": "He doesn't have a television."
+        }
+      ],
+      "tip": "Short rule: **geen** with an indefinite noun, **niet** with everything else. Put **niet** as late as possible, but before adjectives and places."
+    }
+  ],
+  "dialogue": {
+    "title": "De vragen van Sanne",
+    "setting": "Sanne asks Daan a few friendly questions about his habits before he moves in.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi! Ik ben Sanne.",
+        "en": "Hi! I'm Sanne."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Hoi Sanne! Ik ben Daan. Aangenaam.",
+        "en": "Hi Sanne! I'm Daan. Nice to meet you."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik heb een vraag. Heb je een huisdier?",
+        "en": "I have a question. Do you have a pet?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, ik heb een kat. Ik heb geen hond.",
+        "en": "Yes, I have a cat. I don't have a dog."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Rook je?",
+        "en": "Do you smoke?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Nee, ik rook niet.",
+        "en": "No, I don't smoke."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Heb je een fiets?",
+        "en": "Do you have a bike?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Nee, ik heb nog geen fiets, maar ik heb een auto.",
+        "en": "No, I don't have a bike yet, but I have a car."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wat doe je graag?",
+        "en": "What do you like doing?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ik lees graag. Ik wandel ook graag. Ik houd niet van televisie.",
+        "en": "I like reading. I also like walking. I don't like television."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik ook niet. Welkom, huisgenoot!",
+        "en": "Me neither. Welcome, flatmate!"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Dank je wel!",
+        "en": "Thank you!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "niet",
+          "not"
+        ],
+        [
+          "geen",
+          "no / not any"
+        ],
+        [
+          "niemand",
+          "nobody"
+        ],
+        [
+          "nooit",
+          "never"
+        ],
+        [
+          "moe",
+          "tired"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de hond",
+          "dog"
+        ],
+        [
+          "de kat",
+          "cat"
+        ],
+        [
+          "de fiets",
+          "bicycle"
+        ],
+        [
+          "het huisdier",
+          "pet"
+        ],
+        [
+          "de auto",
+          "car"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Ik heb ___ hond.",
+      "options": [
+        "geen",
+        "niet",
+        "niets"
+      ],
+      "answer": 0,
+      "explain": "Geen comes before a noun: geen hond."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Ik rook ___.",
+      "options": [
+        "niet",
+        "geen",
+        "niemand"
+      ],
+      "answer": 0,
+      "explain": "Niet negates the verb rook."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word.",
+      "nl": "Het is ___ duur.",
+      "options": [
+        "niet",
+        "geen",
+        "niets"
+      ],
+      "answer": 0,
+      "explain": "Niet comes before the adjective duur."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the word that means never.",
+      "nl": "Zij rookt ___.",
+      "options": [
+        "nooit",
+        "niet",
+        "niets"
+      ],
+      "answer": 0,
+      "explain": "Nooit means never and answers the question hoe vaak? (how often?)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the word that means nobody.",
+      "nl": "___ komt.",
+      "options": [
+        "Niemand",
+        "Niet",
+        "Geen"
+      ],
+      "answer": 0,
+      "explain": "Niemand means nobody and can be the subject of the sentence."
+    },
+    {
+      "type": "article",
+      "word": "huisdier",
+      "en": "pet",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "fiets",
+      "en": "bicycle",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I don't have a dog.",
+      "answer": "Ik heb geen hond.",
+      "accept": [],
+      "extra": [
+        "niet",
+        "een"
+      ],
+      "explain": "Use geen before an indefinite noun: geen hond. Do not use niet before the noun here."
+    },
+    {
+      "type": "build",
+      "en": "I don't smoke.",
+      "answer": "Ik rook niet.",
+      "accept": [],
+      "extra": [
+        "geen",
+        "niets"
+      ],
+      "explain": "Use niet to negate the verb: Ik rook niet. Geen needs a noun after it."
+    },
+    {
+      "type": "build",
+      "en": "We don't have a pet.",
+      "answer": "Wij hebben geen huisdier.",
+      "accept": [],
+      "extra": [
+        "niet",
+        "een"
+      ],
+      "explain": "Use geen before an indefinite noun: geen huisdier. Do not use niet before the noun here."
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb ___ fiets.",
+      "en": "I don't have a bike.",
+      "answers": [
+        "geen"
+      ],
+      "hint": "no",
+      "explain": "Use geen before an indefinite noun: geen fiets."
+    },
+    {
+      "type": "gap",
+      "text": "Zij woont ___ in Utrecht.",
+      "en": "She doesn't live in Utrecht.",
+      "answers": [
+        "niet"
+      ],
+      "hint": "not",
+      "explain": "Use niet to negate the place: Zij woont niet in Utrecht."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ben nog ___ moe.",
+      "en": "I am not tired yet.",
+      "answers": [
+        "niet"
+      ],
+      "hint": "not",
+      "explain": "Use niet after nog: nog niet moe means not tired yet."
+    },
+    {
+      "type": "translate",
+      "en": "I don't work today.",
+      "answers": [
+        "Ik werk vandaag niet.",
+        "Ik werk niet vandaag.",
+        "Vandaag werk ik niet."
+      ],
+      "focus": "position of niet",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts niet before the verb: 'Ik niet werk vandaag.'",
+          "explain": "Put 'niet' after the verb: 'Ik werk vandaag niet.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses geen with a time word: 'Ik werk geen vandaag.'",
+          "explain": "Use 'niet', not 'geen', with time words: 'Ik werk vandaag niet.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Starts with Vandaag but keeps the subject before the verb: 'Vandaag ik werk niet.'",
+          "explain": "After 'Vandaag' the verb comes first: 'Vandaag werk ik niet.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets niet: 'Ik werk vandaag.'",
+          "explain": "Add 'niet' to make the sentence negative: 'Ik werk vandaag niet.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "We don't have a pet.",
+      "answers": [
+        "Wij hebben geen huisdier.",
+        "We hebben geen huisdier."
+      ],
+      "focus": "geen before a noun",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses niet before the noun: 'Wij hebben niet huisdier.' or 'Wij hebben niet een huisdier.'",
+          "explain": "Use 'geen' before an indefinite noun: 'Wij hebben geen huisdier.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts geen after the noun: 'Wij hebben huisdier geen.'",
+          "explain": "'Geen' comes directly before the noun: 'Wij hebben geen huisdier.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Forgets the negative word: 'Wij hebben een huisdier.'",
+          "explain": "Add 'geen' to make the sentence negative: 'Wij hebben geen huisdier.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I don't like coffee.",
+      "answers": [
+        "Ik houd niet van koffie.",
+        "Ik hou niet van koffie."
+      ],
+      "focus": "niet with houden van",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses geen with houden van: 'Ik houd geen van koffie.'",
+          "explain": "'Houden van' takes 'niet': 'Ik houd niet van koffie.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts niet after van: 'Ik houd van niet koffie.'",
+          "explain": "'Niet' comes before 'van': 'Ik houd niet van koffie.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts niet before the verb: 'Ik niet houd van koffie.'",
+          "explain": "Put 'niet' after the verb: 'Ik houd niet van koffie.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts niet after the noun: 'Ik houd van koffie niet.'",
+          "explain": "Put 'niet' before 'van', not at the end: 'Ik houd niet van koffie.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik heb geen hond.",
+      "en": "I don't have a dog."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik houd niet van televisie.",
+      "en": "I don't like television."
+    },
+    {
+      "type": "reply",
+      "context": "Sanne offers you coffee.",
+      "say": {
+        "nl": "Wil je koffie?",
+        "en": "Do you want coffee?"
+      },
+      "task": "Say no politely.",
+      "examples": [
+        "Nee, dank je.",
+        "Nee, dank je wel.",
+        "Nee, dank je. Ik wil geen koffie."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses niet as a standalone no: 'Niet, dank je.'",
+          "explain": "Start with 'Nee, dank je.' 'Niet' negates a verb or adjective, not an offer."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses geen as a standalone no: 'Geen, dank je.'",
+          "explain": "Start with 'Nee, dank je.' Use 'geen' only before an indefinite noun."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses niet before a noun: 'Nee, dank je. Ik wil niet koffie.'",
+          "explain": "Use 'geen' before an indefinite noun: 'Ik wil geen koffie.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Sanne asks about pets in your house.",
+      "say": {
+        "nl": "Heb je een huisdier?",
+        "en": "Do you have a pet?"
+      },
+      "task": "Say you have a cat and no dog.",
+      "examples": [
+        "Ja, ik heb een kat. Ik heb geen hond.",
+        "Ik heb een kat, geen hond.",
+        "Nee, geen hond. Ik heb een kat."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses niet before the noun hond: 'Ik heb een kat. Ik heb niet een hond.'",
+          "explain": "Use 'geen' before an indefinite noun: 'Ik heb geen hond.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses geen for the positive cat: 'Ik heb geen kat. Ik heb geen hond.'",
+          "explain": "Use 'een' for the cat: 'Ik heb een kat.' Use 'geen' only for the dog."
+        },
+        {
+          "id": "m3",
+          "pattern": "Forgets the article with kat: 'Ik heb kat.'",
+          "explain": "Use 'een' before a singular indefinite noun: 'Ik heb een kat.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "De vragen van Sanne",
+    "setting": "You are the new flatmate. Sanne asks about your habits before you move in. Answer honestly and politely.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "your friendly new flatmate"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Heb je een huisdier?",
+          "en": "Do you have a pet?"
+        },
+        "task": "Say you have a cat and no dog.",
+        "examples": [
+          "Ja, ik heb een kat. Ik heb geen hond.",
+          "Ik heb een kat, geen hond.",
+          "Nee, geen hond. Ik heb een kat."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses niet before the noun hond: 'Ik heb een kat. Ik heb niet een hond.'",
+            "explain": "Use 'geen' before an indefinite noun: 'Ik heb geen hond.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses geen for the positive cat: 'Ik heb geen kat. Ik heb geen hond.'",
+            "explain": "Use 'een' for the cat: 'Ik heb een kat.' Use 'geen' only for the dog."
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets the article with kat: 'Ik heb kat.'",
+            "explain": "Use 'een' before a singular indefinite noun: 'Ik heb een kat.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Rook je?",
+          "en": "Do you smoke?"
+        },
+        "task": "Say no politely, with thank you.",
+        "examples": [
+          "Nee, dank je. Ik rook niet.",
+          "Nee, dank je wel. Ik rook niet.",
+          "Nee, ik rook niet, dank je."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses geen with the verb roken: 'Nee, dank je. Ik rook geen.'",
+            "explain": "Use 'niet' with a verb: 'Ik rook niet.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses Niet instead of Nee as the answer: 'Niet, dank je. Ik rook niet.'",
+            "explain": "Start with 'Nee, dank je.' Use 'niet' later in the sentence."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses niets for not: 'Nee, dank je. Ik rook niets.'",
+            "explain": "Use 'niet' to negate 'roken': 'Ik rook niet.' 'Niets' means nothing."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Heb je een fiets?",
+          "en": "Do you have a bike?"
+        },
+        "task": "Say you don't have a bike yet, but you have a car.",
+        "examples": [
+          "Nee, ik heb nog geen fiets. Ik heb een auto.",
+          "Ik heb nog geen fiets, maar ik heb een auto.",
+          "Nee, nog geen fiets. Ik heb een auto."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses nog niet before the noun fiets: 'Ik heb nog niet fiets.'",
+            "explain": "Use 'nog geen' before an indefinite noun: 'Ik heb nog geen fiets.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts nog after geen: 'Ik heb geen nog fiets.'",
+            "explain": "The order is 'nog geen': 'Ik heb nog geen fiets.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses geen for the positive car: 'Ik heb geen auto.'",
+            "explain": "Use 'een' for the car: 'Ik heb een auto.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat doe je graag?",
+          "en": "What do you like doing?"
+        },
+        "task": "Say what you like and what you don't like.",
+        "examples": [
+          "Ik lees graag en ik wandel graag. Ik houd niet van televisie.",
+          "Ik lees graag. Ik houd niet van televisie.",
+          "Ik wandel graag. Ik houd niet van televisie."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses geen with houden van: 'Ik houd geen van televisie.'",
+            "explain": "'Houden van' takes 'niet': 'Ik houd niet van televisie.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts niet after van: 'Ik houd van niet televisie.'",
+            "explain": "'Niet' comes before 'van': 'Ik houd niet van televisie.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts niet before the verb: 'Ik niet houd van televisie.'",
+            "explain": "Put 'niet' after the verb: 'Ik houd niet van televisie.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ben je druk?",
+          "en": "Are you busy?"
+        },
+        "task": "Say you are busy and tired in the evening.",
+        "examples": [
+          "Ja, ik ben druk. Ik ben 's avonds moe.",
+          "Ja, ik ben druk en ik ben 's avonds moe.",
+          "Ja, ik ben druk. 's Avonds ben ik moe."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses hebben with druk: 'Ik heb druk.'",
+            "explain": "Use 'zijn' with 'druk': 'Ik ben druk.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses hebben with moe: 'Ik heb 's avonds moe.'",
+            "explain": "Use 'zijn' with 'moe': 'Ik ben 's avonds moe.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts 's avonds after moe: 'Ik ben moe 's avonds.'",
+            "explain": "Put the time word before 'moe': 'Ik ben 's avonds moe.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Welkom, huisgenoot!",
+      "en": "Welcome, flatmate!"
+    }
+  },
+  "culture": {
+    "title": "Nee is not rude",
+    "text": "In the Netherlands a clear nee is normal and polite. If someone offers you coffee or a biscuit, Nee, dank je is a complete and friendly answer; you do not need a long excuse. Dutch people often say no directly, and that is not unfriendly. A smile plus Nee, dank je wel is enough."
+  },
+  "summary": [
+    "Use geen before an indefinite noun: Ik heb geen auto. Een becomes geen.",
+    "Use niet for verbs, adjectives, names and specific things: Ik rook niet, Het is niet duur, Dat is niet mijn fiets.",
+    "Niet comes late in the sentence, but before adjectives and places: Ik woon niet in Amsterdam.",
+    "Niemand, niets and nooit mean nobody, nothing and never.",
+    "Refuse politely with Nee, dank je (wel) — short and completely normal in Dutch."
+  ]
+}

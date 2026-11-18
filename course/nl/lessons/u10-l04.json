@@ -1,0 +1,1110 @@
+{
+  "id": "u10-l04",
+  "title": "Hoe was je reis?",
+  "subtitle": "Telling about a trip",
+  "level": "A2",
+  "intro": "You can tell a longer story about a trip: where you went, what you did and how it was. You learn to open with the perfect tense and switch to the simple past for details. You also practise linking words like eerst, daarna and aan het eind.",
+  "words": [
+    {
+      "nl": "reis",
+      "en": "trip, journey",
+      "pos": "noun",
+      "article": "de",
+      "plural": "reizen",
+      "forms": null,
+      "example": {
+        "nl": "Hoe was je reis naar Portugal?",
+        "en": "How was your trip to Portugal?"
+      },
+      "note": "De reis is the whole trip; de reizen is the plural."
+    },
+    {
+      "nl": "uitzicht",
+      "en": "the view",
+      "pos": "noun",
+      "article": "het",
+      "plural": "uitzichten",
+      "forms": null,
+      "example": {
+        "nl": "Het uitzicht op de zee was prachtig.",
+        "en": "The view of the sea was beautiful."
+      },
+      "note": "Use het uitzicht op ... for a view of something."
+    },
+    {
+      "nl": "stad",
+      "en": "city, town",
+      "pos": "noun",
+      "article": "de",
+      "plural": "steden",
+      "forms": null,
+      "example": {
+        "nl": "Lissabon is een mooie stad.",
+        "en": "Lisbon is a beautiful city."
+      },
+      "note": null
+    },
+    {
+      "nl": "dorp",
+      "en": "village",
+      "pos": "noun",
+      "article": "het",
+      "plural": "dorpen",
+      "forms": null,
+      "example": {
+        "nl": "We hebben een klein dorp bezocht.",
+        "en": "We visited a small village."
+      },
+      "note": null
+    },
+    {
+      "nl": "eten",
+      "en": "the food",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het eten in Portugal was heel lekker.",
+        "en": "The food in Portugal was very tasty."
+      },
+      "note": "Het eten is uncountable; there is no plural."
+    },
+    {
+      "nl": "mensen",
+      "en": "people",
+      "pos": "noun",
+      "article": "de",
+      "plural": "mensen",
+      "forms": null,
+      "example": {
+        "nl": "De mensen in het dorp waren heel leuk.",
+        "en": "The people in the village were very nice."
+      },
+      "note": "Plural only: de mensen."
+    },
+    {
+      "nl": "cultuur",
+      "en": "culture",
+      "pos": "noun",
+      "article": "de",
+      "plural": "culturen",
+      "forms": null,
+      "example": {
+        "nl": "De cultuur in Portugal is anders.",
+        "en": "The culture in Portugal is different."
+      },
+      "note": null
+    },
+    {
+      "nl": "weer",
+      "en": "the weather",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het weer was heel warm.",
+        "en": "The weather was very warm."
+      },
+      "note": "Het weer is uncountable."
+    },
+    {
+      "nl": "geweldig",
+      "en": "fantastic, great",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De reis was geweldig!",
+        "en": "The trip was fantastic!"
+      },
+      "note": "Stronger than leuk or mooi."
+    },
+    {
+      "nl": "prachtig",
+      "en": "beautiful, gorgeous",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het uitzicht was prachtig.",
+        "en": "The view was beautiful."
+      },
+      "note": "Often used for views, nature and art."
+    },
+    {
+      "nl": "tegenvallen",
+      "en": "to be worse than expected, to disappoint",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het valt tegen, het viel tegen, het is tegengevallen",
+      "example": {
+        "nl": "Het eten viel tegen.",
+        "en": "The food was disappointing."
+      },
+      "note": "Often used with a thing as subject: Het eten viel tegen."
+    },
+    {
+      "nl": "meevallen",
+      "en": "to be better than expected",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "het valt mee, het viel mee, het is meegevallen",
+      "example": {
+        "nl": "Het weer viel mee.",
+        "en": "The weather was better than expected."
+      },
+      "note": "Meevallen is the opposite of tegenvallen."
+    },
+    {
+      "nl": "verdwalen",
+      "en": "to get lost",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verdwaal, jij verdwaalt, wij verdwalen, (is verdwaald)",
+      "example": {
+        "nl": "We zijn in de stad verdwaald.",
+        "en": "We got lost in the city."
+      },
+      "note": "Perfect with zijn: We zijn verdwaald."
+    },
+    {
+      "nl": "ontdekken",
+      "en": "to discover",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ontdek, jij ontdekt, wij ontdekken, (heeft ontdekt)",
+      "example": {
+        "nl": "We hebben een mooi dorp ontdekt.",
+        "en": "We discovered a beautiful village."
+      },
+      "note": null
+    },
+    {
+      "nl": "bezoeken",
+      "en": "to visit",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bezoek, jij bezoekt, wij bezoeken, (heeft bezocht)",
+      "example": {
+        "nl": "We hebben Porto bezocht.",
+        "en": "We visited Porto."
+      },
+      "note": "Bezoeken is a little more formal than gaan naar."
+    },
+    {
+      "nl": "bewonderen",
+      "en": "to admire",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bewonder, jij bewondert, wij bewonderen, (heeft bewonderd)",
+      "example": {
+        "nl": "We hebben het uitzicht bewonderd.",
+        "en": "We admired the view."
+      },
+      "note": null
+    },
+    {
+      "nl": "foto",
+      "en": "photo",
+      "pos": "noun",
+      "article": "de",
+      "plural": "foto's",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb veel foto's gemaakt.",
+        "en": "I took a lot of photos."
+      },
+      "note": "The plural is foto's, not fotoen."
+    },
+    {
+      "nl": "souvenir",
+      "en": "souvenir",
+      "pos": "noun",
+      "article": "de",
+      "plural": "souvenirs",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een souvenir voor mijn moeder gekocht.",
+        "en": "I bought a souvenir for my mother."
+      },
+      "note": null
+    },
+    {
+      "nl": "herinnering",
+      "en": "memory",
+      "pos": "noun",
+      "article": "de",
+      "plural": "herinneringen",
+      "forms": null,
+      "example": {
+        "nl": "Dat is een mooie herinnering.",
+        "en": "That is a nice memory."
+      },
+      "note": "From zich herinneren (to remember)."
+    },
+    {
+      "nl": "eerst",
+      "en": "first",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Eerst zijn we naar Lissabon gegaan.",
+        "en": "First we went to Lisbon."
+      },
+      "note": "Eerst ... daarna ... structures your story."
+    },
+    {
+      "nl": "daarna",
+      "en": "after that",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Daarna hebben we Porto bezocht.",
+        "en": "After that we visited Porto."
+      },
+      "note": null
+    },
+    {
+      "nl": "toen",
+      "en": "then, at that moment",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Toen kwamen we bij een klein dorp.",
+        "en": "Then we came to a small village."
+      },
+      "note": "Toen is for one moment in the past; daarna is for the next step."
+    },
+    {
+      "nl": "later",
+      "en": "later",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Later zijn we naar het strand gegaan.",
+        "en": "Later we went to the beach."
+      },
+      "note": null
+    },
+    {
+      "nl": "aan het eind",
+      "en": "at the end",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Aan het eind waren we heel moe.",
+        "en": "At the end we were very tired."
+      },
+      "note": "Use it for the last part of your story."
+    },
+    {
+      "nl": "de volgende dag",
+      "en": "the next day",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De volgende dag was het weer beter.",
+        "en": "The next day the weather was better."
+      },
+      "note": "Volgende means next; de dag means the day."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hoe was je reis?",
+      "en": "How was your trip?",
+      "note": null
+    },
+    {
+      "nl": "We zijn naar Portugal geweest.",
+      "en": "We went to Portugal.",
+      "note": "This opens the story in the perfect."
+    },
+    {
+      "nl": "Het was geweldig.",
+      "en": "It was fantastic.",
+      "note": null
+    },
+    {
+      "nl": "Het viel mee.",
+      "en": "It was better than expected.",
+      "note": "Use it when something was not as bad as you thought."
+    },
+    {
+      "nl": "We zijn verdwaald.",
+      "en": "We got lost.",
+      "note": "Perfect with zijn."
+    },
+    {
+      "nl": "Eerst ... daarna ...",
+      "en": "First ... after that ...",
+      "note": "Use these to order the story."
+    },
+    {
+      "nl": "De volgende dag zijn we naar het strand gegaan.",
+      "en": "The next day we went to the beach.",
+      "note": null
+    },
+    {
+      "nl": "Aan het eind waren we heel moe.",
+      "en": "At the end we were very tired.",
+      "note": null
+    },
+    {
+      "nl": "Dat is een mooie herinnering.",
+      "en": "That is a nice memory.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Perfect to open, simple past for details",
+      "explanation": "Start your story with the **perfect**: **We zijn naar Portugal geweest.** This says what happened. Then use the **simple past** for background and details: **Het was heel warm. We gingen elke dag naar het strand.** The simple past describes how things were and what happened around you. You can mix the two in one story.",
+      "table": {
+        "headers": [
+          "Part of the story",
+          "Tense",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Opening",
+            "perfect",
+            "We zijn naar Portugal geweest."
+          ],
+          [
+            "Background and details",
+            "simple past",
+            "Het was heel warm. We gingen elke dag naar het strand."
+          ],
+          [
+            "A moment in the story",
+            "simple past",
+            "Toen kwamen we bij een klein dorp."
+          ],
+          [
+            "Ending",
+            "perfect or simple past",
+            "Aan het eind zijn we naar huis gegaan."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "We zijn naar Portugal geweest. Het was heel warm.",
+          "en": "We went to Portugal. It was very warm."
+        },
+        {
+          "nl": "We hebben veel foto's gemaakt. Het uitzicht was prachtig.",
+          "en": "We took a lot of photos. The view was beautiful."
+        }
+      ],
+      "tip": "Not every sentence needs the perfect. Open with it, then relax into the simple past."
+    },
+    {
+      "title": "Linking words: eerst, daarna, toen, later",
+      "explanation": "Use **eerst**, **daarna**, **toen**, **later**, **de volgende dag** and **aan het eind** to give your story a clear order. After these words the verb comes second: **Eerst gingen we naar Lissabon. Daarna zijn we naar Porto gegaan.** **Toen** is for one moment in the past: **Toen kwamen we bij een klein dorp.** **Daarna** is for the next step.",
+      "table": {
+        "headers": [
+          "Word",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "eerst",
+            "first",
+            "Eerst gingen we naar Lissabon."
+          ],
+          [
+            "daarna",
+            "after that",
+            "Daarna zijn we naar Porto gegaan."
+          ],
+          [
+            "toen",
+            "then (at that moment)",
+            "Toen kwamen we bij een klein dorp."
+          ],
+          [
+            "later",
+            "later",
+            "Later zijn we naar het strand gegaan."
+          ],
+          [
+            "de volgende dag",
+            "the next day",
+            "De volgende dag was het weer beter."
+          ],
+          [
+            "aan het eind",
+            "at the end",
+            "Aan het eind waren we heel moe."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Eerst zijn we naar Lissabon gegaan, daarna zijn we naar Porto gegaan.",
+          "en": "First we went to Lisbon, after that we went to Porto."
+        },
+        {
+          "nl": "De volgende dag hebben we het dorp ontdekt.",
+          "en": "The next day we discovered the village."
+        }
+      ],
+      "tip": "Eerst and daarna are a pair; toen is a single moment."
+    },
+    {
+      "title": "How was it? Opinions about the past",
+      "explanation": "Give your opinion with **zijn** + adjective: **Het was geweldig. Het uitzicht was prachtig.** For a surprise, use **tegenvallen** or **meevallen**: **Het eten viel tegen** (worse than expected), **Het weer viel mee** (better than expected). The subject is often a thing: **Het eten viel mee.**",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "Het was geweldig.",
+            "It was fantastic."
+          ],
+          [
+            "Het uitzicht was prachtig.",
+            "The view was beautiful."
+          ],
+          [
+            "Het eten viel tegen.",
+            "The food was disappointing."
+          ],
+          [
+            "Het weer viel mee.",
+            "The weather was better than expected."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De reis was geweldig, maar het eten viel tegen.",
+          "en": "The trip was fantastic, but the food was disappointing."
+        },
+        {
+          "nl": "Het weer viel mee. Het was heel warm.",
+          "en": "The weather was better than expected. It was very warm."
+        }
+      ],
+      "tip": "Meevallen and tegenvallen look like 'fall', but they mean 'turn out better/worse than expected'."
+    }
+  ],
+  "dialogue": {
+    "title": "Maandagochtend op kantoor",
+    "setting": "It is Monday morning at the office. Sanne asks Bram about his trip to Portugal.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Bram",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Bram! Hoe was je reis?",
+        "en": "Hi Bram! How was your trip?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Hoi Sanne! Het was geweldig.",
+        "en": "Hi Sanne! It was fantastic."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Waar ben je geweest?",
+        "en": "Where have you been?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "We zijn twee weken in Portugal geweest. Eerst waren we in Lissabon, daarna waren we in Porto.",
+        "en": "We were in Portugal for two weeks. First we were in Lisbon, after that we were in Porto."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En het weer?",
+        "en": "And the weather?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Het was heel warm. Elke dag was het zonnig.",
+        "en": "It was very warm. Every day it was sunny."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wat vond je het mooist?",
+        "en": "What did you like most?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Het uitzicht in Porto was prachtig. We hebben veel foto's gemaakt.",
+        "en": "The view in Porto was beautiful. We took a lot of photos."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En het eten?",
+        "en": "And the food?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Het eten was heel lekker, maar het was niet duur.",
+        "en": "The food was very tasty, but it wasn't expensive."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Zijn jullie ook verdwaald?",
+        "en": "Did you get lost too?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Ja, één keer! We zijn in een klein dorp verdwaald. De mensen waren heel leuk.",
+        "en": "Yes, once! We got lost in a small village. The people were very nice."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En toen?",
+        "en": "And then?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Toen heeft een mevrouw ons naar de stad gebracht. Dat is een mooie herinnering.",
+        "en": "Then a lady took us to the city. That is a nice memory."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de reis",
+          "the trip"
+        ],
+        [
+          "het uitzicht",
+          "the view"
+        ],
+        [
+          "de herinnering",
+          "the memory"
+        ],
+        [
+          "verdwalen",
+          "to get lost"
+        ],
+        [
+          "tegenvallen",
+          "to be worse than expected"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "eerst",
+          "first"
+        ],
+        [
+          "daarna",
+          "after that"
+        ],
+        [
+          "aan het eind",
+          "at the end"
+        ],
+        [
+          "de volgende dag",
+          "the next day"
+        ],
+        [
+          "meevallen",
+          "to be better than expected"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "You start a story about your trip. Which word fits best at the beginning?",
+      "nl": null,
+      "options": [
+        "Eerst",
+        "Aan het eind",
+        "De volgende dag"
+      ],
+      "answer": 0,
+      "explain": "Eerst introduces the first thing that happened."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is a detail in the simple past?",
+      "nl": null,
+      "options": [
+        "We zijn naar Portugal geweest.",
+        "Het was heel warm.",
+        "We hebben veel foto's gemaakt."
+      ],
+      "answer": 1,
+      "explain": "Het was heel warm gives background; the other two are perfect tense."
+    },
+    {
+      "type": "choice",
+      "prompt": "The hotel was better than you expected. What do you say?",
+      "nl": null,
+      "options": [
+        "Het hotel viel tegen.",
+        "Het hotel viel mee.",
+        "Het hotel was geweldig."
+      ],
+      "answer": 1,
+      "explain": "Meevallen means it was better than expected."
+    },
+    {
+      "type": "article",
+      "word": "cultuur",
+      "en": "culture",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "uitzicht",
+      "en": "view",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "First we went to Lisbon.",
+      "answer": "Eerst zijn we naar Lissabon gegaan.",
+      "accept": [
+        "We zijn eerst naar Lissabon gegaan."
+      ],
+      "extra": [
+        "de",
+        "mooi"
+      ],
+      "explain": "After eerst the verb comes before the subject: Eerst zijn we ... gegaan."
+    },
+    {
+      "type": "build",
+      "en": "After that we visited Porto.",
+      "answer": "Daarna hebben we Porto bezocht.",
+      "accept": [
+        "We hebben daarna Porto bezocht."
+      ],
+      "extra": [
+        "de",
+        "geweest"
+      ],
+      "explain": "After daarna the verb comes before the subject: Daarna hebben we ... bezocht."
+    },
+    {
+      "type": "build",
+      "en": "The next day the weather was better.",
+      "answer": "De volgende dag was het weer beter.",
+      "accept": [
+        "Het weer was de volgende dag beter."
+      ],
+      "extra": [
+        "goede",
+        "zijn"
+      ],
+      "explain": "After de volgende dag the verb comes second: De volgende dag was het weer beter."
+    },
+    {
+      "type": "gap",
+      "text": "We zijn twee weken in Portugal ___.",
+      "en": "We were in Portugal for two weeks.",
+      "answers": [
+        "geweest"
+      ],
+      "hint": "zijn (perfect)",
+      "explain": "After zijn you use the past participle geweest: We zijn ... geweest."
+    },
+    {
+      "type": "gap",
+      "text": "Het uitzicht was ___.",
+      "en": "The view was beautiful.",
+      "answers": [
+        "prachtig",
+        "geweldig",
+        "mooi"
+      ],
+      "hint": "prachtig / geweldig / mooi",
+      "explain": "After was you use an adjective such as prachtig: Het uitzicht was prachtig."
+    },
+    {
+      "type": "gap",
+      "text": "We zijn in een klein dorp ___.",
+      "en": "We got lost in a small village.",
+      "answers": [
+        "verdwaald"
+      ],
+      "hint": "verdwalen (perfect)",
+      "explain": "Verdwalen forms its perfect with zijn: We zijn verdwaald."
+    },
+    {
+      "type": "translate",
+      "en": "How was your trip?",
+      "answers": [
+        "Hoe was je reis?",
+        "Hoe was jouw reis?",
+        "Hoe was uw reis?",
+        "Hoe is je reis geweest?",
+        "Hoe is jouw reis geweest?",
+        "Hoe is uw reis geweest?"
+      ],
+      "focus": "Reis, and asking about the past with was or is ... geweest.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the subject before the verb in a question (Hoe je reis was?)",
+          "explain": "In a question the verb comes second: Hoe was je reis?"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses jou before a noun instead of jouw/je (Hoe was jou reis?)",
+          "explain": "Before a noun use jouw or je: Hoe was je reis?"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the English word trip (Hoe was je trip?)",
+          "explain": "Use the Dutch word de reis: Hoe was je reis?"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "First we went to Lisbon, after that to Porto.",
+      "answers": [
+        "Eerst zijn we naar Lissabon gegaan, daarna naar Porto.",
+        "Eerst gingen we naar Lissabon, daarna naar Porto.",
+        "Eerst zijn we naar Lissabon gegaan en daarna naar Porto.",
+        "Eerst zijn we naar Lissabon gegaan, daarna zijn we naar Porto gegaan.",
+        "Eerst gingen we naar Lissabon, daarna gingen we naar Porto.",
+        "Eerst zijn we naar Lissabon gegaan en daarna zijn we naar Porto gegaan."
+      ],
+      "focus": "Order words eerst and daarna; perfect and simple past.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the subject before the verb after eerst or daarna (Eerst we zijn naar Lissabon gegaan.)",
+          "explain": "After eerst or daarna the verb comes before the subject: Eerst zijn we ... Daarna zijn we ..."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses in before a city with a movement verb (Eerst zijn we in Lissabon gegaan.)",
+          "explain": "Use naar for going to a city: We zijn naar Lissabon gegaan."
+        },
+        {
+          "id": "m3",
+          "pattern": "Mixes perfect and present in the second part (daarna gaan we naar Porto)",
+          "explain": "Keep the tense consistent: Daarna zijn we naar Porto gegaan."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The food was better than expected.",
+      "answers": [
+        "Het eten viel mee.",
+        "Het eten is meegevallen.",
+        "Het eten viel erg mee."
+      ],
+      "focus": "meevallen with het eten.",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses tegenvallen for something better than expected (Het eten viel tegen.)",
+          "explain": "Tegenvallen means worse than expected; for better than expected use meevallen: Het eten viel mee."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses was instead of the verb viel (Het eten was mee.)",
+          "explain": "Meevallen is a verb: Het eten viel mee."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts mee before the verb (Het eten mee viel.)",
+          "explain": "Mee stays with the verb: Het eten viel mee."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Het weer was heel warm.",
+      "en": "The weather was very warm."
+    },
+    {
+      "type": "listen",
+      "nl": "Daarna zijn we naar Porto gegaan.",
+      "en": "After that we went to Porto."
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague asks about your trip.",
+      "say": {
+        "nl": "Hoe was je reis?",
+        "en": "How was your trip?"
+      },
+      "task": "Answer in one or two sentences. Say it was fantastic and give one detail.",
+      "examples": [
+        "Het was geweldig! Het weer was heel mooi.",
+        "Het was prachtig. We zijn twee weken in Portugal geweest."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Answers in the present about the past (Het is geweldig!)",
+          "explain": "Talk about the trip in the past: Het was geweldig!"
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out geweest in the perfect (We zijn twee weken in Portugal.)",
+          "explain": "Use zijn + geweest: We zijn twee weken in Portugal geweest."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the verb at the end of a main clause (Het weer heel mooi was.)",
+          "explain": "In a main clause the verb comes second: Het weer was heel mooi."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague asks if anything else happened.",
+      "say": {
+        "nl": "Is er nog iets gebeurd?",
+        "en": "Did anything else happen?"
+      },
+      "task": "Tell about getting lost. Use toen and say how it ended.",
+      "examples": [
+        "Ja, we zijn verdwaald. Toen heeft een mevrouw ons naar de stad gebracht.",
+        "We zijn in een dorp verdwaald. Toen heeft een man ons naar het station gebracht."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the subject before the verb after toen (Toen een mevrouw heeft ons naar de stad gebracht.)",
+          "explain": "After toen the verb comes before the subject: Toen heeft een mevrouw ons naar de stad gebracht."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses hebben with verdwalen (We hebben verdwaald.)",
+          "explain": "Verdwalen takes zijn: We zijn verdwaald."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the present after toen (Toen brengt een mevrouw ons naar de stad.)",
+          "explain": "Use the past after toen: Toen heeft een mevrouw ons naar de stad gebracht."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses daarna instead of toen for the key moment (We zijn verdwaald. Daarna heeft een mevrouw ons naar de stad gebracht.)",
+          "explain": "Use toen for the moment it happened: Toen heeft een mevrouw ons naar de stad gebracht."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Back at work: your trip to Portugal",
+    "setting": "It is Monday morning. You are back at work and your colleague Sanne asks about your trip to Portugal.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "colleague"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Hoe was je reis?",
+          "en": "Hi! How was your trip?"
+        },
+        "task": "Say hello and start your story: say where you went and give your first opinion.",
+        "examples": [
+          "Hoi Sanne! Het was geweldig. We zijn in Portugal geweest.",
+          "Hoi! Het was prachtig. We zijn twee weken in Portugal geweest."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the present for the trip (Het is geweldig.)",
+            "explain": "The trip is in the past: Het was geweldig."
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets the perfect opening (We gaan naar Portugal.)",
+            "explain": "Open with zijn + participle: We zijn naar Portugal geweest."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the participle before the place (We zijn geweest in Portugal.)",
+            "explain": "In the perfect the participle comes at the end: We zijn in Portugal geweest."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat hebben jullie gedaan?",
+          "en": "What did you do?"
+        },
+        "task": "Tell two things you did, in order. Use eerst and daarna.",
+        "examples": [
+          "Eerst hebben we Lissabon bezocht, daarna zijn we naar Porto gegaan.",
+          "Eerst zijn we naar het strand gegaan. Daarna hebben we het dorp ontdekt."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps the subject before the verb after eerst/daarna (Eerst we hebben Lissabon bezocht.)",
+            "explain": "After eerst or daarna the verb comes before the subject: Eerst hebben we ..."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses hebben with gaan to a place (Daarna hebben we naar Porto gegaan.)",
+            "explain": "With movement to a place, use zijn: Daarna zijn we naar Porto gegaan."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the present after daarna (Daarna gaan we naar Porto.)",
+            "explain": "Keep the story in the past: Daarna zijn we naar Porto gegaan."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En het weer? En het eten?",
+          "en": "And the weather? And the food?"
+        },
+        "task": "Say how the weather was and give an opinion about the food. Use meevallen or tegenvallen once.",
+        "examples": [
+          "Het weer viel mee. Het eten was heel lekker.",
+          "Het weer was heel warm. Het eten viel tegen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses was with meevallen/tegenvallen (Het eten was mee.)",
+            "explain": "Use the verb vallen: Het eten viel mee."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the adverb before the verb (Het eten mee viel.)",
+            "explain": "Mee stays after the verb: Het eten viel mee."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Is er nog iets gebeurd?",
+          "en": "Did anything else happen?"
+        },
+        "task": "Tell the story of getting lost. Use toen and say how it ended.",
+        "examples": [
+          "Ja, we zijn in een dorp verdwaald. Toen heeft een mevrouw ons naar de stad gebracht.",
+          "Ja, we zijn in de stad verdwaald. Toen heeft een man ons naar het station gebracht."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the subject before the verb after toen (Toen een mevrouw heeft ons naar de stad gebracht.)",
+            "explain": "After toen the verb comes before the subject: Toen heeft een mevrouw ons naar de stad gebracht."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses hebben with verdwalen (We hebben verdwaald.)",
+            "explain": "Verdwalen takes zijn: We zijn verdwaald."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the present after toen (Toen brengt een mevrouw ons naar de stad.)",
+            "explain": "Use the past after toen: Toen heeft een mevrouw ons naar de stad gebracht."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses daarna instead of toen for the key moment (We zijn verdwaald. Daarna heeft een mevrouw ons naar de stad gebracht.)",
+            "explain": "Use toen for the moment it happened: Toen heeft een mevrouw ons naar de stad gebracht."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is je mooiste herinnering?",
+          "en": "What is your best memory?"
+        },
+        "task": "Answer with one memory and one opinion.",
+        "examples": [
+          "Mijn mooiste herinnering is het uitzicht in Porto. Ik vond het prachtig.",
+          "Ik herinner me de mensen in het dorp. Ze waren heel leuk."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses mooi before a de-word (een mooi herinnering)",
+            "explain": "De-words take -e: een mooie herinnering."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses het with herinnering (het herinnering)",
+            "explain": "Herinnering is a de-word: de herinnering."
+          },
+          {
+            "id": "m3",
+            "pattern": "Gives only a memory without an opinion (Mijn mooiste herinnering is het uitzicht in Porto.)",
+            "explain": "Also say what you thought of it: Ik vond het prachtig."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses the present for your opinion (Ik vind het prachtig.)",
+            "explain": "Talk about the memory in the past: Ik vond het prachtig."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Wat een mooi verhaal! Dank je wel.",
+      "en": "What a lovely story! Thank you."
+    }
+  },
+  "culture": {
+    "title": "'Het viel mee': better than expected",
+    "text": "In everyday Dutch, 'Het viel mee' is a very common way to describe something that went better than expected. You can use it about a trip, a film or a test. 'Het viel tegen' is the opposite: it was disappointing. These two words are useful because Dutch speakers often give an opinion in a calm, modest way, without sounding too positive or too negative."
+  },
+  "summary": [
+    "Open your story with the perfect: We zijn naar Portugal geweest.",
+    "Use the simple past for details and background: Het was heel warm.",
+    "Link the parts: eerst, daarna, toen, later, de volgende dag, aan het eind.",
+    "Give your opinion with zijn: Het was geweldig. Het viel tegen. Het viel mee.",
+    "tegenvallen = worse than expected; meevallen = better than expected."
+  ]
+}

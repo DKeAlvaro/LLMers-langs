@@ -1,0 +1,955 @@
+{
+  "id": "u08-l03",
+  "title": "Beste meneer De Vries",
+  "subtitle": "Emails and polite requests",
+  "level": "A2",
+  "intro": "In this lesson you learn to write short emails in Dutch: formal ones to a manager and informal ones to a colleague. You practise polite requests with zou/zouden and the standard openings and closings. By the end you can move or confirm an appointment, send an attachment and reply politely.",
+  "words": [
+    {
+      "nl": "e-mail",
+      "en": "email",
+      "pos": "noun",
+      "article": "de",
+      "plural": "e-mails",
+      "forms": null,
+      "example": {
+        "nl": "Ik stuur u een e-mail.",
+        "en": "I am sending you an email."
+      },
+      "note": "The hyphen is normal in Dutch: de e-mail."
+    },
+    {
+      "nl": "bericht",
+      "en": "message",
+      "pos": "noun",
+      "article": "het",
+      "plural": "berichten",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb uw bericht ontvangen.",
+        "en": "I have received your message."
+      },
+      "note": null
+    },
+    {
+      "nl": "bijlage",
+      "en": "attachment",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bijlagen",
+      "forms": null,
+      "example": {
+        "nl": "In de bijlage zit een formulier.",
+        "en": "The attachment contains a form."
+      },
+      "note": null
+    },
+    {
+      "nl": "onderwerp",
+      "en": "subject",
+      "pos": "noun",
+      "article": "het",
+      "plural": "onderwerpen",
+      "forms": null,
+      "example": {
+        "nl": "Wat is het onderwerp van de e-mail?",
+        "en": "What is the subject of the email?"
+      },
+      "note": null
+    },
+    {
+      "nl": "sturen",
+      "en": "to send",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik stuur, jij stuurt, wij sturen (heeft gestuurd)",
+      "example": {
+        "nl": "Ik stuur de bijlage morgen.",
+        "en": "I will send the attachment tomorrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "versturen",
+      "en": "to send",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verstuur, jij verstuurt, wij versturen (heeft verstuurd)",
+      "example": {
+        "nl": "Ik verstuur de e-mail vandaag.",
+        "en": "I will send the email today."
+      },
+      "note": "More formal than sturen; often used for emails and packages."
+    },
+    {
+      "nl": "ontvangen",
+      "en": "to receive",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ontvang, jij ontvangt, wij ontvangen (heeft ontvangen)",
+      "example": {
+        "nl": "Ik heb uw bericht ontvangen.",
+        "en": "I have received your message."
+      },
+      "note": "Strong verb; the participle ontvangen has no ge-."
+    },
+    {
+      "nl": "antwoorden",
+      "en": "to answer, to reply",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik antwoord, jij antwoordt, wij antwoorden (heeft geantwoord)",
+      "example": {
+        "nl": "Ik antwoord vandaag op uw e-mail.",
+        "en": "I will reply to your email today."
+      },
+      "note": "Antwoorden op = to reply to."
+    },
+    {
+      "nl": "reageren",
+      "en": "to respond, to react",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik reageer, jij reageert, wij reageren (heeft gereageerd)",
+      "example": {
+        "nl": "Ik reageer vandaag op uw bericht.",
+        "en": "I will respond to your message today."
+      },
+      "note": "Reageren op = to respond to."
+    },
+    {
+      "nl": "vragen",
+      "en": "to ask",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vraag, jij vraagt, wij vragen (heeft gevraagd)",
+      "example": {
+        "nl": "Ik wil iets vragen over de vergadering.",
+        "en": "I want to ask something about the meeting."
+      },
+      "note": null
+    },
+    {
+      "nl": "beste",
+      "en": "dear",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Beste meneer De Vries,",
+        "en": "Dear Mr De Vries,"
+      },
+      "note": "Use Beste + name in most emails; Geachte is more formal."
+    },
+    {
+      "nl": "geachte",
+      "en": "dear",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Geachte heer De Vries,",
+        "en": "Dear Mr De Vries,"
+      },
+      "note": "Very formal; often Geachte heer/mevrouw + surname."
+    },
+    {
+      "nl": "met vriendelijke groet",
+      "en": "kind regards",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Met vriendelijke groet, Sanne",
+        "en": "Kind regards, Sanne"
+      },
+      "note": "Formal closing; in Dutch the comma comes before your name."
+    },
+    {
+      "nl": "groetjes",
+      "en": "best wishes, bye",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Groetjes, Lisa",
+        "en": "Best wishes, Lisa"
+      },
+      "note": "Informal closing for friends and close colleagues."
+    },
+    {
+      "nl": "alvast bedankt",
+      "en": "thanks in advance",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Alvast bedankt voor uw antwoord.",
+        "en": "Thanks in advance for your answer."
+      },
+      "note": "Very common in Dutch emails."
+    },
+    {
+      "nl": "graag",
+      "en": "gladly, please",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik zou graag de afspraak verzetten.",
+        "en": "I would like to move the appointment."
+      },
+      "note": "In polite requests, graag makes the sentence softer."
+    },
+    {
+      "nl": "informatie",
+      "en": "information",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik stuur u de informatie vandaag.",
+        "en": "I will send you the information today."
+      },
+      "note": "Usually uncountable; no plural in everyday Dutch."
+    },
+    {
+      "nl": "formulier",
+      "en": "form",
+      "pos": "noun",
+      "article": "het",
+      "plural": "formulieren",
+      "forms": null,
+      "example": {
+        "nl": "Het formulier zit in de bijlage.",
+        "en": "The form is in the attachment."
+      },
+      "note": null
+    },
+    {
+      "nl": "datum",
+      "en": "date",
+      "pos": "noun",
+      "article": "de",
+      "plural": "datums",
+      "forms": null,
+      "example": {
+        "nl": "De datum is vrijdag drie mei.",
+        "en": "The date is Friday 3 May."
+      },
+      "note": "In Dutch: vrijdag 3 mei, not mei 3."
+    },
+    {
+      "nl": "verzetten",
+      "en": "to move, to change",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verzet, jij verzet, wij verzetten (heeft verzet)",
+      "example": {
+        "nl": "Zou u de afspraak kunnen verzetten?",
+        "en": "Could you move the appointment?"
+      },
+      "note": "Use verzetten for appointments, meetings and dates."
+    },
+    {
+      "nl": "afzeggen",
+      "en": "to cancel",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zeg af, jij zegt af, wij zeggen af (heeft afgezegd)",
+      "example": {
+        "nl": "Ik moet de afspraak helaas afzeggen.",
+        "en": "Unfortunately I have to cancel the appointment."
+      },
+      "note": "Separable: af + zeggen; the participle is afgezegd."
+    },
+    {
+      "nl": "bevestigen",
+      "en": "to confirm",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bevestig, jij bevestigt, wij bevestigen (heeft bevestigd)",
+      "example": {
+        "nl": "Ik bevestig de afspraak voor vrijdag.",
+        "en": "I confirm the appointment for Friday."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Zou u de afspraak kunnen verzetten?",
+      "en": "Could you move the appointment?",
+      "note": "Very polite: zou + u + ... + kunnen + infinitive."
+    },
+    {
+      "nl": "Ik zou graag de vergadering willen verzetten.",
+      "en": "I would like to move the meeting.",
+      "note": "Graag and willen make the request friendly."
+    },
+    {
+      "nl": "Alvast bedankt voor uw antwoord.",
+      "en": "Thanks in advance for your answer.",
+      "note": "Common formal email ending."
+    },
+    {
+      "nl": "Met vriendelijke groet,",
+      "en": "Kind regards,",
+      "note": "Formal closing; comma before your name."
+    },
+    {
+      "nl": "Geachte heer De Vries,",
+      "en": "Dear Mr De Vries,",
+      "note": "Very formal opening."
+    },
+    {
+      "nl": "Beste meneer De Vries,",
+      "en": "Dear Mr De Vries,",
+      "note": "Standard polite opening; less formal than Geachte."
+    },
+    {
+      "nl": "Hoi Lisa,",
+      "en": "Hi Lisa,",
+      "note": "Informal opening; use with a first name."
+    },
+    {
+      "nl": "Ik stuur u de bijlage.",
+      "en": "I am sending you the attachment.",
+      "note": "Sturen + u; the attachment is the object."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Polite requests with zou / zouden",
+      "explanation": "Use **Zou u ... kunnen + infinitive?** for a very polite request. Use **Ik zou graag ... willen + infinitive** to say what you would like. **Zou** is for ik, jij, u, hij/zij/het; **zouden** is for wij, jullie and plural zij (they). The main verb (infinitive) goes at the very end.",
+      "table": {
+        "headers": [
+          "Subject",
+          "Structure",
+          "Example"
+        ],
+        "rows": [
+          [
+            "u",
+            "Zou u ... kunnen + infinitive?",
+            "Zou u de afspraak kunnen verzetten?"
+          ],
+          [
+            "ik",
+            "Ik zou graag ... willen + infinitive.",
+            "Ik zou graag de afspraak willen verzetten."
+          ],
+          [
+            "wij / we",
+            "Zouden we ... kunnen + infinitive?",
+            "Zouden we de vergadering kunnen verzetten?"
+          ],
+          [
+            "jij / je",
+            "Zou je ... kunnen + infinitive?",
+            "Zou je de bijlage kunnen sturen?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Zou u de vergadering kunnen verzetten?",
+          "en": "Could you move the meeting?"
+        },
+        {
+          "nl": "Ik zou graag de informatie willen ontvangen.",
+          "en": "I would like to receive the information."
+        },
+        {
+          "nl": "Zou je de bijlage vandaag kunnen sturen?",
+          "en": "Could you send the attachment today?"
+        }
+      ],
+      "tip": "Start with Zou u ...? for a very polite request. For a wish, use Ik zou graag ... willen + infinitive."
+    },
+    {
+      "title": "Formal and informal emails",
+      "explanation": "A formal email starts with **Geachte heer/mevrouw + surname** or **Beste meneer/mevrouw + surname**. Close with **Met vriendelijke groet,** + your name. An informal email starts with **Hoi + first name** or **Beste + first name**, and closes with **Groetjes,** + your name. Use **u** in formal emails and **je** in informal emails.",
+      "table": {
+        "headers": [
+          "Part",
+          "Formal",
+          "Informal"
+        ],
+        "rows": [
+          [
+            "Opening",
+            "Geachte heer De Vries, / Beste meneer De Vries,",
+            "Hoi Lisa, / Beste Lisa,"
+          ],
+          [
+            "Request",
+            "Zou u ... kunnen ...?",
+            "Zou je ... kunnen ...?"
+          ],
+          [
+            "Closing",
+            "Met vriendelijke groet, + your name",
+            "Groetjes, + your name"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Geachte mevrouw De Boer, ... Met vriendelijke groet, Sanne Jansen",
+          "en": "Dear Ms De Boer, ... Kind regards, Sanne Jansen"
+        },
+        {
+          "nl": "Beste meneer De Vries, ... Met vriendelijke groet, Sanne",
+          "en": "Dear Mr De Vries, ... Kind regards, Sanne"
+        },
+        {
+          "nl": "Hoi Lisa, ... Groetjes, Sanne",
+          "en": "Hi Lisa, ... Best wishes, Sanne"
+        }
+      ],
+      "tip": "In Dutch emails, the greeting is short. Give the reason for your email in the first sentence."
+    }
+  ],
+  "dialogue": {
+    "title": "Een e-mail en een berichtje",
+    "setting": "Sanne wants to move tomorrow's meeting with her manager, meneer De Vries, and then sends a quick message to her colleague Lisa.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Meneer De Vries",
+        "gender": "m"
+      },
+      {
+        "name": "Lisa",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Beste meneer De Vries, ik kan morgen helaas niet naar de vergadering komen.",
+        "en": "Dear Mr De Vries, unfortunately I cannot come to the meeting tomorrow."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Zou u de vergadering naar vrijdag kunnen verzetten?",
+        "en": "Could you move the meeting to Friday?"
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Beste Sanne, vrijdag om tien uur is goed.",
+        "en": "Dear Sanne, Friday at ten is fine."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Ik stuur u vandaag de informatie voor het project.",
+        "en": "I will send you the project information today."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Ik reageer vandaag op uw bericht.",
+        "en": "Thank you. I will respond to your message today."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Met vriendelijke groet, Sanne",
+        "en": "Kind regards, Sanne"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Lisa, ik stuur je de bijlage morgen.",
+        "en": "Hi Lisa, I will send you the attachment tomorrow."
+      },
+      {
+        "speaker": "Lisa",
+        "nl": "Hoi Sanne, ik moet de bijlage vandaag hebben. Kan dat?",
+        "en": "Hi Sanne, I need the attachment today. Is that possible?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, dat kan. Ik verstuur hem vandaag.",
+        "en": "Yes, that is possible. I will send it today."
+      },
+      {
+        "speaker": "Lisa",
+        "nl": "Alvast bedankt! Groetjes, Lisa",
+        "en": "Thanks in advance! Best wishes, Lisa"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "bijlage",
+          "attachment"
+        ],
+        [
+          "onderwerp",
+          "subject"
+        ],
+        [
+          "versturen",
+          "to send"
+        ],
+        [
+          "bevestigen",
+          "to confirm"
+        ],
+        [
+          "afzeggen",
+          "to cancel"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "Met vriendelijke groet",
+          "kind regards"
+        ],
+        [
+          "Alvast bedankt",
+          "thanks in advance"
+        ],
+        [
+          "Zou u ... kunnen?",
+          "could you ...?"
+        ],
+        [
+          "Ik zou graag ... willen",
+          "I would like to ..."
+        ],
+        [
+          "Groetjes",
+          "best wishes (informal)"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which opening is the most formal?",
+      "nl": "___ heer De Vries,",
+      "options": [
+        "Geachte",
+        "Beste",
+        "Hoi"
+      ],
+      "answer": 0,
+      "explain": "Geachte is the most formal opening; Beste is also polite but less formal."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which closing is formal?",
+      "nl": null,
+      "options": [
+        "Met vriendelijke groet",
+        "Groetjes",
+        "Doei"
+      ],
+      "answer": 0,
+      "explain": "Met vriendelijke groet is the standard formal closing."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is a polite request?",
+      "nl": null,
+      "options": [
+        "Zou u de afspraak kunnen verzetten?",
+        "Verzet de afspraak.",
+        "De afspraak verzetten."
+      ],
+      "answer": 0,
+      "explain": "Zou u ... kunnen ...? is the polite conditional."
+    },
+    {
+      "type": "article",
+      "word": "bijlage",
+      "en": "attachment",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "onderwerp",
+      "en": "subject",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I would like to move the appointment.",
+      "answer": "Ik zou de afspraak graag willen verzetten.",
+      "accept": [
+        "Ik zou graag de afspraak willen verzetten.",
+        "Graag zou ik de afspraak willen verzetten."
+      ],
+      "extra": [
+        "verzet",
+        "zouden"
+      ],
+      "explain": "Use 'zou + graag + willen + infinitive'; graag can stand before or after the object."
+    },
+    {
+      "type": "build",
+      "en": "Could you send me the attachment?",
+      "answer": "Zou u mij de bijlage kunnen sturen?",
+      "accept": [],
+      "extra": [
+        "zouden",
+        "stuur",
+        "gestuurd"
+      ],
+      "explain": "For a polite request use 'Zou u ... kunnen + infinitive?' with the main verb at the end."
+    },
+    {
+      "type": "build",
+      "en": "I would like to confirm the date.",
+      "answer": "Ik zou graag de datum willen bevestigen.",
+      "accept": [
+        "Ik zou de datum graag willen bevestigen.",
+        "Graag zou ik de datum willen bevestigen."
+      ],
+      "extra": [
+        "bevestig",
+        "zouden"
+      ],
+      "explain": "Use 'Ik zou graag ... willen + infinitive'; the infinitive 'bevestigen' comes at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ u de bijlage.",
+      "en": "I am sending you the attachment.",
+      "answers": [
+        "stuur",
+        "verstuur"
+      ],
+      "hint": "sturen/versturen (ik-form)",
+      "explain": "With ik, the verb has no -t: 'ik stuur' or 'ik verstuur'."
+    },
+    {
+      "type": "gap",
+      "text": "___ heer De Vries,",
+      "en": "Dear Mr De Vries,",
+      "answers": [
+        "Geachte"
+      ],
+      "hint": "very formal opening",
+      "explain": "Geachte is the most formal opening; 'Beste' is also polite but less formal."
+    },
+    {
+      "type": "gap",
+      "text": "Zou u de afspraak ___ verzetten?",
+      "en": "Could you move the appointment?",
+      "answers": [
+        "kunnen"
+      ],
+      "hint": "kunnen (modal)",
+      "explain": "After 'Zou u', use 'kunnen' before the infinitive at the end: 'Zou u de afspraak kunnen verzetten?'"
+    },
+    {
+      "type": "translate",
+      "en": "I would like to cancel the appointment.",
+      "answers": [
+        "Ik zou de afspraak graag willen afzeggen.",
+        "Ik zou graag de afspraak willen afzeggen.",
+        "Ik zou de afspraak graag afzeggen.",
+        "Ik zou graag de afspraak afzeggen."
+      ],
+      "focus": "zou + graag + willen + infinitive; separable afzeggen",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places the infinitive afzeggen before willen instead of after it (Ik zou graag de afspraak afzeggen willen.)",
+          "explain": "With willen, the full infinitive 'afzeggen' comes at the end: 'Ik zou graag de afspraak willen afzeggen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses zouden with ik (Ik zouden graag de afspraak willen afzeggen.)",
+          "explain": "With ik use 'zou', not 'zouden': 'Ik zou ...'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Splits the separable infinitive afzeggen into af and zeggen (Ik zou graag de afspraak willen af zeggen.)",
+          "explain": "Keep the separable verb together as 'afzeggen' at the end: 'willen afzeggen'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Could you send the information?",
+      "answers": [
+        "Zou u de informatie kunnen sturen?",
+        "Zou u de informatie kunnen versturen?",
+        "Kunt u de informatie sturen?",
+        "Kunt u de informatie versturen?",
+        "Zou u de informatie sturen?",
+        "Zou u de informatie versturen?"
+      ],
+      "focus": "polite request with zou + kunnen; sturen/versturen",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places the main infinitive before kunnen (Zou u de informatie sturen kunnen?)",
+          "explain": "In a modal question the main verb comes after 'kunnen': 'Zou u de informatie kunnen sturen?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses zouden with u (Zouden u de informatie kunnen sturen?)",
+          "explain": "With u use 'zou', not 'zouden': 'Zou u ...?'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses stuur after kunnen instead of the infinitive sturen (Zou u de informatie kunnen stuur?)",
+          "explain": "After 'kunnen' use the infinitive 'sturen', not 'stuur'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Thanks in advance for your answer.",
+      "answers": [
+        "Alvast bedankt voor uw antwoord.",
+        "Alvast bedankt voor je antwoord."
+      ],
+      "focus": "formal u vs informal je",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses op instead of voor after bedankt (Alvast bedankt op uw antwoord.)",
+          "explain": "The fixed phrase is 'bedankt voor ...': 'Alvast bedankt voor uw antwoord.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Spells the noun antwoord with -t (Alvast bedankt voor uw antwoordt.)",
+          "explain": "The noun is 'het antwoord' without -t; the verb has -t with jij/hij: 'jij antwoordt'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits alvast (Bedankt voor uw antwoord.)",
+          "explain": "'In advance' is 'alvast': 'Alvast bedankt voor uw antwoord.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Zou u de afspraak kunnen verzetten?",
+      "en": "Could you move the appointment?"
+    },
+    {
+      "type": "listen",
+      "nl": "Ik stuur u morgen de bijlage.",
+      "en": "I will send you the attachment tomorrow."
+    },
+    {
+      "type": "reply",
+      "context": "Your manager, meneer De Vries, emailed you. You cannot come to tomorrow's meeting and want to move it to Friday.",
+      "say": {
+        "nl": "Kunt u morgen naar de vergadering komen?",
+        "en": "Can you come to the meeting tomorrow?"
+      },
+      "task": "Write a short, polite email reply. Say that you cannot come tomorrow and ask if the meeting can move to Friday.",
+      "examples": [
+        "Beste meneer De Vries, ik kan morgen helaas niet. Zou u de vergadering naar vrijdag kunnen verzetten? Alvast bedankt.",
+        "Ik kan morgen niet. Zouden we de vergadering naar vrijdag kunnen verzetten? Met vriendelijke groet, Sanne.",
+        "Helaas kan ik morgen niet. Kunt u de vergadering naar vrijdag verzetten? Alvast bedankt."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses a blunt imperative instead of a polite request (Verzet de vergadering naar vrijdag.)",
+          "explain": "Use a polite question: 'Zou u de vergadering naar vrijdag kunnen verzetten?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses zouden with u (Zouden u de vergadering naar vrijdag kunnen verzetten?)",
+          "explain": "With u use 'zou', not 'zouden': 'Zou u ...?'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Places verzetten before kunnen (Zou u de vergadering naar vrijdag verzetten kunnen?)",
+          "explain": "The main verb goes after 'kunnen': 'Zou u ... kunnen verzetten?'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Starts a formal email with Hoi to the manager (Hoi meneer De Vries, ...)",
+          "explain": "Use 'Beste meneer De Vries' or 'Geachte heer De Vries' in a formal email."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your colleague Lisa sent you a message. You need the attachment today.",
+      "say": {
+        "nl": "Ik stuur je de bijlage morgen.",
+        "en": "I will send you the attachment tomorrow."
+      },
+      "task": "Reply to Lisa in an informal way. Ask politely if she can send the attachment today.",
+      "examples": [
+        "Hoi Lisa, zou je de bijlage vandaag kunnen sturen? Alvast bedankt!",
+        "Hoi! Kun je de bijlage vandaag sturen? Dat is belangrijk. Groetjes.",
+        "Hoi Lisa, ik heb de bijlage vandaag nodig. Zou je hem kunnen sturen? Groetjes."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses formal u with a close colleague in an informal message (Zou u de bijlage vandaag kunnen sturen?)",
+          "explain": "The task is informal; use 'je': 'Zou je de bijlage vandaag kunnen sturen?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses stuur after kunnen instead of the infinitive sturen (Zou je de bijlage vandaag kunnen stuur?)",
+          "explain": "After 'kunnen' use the infinitive 'sturen', not 'stuur'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Places sturen before kunnen (Zou je de bijlage vandaag sturen kunnen?)",
+          "explain": "The main verb goes after 'kunnen': 'Zou je de bijlage vandaag kunnen sturen?'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses zouden with je (Zouden je de bijlage vandaag kunnen sturen?)",
+          "explain": "With je use 'zou', not 'zouden': 'Zou je ...?'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "De vergadering verzetten",
+    "setting": "You are emailing your manager, meneer De Vries, to move tomorrow's meeting. He replies.",
+    "partner": {
+      "name": "Meneer De Vries",
+      "gender": "m",
+      "role": "your manager"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen. U wilde de vergadering verzetten?",
+          "en": "Good morning. You wanted to move the meeting?"
+        },
+        "task": "Say politely that you cannot come tomorrow and would like to move the meeting to Friday.",
+        "examples": [
+          "Goedemorgen meneer De Vries. Ik kan morgen helaas niet. Zou u de vergadering naar vrijdag kunnen verzetten?",
+          "Goedemorgen. Helaas kan ik morgen niet. Zouden we de vergadering naar vrijdag kunnen verzetten?",
+          "Goedemorgen meneer De Vries. Ik kan morgen helaas niet. Ik zou de vergadering graag naar vrijdag willen verzetten."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses a blunt command instead of a polite request (Verzet de vergadering naar vrijdag.)",
+            "explain": "Use a polite question: 'Zou u de vergadering naar vrijdag kunnen verzetten?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses zouden with u (Zouden u de vergadering kunnen verzetten?)",
+            "explain": "With u use 'zou', not 'zouden': 'Zou u ...?'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Places verzetten before kunnen (Zou u de vergadering verzetten kunnen?)",
+            "explain": "The main verb goes after 'kunnen': 'Zou u ... kunnen verzetten?'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses informal je to the manager (Zou je de vergadering kunnen verzetten?)",
+            "explain": "Use 'u' with your manager in this formal email: 'Zou u ...?'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Vrijdag om tien uur is goed. Kunt u dan?",
+          "en": "Friday at ten is fine. Can you then?"
+        },
+        "task": "Confirm that Friday at ten is good and thank him.",
+        "examples": [
+          "Ja, vrijdag om tien uur is goed. Dank u wel.",
+          "Ja, dat kan. Vrijdag om tien uur is prima, dank u wel.",
+          "Ja, zeker. Tot vrijdag en bedankt."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the clock time before the day (Om tien uur vrijdag is goed.)",
+            "explain": "Put the day first: 'Vrijdag om tien uur is goed.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses informal dank je to the manager (Dank je wel.)",
+            "explain": "Use 'Dank u wel' in a formal email to your manager."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits om before a clock time (Vrijdag tien uur is goed.)",
+            "explain": "Use 'om' before clock times: 'om tien uur'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik stuur u vandaag de informatie.",
+          "en": "I will send you the information today."
+        },
+        "task": "Thank him and say that you will reply today.",
+        "examples": [
+          "Dank u wel. Ik reageer vandaag op uw bericht.",
+          "Bedankt voor de informatie. Ik antwoord vandaag.",
+          "Dank u wel. Ik reageer vandaag."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses -t with ik in antwoorden (Ik antwoordt vandaag op uw bericht.)",
+            "explain": "With ik, 'antwoorden' has no -t: 'ik antwoord'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Drops op after reageren (Ik reageer vandaag uw bericht.)",
+            "explain": "Use 'reageren op': 'reageren op uw bericht'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses u instead of possessive uw (Ik reageer vandaag op u bericht.)",
+            "explain": "The possessive is 'uw': 'uw bericht'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Dank u wel. Tot vrijdag!",
+      "en": "Thank you. See you Friday!"
+    }
+  },
+  "culture": {
+    "title": "Dutch emails: short and direct",
+    "text": "In Dutch emails, the greeting is usually short. After 'Beste meneer De Vries,' or 'Hoi Lisa,' the writer often gives the reason for the email in the first sentence. Geachte is very formal and is mainly used in official letters or to people you do not know. In many workplaces, colleagues use je in everyday email, even when they use u in more formal situations."
+  },
+  "summary": [
+    "Use 'Zou u ... kunnen + infinitive?' for a very polite request.",
+    "Use 'Ik zou graag ... willen + infinitive' to say what you would like.",
+    "Formal email: Geachte heer/mevrouw ... or Beste meneer/mevrouw ...; close with Met vriendelijke groet, + your name.",
+    "Informal email: Hoi/Beste + first name; close with Groetjes, + your name.",
+    "Keep the greeting short and give the reason for your email in the first sentence."
+  ]
+}

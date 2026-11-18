@@ -1,0 +1,1159 @@
+{
+  "id": "u04-l03",
+  "title": "Waar is het station?",
+  "subtitle": "Asking for directions",
+  "level": "A1",
+  "intro": "After this lesson you can ask where the station is and understand simple directions. You can use words like links, rechts and rechtdoor, and you can count streets with eerste, tweede and derde.",
+  "words": [
+    {
+      "nl": "weg",
+      "en": "way, road",
+      "pos": "noun",
+      "article": "de",
+      "plural": "wegen",
+      "forms": null,
+      "example": {
+        "nl": "Ik zoek de weg.",
+        "en": "I am looking for the way."
+      },
+      "note": null
+    },
+    {
+      "nl": "straat",
+      "en": "street",
+      "pos": "noun",
+      "article": "de",
+      "plural": "straten",
+      "forms": null,
+      "example": {
+        "nl": "De straat is smal.",
+        "en": "The street is narrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "hoek",
+      "en": "corner",
+      "pos": "noun",
+      "article": "de",
+      "plural": "hoeken",
+      "forms": null,
+      "example": {
+        "nl": "Het station is op de hoek.",
+        "en": "The station is on the corner."
+      },
+      "note": null
+    },
+    {
+      "nl": "kruispunt",
+      "en": "intersection",
+      "pos": "noun",
+      "article": "het",
+      "plural": "kruispunten",
+      "forms": null,
+      "example": {
+        "nl": "Bij het kruispunt ga je linksaf.",
+        "en": "At the intersection you go left."
+      },
+      "note": null
+    },
+    {
+      "nl": "stoplicht",
+      "en": "traffic light",
+      "pos": "noun",
+      "article": "het",
+      "plural": "stoplichten",
+      "forms": null,
+      "example": {
+        "nl": "Steek de straat over bij het stoplicht.",
+        "en": "Cross the street at the traffic light."
+      },
+      "note": null
+    },
+    {
+      "nl": "brug",
+      "en": "bridge",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bruggen",
+      "forms": null,
+      "example": {
+        "nl": "De brug is aan de rechterkant.",
+        "en": "The bridge is on the right-hand side."
+      },
+      "note": null
+    },
+    {
+      "nl": "plein",
+      "en": "square",
+      "pos": "noun",
+      "article": "het",
+      "plural": "pleinen",
+      "forms": null,
+      "example": {
+        "nl": "Het plein is groot.",
+        "en": "The square is big."
+      },
+      "note": null
+    },
+    {
+      "nl": "rotonde",
+      "en": "roundabout",
+      "pos": "noun",
+      "article": "de",
+      "plural": "rotondes",
+      "forms": null,
+      "example": {
+        "nl": "Ga bij de rotonde linksaf.",
+        "en": "Go left at the roundabout."
+      },
+      "note": null
+    },
+    {
+      "nl": "links",
+      "en": "left",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De brug is links.",
+        "en": "The bridge is on the left."
+      },
+      "note": null
+    },
+    {
+      "nl": "rechts",
+      "en": "right",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het station is rechts.",
+        "en": "The station is on the right."
+      },
+      "note": null
+    },
+    {
+      "nl": "rechtdoor",
+      "en": "straight ahead",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ga rechtdoor.",
+        "en": "Go straight ahead."
+      },
+      "note": null
+    },
+    {
+      "nl": "linksaf",
+      "en": "to the left",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ga linksaf bij het stoplicht.",
+        "en": "Go left at the traffic light."
+      },
+      "note": null
+    },
+    {
+      "nl": "rechtsaf",
+      "en": "to the right",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Sla rechtsaf bij de brug.",
+        "en": "Turn right at the bridge."
+      },
+      "note": null
+    },
+    {
+      "nl": "oversteken",
+      "en": "to cross",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik steek over, jij steekt over, wij steken over",
+      "example": {
+        "nl": "Steek de straat over.",
+        "en": "Cross the street."
+      },
+      "note": "The verb splits in a sentence: Steek de straat over."
+    },
+    {
+      "nl": "ver",
+      "en": "far",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Is het ver?",
+        "en": "Is it far?"
+      },
+      "note": null
+    },
+    {
+      "nl": "dichtbij",
+      "en": "nearby",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het station is dichtbij.",
+        "en": "The station is nearby."
+      },
+      "note": null
+    },
+    {
+      "nl": "hier",
+      "en": "here",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het station is hier.",
+        "en": "The station is here."
+      },
+      "note": null
+    },
+    {
+      "nl": "daar",
+      "en": "there",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De brug is daar.",
+        "en": "The bridge is there."
+      },
+      "note": null
+    },
+    {
+      "nl": "eerste",
+      "en": "first",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Neem de eerste straat links.",
+        "en": "Take the first street on the left."
+      },
+      "note": null
+    },
+    {
+      "nl": "tweede",
+      "en": "second",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Neem de tweede straat rechts.",
+        "en": "Take the second street on the right."
+      },
+      "note": null
+    },
+    {
+      "nl": "derde",
+      "en": "third",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De derde straat is links.",
+        "en": "The third street is on the left."
+      },
+      "note": null
+    },
+    {
+      "nl": "vierde",
+      "en": "fourth",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De vierde straat is links.",
+        "en": "The fourth street is on the left."
+      },
+      "note": null
+    },
+    {
+      "nl": "vijfde",
+      "en": "fifth",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De vijfde straat is rechts.",
+        "en": "The fifth street is on the right."
+      },
+      "note": null
+    },
+    {
+      "nl": "tiende",
+      "en": "tenth",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Neem de tiende straat rechts.",
+        "en": "Take the tenth street on the right."
+      },
+      "note": null
+    },
+    {
+      "nl": "twintigste",
+      "en": "twentieth",
+      "pos": "num",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De twintigste straat is ver.",
+        "en": "The twentieth street is far."
+      },
+      "note": null
+    },
+    {
+      "nl": "kaart",
+      "en": "map",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kaarten",
+      "forms": null,
+      "example": {
+        "nl": "Op de kaart is het station dichtbij.",
+        "en": "On the map, the station is nearby."
+      },
+      "note": "You already know de kaart as 'menu'; here it means 'map'."
+    },
+    {
+      "nl": "lopen",
+      "en": "to walk",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik loop, jij loopt, wij lopen",
+      "example": {
+        "nl": "We lopen tien minuten.",
+        "en": "We walk for ten minutes."
+      },
+      "note": null
+    },
+    {
+      "nl": "zoeken",
+      "en": "to look for",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zoek, jij zoekt, wij zoeken",
+      "example": {
+        "nl": "Ik zoek het station.",
+        "en": "I am looking for the station."
+      },
+      "note": "You already know zoeken; here you use it for looking for a place."
+    },
+    {
+      "nl": "station",
+      "en": "train station",
+      "pos": "noun",
+      "article": "het",
+      "plural": "stations",
+      "forms": null,
+      "example": {
+        "nl": "Waar is het station?",
+        "en": "Where is the train station?"
+      },
+      "note": null
+    },
+    {
+      "nl": "helpen",
+      "en": "to help",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik help, jij helpt, wij helpen",
+      "example": {
+        "nl": "Kan ik u helpen?",
+        "en": "Can I help you?"
+      },
+      "note": "Useful when you offer help to someone."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Waar is het station?",
+      "en": "Where is the train station?",
+      "note": "Use this when you are lost."
+    },
+    {
+      "nl": "Is het ver?",
+      "en": "Is it far?",
+      "note": null
+    },
+    {
+      "nl": "Ga rechtdoor.",
+      "en": "Go straight ahead.",
+      "note": null
+    },
+    {
+      "nl": "Neem de eerste straat links.",
+      "en": "Take the first street on the left.",
+      "note": "Neem is the imperative of nemen."
+    },
+    {
+      "nl": "Sla rechtsaf.",
+      "en": "Turn right.",
+      "note": "From slaan; the imperative is sla."
+    },
+    {
+      "nl": "Aan de rechterkant.",
+      "en": "On the right-hand side.",
+      "note": null
+    },
+    {
+      "nl": "Steek de straat over.",
+      "en": "Cross the street.",
+      "note": "Oversteken splits: steek ... over."
+    },
+    {
+      "nl": "Ik zoek de weg.",
+      "en": "I am looking for the way.",
+      "note": "Use this when you are lost."
+    },
+    {
+      "nl": "Het is dichtbij.",
+      "en": "It is nearby.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Directions: left, right, straight on",
+      "explanation": "Use **links** and **rechts** for left and right, and **rechtdoor** for straight ahead. **Linksaf** and **rechtsaf** mean 'to the left' and 'to the right' when you turn. For a street, say **de eerste straat links** or **de tweede straat rechts**.",
+      "table": {
+        "headers": [
+          "Direction",
+          "Dutch",
+          "Example"
+        ],
+        "rows": [
+          [
+            "straight ahead",
+            "rechtdoor",
+            "Ga rechtdoor."
+          ],
+          [
+            "left",
+            "links / linksaf",
+            "De brug is links. / Ga linksaf."
+          ],
+          [
+            "right",
+            "rechts / rechtsaf",
+            "Het station is rechts. / Sla rechtsaf."
+          ],
+          [
+            "on the right-hand side",
+            "aan de rechterkant",
+            "Het station is aan de rechterkant."
+          ],
+          [
+            "first street on the left",
+            "de eerste straat links",
+            "Neem de eerste straat links."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ga rechtdoor bij het stoplicht.",
+          "en": "Go straight ahead at the traffic light."
+        },
+        {
+          "nl": "Neem de tweede straat rechts.",
+          "en": "Take the second street on the right."
+        },
+        {
+          "nl": "Het station is aan de rechterkant.",
+          "en": "The station is on the right-hand side."
+        }
+      ],
+      "tip": "In Dutch, **rechtsaf** is one word; do not write 'rechts af'."
+    },
+    {
+      "title": "Ordinal numbers: eerste, tweede, derde...",
+      "explanation": "Use ordinal numbers to count streets and floors: **de eerste straat**, **de tweede straat**. Most ordinals up to 19 end in **-de**; 8 is **achtste**. From 20 they end in **-ste**. The first three are irregular: **eerste**, **tweede**, **derde**.",
+      "table": {
+        "headers": [
+          "Number",
+          "Ordinal",
+          "Example"
+        ],
+        "rows": [
+          [
+            "1",
+            "eerste",
+            "de eerste straat"
+          ],
+          [
+            "2",
+            "tweede",
+            "de tweede straat"
+          ],
+          [
+            "3",
+            "derde",
+            "de derde straat"
+          ],
+          [
+            "4",
+            "vierde",
+            "de vierde straat"
+          ],
+          [
+            "5",
+            "vijfde",
+            "de vijfde straat"
+          ],
+          [
+            "10",
+            "tiende",
+            "de tiende straat"
+          ],
+          [
+            "20",
+            "twintigste",
+            "de twintigste straat"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Neem de eerste straat links.",
+          "en": "Take the first street on the left."
+        },
+        {
+          "nl": "Neem de tweede straat rechts; het station is daar.",
+          "en": "Take the second street on the right; the station is there."
+        },
+        {
+          "nl": "De twintigste straat is ver.",
+          "en": "The twentieth street is far."
+        }
+      ],
+      "tip": "Ordinals often come before the noun: **de tweede straat**, not 'de straat tweede'."
+    },
+    {
+      "title": "The imperative in directions",
+      "explanation": "For directions, use the imperative: the verb without **ik**. **Ga** rechtdoor, **neem** de eerste straat links, **steek** de straat over. With polite **u**, you can add **-t**: **Gaat u** rechtdoor, **Neemt u** de tweede straat rechts.",
+      "table": {
+        "headers": [
+          "Infinitive",
+          "Imperative (je)",
+          "Polite (u)"
+        ],
+        "rows": [
+          [
+            "gaan",
+            "Ga rechtdoor.",
+            "Gaat u rechtdoor."
+          ],
+          [
+            "nemen",
+            "Neem de eerste straat links.",
+            "Neemt u de eerste straat links."
+          ],
+          [
+            "slaan",
+            "Sla rechtsaf.",
+            "Slaat u rechtsaf."
+          ],
+          [
+            "oversteken",
+            "Steek de straat over.",
+            "Steekt u de straat over."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ga rechtdoor en neem de tweede straat rechts.",
+          "en": "Go straight ahead and take the second street on the right."
+        },
+        {
+          "nl": "Steek de straat over bij het stoplicht.",
+          "en": "Cross the street at the traffic light."
+        },
+        {
+          "nl": "Gaat u linksaf bij de brug.",
+          "en": "Go left at the bridge (polite)."
+        }
+      ],
+      "tip": "The imperative has no subject: **Ga rechtdoor**, not 'Jij gaat rechtdoor' when you give directions."
+    }
+  ],
+  "dialogue": {
+    "title": "Waar is het station?",
+    "setting": "Emma is lost in Delft and asks a passer-by for the train station.",
+    "speakers": [
+      {
+        "name": "Emma",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Emma",
+        "nl": "Goedemiddag, mag ik iets vragen?",
+        "en": "Good afternoon, may I ask something?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, natuurlijk.",
+        "en": "Yes, of course."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Waar is het station?",
+        "en": "Where is the train station?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Het station? Ga rechtdoor. Neem de tweede straat rechts.",
+        "en": "The station? Go straight ahead. Take the second street on the right."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Is het ver?",
+        "en": "Is it far?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Nee, het is dichtbij. Het is tien minuten lopen.",
+        "en": "No, it is nearby. It is a ten-minute walk."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "En bij het kruispunt?",
+        "en": "And at the intersection?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Bij het kruispunt ga je linksaf. Steek de straat over bij het stoplicht.",
+        "en": "At the intersection you go left. Cross the street at the traffic light."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Is het aan de rechterkant?",
+        "en": "Is it on the right-hand side?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, het station is aan de rechterkant, bij de brug.",
+        "en": "Yes, the station is on the right-hand side, near the bridge."
+      },
+      {
+        "speaker": "Emma",
+        "nl": "Dank u wel!",
+        "en": "Thank you!"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Graag gedaan. Tot ziens!",
+        "en": "You're welcome. Goodbye!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de weg",
+          "the way"
+        ],
+        [
+          "de hoek",
+          "the corner"
+        ],
+        [
+          "het stoplicht",
+          "the traffic light"
+        ],
+        [
+          "de brug",
+          "the bridge"
+        ],
+        [
+          "het station",
+          "the train station"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "rechtdoor",
+          "straight ahead"
+        ],
+        [
+          "linksaf",
+          "to the left"
+        ],
+        [
+          "rechtsaf",
+          "to the right"
+        ],
+        [
+          "dichtbij",
+          "nearby"
+        ],
+        [
+          "ver",
+          "far"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'the map'?",
+      "nl": null,
+      "options": [
+        "de kaart",
+        "de straat",
+        "de weg",
+        "de brug"
+      ],
+      "answer": 0,
+      "explain": "De kaart means the map (or the menu)."
+    },
+    {
+      "type": "choice",
+      "prompt": "What do you say when you want to know where the station is?",
+      "nl": null,
+      "options": [
+        "Waar is het station?",
+        "Is het station dichtbij?",
+        "Het station is daar.",
+        "Neem de tweede straat."
+      ],
+      "answer": 0,
+      "explain": "Waar is het station? asks for the location."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence asks about the distance?",
+      "nl": null,
+      "options": [
+        "Is het ver?",
+        "Waar is de brug?",
+        "Neem de eerste straat links.",
+        "Het station is rechts."
+      ],
+      "answer": 0,
+      "explain": "Is het ver? asks if something is far."
+    },
+    {
+      "type": "article",
+      "word": "kruispunt",
+      "en": "intersection",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "rotonde",
+      "en": "roundabout",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "Take the first street on the left.",
+      "answer": "Neem de eerste straat links",
+      "accept": [],
+      "extra": [
+        "neemt",
+        "gaat"
+      ],
+      "explain": "Use the imperative **Neem** for directions. The ordinal **eerste** comes before **straat**: **Neem de eerste straat links.**"
+    },
+    {
+      "type": "build",
+      "en": "The station is on the right-hand side.",
+      "answer": "Het station is aan de rechterkant",
+      "accept": [
+        "Aan de rechterkant is het station"
+      ],
+      "extra": [
+        "een",
+        "op"
+      ],
+      "explain": "The phrase for 'on the right-hand side' is **aan de rechterkant**. **Station** is a het-word: **Het station is aan de rechterkant.**"
+    },
+    {
+      "type": "build",
+      "en": "Go straight ahead and cross the street.",
+      "answer": "Ga rechtdoor en steek de straat over",
+      "accept": [
+        "Steek de straat over en ga rechtdoor"
+      ],
+      "extra": [
+        "gaat",
+        "bij"
+      ],
+      "explain": "Use the imperatives **Ga** and **Steek ... over**. **Oversteken** splits: **steek de straat over**."
+    },
+    {
+      "type": "gap",
+      "text": "___ rechtdoor bij het stoplicht.",
+      "en": "Go straight ahead at the traffic light.",
+      "answers": [
+        "Ga",
+        "Gaat u"
+      ],
+      "hint": "gaan (imperative)",
+      "explain": "Use the imperative **Ga** (or polite **Gaat u**) for directions; do not add a subject pronoun: **Ga rechtdoor.**"
+    },
+    {
+      "type": "gap",
+      "text": "Neem de ___ straat links.",
+      "en": "Take the first street on the left.",
+      "answers": [
+        "eerste"
+      ],
+      "hint": "first",
+      "explain": "The ordinal for 'first' is **eerste**, before the noun: **de eerste straat**."
+    },
+    {
+      "type": "gap",
+      "text": "Het station is aan de ___.",
+      "en": "The station is on the right-hand side.",
+      "answers": [
+        "rechterkant"
+      ],
+      "hint": "right-hand side",
+      "explain": "The set phrase is **aan de rechterkant** (on the right-hand side)."
+    },
+    {
+      "type": "translate",
+      "en": "Where is the station?",
+      "answers": [
+        "Waar is het station?",
+        "Waar is het station"
+      ],
+      "focus": "Waar is ...?",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the verb at the end after 'Waar' (e.g. 'Waar het station is?')",
+          "explain": "In a question with **waar**, the verb comes second: **Waar is het station?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits the article 'het' before 'station' (e.g. 'Waar is station?')",
+          "explain": "**Station** is a het-word, so use **het station**: **Waar is het station?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'de' with 'station' (e.g. 'Waar is de station?')",
+          "explain": "It is **het station**, not 'de station'. Say **Waar is het station?**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The station is nearby.",
+      "answers": [
+        "Het station is dichtbij",
+        "Het station is dichtbij."
+      ],
+      "focus": "dichtbij",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'ver' for 'nearby' (e.g. 'Het station is ver.')",
+          "explain": "**Ver** means far; nearby is **dichtbij**: **Het station is dichtbij.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds 'niet', giving the opposite (e.g. 'Het station is niet dichtbij.')",
+          "explain": "That means the station is not nearby. Say **Het station is dichtbij.**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'de' with 'station' (e.g. 'De station is dichtbij.')",
+          "explain": "It is **het station**: **Het station is dichtbij.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits the article 'het' (e.g. 'Station is dichtbij.')",
+          "explain": "Use the article: **Het station is dichtbij.**"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Take the second street on the right.",
+      "answers": [
+        "Neem de tweede straat rechts",
+        "Neem de tweede straat rechts.",
+        "Neem de tweede straat aan de rechterkant"
+      ],
+      "focus": "imperative + ordinal + rechts",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the infinitive 'nemen' instead of the imperative (e.g. 'Nemen de tweede straat rechts.')",
+          "explain": "For directions use the imperative **neem**: **Neem de tweede straat rechts.**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the ordinal after the noun (e.g. 'Neem de straat tweede rechts.')",
+          "explain": "Ordinals come before the noun: **de tweede straat**."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'recht' for 'on the right' (e.g. 'Neem de tweede straat recht.')",
+          "explain": "Use **rechts** for 'on the right': **Neem de tweede straat rechts.**"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'aan de rechts' (e.g. 'Neem de tweede straat aan de rechts.')",
+          "explain": "Say **rechts** or **aan de rechterkant**, not 'aan de rechts': **Neem de tweede straat rechts.**"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ga rechtdoor en neem de tweede straat rechts.",
+      "en": "Go straight ahead and take the second street on the right."
+    },
+    {
+      "type": "listen",
+      "nl": "Het station is dichtbij, aan de rechterkant.",
+      "en": "The station is nearby, on the right-hand side."
+    },
+    {
+      "type": "reply",
+      "context": "You are in Delft. You stop a woman on the street.",
+      "say": {
+        "nl": "Goedemiddag, kan ik u helpen?",
+        "en": "Good afternoon, can I help you?"
+      },
+      "task": "Ask where the train station is.",
+      "examples": [
+        "Waar is het station?",
+        "Mag ik iets vragen? Waar is het station?",
+        "Goedemiddag. Waar is het station?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the verb at the end after 'Waar' (e.g. 'Waar het station is?')",
+          "explain": "In a question with **waar**, the verb comes second: **Waar is het station?**"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'het' before 'station' (e.g. 'Waar is station?')",
+          "explain": "Use **het station**: **Waar is het station?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'de' with 'station' (e.g. 'Waar is de station?')",
+          "explain": "It is **het station**: **Waar is het station?**"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The woman says the station is not far. You want to know which street to take.",
+      "say": {
+        "nl": "Het is niet ver. Ga rechtdoor.",
+        "en": "It is not far. Go straight ahead."
+      },
+      "task": "Ask if you take the first or second street on the right.",
+      "examples": [
+        "Is het de eerste of de tweede straat rechts?",
+        "Neem ik de eerste of de tweede straat rechts?",
+        "Moet ik de tweede straat rechts nemen?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Omits 'de' before 'eerste' (e.g. 'Is het eerste of de tweede straat rechts?')",
+          "explain": "Repeat the article with each ordinal: **de eerste of de tweede straat**."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the infinitive before the object after 'moet ik' (e.g. 'Moet ik nemen de tweede straat rechts?')",
+          "explain": "With **moet ik**, the infinitive **nemen** goes at the end: **Moet ik de tweede straat rechts nemen?**"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'aan rechts' instead of 'rechts' (e.g. 'Neem ik de eerste of de tweede straat aan rechts?')",
+          "explain": "Say **rechts** or **aan de rechterkant**, not 'aan rechts'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Waar is het station?",
+    "setting": "You are in Delft and you cannot find the train station. You ask a friendly passer-by for help.",
+    "partner": {
+      "name": "Daan",
+      "gender": "m",
+      "role": "a friendly passer-by in Delft"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag! Kan ik u helpen?",
+          "en": "Good afternoon! Can I help you?"
+        },
+        "task": "Greet him and ask where the train station is.",
+        "examples": [
+          "Goedemiddag. Waar is het station?",
+          "Goedemiddag, mag ik iets vragen? Waar is het station?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the verb at the end after 'Waar' (e.g. 'Waar het station is?')",
+            "explain": "In a question with **waar**, the verb comes second: **Waar is het station?**"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits 'het' before 'station' (e.g. 'Waar is station?')",
+            "explain": "Use **het station**: **Waar is het station?**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'de' with 'station' (e.g. 'Waar is de station?')",
+            "explain": "It is **het station**: **Waar is het station?**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Het station? Het is niet ver. Ga hier rechtdoor.",
+          "en": "The station? It is not far. Go straight ahead here."
+        },
+        "task": "Ask if you need to take the first or second street on the right.",
+        "examples": [
+          "Is het de eerste of de tweede straat rechts?",
+          "Neem ik de eerste of de tweede straat rechts?",
+          "Moet ik de tweede straat rechts nemen?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits 'de' before 'eerste' (e.g. 'Is het eerste of de tweede straat rechts?')",
+            "explain": "Repeat the article with each ordinal: **de eerste of de tweede straat**."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts 'nemen' before the object after 'moet ik' (e.g. 'Moet ik nemen de eerste of de tweede straat rechts?')",
+            "explain": "With **moet ik**, the infinitive **nemen** goes at the end: **Moet ik de eerste of de tweede straat rechts nemen?**"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'recht' for 'right' (e.g. 'Is het de eerste of de tweede straat recht?')",
+            "explain": "Use **rechts** for 'on the right': **Is het de eerste of de tweede straat rechts?**"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Nee, niet de eerste. Neem de tweede straat rechts. Daarna ga je linksaf bij het stoplicht.",
+          "en": "No, not the first. Take the second street on the right. Then go left at the traffic light."
+        },
+        "task": "Ask if the station is on the left or on the right near the bridge.",
+        "examples": [
+          "Is het station links of rechts bij de brug?",
+          "Is het station links of rechts, bij de brug?",
+          "Is het station aan de rechterkant bij de brug?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'aan de links' or 'aan de rechts' (e.g. 'Is het station aan de links of aan de rechts bij de brug?')",
+            "explain": "Say **links of rechts**, not 'aan de links/rechts'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits 'de' before 'brug' (e.g. 'Is het station links of rechts bij brug?')",
+            "explain": "**Brug** is a de-word: **bij de brug**."
+          },
+          {
+            "id": "m3",
+            "pattern": "Writes 'rechterkant' as two words (e.g. 'Is het station aan de rechter kant bij de brug?')",
+            "explain": "**rechterkant** is one word: **aan de rechterkant**."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Aan de rechterkant, bij de brug. Het is dichtbij!",
+          "en": "On the right-hand side, near the bridge. It is nearby!"
+        },
+        "task": "Thank him and say goodbye.",
+        "examples": [
+          "Dank u wel! Tot ziens.",
+          "Dank u wel. Tot ziens!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'Tot morgen' as a general goodbye (e.g. 'Dank u wel. Tot morgen.')",
+            "explain": "Use **Tot ziens** for a general goodbye; **tot morgen** means until tomorrow."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses a greeting instead of a goodbye (e.g. 'Dank u wel. Goedemiddag.')",
+            "explain": "After thanking, say **Tot ziens** to say goodbye."
+          },
+          {
+            "id": "m3",
+            "pattern": "Answers with 'Graag gedaan' as the learner (e.g. 'Dank u wel. Graag gedaan.')",
+            "explain": "**Graag gedaan** means 'you're welcome'; to close, say **Tot ziens**."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Graag gedaan. Tot ziens!",
+      "en": "You're welcome. Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Watch out for bike lanes",
+    "text": "In Dutch towns, red asphalt often marks a cycle path. Cyclists have priority there, so look both ways before you cross and do not stand on the red path. Walk on the pavement and cross at a crossing or traffic light when you can."
+  },
+  "summary": [
+    "Ask **Waar is het station?** when you are lost.",
+    "Use **rechtdoor**, **linksaf** and **rechtsaf** for simple directions.",
+    "Use ordinals to choose a street: **de eerste straat links**, **de tweede straat rechts**.",
+    "Use the imperative for directions: **Ga**, **Neem**, **Steek**."
+  ]
+}

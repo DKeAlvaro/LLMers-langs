@@ -1,0 +1,1146 @@
+{
+  "id": "u08-l05",
+  "title": "Om Nederlands te leren",
+  "subtitle": "Learning and te + infinitive",
+  "level": "A2",
+  "intro": "In this lesson you will learn to give a reason with om ... te and to use common verbs with te, such as proberen te and vergeten te. You will also practise talking about learning Dutch, courses and exams. By the end, you can say why you are learning Dutch and what you do to remember new words.",
+  "words": [
+    {
+      "nl": "taal",
+      "en": "language",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de talen",
+      "forms": null,
+      "example": {
+        "nl": "Nederlands is een moeilijke taal.",
+        "en": "Dutch is a difficult language."
+      },
+      "note": null
+    },
+    {
+      "nl": "les",
+      "en": "lesson",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de lessen",
+      "forms": null,
+      "example": {
+        "nl": "De les begint om negen uur.",
+        "en": "The lesson starts at nine o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "cursus",
+      "en": "course",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de cursussen",
+      "forms": null,
+      "example": {
+        "nl": "Ik doe een cursus Nederlands.",
+        "en": "I am taking a Dutch course."
+      },
+      "note": "You saw de cursus in the job lesson; here it is a language course."
+    },
+    {
+      "nl": "docent",
+      "en": "teacher",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de docenten",
+      "forms": null,
+      "example": {
+        "nl": "De docent spreekt Nederlands.",
+        "en": "The teacher speaks Dutch."
+      },
+      "note": null
+    },
+    {
+      "nl": "grammatica",
+      "en": "grammar",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De grammatica is moeilijk.",
+        "en": "The grammar is difficult."
+      },
+      "note": null
+    },
+    {
+      "nl": "uitspraak",
+      "en": "pronunciation",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De uitspraak is moeilijk.",
+        "en": "The pronunciation is difficult."
+      },
+      "note": null
+    },
+    {
+      "nl": "woord",
+      "en": "word",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de woorden",
+      "forms": null,
+      "example": {
+        "nl": "Ik ken het woord niet.",
+        "en": "I do not know the word."
+      },
+      "note": null
+    },
+    {
+      "nl": "zin",
+      "en": "sentence",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de zinnen",
+      "forms": null,
+      "example": {
+        "nl": "Maak een zin met 'omdat'.",
+        "en": "Make a sentence with 'omdat'."
+      },
+      "note": null
+    },
+    {
+      "nl": "woordenboek",
+      "en": "dictionary",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de woordenboeken",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een woordenboek.",
+        "en": "I have a dictionary."
+      },
+      "note": null
+    },
+    {
+      "nl": "fout",
+      "en": "mistake",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de fouten",
+      "forms": null,
+      "example": {
+        "nl": "Ik maak veel fouten.",
+        "en": "I make many mistakes."
+      },
+      "note": null
+    },
+    {
+      "nl": "leren",
+      "en": "to learn",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik leer, jij leert, wij leren; (heeft geleerd)",
+      "example": {
+        "nl": "Ik leer Nederlands om hier te werken.",
+        "en": "I am learning Dutch to work here."
+      },
+      "note": "You already know leren; here it is used with om ... te to explain why you learn something."
+    },
+    {
+      "nl": "studeren",
+      "en": "to study",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik studeer, jij studeert, wij studeren; (heeft gestudeerd)",
+      "example": {
+        "nl": "Zij studeert elke avond.",
+        "en": "She studies every evening."
+      },
+      "note": "You already know studeren; it is not followed by te when it means 'to study'."
+    },
+    {
+      "nl": "oefenen",
+      "en": "to practise",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik oefen, jij oefent, wij oefenen; (heeft geoefend)",
+      "example": {
+        "nl": "Ik oefen elke dag met de woorden.",
+        "en": "I practise with the words every day."
+      },
+      "note": null
+    },
+    {
+      "nl": "herhalen",
+      "en": "to repeat",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik herhaal, jij herhaalt, wij herhalen; (heeft herhaald)",
+      "example": {
+        "nl": "Kun je dat nog een keer herhalen?",
+        "en": "Can you repeat that one more time?"
+      },
+      "note": "You know herhalen; here it is about repeating words for practice."
+    },
+    {
+      "nl": "onthouden",
+      "en": "to remember",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik onthoud, jij onthoudt, wij onthouden; (heeft onthouden)",
+      "example": {
+        "nl": "Ik kan de woorden niet onthouden.",
+        "en": "I cannot remember the words."
+      },
+      "note": "onthouden = to keep in your memory; vergeten is the opposite."
+    },
+    {
+      "nl": "proberen",
+      "en": "to try",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik probeer, jij probeert, wij proberen; (heeft geprobeerd)",
+      "example": {
+        "nl": "Ik probeer de woorden te onthouden.",
+        "en": "I try to remember the words."
+      },
+      "note": "Often followed by te + infinitive: proberen te ..."
+    },
+    {
+      "nl": "beginnen",
+      "en": "to begin",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik begin, jij begint, wij beginnen; (is begonnen)",
+      "example": {
+        "nl": "We beginnen om negen uur.",
+        "en": "We begin at nine o'clock."
+      },
+      "note": "With te + infinitive it means 'to start doing something': Ik begin te begrijpen."
+    },
+    {
+      "nl": "vergeten",
+      "en": "to forget",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vergeet, jij vergeet, wij vergeten; (is vergeten)",
+      "example": {
+        "nl": "Ik ben vergeten te oefenen.",
+        "en": "I forgot to practise."
+      },
+      "note": "You already know vergeten; with te it means 'to forget to do something'."
+    },
+    {
+      "nl": "verbeteren",
+      "en": "to correct",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verbeter, jij verbetert, wij verbeteren; (heeft verbeterd)",
+      "example": {
+        "nl": "De docent verbetert mijn zinnen.",
+        "en": "The teacher corrects my sentences."
+      },
+      "note": null
+    },
+    {
+      "nl": "slagen",
+      "en": "to pass (an exam)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik slaag, jij slaagt, wij slagen; (is geslaagd)",
+      "example": {
+        "nl": "Ik hoop te slagen voor het examen.",
+        "en": "I hope to pass the exam."
+      },
+      "note": "slagen voor het examen = to pass the exam."
+    },
+    {
+      "nl": "zakken",
+      "en": "to fail (an exam)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik zak, jij zakt, wij zakken; (is gezakt)",
+      "example": {
+        "nl": "Hij is gezakt voor de toets.",
+        "en": "He failed the test."
+      },
+      "note": "zakken voor = to fail an exam; the opposite of slagen voor."
+    },
+    {
+      "nl": "toets",
+      "en": "test",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de toetsen",
+      "forms": null,
+      "example": {
+        "nl": "We hebben morgen een toets.",
+        "en": "We have a test tomorrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "examen",
+      "en": "exam",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de examens",
+      "forms": null,
+      "example": {
+        "nl": "Het examen is in juni.",
+        "en": "The exam is in June."
+      },
+      "note": null
+    },
+    {
+      "nl": "inburgeringsexamen",
+      "en": "integration exam",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de inburgeringsexamens",
+      "forms": null,
+      "example": {
+        "nl": "Zij doet het inburgeringsexamen.",
+        "en": "She is taking the integration exam."
+      },
+      "note": "The official exam for newcomers in the Netherlands."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "om Nederlands te leren",
+      "en": "to learn Dutch",
+      "note": "om + rest + te + infinitive"
+    },
+    {
+      "nl": "Ik leer Nederlands om hier te werken.",
+      "en": "I am learning Dutch to work here.",
+      "note": null
+    },
+    {
+      "nl": "Ik probeer de woorden te onthouden.",
+      "en": "I try to remember the words.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben vergeten te oefenen.",
+      "en": "I forgot to practise.",
+      "note": null
+    },
+    {
+      "nl": "Ik hoop te slagen voor het examen.",
+      "en": "I hope to pass the exam.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben van plan om een cursus te doen.",
+      "en": "I plan to take a course.",
+      "note": "van plan zijn om ... te"
+    },
+    {
+      "nl": "Het is belangrijk om elke dag te oefenen.",
+      "en": "It is important to practise every day.",
+      "note": null
+    },
+    {
+      "nl": "Wat is het woord voor ...?",
+      "en": "What is the word for ...?",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Purpose: om ... te + infinitive",
+      "explanation": "Use **om ... te** to say why you do something. Other words in the purpose go between **om** and **te**, and the infinitive goes at the end. If there are no other words in the purpose, use **om te** + infinitive.",
+      "table": {
+        "headers": [
+          "Pattern",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Main verb + ... + **om** + rest + **te** + infinitive",
+            "Ik leer Nederlands **om** hier **te** werken."
+          ],
+          [
+            "No other words: **om te** + infinitive",
+            "Ik oefen **om te** slagen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik leer Nederlands om hier te werken.",
+          "en": "I am learning Dutch to work here."
+        },
+        {
+          "nl": "Zij oefent elke dag om te slagen.",
+          "en": "She practises every day to pass."
+        },
+        {
+          "nl": "We leren Nederlands om met onze collega's te praten.",
+          "en": "We are learning Dutch to talk with our colleagues."
+        }
+      ],
+      "tip": "If the purpose has no other words, om te + infinitive is enough: Ik oefen om te slagen. The infinitive always comes at the end."
+    },
+    {
+      "title": "Verbs that take te",
+      "explanation": "Some verbs are followed by **te** + infinitive: **proberen**, **beginnen**, **vergeten**, **hopen**. The **te**-infinitive goes at the end. With **van plan zijn**, use **om ... te**.",
+      "table": {
+        "headers": [
+          "Verb",
+          "Example"
+        ],
+        "rows": [
+          [
+            "proberen",
+            "Ik probeer de woorden **te** onthouden."
+          ],
+          [
+            "beginnen",
+            "We beginnen **te** begrijpen."
+          ],
+          [
+            "vergeten",
+            "Ik ben vergeten **te** oefenen."
+          ],
+          [
+            "hopen",
+            "Ik hoop **te** slagen."
+          ],
+          [
+            "van plan zijn",
+            "Ik ben van plan **om** een cursus **te** doen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik probeer de woorden te onthouden.",
+          "en": "I try to remember the words."
+        },
+        {
+          "nl": "We beginnen te begrijpen.",
+          "en": "We are beginning to understand."
+        },
+        {
+          "nl": "Ik ben vergeten te oefenen.",
+          "en": "I forgot to practise."
+        }
+      ],
+      "tip": "Learn the pattern: verb + rest + te + infinitive: Ik probeer de woorden te onthouden."
+    },
+    {
+      "title": "No te after modal verbs",
+      "explanation": "After modal verbs like **willen**, **kunnen**, **moeten**, **mogen** and **zullen**, use the infinitive without **te**. **Gaan** + infinitive also takes no **te**.",
+      "table": {
+        "headers": [
+          "Correct",
+          "Wrong"
+        ],
+        "rows": [
+          [
+            "Ik wil Nederlands leren.",
+            "Ik wil te leren."
+          ],
+          [
+            "Je kunt het woord onthouden.",
+            "Je kunt het woord te onthouden."
+          ],
+          [
+            "We moeten elke dag oefenen.",
+            "We moeten elke dag te oefenen."
+          ],
+          [
+            "Ik ga een woordenboek kopen.",
+            "Ik ga een woordenboek te kopen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik wil Nederlands leren.",
+          "en": "I want to learn Dutch."
+        },
+        {
+          "nl": "Je moet elke dag oefenen.",
+          "en": "You must practise every day."
+        },
+        {
+          "nl": "We gaan morgen beginnen.",
+          "en": "We are going to begin tomorrow."
+        }
+      ],
+      "tip": "If there is a modal verb, stop before te: Ik wil leren, not Ik wil te leren."
+    }
+  ],
+  "dialogue": {
+    "title": "Een gesprek op de taalschool",
+    "setting": "You are at a language school for an intake and tell the teacher why you want to learn Dutch.",
+    "speakers": [
+      {
+        "name": "Docent",
+        "gender": "f"
+      },
+      {
+        "name": "Karim",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Docent",
+        "nl": "Goedemorgen. Kom binnen. Wat is je naam?",
+        "en": "Good morning. Come in. What is your name?"
+      },
+      {
+        "speaker": "Karim",
+        "nl": "Goedemorgen. Ik ben Karim. Ik heb een afspraak.",
+        "en": "Good morning. I am Karim. I have an appointment."
+      },
+      {
+        "speaker": "Docent",
+        "nl": "Ja, ga zitten. Waarom wil je Nederlands leren?",
+        "en": "Yes, sit down. Why do you want to learn Dutch?"
+      },
+      {
+        "speaker": "Karim",
+        "nl": "Ik leer Nederlands om hier te werken. Ik ben verpleegkundige.",
+        "en": "I am learning Dutch to work here. I am a nurse."
+      },
+      {
+        "speaker": "Docent",
+        "nl": "Mooi. En heb je al Nederlands geleerd?",
+        "en": "Nice. And have you already learned Dutch?"
+      },
+      {
+        "speaker": "Karim",
+        "nl": "Een beetje. Ik oefen thuis, maar ik maak nog veel fouten.",
+        "en": "A little. I practise at home, but I still make many mistakes."
+      },
+      {
+        "speaker": "Docent",
+        "nl": "Dat is goed. We beginnen met de uitspraak en de grammatica.",
+        "en": "That is good. We begin with pronunciation and grammar."
+      },
+      {
+        "speaker": "Karim",
+        "nl": "Ik wil ook het inburgeringsexamen doen. Ik hoop te slagen.",
+        "en": "I also want to take the integration exam. I hope to pass."
+      },
+      {
+        "speaker": "Docent",
+        "nl": "Dan moet je elke dag woorden herhalen. Probeer ook in het Nederlands te praten.",
+        "en": "Then you must repeat words every day. Try to talk in Dutch too."
+      },
+      {
+        "speaker": "Karim",
+        "nl": "Dat is moeilijk, maar ik probeer het.",
+        "en": "That is difficult, but I am trying."
+      },
+      {
+        "speaker": "Docent",
+        "nl": "Goed. De les is op maandag en woensdag. Heb je een woordenboek?",
+        "en": "Good. The lesson is on Monday and Wednesday. Do you have a dictionary?"
+      },
+      {
+        "speaker": "Karim",
+        "nl": "Nee, nog niet. Ik ga een woordenboek kopen.",
+        "en": "No, not yet. I am going to buy a dictionary."
+      },
+      {
+        "speaker": "Docent",
+        "nl": "Prima. Dan zie ik je maandag!",
+        "en": "Great. Then I will see you on Monday!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de docent",
+          "the teacher"
+        ],
+        [
+          "de uitspraak",
+          "pronunciation"
+        ],
+        [
+          "het woordenboek",
+          "dictionary"
+        ],
+        [
+          "de fout",
+          "mistake"
+        ],
+        [
+          "slagen",
+          "to pass (an exam)"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "oefenen",
+          "to practise"
+        ],
+        [
+          "onthouden",
+          "to remember"
+        ],
+        [
+          "proberen",
+          "to try"
+        ],
+        [
+          "verbeteren",
+          "to correct"
+        ],
+        [
+          "zakken",
+          "to fail (an exam)"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik wil te leren.",
+        "Ik wil leren.",
+        "Ik wil leren te."
+      ],
+      "answer": 1,
+      "explain": "After willen, use the infinitive without te."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence gives a purpose?",
+      "nl": null,
+      "options": [
+        "Ik leer Nederlands om hier te werken.",
+        "Ik leer Nederlands voor hier te werken.",
+        "Ik leer Nederlands om hier werken te."
+      ],
+      "answer": 0,
+      "explain": "A purpose uses om ... te, with te before the infinitive at the end."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik probeer te onthouden de woorden.",
+        "Ik probeer de woorden te onthouden.",
+        "Ik probeer de woorden onthouden te."
+      ],
+      "answer": 1,
+      "explain": "With proberen, put the object before te and the infinitive at the end."
+    },
+    {
+      "type": "article",
+      "word": "woord",
+      "en": "word",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "toets",
+      "en": "test",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I am learning Dutch to work here.",
+      "answer": "Ik leer Nederlands om hier te werken.",
+      "accept": [
+        "Om hier te werken leer ik Nederlands."
+      ],
+      "extra": [
+        "werkt"
+      ],
+      "explain": "Use om ... te for a purpose, with the infinitive werken at the end: om hier te werken."
+    },
+    {
+      "type": "build",
+      "en": "I try to remember the words.",
+      "answer": "Ik probeer de woorden te onthouden.",
+      "accept": [
+        "De woorden probeer ik te onthouden."
+      ],
+      "extra": [
+        "probeert"
+      ],
+      "explain": "After proberen, use te + infinitive at the end: de woorden te onthouden."
+    },
+    {
+      "type": "build",
+      "en": "We are beginning to understand.",
+      "answer": "We beginnen te begrijpen.",
+      "accept": [],
+      "extra": [
+        "begint",
+        "begrepen"
+      ],
+      "explain": "With we, use beginnen and te + infinitive: We beginnen te begrijpen."
+    },
+    {
+      "type": "gap",
+      "text": "Ik leer Nederlands ___ hier te werken.",
+      "en": "I am learning Dutch to work here.",
+      "answers": [
+        "om"
+      ],
+      "hint": "purpose word",
+      "explain": "Use om ... te to give a purpose: om hier te werken."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ben vergeten ___ oefenen.",
+      "en": "I forgot to practise.",
+      "answers": [
+        "te"
+      ],
+      "hint": "word before the infinitive",
+      "explain": "After vergeten, use te + infinitive: vergeten te oefenen."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ de woorden te onthouden.",
+      "en": "I try to remember the words.",
+      "answers": [
+        "probeer"
+      ],
+      "hint": "proberen (ik-form)",
+      "explain": "With ik, use probeer; the te-infinitive follows: Ik probeer de woorden te onthouden."
+    },
+    {
+      "type": "gap",
+      "text": "We ___ te begrijpen.",
+      "en": "We are beginning to understand.",
+      "answers": [
+        "beginnen"
+      ],
+      "hint": "beginnen (wij-form)",
+      "explain": "With we, use beginnen; beginnen takes te + infinitive: te begrijpen."
+    },
+    {
+      "type": "translate",
+      "en": "I am learning Dutch to work here.",
+      "answers": [
+        "Ik leer Nederlands om hier te werken.",
+        "Om hier te werken leer ik Nederlands."
+      ],
+      "focus": "om ... te + infinitive at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'voor' instead of 'om' before the purpose: 'Ik leer Nederlands voor hier te werken.'",
+          "explain": "Use 'om ... te' for a purpose, not 'voor': 'Ik leer Nederlands om hier te werken'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts 'te' before 'hier' or otherwise misorders the purpose: '... om te hier werken.'",
+          "explain": "Other words go before 'te', and the infinitive comes last: 'om hier te werken'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits 'te' in the purpose: '... om hier werken.'",
+          "explain": "The purpose needs 'te' before the infinitive: 'om hier te werken'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses a finite verb after 'te': '... om hier te werkt.'",
+          "explain": "After 'te', use the infinitive 'werken', not 'werkt'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I try to remember the words.",
+      "answers": [
+        "Ik probeer de woorden te onthouden.",
+        "De woorden probeer ik te onthouden."
+      ],
+      "focus": "proberen te",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places the te-infinitive before its object: 'Ik probeer te onthouden de woorden.'",
+          "explain": "Put the object before 'te': 'Ik probeer de woorden te onthouden'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'te' before 'onthouden': 'Ik probeer de woorden onthouden.'",
+          "explain": "After 'proberen', use 'te' + infinitive: 'de woorden te onthouden'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'probeert' with 'ik': 'Ik probeert de woorden te onthouden.'",
+          "explain": "With 'ik', use 'probeer', not 'probeert'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'onthoud' after 'te': '... te onthoud.'",
+          "explain": "After 'te', use the infinitive 'onthouden'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I forgot to practise.",
+      "answers": [
+        "Ik ben vergeten te oefenen.",
+        "Ik ben vergeten om te oefenen."
+      ],
+      "focus": "vergeten te",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'heb' instead of 'ben' with vergeten: 'Ik heb vergeten te oefenen.'",
+          "explain": "For 'forgot to do something', use 'zijn' with vergeten: 'Ik ben vergeten te oefenen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'te' before the infinitive: 'Ik ben vergeten oefenen.'",
+          "explain": "Vergeten is followed by 'te' + infinitive: 'vergeten te oefenen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'om' without 'te': 'Ik ben vergeten om oefenen.'",
+          "explain": "If you use 'om', keep 'te' before the infinitive: 'om te oefenen'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'oefen' after 'te': 'Ik ben vergeten te oefen.'",
+          "explain": "After 'te', use the infinitive 'oefenen'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I want to learn Dutch.",
+      "answers": [
+        "Ik wil Nederlands leren.",
+        "Ik wil graag Nederlands leren."
+      ],
+      "focus": "no te after a modal verb",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds 'te' after the modal verb: 'Ik wil te leren.' or 'Ik wil Nederlands te leren.'",
+          "explain": "After 'willen', use the infinitive without 'te': 'Ik wil Nederlands leren'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts 'te' after the infinitive: 'Ik wil Nederlands leren te.'",
+          "explain": "Do not add 'te' after a modal verb; stop at the infinitive: 'Ik wil Nederlands leren'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'wilt' with 'ik': 'Ik wilt Nederlands leren.'",
+          "explain": "With 'ik', use 'wil', not 'wilt': 'Ik wil Nederlands leren'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses an article with the language: 'Ik wil de Nederlands leren.'",
+          "explain": "Language names like 'Nederlands' take no article here: 'Ik wil Nederlands leren'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I hope to pass the exam.",
+      "answers": [
+        "Ik hoop te slagen voor het examen.",
+        "Ik hoop voor het examen te slagen."
+      ],
+      "focus": "hopen te",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'de examen': '... voor de examen.'",
+          "explain": "It is 'het examen': 'voor het examen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'voor' after 'slagen': 'Ik hoop te slagen het examen.'",
+          "explain": "The verb is 'slagen voor': 'slagen voor het examen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits 'te' after 'hopen': 'Ik hoop slagen voor het examen.'",
+          "explain": "After 'hopen', use 'te' + infinitive: 'Ik hoop te slagen'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'slaagt' after 'te': 'Ik hoop te slaagt.'",
+          "explain": "After 'te', use the infinitive 'slagen', not 'slaagt'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik leer Nederlands om hier te werken.",
+      "en": "I am learning Dutch to work here."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik probeer de woorden te onthouden.",
+      "en": "I try to remember the words."
+    },
+    {
+      "type": "reply",
+      "context": "Je docent vraagt waarom je Nederlands leert.",
+      "say": {
+        "nl": "Waarom leer je Nederlands?",
+        "en": "Why are you learning Dutch?"
+      },
+      "task": "Answer with a purpose using om ... te.",
+      "examples": [
+        "Ik leer Nederlands om hier te werken.",
+        "Ik leer Nederlands om met mijn collega's te praten.",
+        "Ik leer Nederlands om het inburgeringsexamen te doen."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'voor' instead of 'om': 'Ik leer Nederlands voor hier te werken.'",
+          "explain": "Use 'om ... te' for a purpose: 'om hier te werken'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Misorders the purpose: '... om te hier werken.'",
+          "explain": "Put 'hier' before 'te': 'om hier te werken'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits 'te': '... om hier werken.'",
+          "explain": "The purpose needs 'te' before the infinitive: 'om hier te werken'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses a finite verb after 'te': '... om hier te werkt.'",
+          "explain": "After 'te', use the infinitive 'werken'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Je docent vraagt of je de woorden al kunt onthouden.",
+      "say": {
+        "nl": "Kun je de woorden al onthouden?",
+        "en": "Can you already remember the words?"
+      },
+      "task": "Say that you try, but that you sometimes forget to practise.",
+      "examples": [
+        "Ik probeer de woorden te onthouden, maar ik vergeet soms te oefenen.",
+        "Ik probeer het elke dag, maar soms vergeet ik te oefenen."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places the te-infinitive before its object: 'Ik probeer te onthouden de woorden.'",
+          "explain": "Put the object before 'te': 'Ik probeer de woorden te onthouden'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'te' after 'vergeet': '... ik vergeet soms oefenen.'",
+          "explain": "Vergeet is followed by 'te' + infinitive: 'vergeet te oefenen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'probeert' with 'ik': 'Ik probeert...'",
+          "explain": "With 'ik', use 'probeer', not 'probeert'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'vergeten' with 'ik' in the present: '... ik vergeten soms te oefenen.'",
+          "explain": "With 'ik', use 'vergeet': 'ik vergeet soms te oefenen'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op gesprek bij de taalschool",
+    "setting": "You are at a language school intake. You talk to the teacher about why you learn Dutch and what you find difficult.",
+    "partner": {
+      "name": "Mevrouw De Boer",
+      "gender": "f",
+      "role": "docent Nederlands"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Waarom wil je Nederlands leren?",
+          "en": "Why do you want to learn Dutch?"
+        },
+        "task": "Give a reason with om ... te.",
+        "examples": [
+          "Ik leer Nederlands om hier te werken.",
+          "Ik wil Nederlands leren om met mijn collega's te praten.",
+          "Ik doe het om het inburgeringsexamen te doen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'voor' instead of 'om': 'Ik leer Nederlands voor hier te werken.'",
+            "explain": "Use 'om ... te' for a purpose: 'om hier te werken'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Misorders the purpose: '... om te hier werken.'",
+            "explain": "Put other words before 'te': 'om hier te werken'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits 'te': '... om hier werken.'",
+            "explain": "The purpose needs 'te' before the infinitive: 'om hier te werken'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses a finite verb after 'te': '... om hier te werkt.'",
+            "explain": "After 'te', use the infinitive 'werken'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En wat vind je moeilijk?",
+          "en": "And what do you find difficult?"
+        },
+        "task": "Say that you find pronunciation and grammar difficult, and that you try to practise every day.",
+        "examples": [
+          "Ik vind de uitspraak en de grammatica moeilijk. Ik probeer elke dag te oefenen.",
+          "Ik vind de uitspraak moeilijk en de grammatica ook. Ik probeer elke dag te oefenen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'vindt' with 'ik': 'Ik vindt de uitspraak moeilijk.'",
+            "explain": "The ik-form of vinden is 'vind': 'Ik vind de uitspraak moeilijk'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Misorders the time phrase: 'Ik probeer te oefenen elke dag.'",
+            "explain": "Put 'elke dag' before 'te': 'Ik probeer elke dag te oefenen'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits 'te' after 'probeer': 'Ik probeer elke dag oefenen.'",
+            "explain": "After proberen, use 'te' + infinitive: 'te oefenen'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses 'het grammatica': 'Het grammatica is moeilijk.'",
+            "explain": "It is 'de grammatica': 'De grammatica is moeilijk'."
+          },
+          {
+            "id": "m5",
+            "pattern": "Mentions only pronunciation and not grammar: 'De uitspraak is moeilijk. Ik probeer elke dag te oefenen.'",
+            "explain": "The task asks for both: say 'de uitspraak en de grammatica' are difficult."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Heb je al een woordenboek?",
+          "en": "Do you already have a dictionary?"
+        },
+        "task": "Say no, and that you are going to buy one.",
+        "examples": [
+          "Nee, nog niet. Ik ga een woordenboek kopen.",
+          "Nee. Ik koop morgen een woordenboek."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds 'te' after gaan: 'Ik ga een woordenboek te kopen.'",
+            "explain": "After 'gaan', use the infinitive without 'te': 'Ik ga een woordenboek kopen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Misorders the infinitive: 'Ik ga kopen een woordenboek.'",
+            "explain": "The infinitive comes at the end: 'Ik ga een woordenboek kopen'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses a finite verb after gaan: 'Ik ga een woordenboek koopt.'",
+            "explain": "After 'gaan', use the infinitive 'kopen': 'Ik ga een woordenboek kopen'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Says 'Nee, niet nog' instead of 'Nee, nog niet'.",
+            "explain": "The fixed order is 'nog niet' for 'not yet': 'Nee, nog niet'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wil je het inburgeringsexamen doen?",
+          "en": "Do you want to take the integration exam?"
+        },
+        "task": "Say yes, and that you hope to pass.",
+        "examples": [
+          "Ja, ik wil het inburgeringsexamen doen. Ik hoop te slagen.",
+          "Ja. Ik hoop in juni te slagen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds 'te' after willen: 'Ik wil het inburgeringsexamen te doen.'",
+            "explain": "After 'willen', use the infinitive without 'te': 'Ik wil het inburgeringsexamen doen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits 'te' after hopen: 'Ik hoop slagen.'",
+            "explain": "After 'hopen', use 'te' + infinitive: 'Ik hoop te slagen'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'de inburgeringsexamen': '... voor de inburgeringsexamen.'",
+            "explain": "It is 'het inburgeringsexamen': 'voor het inburgeringsexamen'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses 'slaagt' after 'te': 'Ik hoop te slaagt.'",
+            "explain": "After 'te', use the infinitive 'slagen': 'Ik hoop te slagen'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot maandag! Tot dan!",
+      "en": "See you Monday! See you then!"
+    }
+  },
+  "culture": {
+    "title": "Het inburgeringsexamen",
+    "text": "Many newcomers in the Netherlands take the inburgeringsexamen. For a long time A2 was the usual level, but newer rules can ask for B1 for some learners. The exam tests language skills and also knowledge of Dutch society. Rules change, so check with DUO or your municipality."
+  },
+  "summary": [
+    "Use om + rest + te + infinitive to give a purpose: Ik leer Nederlands om hier te werken.",
+    "Some verbs take te + infinitive: proberen te, beginnen te, vergeten te, hopen te.",
+    "With modal verbs like willen, kunnen and moeten, use the infinitive without te: Ik wil leren.",
+    "Put the te-infinitive at the end of the sentence.",
+    "Repeat new words often; that is how you remember them."
+  ]
+}

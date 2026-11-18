@@ -1,0 +1,1089 @@
+{
+  "id": "u01-l04",
+  "title": "Ik spreek een beetje Nederlands",
+  "subtitle": "Countries, languages and regular verbs",
+  "level": "A0",
+  "intro": "In this lesson you learn to say which languages you speak and understand, and to ask someone if they speak English. You also learn the present tense of regular verbs like wonen and spreken, and how to ask simple yes/no questions. By the end you can keep a short conversation going at a party, even when someone starts in fast Dutch.",
+  "words": [
+    {
+      "nl": "spreken",
+      "en": "to speak",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik spreek, jij spreekt, wij spreken",
+      "example": {
+        "nl": "Ik spreek een beetje Nederlands.",
+        "en": "I speak a little Dutch."
+      },
+      "note": "The -ee- is long; pronounce the k."
+    },
+    {
+      "nl": "wonen",
+      "en": "to live (somewhere)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik woon, jij woont, wij wonen",
+      "example": {
+        "nl": "Ik woon in Utrecht.",
+        "en": "I live in Utrecht."
+      },
+      "note": "wonen = to live somewhere; leven = to be alive."
+    },
+    {
+      "nl": "leren",
+      "en": "to learn",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik leer, jij leert, wij leren",
+      "example": {
+        "nl": "Ik leer Nederlands.",
+        "en": "I am learning Dutch."
+      },
+      "note": null
+    },
+    {
+      "nl": "begrijpen",
+      "en": "to understand",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik begrijp, jij begrijpt, wij begrijpen",
+      "example": {
+        "nl": "Ik begrijp het.",
+        "en": "I understand it."
+      },
+      "note": "The ij sounds like 'eye' but a little softer."
+    },
+    {
+      "nl": "Nederlands",
+      "en": "Dutch (the language)",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik spreek Nederlands.",
+        "en": "I speak Dutch."
+      },
+      "note": "After spreken and leren we usually drop the article: Ik leer Nederlands."
+    },
+    {
+      "nl": "Engels",
+      "en": "English (the language)",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Spreek je Engels?",
+        "en": "Do you speak English?"
+      },
+      "note": "Usually without the article: Ik spreek Engels."
+    },
+    {
+      "nl": "Spaans",
+      "en": "Spanish (the language)",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij spreekt Spaans.",
+        "en": "She speaks Spanish."
+      },
+      "note": null
+    },
+    {
+      "nl": "Duits",
+      "en": "German (the language)",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik spreek een beetje Duits.",
+        "en": "I speak a little German."
+      },
+      "note": "Duits = German, not 'Dutch' (= Nederlands)."
+    },
+    {
+      "nl": "Frans",
+      "en": "French (the language)",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hij spreekt goed Frans.",
+        "en": "He speaks French well."
+      },
+      "note": null
+    },
+    {
+      "nl": "taal",
+      "en": "the language",
+      "pos": "noun",
+      "article": "de",
+      "plural": "talen",
+      "forms": null,
+      "example": {
+        "nl": "Nederlands is een taal.",
+        "en": "Dutch is a language."
+      },
+      "note": "Plural: de talen (not 'taals')."
+    },
+    {
+      "nl": "een beetje",
+      "en": "a little, a bit",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik spreek een beetje Nederlands.",
+        "en": "I speak a little Dutch."
+      },
+      "note": "Very useful to soften what you say: een beetje langzaam."
+    },
+    {
+      "nl": "goed",
+      "en": "good, well",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik spreek goed Engels.",
+        "en": "I speak English well."
+      },
+      "note": "The opposite is slecht, which you already know."
+    },
+    {
+      "nl": "ook",
+      "en": "also, too",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik spreek ook Duits.",
+        "en": "I also speak German."
+      },
+      "note": "ook stands before the word it adds, not at the end like English 'too'."
+    },
+    {
+      "nl": "maar",
+      "en": "but",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik spreek Duits, maar ik begrijp het niet goed.",
+        "en": "I speak German, but I don't understand it well."
+      },
+      "note": null
+    },
+    {
+      "nl": "in",
+      "en": "in",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik woon in Amsterdam.",
+        "en": "I live in Amsterdam."
+      },
+      "note": null
+    },
+    {
+      "nl": "stad",
+      "en": "the city",
+      "pos": "noun",
+      "article": "de",
+      "plural": "steden",
+      "forms": null,
+      "example": {
+        "nl": "Amsterdam is een stad.",
+        "en": "Amsterdam is a city."
+      },
+      "note": "Plural: de steden. With a city name, use in + name: in Amsterdam."
+    },
+    {
+      "nl": "Amsterdam",
+      "en": "Amsterdam",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik woon in Amsterdam.",
+        "en": "I live in Amsterdam."
+      },
+      "note": "City names take no article: Amsterdam, not 'het Amsterdam'."
+    },
+    {
+      "nl": "Rotterdam",
+      "en": "Rotterdam",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hij woont in Rotterdam.",
+        "en": "He lives in Rotterdam."
+      },
+      "note": null
+    },
+    {
+      "nl": "Utrecht",
+      "en": "Utrecht",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wij wonen in Utrecht.",
+        "en": "We live in Utrecht."
+      },
+      "note": "The u is long: 'UU-trecht'."
+    },
+    {
+      "nl": "Eindhoven",
+      "en": "Eindhoven",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Zij woont in Eindhoven.",
+        "en": "She lives in Eindhoven."
+      },
+      "note": null
+    },
+    {
+      "nl": "langzaam",
+      "en": "slow, slowly",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Spreek alsjeblieft langzaam.",
+        "en": "Please speak slowly."
+      },
+      "note": "The ng sounds like in English 'sing'; the -aa- is long."
+    },
+    {
+      "nl": "snel",
+      "en": "fast, quickly",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Jij spreekt snel!",
+        "en": "You speak fast!"
+      },
+      "note": null
+    },
+    {
+      "nl": "feest",
+      "en": "the party",
+      "pos": "noun",
+      "article": "het",
+      "plural": "feesten",
+      "forms": null,
+      "example": {
+        "nl": "Het feest is in Amsterdam.",
+        "en": "The party is in Amsterdam."
+      },
+      "note": "Plural: de feesten."
+    },
+    {
+      "nl": "alsjeblieft",
+      "en": "please (informal)",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Spreek alsjeblieft Nederlands.",
+        "en": "Please speak Dutch."
+      },
+      "note": "Informal, for je/jij. With u you say alstublieft."
+    },
+    {
+      "nl": "sorry",
+      "en": "sorry",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Sorry, ik begrijp het niet.",
+        "en": "Sorry, I don't understand."
+      },
+      "note": "Also used to interrupt politely before a question."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik spreek een beetje Nederlands.",
+      "en": "I speak a little Dutch.",
+      "note": null
+    },
+    {
+      "nl": "Spreek je Engels?",
+      "en": "Do you speak English?",
+      "note": "Also correct: Spreek jij Engels? — without -t."
+    },
+    {
+      "nl": "Ik leer Nederlands.",
+      "en": "I am learning Dutch.",
+      "note": null
+    },
+    {
+      "nl": "Ik begrijp het niet.",
+      "en": "I don't understand (it).",
+      "note": "A fixed chunk: niet = not."
+    },
+    {
+      "nl": "Waar woon je?",
+      "en": "Where do you live?",
+      "note": "Answer: Ik woon in ..."
+    },
+    {
+      "nl": "Spreek alsjeblieft langzaam.",
+      "en": "Please speak slowly.",
+      "note": "alsjeblieft is informal; with u: alstublieft."
+    },
+    {
+      "nl": "Ik woon in de stad.",
+      "en": "I live in the city.",
+      "note": null
+    },
+    {
+      "nl": "Sorry, ik begrijp het niet goed.",
+      "en": "Sorry, I don't understand well.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Regular verbs in the present: stem and stem + t",
+      "explanation": "Take the infinitive and drop **-en**: **wonen** → **woon**. That is the **ik**-form. For **jij**, **u**, **hij**, **zij** (one person) and **het** you add **-t**: **woont**. For the plural (**wij**, **jullie**, **zij**) you use the whole infinitive: **wonen**.",
+      "table": {
+        "headers": [
+          "",
+          "wonen",
+          "spreken",
+          "leren"
+        ],
+        "rows": [
+          [
+            "ik",
+            "woon",
+            "spreek",
+            "leer"
+          ],
+          [
+            "jij / je",
+            "woont",
+            "spreekt",
+            "leert"
+          ],
+          [
+            "u",
+            "woont",
+            "spreekt",
+            "leert"
+          ],
+          [
+            "hij / zij / het",
+            "woont",
+            "spreekt",
+            "leert"
+          ],
+          [
+            "wij / we",
+            "wonen",
+            "spreken",
+            "leren"
+          ],
+          [
+            "jullie",
+            "wonen",
+            "spreken",
+            "leren"
+          ],
+          [
+            "zij / ze",
+            "wonen",
+            "spreken",
+            "leren"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik woon in Utrecht.",
+          "en": "I live in Utrecht."
+        },
+        {
+          "nl": "Zij spreekt goed Frans.",
+          "en": "She speaks French well."
+        },
+        {
+          "nl": "Wij leren Nederlands.",
+          "en": "We are learning Dutch."
+        }
+      ],
+      "tip": "Within the singular, jij, u and hij all take the same form: stem + t. Only ik is different."
+    },
+    {
+      "title": "Yes/no questions: the verb comes first",
+      "explanation": "A question that you can answer with **ja** or **nee** starts with the verb. Put the verb in front of the subject; there is no extra word like English 'do'. **Jij spreekt Engels** becomes **Spreek je Engels?**",
+      "table": {
+        "headers": [
+          "Statement",
+          "Question"
+        ],
+        "rows": [
+          [
+            "Jij spreekt Engels.",
+            "Spreek je Engels?"
+          ],
+          [
+            "Jij woont in Utrecht.",
+            "Woon je in Utrecht?"
+          ],
+          [
+            "Jij begrijpt het.",
+            "Begrijp je het?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Spreek je Nederlands?",
+          "en": "Do you speak Dutch?"
+        },
+        {
+          "nl": "Woon je in Amsterdam?",
+          "en": "Do you live in Amsterdam?"
+        },
+        {
+          "nl": "Begrijp je het?",
+          "en": "Do you understand (it)?"
+        }
+      ],
+      "tip": "A short answer is fine: Ja, een beetje. Or: Nee."
+    },
+    {
+      "title": "jij / je in questions: no -t",
+      "explanation": "When **jij** or **je** comes right after the verb in a question, the verb loses its **-t**: **jij spreekt** → **Spreek je...?** With **u** the **-t** stays: **Spreekt u Engels?** With other subjects nothing changes: **Woont hij in Utrecht?**",
+      "table": {
+        "headers": [
+          "Statement",
+          "Question with jij / je",
+          "Question with u"
+        ],
+        "rows": [
+          [
+            "Jij spreekt Engels.",
+            "Spreek je Engels?",
+            "Spreekt u Engels?"
+          ],
+          [
+            "Jij woont in Utrecht.",
+            "Woon je in Utrecht?",
+            "Woont u in Utrecht?"
+          ],
+          [
+            "Jij leert Nederlands.",
+            "Leer je Nederlands?",
+            "Leert u Nederlands?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Spreek jij Duits?",
+          "en": "Do you speak German?"
+        },
+        {
+          "nl": "Spreekt u Engels?",
+          "en": "Do you speak English? (formal)"
+        }
+      ],
+      "tip": "Hear a -t at the end of the verb? Then the subject is not jij or je."
+    }
+  ],
+  "dialogue": {
+    "title": "Op het feest",
+    "setting": "At a party in Utrecht, Sanne starts talking to Bram, who moved to the Netherlands recently.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Bram",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi! Ik ben Sanne. Hoe gaat het?",
+        "en": "Hi! I'm Sanne. How are you?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Goed, dank je. En met jou?",
+        "en": "Good, thanks. And you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ook goed, dank je. Spreek je Nederlands?",
+        "en": "Also good, thanks. Do you speak Dutch?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Sorry, ik begrijp het niet goed. Spreek je Engels?",
+        "en": "Sorry, I don't understand well. Do you speak English?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, een beetje. Ik spreek ook Duits.",
+        "en": "Yes, a little. I also speak German."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Ik spreek Engels en een beetje Frans. Ik leer Nederlands.",
+        "en": "I speak English and a little French. I'm learning Dutch."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Leuk! Waar woon je?",
+        "en": "Nice! Where do you live?"
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Ik woon in Utrecht, in de stad. En jij?",
+        "en": "I live in Utrecht, in the city. And you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik woon in Amsterdam. Ik leer ook Spaans.",
+        "en": "I live in Amsterdam. I'm also learning Spanish."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Spreek je goed Spaans?",
+        "en": "Do you speak Spanish well?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, maar ik begrijp het een beetje.",
+        "en": "No, but I understand it a little."
+      },
+      {
+        "speaker": "Bram",
+        "nl": "Prima! Spreek alsjeblieft langzaam Nederlands. Ik leer!",
+        "en": "Great! Please speak slowly in Dutch. I'm learning!"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Prima! Tot straks!",
+        "en": "Great! See you later!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het Nederlands",
+          "Dutch"
+        ],
+        [
+          "het Engels",
+          "English"
+        ],
+        [
+          "het Duits",
+          "German"
+        ],
+        [
+          "het Frans",
+          "French"
+        ],
+        [
+          "het Spaans",
+          "Spanish"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "spreken",
+          "to speak"
+        ],
+        [
+          "wonen",
+          "to live"
+        ],
+        [
+          "leren",
+          "to learn"
+        ],
+        [
+          "begrijpen",
+          "to understand"
+        ],
+        [
+          "de stad",
+          "the city"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "Ik ___ in Rotterdam.",
+      "options": [
+        "woon",
+        "woont",
+        "wonen"
+      ],
+      "answer": 0,
+      "explain": "After **ik** use the stem without **-t**: 'Ik woon in Rotterdam.'"
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form.",
+      "nl": "___ je Engels?",
+      "options": [
+        "Spreek",
+        "Spreekt",
+        "Spreken"
+      ],
+      "answer": 0,
+      "explain": "In a yes/no question with **je**, the verb has no **-t**: 'Spreek je Engels?'"
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form. Zij = she (one person).",
+      "nl": "Zij ___ goed Nederlands.",
+      "options": [
+        "spreek",
+        "spreekt",
+        "spreken"
+      ],
+      "answer": 1,
+      "explain": "Here **zij** means 'she' (one person), so it takes stem + **t**: 'Zij spreekt goed Nederlands.'"
+    },
+    {
+      "type": "article",
+      "word": "taal",
+      "en": "language",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "feest",
+      "en": "party",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I live in Amsterdam.",
+      "answer": "Ik woon in Amsterdam.",
+      "accept": [
+        "In Amsterdam woon ik."
+      ],
+      "extra": [
+        "woont"
+      ],
+      "explain": "In a statement the verb comes after the subject: 'Ik woon in Amsterdam.'"
+    },
+    {
+      "type": "build",
+      "en": "Do you speak English?",
+      "answer": "Spreek je Engels?",
+      "accept": [
+        "Engels spreek je?"
+      ],
+      "extra": [
+        "Spreekt",
+        "Nederlands"
+      ],
+      "explain": "In a yes/no question the verb comes first; after **je** there is no **-t**: 'Spreek je Engels?'"
+    },
+    {
+      "type": "build",
+      "en": "We are learning Dutch.",
+      "answer": "Wij leren Nederlands.",
+      "accept": [
+        "Nederlands leren wij."
+      ],
+      "extra": [
+        "leert",
+        "spreken"
+      ],
+      "explain": "With **wij** use the whole infinitive: 'Wij leren Nederlands.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ een beetje Nederlands.",
+      "en": "I speak a little Dutch.",
+      "answers": [
+        "spreek"
+      ],
+      "hint": "spreken",
+      "explain": "After **ik** use the stem without **-t**: 'Ik spreek...'."
+    },
+    {
+      "type": "gap",
+      "text": "Waar ___ je?",
+      "en": "Where do you live?",
+      "answers": [
+        "woon"
+      ],
+      "hint": "wonen",
+      "explain": "In a question with **je** after the verb, the verb has no **-t**: 'Woon je...?'."
+    },
+    {
+      "type": "gap",
+      "text": "U ___ goed Engels.",
+      "en": "You speak English well. (formal)",
+      "answers": [
+        "spreekt"
+      ],
+      "hint": "spreken",
+      "explain": "With **u** the verb keeps **-t**: 'U spreekt...'."
+    },
+    {
+      "type": "translate",
+      "en": "I speak a little Dutch.",
+      "answers": [
+        "Ik spreek een beetje Nederlands."
+      ],
+      "focus": "ik + stem: spreek",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses -t after ik: 'Ik spreekt een beetje Nederlands.'",
+          "explain": "After **ik** the verb has no **-t**: say 'Ik spreek een beetje Nederlands.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts 'een beetje' after 'Nederlands': 'Ik spreek Nederlands een beetje.'",
+          "explain": "**een beetje** comes before the thing it describes: 'een beetje Nederlands'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits 'een' before 'beetje': 'Ik spreek beetje Nederlands.'",
+          "explain": "Say **een beetje**, not 'beetje': 'Ik spreek een beetje Nederlands.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses the plural form after ik: 'Ik spreken een beetje Nederlands.'",
+          "explain": "The **ik** form is the stem: 'Ik spreek', not 'Ik spreken'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Do you live in Utrecht?",
+      "answers": [
+        "Woon je in Utrecht?",
+        "Woon jij in Utrecht?",
+        "Woont u in Utrecht?"
+      ],
+      "focus": "yes/no question; no -t with je / jij",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps -t with je after the verb: 'Woont je in Utrecht?'",
+          "explain": "With **je** right after the verb, drop the **-t**: 'Woon je in Utrecht?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Does not invert subject and verb: 'Je woont in Utrecht?'",
+          "explain": "A yes/no question starts with the verb: 'Woon je in Utrecht?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'op' with a city: 'Woon je op Utrecht?'",
+          "explain": "Use **in** with a city: 'in Utrecht', not 'op Utrecht'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'de' before a city name: 'Woon je in de Utrecht?'",
+          "explain": "City names take no article: 'in Utrecht', not 'in de Utrecht'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "We are learning Spanish.",
+      "answers": [
+        "Wij leren Spaans.",
+        "We leren Spaans.",
+        "Spaans leren wij.",
+        "Spaans leren we."
+      ],
+      "focus": "plural: the whole infinitive",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses a singular -t form with wij: 'Wij leert Spaans.'",
+          "explain": "With **wij** use the infinitive: 'Wij leren Spaans.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses a singular -t form with we: 'We leert Spaans.'",
+          "explain": "With **we** use the infinitive: 'We leren Spaans.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'spreken' for learning: 'Wij spreken Spaans.'",
+          "explain": "**spreken** means 'to speak'; 'we are learning' is 'Wij leren Spaans.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses a singular stem for the plural: 'Wij leer Spaans.'",
+          "explain": "The plural form is the whole infinitive: 'Wij leren Spaans.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik spreek een beetje Duits.",
+      "en": "I speak a little German."
+    },
+    {
+      "type": "listen",
+      "nl": "Waar woon jij?",
+      "en": "Where do you live?"
+    },
+    {
+      "type": "reply",
+      "context": "You are at a party in Utrecht. A woman asks you: 'Spreek je Nederlands?'",
+      "say": {
+        "nl": "Spreek je Nederlands?",
+        "en": "Do you speak Dutch?"
+      },
+      "task": "Say that you speak a little Dutch and that you are learning.",
+      "examples": [
+        "Ja, een beetje. Ik leer Nederlands.",
+        "Een beetje. Ik spreek een beetje Nederlands."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses -t after ik: 'Ik leert Nederlands.'",
+          "explain": "After **ik** use the stem without **-t**: 'Ik leer Nederlands.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits 'een' in 'een beetje': 'Ik spreek beetje Nederlands.'",
+          "explain": "Say **een beetje**, not 'beetje': 'Ik spreek een beetje Nederlands.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the plural form after ik: 'Ik spreken een beetje Nederlands.'",
+          "explain": "The **ik** form is 'spreek': 'Ik spreek een beetje Nederlands.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Someone speaks very fast Dutch and you don't understand anything.",
+      "say": {
+        "nl": "Sorry, ik spreek snel!",
+        "en": "Sorry, I speak fast!"
+      },
+      "task": "Say sorry, that you don't understand, and ask if they speak English.",
+      "examples": [
+        "Sorry, ik begrijp het niet. Spreek je Engels?",
+        "Sorry, ik begrijp het niet goed. Spreek je Engels?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts 'het' after 'niet': 'Sorry, ik begrijp niet het.'",
+          "explain": "The fixed order is **het niet**: 'Ik begrijp het niet.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'geen' instead of 'niet': 'Sorry, ik begrijp het geen.'",
+          "explain": "Use **niet** here: 'Ik begrijp het niet.' **geen** goes before a noun."
+        },
+        {
+          "id": "m3",
+          "pattern": "Keeps -t with je in the question: 'Spreekt je Engels?'",
+          "explain": "With **je** after the verb, drop the **-t**: 'Spreek je Engels?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets to invert in the question: 'Je spreekt Engels?'",
+          "explain": "Start a yes/no question with the verb: 'Spreek je Engels?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op het feest",
+    "setting": "You are at a party in Utrecht. Sanne comes up to you and starts talking in Dutch.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "a friendly Dutch woman at a party who starts the conversation in Dutch"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Ik ben Sanne. Hoe gaat het?",
+          "en": "Hi! I'm Sanne. How are you?"
+        },
+        "task": "Say hello, give your name and say that things are going well. Ask how she is.",
+        "examples": [
+          "Hoi, ik ben Daan. Goed, dank je. En met jou?",
+          "Hallo, ik heet Daan. Goed, dank je. En met jou?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Says 'En met jij?' instead of 'En met jou?'",
+            "explain": "After **met** use **jou**: 'En met jou?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Answers 'Ik ben goed' to 'Hoe gaat het?'",
+            "explain": "For how you are, say 'Het gaat goed' or just 'Goed'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'Hoe gaat het met jij?'",
+            "explain": "The fixed chunk is 'Hoe gaat het met jou?'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Forgets to ask how she is: 'Hoi, ik ben Daan. Goed, dank je.'",
+            "explain": "The task also asks you to ask back: add 'En met jou?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Waar woon je?",
+          "en": "Where do you live?"
+        },
+        "task": "Say in which city or country you live.",
+        "examples": [
+          "Ik woon in Utrecht.",
+          "Ik woon in Engeland, in de stad."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses -t after ik: 'Ik woont in Utrecht.'",
+            "explain": "After **ik** use the stem: 'Ik woon in Utrecht.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'op' with a city: 'Ik woon op Utrecht.'",
+            "explain": "Use **in** with a city: 'Ik woon in Utrecht.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses an article before a city name: 'Ik woon in de Utrecht.'",
+            "explain": "City names take no article: 'Ik woon in Utrecht.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Spreek je Nederlands?",
+          "en": "Do you speak Dutch?"
+        },
+        "task": "Say that you speak a little Dutch and that you are learning.",
+        "examples": [
+          "Ja, een beetje. Ik leer Nederlands.",
+          "Een beetje. Ik spreek een beetje Nederlands."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses -t after ik: 'Ik leert Nederlands.'",
+            "explain": "After **ik** use the stem without **-t**: 'Ik leer Nederlands.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits 'een' before 'beetje': 'Ik spreek beetje Nederlands.'",
+            "explain": "Say **een beetje**: 'Ik spreek een beetje Nederlands.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'spreken' after ik: 'Ik spreken een beetje Nederlands.'",
+            "explain": "The **ik** form is 'spreek': 'Ik spreek een beetje Nederlands.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Spreek je ook Engels?",
+          "en": "Do you speak English too?"
+        },
+        "task": "Say that you speak English well, and ask her politely to speak slowly in Dutch.",
+        "examples": [
+          "Ja, ik spreek goed Engels. Spreek alsjeblieft langzaam Nederlands.",
+          "Ja, ik spreek goed Engels. Spreek alsjeblieft langzaam."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'Spreekt' as an imperative: 'Spreekt alsjeblieft langzaam.'",
+            "explain": "The imperative is the stem: 'Spreek alsjeblieft langzaam.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'zijn' instead of 'spreken': 'Ik ben goed Engels.'",
+            "explain": "Say 'Ik spreek goed Engels.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'in Nederlands' without 'het': 'Spreek alsjeblieft langzaam in Nederlands.'",
+            "explain": "If you use **in**, the language name needs the article: 'in het Nederlands'. More simply: 'Spreek alsjeblieft langzaam Nederlands.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Leuk! Tot straks!",
+      "en": "Nice! See you later!"
+    }
+  },
+  "culture": {
+    "title": "Nederlands of Engels?",
+    "text": "Many Dutch people speak English well and switch to it as soon as they hear a foreign accent. They usually mean to help, not to end the conversation. A short Dutch sentence helps a lot: Ik leer Nederlands. Spreek alsjeblieft Nederlands. Most people then stay in Dutch, or in a slow mix of both."
+  },
+  "summary": [
+    "You can say which languages you speak and understand, and ask: Spreek je Engels?",
+    "Regular verbs: stem for ik (woon), stem + t for jij/u/hij/zij (woont), infinitive for the plural (wonen).",
+    "Yes/no questions start with the verb: Spreek je Nederlands?",
+    "With je / jij after the verb there is no -t: Spreek je...? But with u it stays: Spreekt u...?",
+    "Say Ik leer Nederlands, spreek alsjeblieft langzaam and most Dutch people will keep speaking Dutch with you."
+  ]
+}

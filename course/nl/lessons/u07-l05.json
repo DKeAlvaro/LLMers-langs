@@ -1,0 +1,1082 @@
+{
+  "id": "u07-l05",
+  "title": "Vroeger",
+  "subtitle": "The simple past (regular)",
+  "level": "A2",
+  "intro": "In this lesson you will learn to talk about your childhood and the past. You will use was/waren and had/hadden, and you will form the regular simple past with -te(n) or -de(n). By the end you can tell someone where you lived, played and learned as a child.",
+  "words": [
+    {
+      "nl": "vroeger",
+      "en": "in the past, used to",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Vroeger woonde ik in een dorp.",
+        "en": "In the past I lived in a village."
+      },
+      "note": "Use vroeger to set a story in the past."
+    },
+    {
+      "nl": "toen",
+      "en": "then, when (in the past)",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Toen was ik zes jaar.",
+        "en": "Then I was six years old."
+      },
+      "note": "Also 'when' in a past story: Toen ik zes was, ..."
+    },
+    {
+      "nl": "jeugd",
+      "en": "childhood",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik had een mooie jeugd.",
+        "en": "I had a nice childhood."
+      },
+      "note": "de jeugd is the period, not a person."
+    },
+    {
+      "nl": "kind",
+      "en": "child",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de kinderen",
+      "forms": null,
+      "example": {
+        "nl": "Het kind speelde buiten.",
+        "en": "The child played outside."
+      },
+      "note": null
+    },
+    {
+      "nl": "basisschool",
+      "en": "primary school",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de basisscholen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn zus werkt op de basisschool.",
+        "en": "My sister works at the primary school."
+      },
+      "note": "Primary school, roughly ages 4-12."
+    },
+    {
+      "nl": "leraar",
+      "en": "teacher",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de leraren",
+      "forms": null,
+      "example": {
+        "nl": "De leraar werkte in de stad.",
+        "en": "The teacher worked in the city."
+      },
+      "note": null
+    },
+    {
+      "nl": "juf",
+      "en": "female teacher",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de juffen",
+      "forms": null,
+      "example": {
+        "nl": "De juf leerde ons lezen.",
+        "en": "The female teacher taught us to read."
+      },
+      "note": "A female primary-school teacher."
+    },
+    {
+      "nl": "meester",
+      "en": "male teacher",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de meesters",
+      "forms": null,
+      "example": {
+        "nl": "De meester was heel goed.",
+        "en": "The male teacher was very good."
+      },
+      "note": "A male primary-school teacher."
+    },
+    {
+      "nl": "speelgoed",
+      "en": "toys",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik had veel speelgoed.",
+        "en": "I had a lot of toys."
+      },
+      "note": "Uncountable; no plural."
+    },
+    {
+      "nl": "buurt",
+      "en": "neighbourhood",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de buurten",
+      "forms": null,
+      "example": {
+        "nl": "De buurt was gezellig.",
+        "en": "The neighbourhood was cosy."
+      },
+      "note": null
+    },
+    {
+      "nl": "dorp",
+      "en": "village",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de dorpen",
+      "forms": null,
+      "example": {
+        "nl": "We woonden in een klein dorp.",
+        "en": "We lived in a small village."
+      },
+      "note": null
+    },
+    {
+      "nl": "stad",
+      "en": "city",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de steden",
+      "forms": null,
+      "example": {
+        "nl": "Ik woonde toen in de stad.",
+        "en": "I lived in the city then."
+      },
+      "note": null
+    },
+    {
+      "nl": "spelen",
+      "en": "to play",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik speelde, wij speelden; gespeeld",
+      "example": {
+        "nl": "We speelden elke dag buiten.",
+        "en": "We played outside every day."
+      },
+      "note": null
+    },
+    {
+      "nl": "wonen",
+      "en": "to live, to reside",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik woonde, wij woonden; gewoond",
+      "example": {
+        "nl": "Vroeger woonde ik in een dorp.",
+        "en": "In the past I lived in a village."
+      },
+      "note": null
+    },
+    {
+      "nl": "werken",
+      "en": "to work",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik werkte, wij werkten; gewerkt",
+      "example": {
+        "nl": "Mijn moeder werkte in de stad.",
+        "en": "My mother worked in the city."
+      },
+      "note": null
+    },
+    {
+      "nl": "leren",
+      "en": "to learn",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik leerde, wij leerden; geleerd",
+      "example": {
+        "nl": "We leerden lezen op school.",
+        "en": "We learned to read at school."
+      },
+      "note": null
+    },
+    {
+      "nl": "verhuizen",
+      "en": "to move house",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verhuisde, wij verhuisden; verhuisd",
+      "example": {
+        "nl": "Toen ik twaalf was, verhuisden we.",
+        "en": "When I was twelve, we moved."
+      },
+      "note": "The z sound stays voiced, so it takes -de: verhuisde."
+    },
+    {
+      "nl": "hebben",
+      "en": "to have",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik had, wij hadden; gehad",
+      "example": {
+        "nl": "Ik had veel speelgoed.",
+        "en": "I had a lot of toys."
+      },
+      "note": "Simple past: had / hadden."
+    },
+    {
+      "nl": "zijn",
+      "en": "to be",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik was, wij waren; geweest",
+      "example": {
+        "nl": "We waren in de stad.",
+        "en": "We were in the city."
+      },
+      "note": "Simple past: was / waren."
+    },
+    {
+      "nl": "elke zomer",
+      "en": "every summer",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We speelden elke zomer buiten.",
+        "en": "We played outside every summer."
+      },
+      "note": null
+    },
+    {
+      "nl": "altijd",
+      "en": "always",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We speelden altijd buiten.",
+        "en": "We always played outside."
+      },
+      "note": null
+    },
+    {
+      "nl": "nooit",
+      "en": "never",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik speelde nooit in de stad.",
+        "en": "I never played in the city."
+      },
+      "note": null
+    },
+    {
+      "nl": "vaak",
+      "en": "often",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "We speelden vaak buiten.",
+        "en": "We often played outside."
+      },
+      "note": null
+    },
+    {
+      "nl": "als kind",
+      "en": "as a child",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Als kind woonde ik in een dorp.",
+        "en": "As a child I lived in a village."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Toen ik een kind was, ...",
+      "en": "When I was a child, ...",
+      "note": "Start a childhood story with this."
+    },
+    {
+      "nl": "Als kind woonde ik in een dorp.",
+      "en": "As a child I lived in a village.",
+      "note": null
+    },
+    {
+      "nl": "We speelden altijd buiten.",
+      "en": "We always played outside.",
+      "note": null
+    },
+    {
+      "nl": "Ik had veel speelgoed.",
+      "en": "I had a lot of toys.",
+      "note": null
+    },
+    {
+      "nl": "Mijn jeugd was mooi.",
+      "en": "My childhood was nice.",
+      "note": "de jeugd is a period, not a person."
+    },
+    {
+      "nl": "Vroeger was alles anders.",
+      "en": "In the past everything was different.",
+      "note": "alles = everything."
+    },
+    {
+      "nl": "We verhuisden naar de stad.",
+      "en": "We moved to the city.",
+      "note": null
+    },
+    {
+      "nl": "Op de basisschool leerde ik lezen.",
+      "en": "At primary school I learned to read.",
+      "note": "op de basisschool = at primary school."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Zijn in the simple past: was / waren",
+      "explanation": "Use **was** for one person or thing and **waren** for more than one. Use **was** with ik, jij, u, hij, zij (singular) and het. Use **waren** with wij, jullie and zij (plural).",
+      "table": {
+        "headers": [
+          "Person",
+          "Simple past",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "was",
+            "Ik was zes jaar."
+          ],
+          [
+            "jij / u / hij / zij (singular) / het",
+            "was",
+            "Zij was mijn juf."
+          ],
+          [
+            "wij / jullie / zij (plural)",
+            "waren",
+            "We waren in een dorp."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik was zes jaar.",
+          "en": "I was six years old."
+        },
+        {
+          "nl": "We waren in de stad.",
+          "en": "We were in the city."
+        },
+        {
+          "nl": "Mijn jeugd was mooi.",
+          "en": "My childhood was nice."
+        }
+      ],
+      "tip": "was for one, waren for more than one: think of English was/were."
+    },
+    {
+      "title": "Hebben in the simple past: had / hadden",
+      "explanation": "Use **had** for one person or thing and **hadden** for more than one. Use **had** with ik, jij, u, hij, zij (singular) and het. Use **hadden** with wij, jullie and zij (plural). In questions, **had** comes first: Had je veel vrienden? In negatives, use geen or niet: Ik had geen fiets.",
+      "table": {
+        "headers": [
+          "Person",
+          "Simple past",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ik",
+            "had",
+            "Ik had veel speelgoed."
+          ],
+          [
+            "jij / u / hij / zij (singular) / het",
+            "had",
+            "Had je een juf?"
+          ],
+          [
+            "wij / jullie / zij (plural)",
+            "hadden",
+            "We hadden veel vrienden."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik had een mooie jeugd.",
+          "en": "I had a nice childhood."
+        },
+        {
+          "nl": "We hadden veel speelgoed.",
+          "en": "We had a lot of toys."
+        },
+        {
+          "nl": "Had je veel vrienden?",
+          "en": "Did you have many friends?"
+        }
+      ],
+      "tip": "Do not say 'ik hadde': the form is had, without -de."
+    },
+    {
+      "title": "Regular simple past: -te(n) or -de(n)",
+      "explanation": "Take the stem and add **-te** or **-de**. Use **-te** if the stem ends in t, k, f, s, ch or p ('t kofschip). Use **-de** for other stems. For wij, jullie and zij add **-n**: werkte -> werkten, woonde -> woonden.",
+      "table": {
+        "headers": [
+          "Infinitive",
+          "Stem",
+          "One person (ik, jij, hij, zij)",
+          "More than one (wij, jullie, zij)"
+        ],
+        "rows": [
+          [
+            "werken",
+            "werk",
+            "werkte",
+            "werkten"
+          ],
+          [
+            "wonen",
+            "woon",
+            "woonde",
+            "woonden"
+          ],
+          [
+            "spelen",
+            "speel",
+            "speelde",
+            "speelden"
+          ],
+          [
+            "leren",
+            "leer",
+            "leerde",
+            "leerden"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik werkte in de stad.",
+          "en": "I worked in the city."
+        },
+        {
+          "nl": "We woonden in een dorp.",
+          "en": "We lived in a village."
+        },
+        {
+          "nl": "We speelden buiten.",
+          "en": "We played outside."
+        },
+        {
+          "nl": "Zij leerde lezen.",
+          "en": "She learned to read."
+        }
+      ],
+      "tip": "Say the stem out loud: t, k, f, s, ch, p -> -te; other sounds -> -de."
+    }
+  ],
+  "dialogue": {
+    "title": "Oude foto's",
+    "setting": "Koen is looking at old photos with his partner's grandmother, Oma Van Dijk, who tells him about her childhood.",
+    "speakers": [
+      {
+        "name": "Oma",
+        "gender": "f"
+      },
+      {
+        "name": "Koen",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Oma",
+        "nl": "Kijk, dat ben ik. Ik was zes jaar.",
+        "en": "Look, that is me. I was six years old."
+      },
+      {
+        "speaker": "Koen",
+        "nl": "Wat een leuke foto! Waar woonde je toen?",
+        "en": "What a nice photo! Where did you live then?"
+      },
+      {
+        "speaker": "Oma",
+        "nl": "We woonden in een klein dorp. Het dorp was niet groot.",
+        "en": "We lived in a small village. The village was not big."
+      },
+      {
+        "speaker": "Koen",
+        "nl": "Had je veel vrienden in de buurt?",
+        "en": "Did you have many friends in the neighbourhood?"
+      },
+      {
+        "speaker": "Oma",
+        "nl": "Ja, de buurt was gezellig. We speelden altijd buiten.",
+        "en": "Yes, the neighbourhood was cosy. We always played outside."
+      },
+      {
+        "speaker": "Koen",
+        "nl": "En had je een juf op de basisschool?",
+        "en": "And did you have a female teacher at primary school?"
+      },
+      {
+        "speaker": "Oma",
+        "nl": "Ja, juf Anna. Ze was een goede juf.",
+        "en": "Yes, juf Anna. She was a good teacher."
+      },
+      {
+        "speaker": "Koen",
+        "nl": "Wat leerde je op school?",
+        "en": "What did you learn at school?"
+      },
+      {
+        "speaker": "Oma",
+        "nl": "We leerden lezen en schrijven. Het was leuk.",
+        "en": "We learned to read and write. It was fun."
+      },
+      {
+        "speaker": "Koen",
+        "nl": "Werkten je ouders in het dorp?",
+        "en": "Did your parents work in the village?"
+      },
+      {
+        "speaker": "Oma",
+        "nl": "Mijn vader werkte buiten. Mijn moeder was thuis.",
+        "en": "My father worked outside. My mother was at home."
+      },
+      {
+        "speaker": "Koen",
+        "nl": "En verhuisden jullie later?",
+        "en": "And did you move later?"
+      },
+      {
+        "speaker": "Oma",
+        "nl": "Ja, toen ik twaalf was, verhuisden we naar de stad.",
+        "en": "Yes, when I was twelve, we moved to the city."
+      },
+      {
+        "speaker": "Koen",
+        "nl": "Mooi, je woonde als kind in een dorp. Vroeger was het anders, maar het was goed.",
+        "en": "Nice, you lived as a child in a village. The past was different, but it was good."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "vroeger",
+          "in the past"
+        ],
+        [
+          "de jeugd",
+          "childhood"
+        ],
+        [
+          "de buurt",
+          "the neighbourhood"
+        ],
+        [
+          "het dorp",
+          "the village"
+        ],
+        [
+          "de stad",
+          "the city"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het speelgoed",
+          "toys"
+        ],
+        [
+          "de basisschool",
+          "primary school"
+        ],
+        [
+          "de juf",
+          "female teacher"
+        ],
+        [
+          "verhuizen",
+          "to move house"
+        ],
+        [
+          "spelen",
+          "to play"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct simple past.",
+      "nl": null,
+      "options": [
+        "Ik werkte gisteren.",
+        "Ik werkde gisteren.",
+        "Ik werktte gisteren."
+      ],
+      "answer": 0,
+      "explain": "Because the stem **werk** ends in k, the past takes -te: 'Ik werkte gisteren.'"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Wij woonden in een dorp.",
+        "Wij woonde in een dorp.",
+        "Wij woonden in een dorp niet."
+      ],
+      "answer": 0,
+      "explain": "With **wij** use the plural form **woonden**; the correct negative word order is 'Wij woonden niet in een dorp.'"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence uses was/waren correctly?",
+      "nl": null,
+      "options": [
+        "We waren in de stad.",
+        "We was in de stad.",
+        "We waren in de stad niet."
+      ],
+      "answer": 0,
+      "explain": "**Waren** is the plural form of **was**; use it with **we**: 'We waren in de stad.'"
+    },
+    {
+      "type": "article",
+      "word": "basisschool",
+      "en": "primary school",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "speelgoed",
+      "en": "toys",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I lived in a village as a child.",
+      "answer": "Ik woonde als kind in een dorp.",
+      "accept": [
+        "Als kind woonde ik in een dorp.",
+        "Ik woonde in een dorp als kind."
+      ],
+      "extra": [
+        "woon",
+        "de",
+        "werk"
+      ],
+      "explain": "Use the simple past **woonde** for 'lived'; **als kind** can come after the verb: 'Ik woonde als kind in een dorp.'"
+    },
+    {
+      "type": "build",
+      "en": "We played outside every day.",
+      "answer": "We speelden elke dag buiten.",
+      "accept": [
+        "Elke dag speelden we buiten.",
+        "Buiten speelden we elke dag."
+      ],
+      "extra": [
+        "speelde",
+        "speelt",
+        "buitens"
+      ],
+      "explain": "With **we** use plural **speelden**, and put **elke dag** before **buiten**: 'We speelden elke dag buiten.'"
+    },
+    {
+      "type": "build",
+      "en": "My father worked in the city.",
+      "answer": "Mijn vader werkte in de stad.",
+      "accept": [
+        "In de stad werkte mijn vader."
+      ],
+      "extra": [
+        "werkten",
+        "werkt",
+        "werk"
+      ],
+      "explain": "**Mijn vader** is singular, so use **werkte**; the stem **werk** ends in k, so the ending is -te."
+    },
+    {
+      "type": "gap",
+      "text": "Vroeger ___ ik in een klein dorp.",
+      "en": "In the past I lived in a small village.",
+      "answers": [
+        "woonde"
+      ],
+      "hint": "wonen - simple past, ik",
+      "explain": "Use the simple past of **wonen**: the stem **woon** takes -de, so 'woonde'."
+    },
+    {
+      "type": "gap",
+      "text": "Mijn vader ___ veel. (werken)",
+      "en": "My father worked a lot.",
+      "answers": [
+        "werkte"
+      ],
+      "hint": "werken - simple past, mijn vader",
+      "explain": "The stem **werk** ends in k, so the past takes -te: 'werkte'."
+    },
+    {
+      "type": "gap",
+      "text": "Als kind ___ ik veel speelgoed. (hebben)",
+      "en": "As a child I had a lot of toys.",
+      "answers": [
+        "had"
+      ],
+      "hint": "hebben - simple past, ik",
+      "explain": "The simple past of **hebben** with **ik** is 'had' (not 'hadde')."
+    },
+    {
+      "type": "translate",
+      "en": "We lived in a small village.",
+      "answers": [
+        "We woonden in een klein dorp.",
+        "In een klein dorp woonden we.",
+        "Wij woonden in een klein dorp.",
+        "In een klein dorp woonden wij."
+      ],
+      "focus": "regular simple past: wonen",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses singular 'woonde' with 'we' (We woonde in een klein dorp.)",
+          "explain": "With **we** use the plural form: 'We woonden in een klein dorp.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the present instead of the past (We wonen in een klein dorp.)",
+          "explain": "The sentence is about the past, so use **woonden**: 'We woonden in een klein dorp.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds -te after a stem ending in n (We woonte in een klein dorp.)",
+          "explain": "The stem **woon** does not end in t/k/f/s/ch/p, so use -de: 'woonde'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds -e to the adjective after 'een' before a het-word (We woonden in een kleine dorp.)",
+          "explain": "After **een** with a het-word, the adjective has no -e: 'een klein dorp'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "My father worked in the city.",
+      "answers": [
+        "Mijn vader werkte in de stad.",
+        "In de stad werkte mijn vader."
+      ],
+      "focus": "regular simple past: werken",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses plural 'werkten' with singular 'vader' (Mijn vader werkten in de stad.)",
+          "explain": "**Mijn vader** is singular, so use 'werkte': 'Mijn vader werkte in de stad.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses present 'werkt' instead of past (Mijn vader werkt in de stad.)",
+          "explain": "The sentence is in the past, so use 'werkte': 'Mijn vader werkte in de stad.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds -de after a stem ending in k (Mijn vader werkde in de stad.)",
+          "explain": "The stem **werk** ends in k, so use -te: 'werkte'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Drops the article before 'stad' (Mijn vader werkte in stad.)",
+          "explain": "Use **de stad**: 'in de stad'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I played outside every day.",
+      "answers": [
+        "Ik speelde elke dag buiten.",
+        "Elke dag speelde ik buiten.",
+        "Buiten speelde ik elke dag."
+      ],
+      "focus": "regular simple past: spelen",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses plural 'speelden' with 'ik' (Ik speelden elke dag buiten.)",
+          "explain": "With **ik** use singular 'speelde': 'Ik speelde elke dag buiten.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses present 'speel' (Ik speel elke dag buiten.)",
+          "explain": "The sentence is about the past, so use 'speelde': 'Ik speelde elke dag buiten.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds -te after a stem ending in l (Ik speelte elke dag buiten.)",
+          "explain": "The stem **speel** does not end in t/k/f/s/ch/p, so use -de: 'speelde'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts the time phrase after 'buiten' (Ik speelde buiten elke dag.)",
+          "explain": "Put the time phrase **elke dag** before **buiten**: 'Ik speelde elke dag buiten.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik woonde in een dorp.",
+      "en": "I lived in a village."
+    },
+    {
+      "type": "listen",
+      "nl": "We hadden veel speelgoed.",
+      "en": "We had a lot of toys."
+    },
+    {
+      "type": "reply",
+      "context": "Your partner's grandmother shows you a photo of her primary school.",
+      "say": {
+        "nl": "Kijk, dit is mijn basisschool. Woonde jij ook in de buurt?",
+        "en": "Look, this is my primary school. Did you also live in the neighbourhood?"
+      },
+      "task": "Answer that you lived in a village, not in the city.",
+      "examples": [
+        "Nee, ik woonde in een dorp.",
+        "Ik woonde niet in de stad, maar in een dorp.",
+        "Wij woonden in een klein dorp."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses present 'woon' instead of past (Nee, ik woon in een dorp.)",
+          "explain": "The question is about the past, so use 'woonde': 'Nee, ik woonde in een dorp.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'geen' to negate 'in de stad' (Ik woonde geen stad.)",
+          "explain": "Use **niet** before **in de stad**: 'Ik woonde niet in de stad.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses singular 'woonde' with 'wij' (Wij woonde in een dorp.)",
+          "explain": "With **wij** use plural 'woonden': 'Wij woonden in een dorp.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts 'niet' at the end after the place (Ik woonde in de stad niet.)",
+          "explain": "Put **niet** before **in de stad**: 'Ik woonde niet in de stad.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "She asks about your childhood.",
+      "say": {
+        "nl": "Had je als kind veel speelgoed?",
+        "en": "Did you have a lot of toys as a child?"
+      },
+      "task": "Say that you had a lot of toys and that you played outside every day.",
+      "examples": [
+        "Ja, ik had veel speelgoed. Ik speelde elke dag buiten.",
+        "Ja, ik had veel speelgoed en ik speelde elke dag buiten.",
+        "Ik had veel speelgoed. We speelden vaak buiten."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'hadde' instead of 'had' (Ik hadde veel speelgoed.)",
+          "explain": "The simple past of **hebben** with **ik** is 'had': 'Ik had veel speelgoed.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses plural 'speelden' with 'ik' (Ik speelden elke dag buiten.)",
+          "explain": "With **ik** use singular 'speelde': 'Ik speelde elke dag buiten.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses present 'heb' and 'speel' (Ik heb veel speelgoed en ik speel elke dag buiten.)",
+          "explain": "The question is about the past, so use 'had' and 'speelde': 'Ik had veel speelgoed en ik speelde elke dag buiten.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Oude foto's van oma",
+    "setting": "You are at your partner's grandmother's house. She shows you old photos and asks about your childhood.",
+    "partner": {
+      "name": "Oma Van Dijk",
+      "gender": "f",
+      "role": "your partner's grandmother"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Kijk, deze foto is van mijn basisschool. Waar woonde jij als kind?",
+          "en": "Look, this photo is of my primary school. Where did you live as a child?"
+        },
+        "task": "Say where you lived as a child.",
+        "examples": [
+          "Ik woonde in een dorp.",
+          "Als kind woonde ik in een stad.",
+          "Wij woonden in een klein dorp."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Answers with present 'woon' (Ik woon in een dorp.)",
+            "explain": "Use the simple past: 'Ik woonde in een dorp.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'op' with a village (Ik woonde op een dorp.)",
+            "explain": "Use **in** with a village: 'Ik woonde in een dorp.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses singular 'woonde' with 'wij' (Wij woonde in een dorp.)",
+            "explain": "With **wij** use 'woonden': 'Wij woonden in een dorp.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En had je veel vrienden in de buurt?",
+          "en": "And did you have many friends in the neighbourhood?"
+        },
+        "task": "Answer yes or no and say how often you played outside.",
+        "examples": [
+          "Ja, ik had veel vrienden. We speelden vaak buiten.",
+          "Nee, ik had niet veel vrienden. Ik speelde thuis.",
+          "Ja, de buurt was gezellig. We speelden elke dag buiten."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'hadde' (Ik hadde veel vrienden.)",
+            "explain": "Use 'had' with **ik**: 'Ik had veel vrienden.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses plural 'speelden' with 'ik' (Ik speelden vaak buiten.)",
+            "explain": "With **ik** use 'speelde': 'Ik speelde vaak buiten.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts 'vaak' after 'buiten' (We speelden buiten vaak.)",
+            "explain": "Put **vaak** before **buiten**: 'We speelden vaak buiten.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat leerde je op de basisschool?",
+          "en": "What did you learn at primary school?"
+        },
+        "task": "Say what you learned and whether it was fun.",
+        "examples": [
+          "Ik leerde lezen en schrijven. Het was leuk.",
+          "We leerden veel. Het was niet leuk.",
+          "Ik leerde Nederlands en Engels. Het was goed."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses present 'leer' (Ik leer lezen.)",
+            "explain": "Use the simple past: 'Ik leerde lezen.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds 'te' before the infinitive after 'leren' (Ik leerde te lezen.)",
+            "explain": "After **leren** use the infinitive without **te**: 'Ik leerde lezen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses present 'is' instead of the past in the second sentence (Ik leerde lezen en schrijven. Het is leuk.)",
+            "explain": "The second sentence is about the past too: 'Het was leuk.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En verhuisden jullie later?",
+          "en": "And did you move later?"
+        },
+        "task": "Say if you moved and where to.",
+        "examples": [
+          "Ja, we verhuisden naar de stad.",
+          "Nee, we verhuisden niet. We woonden in het dorp.",
+          "Toen ik twaalf was, verhuisden we naar de stad."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses singular 'verhuisde' with 'we' (We verhuisde naar de stad.)",
+            "explain": "With **we** use plural 'verhuisden': 'We verhuisden naar de stad.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses present 'verhuizen' (We verhuizen naar de stad.)",
+            "explain": "Use the simple past: 'We verhuisden naar de stad.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses '-te' in the past of 'verhuizen' (We verhuisten naar de stad.)",
+            "explain": "**Verhuizen** takes -de in the past: 'verhuisde/verhuisden', not 'verhuiste'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Wat mooi. Dank je wel. Vroeger was het anders, maar het was goed.",
+      "en": "How lovely. Thank you. The past was different, but it was good."
+    }
+  },
+  "culture": {
+    "title": "Juf en meester",
+    "text": "In the Netherlands, children at primary school usually call a female teacher juf and a male teacher meester, often with the first name: juf Sanne, meester Koen. This is normal and friendly in primary school. At secondary school, students usually switch to meneer and mevrouw with the surname."
+  },
+  "summary": [
+    "Use was/waren for 'was/were' and had/hadden for 'had'.",
+    "For regular verbs, add -te(n) after stems ending in t, k, f, s, ch or p, and -de(n) after other stems.",
+    "Use the simple past for childhood memories: Vroeger woonde ik in een dorp.",
+    "Time words like vroeger, toen, altijd, nooit and vaak make the past clear."
+  ]
+}

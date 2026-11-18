@@ -1,0 +1,1089 @@
+{
+  "id": "u05-l05",
+  "title": "Gefeliciteerd!",
+  "subtitle": "Parties, holidays and diminutives",
+  "level": "A1",
+  "intro": "After this lesson you can congratulate someone in Dutch, talk about Dutch celebrations and holidays, and use diminutives like kopje and biertje. You will also know how to say the date of a holiday.",
+  "words": [
+    {
+      "nl": "verjaardag",
+      "en": "birthday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "verjaardagen",
+      "forms": null,
+      "example": {
+        "nl": "Mijn verjaardag is op 3 mei.",
+        "en": "My birthday is on 3 May."
+      },
+      "note": "Op je verjaardag zeg je: Gefeliciteerd!"
+    },
+    {
+      "nl": "feest",
+      "en": "party, celebration",
+      "pos": "noun",
+      "article": "het",
+      "plural": "feesten",
+      "forms": null,
+      "example": {
+        "nl": "Het feest begint om acht uur.",
+        "en": "The party begins at eight o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "feestje",
+      "en": "small party",
+      "pos": "noun",
+      "article": "het",
+      "plural": "feestjes",
+      "forms": null,
+      "example": {
+        "nl": "Het is een klein feestje.",
+        "en": "It is a small party."
+      },
+      "note": "Diminutive of feest."
+    },
+    {
+      "nl": "cadeau",
+      "en": "present, gift",
+      "pos": "noun",
+      "article": "het",
+      "plural": "cadeaus",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een cadeau voor je.",
+        "en": "I have a present for you."
+      },
+      "note": null
+    },
+    {
+      "nl": "cadeautje",
+      "en": "little present",
+      "pos": "noun",
+      "article": "het",
+      "plural": "cadeautjes",
+      "forms": null,
+      "example": {
+        "nl": "Een klein cadeautje voor jou.",
+        "en": "A little present for you."
+      },
+      "note": "Diminutive of cadeau."
+    },
+    {
+      "nl": "taart",
+      "en": "cake, tart",
+      "pos": "noun",
+      "article": "de",
+      "plural": "taarten",
+      "forms": null,
+      "example": {
+        "nl": "De taart is lekker.",
+        "en": "The cake is tasty."
+      },
+      "note": null
+    },
+    {
+      "nl": "kaars",
+      "en": "candle",
+      "pos": "noun",
+      "article": "de",
+      "plural": "kaarsen",
+      "forms": null,
+      "example": {
+        "nl": "Er is een kaars op de taart.",
+        "en": "There is a candle on the cake."
+      },
+      "note": null
+    },
+    {
+      "nl": "gast",
+      "en": "guest",
+      "pos": "noun",
+      "article": "de",
+      "plural": "gasten",
+      "forms": null,
+      "example": {
+        "nl": "Er zijn tien gasten.",
+        "en": "There are ten guests."
+      },
+      "note": null
+    },
+    {
+      "nl": "vieren",
+      "en": "to celebrate",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vier, jij viert, wij vieren",
+      "example": {
+        "nl": "Wij vieren mijn verjaardag.",
+        "en": "We celebrate my birthday."
+      },
+      "note": null
+    },
+    {
+      "nl": "feliciteren",
+      "en": "to congratulate",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik feliciteer, jij feliciteert, wij feliciteren",
+      "example": {
+        "nl": "Ik feliciteer mijn oma.",
+        "en": "I congratulate my grandmother."
+      },
+      "note": null
+    },
+    {
+      "nl": "gefeliciteerd",
+      "en": "congratulations",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Gefeliciteerd met je verjaardag!",
+        "en": "Happy birthday!"
+      },
+      "note": "You can also say just: Gefeliciteerd!"
+    },
+    {
+      "nl": "Koningsdag",
+      "en": "King's Day (27 April)",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Op 27 april is het Koningsdag.",
+        "en": "27 April is King's Day."
+      },
+      "note": "A national holiday in the Netherlands."
+    },
+    {
+      "nl": "Sinterklaas",
+      "en": "Saint Nicholas celebration (5 December)",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Op 5 december is het Sinterklaas.",
+        "en": "5 December is Sinterklaas."
+      },
+      "note": null
+    },
+    {
+      "nl": "Kerstmis",
+      "en": "Christmas",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Met Kerstmis is mijn familie samen.",
+        "en": "At Christmas my family is together."
+      },
+      "note": null
+    },
+    {
+      "nl": "Oud en Nieuw",
+      "en": "New Year's Eve and New Year's Day",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Met Oud en Nieuw is er een feest.",
+        "en": "At New Year there is a party."
+      },
+      "note": "31 December and 1 January."
+    },
+    {
+      "nl": "Pasen",
+      "en": "Easter",
+      "pos": "other",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Met Pasen ben ik vrij.",
+        "en": "At Easter I am off."
+      },
+      "note": null
+    },
+    {
+      "nl": "vakantie",
+      "en": "holiday, vacation",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vakanties",
+      "forms": null,
+      "example": {
+        "nl": "In de vakantie ga ik naar mijn oma.",
+        "en": "In the holiday I go to my grandmother."
+      },
+      "note": null
+    },
+    {
+      "nl": "snoepje",
+      "en": "sweet, candy",
+      "pos": "noun",
+      "article": "het",
+      "plural": "snoepjes",
+      "forms": null,
+      "example": {
+        "nl": "Ik neem een snoepje.",
+        "en": "I take a sweet."
+      },
+      "note": "A diminutive; all diminutives are het-words."
+    },
+    {
+      "nl": "kopje",
+      "en": "cup",
+      "pos": "noun",
+      "article": "het",
+      "plural": "kopjes",
+      "forms": null,
+      "example": {
+        "nl": "Wil je een kopje koffie?",
+        "en": "Would you like a cup of coffee?"
+      },
+      "note": "A diminutive; all diminutives are het-words."
+    },
+    {
+      "nl": "biertje",
+      "en": "a beer (informal)",
+      "pos": "noun",
+      "article": "het",
+      "plural": "biertjes",
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag een biertje.",
+        "en": "I would like a beer."
+      },
+      "note": "A diminutive; all diminutives are het-words."
+    },
+    {
+      "nl": "stukje",
+      "en": "small piece",
+      "pos": "noun",
+      "article": "het",
+      "plural": "stukjes",
+      "forms": null,
+      "example": {
+        "nl": "Ik neem een stukje taart.",
+        "en": "I take a piece of cake."
+      },
+      "note": "A diminutive; all diminutives are het-words."
+    },
+    {
+      "nl": "hapje",
+      "en": "small snack, bite",
+      "pos": "noun",
+      "article": "het",
+      "plural": "hapjes",
+      "forms": null,
+      "example": {
+        "nl": "Er zijn hapjes op het feest.",
+        "en": "There are snacks at the party."
+      },
+      "note": "A diminutive; all diminutives are het-words."
+    },
+    {
+      "nl": "drankje",
+      "en": "drink",
+      "pos": "noun",
+      "article": "het",
+      "plural": "drankjes",
+      "forms": null,
+      "example": {
+        "nl": "Wil je een drankje?",
+        "en": "Would you like a drink?"
+      },
+      "note": "A diminutive; all diminutives are het-words."
+    },
+    {
+      "nl": "versieren",
+      "en": "to decorate",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik versier, jij versiert, wij versieren",
+      "example": {
+        "nl": "Wij versieren de kamer.",
+        "en": "We decorate the room."
+      },
+      "note": null
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Gefeliciteerd met je verjaardag!",
+      "en": "Happy birthday!",
+      "note": "The standard birthday greeting."
+    },
+    {
+      "nl": "Van harte gefeliciteerd!",
+      "en": "Warm congratulations!",
+      "note": "Van harte means 'from the heart'."
+    },
+    {
+      "nl": "Gefeliciteerd met je zoon!",
+      "en": "Congratulations on your son!",
+      "note": "At Dutch birthdays you also congratulate the family."
+    },
+    {
+      "nl": "Op 27 april is het Koningsdag.",
+      "en": "27 April is King's Day.",
+      "note": "Use op with a date."
+    },
+    {
+      "nl": "Op 5 december is het Sinterklaas.",
+      "en": "5 December is Sinterklaas.",
+      "note": "A Dutch celebration with presents."
+    },
+    {
+      "nl": "Met Kerstmis ben ik vrij.",
+      "en": "At Christmas I am off.",
+      "note": "Use met with many holiday periods."
+    },
+    {
+      "nl": "Wil je een drankje?",
+      "en": "Would you like a drink?",
+      "note": "A polite offer."
+    },
+    {
+      "nl": "Ik heb een cadeautje voor je.",
+      "en": "I have a little present for you.",
+      "note": null
+    },
+    {
+      "nl": "Er is taart en er zijn hapjes.",
+      "en": "There is cake and there are snacks.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Diminutives: -je, -tje, -pje, -etje",
+      "explanation": "A diminutive makes a word small or friendly. Add **-je** to most words: **het huis** -> **het huisje**. Words ending in **-w** often take **-tje**: **de vrouw** -> **het vrouwtje**. Words ending in **-m** often take **-pje**: **de boom** -> **het boompje**. Words with a short vowel before **-l** often take **-etje**: **de bal** -> **het balletje**. All diminutives are het-words, even if the base word is de.",
+      "table": {
+        "headers": [
+          "base word",
+          "diminutive",
+          "meaning"
+        ],
+        "rows": [
+          [
+            "het huis",
+            "het huisje",
+            "the little house"
+          ],
+          [
+            "de vrouw",
+            "het vrouwtje",
+            "the little woman / wife"
+          ],
+          [
+            "de boom",
+            "het boompje",
+            "the little tree"
+          ],
+          [
+            "de bal",
+            "het balletje",
+            "the little ball"
+          ],
+          [
+            "het cadeau",
+            "het cadeautje",
+            "the little present"
+          ],
+          [
+            "het bier",
+            "het biertje",
+            "the small beer / a beer"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Het kopje is klein.",
+          "en": "The cup is small."
+        },
+        {
+          "nl": "Wij hebben een klein feestje.",
+          "en": "We are having a small party."
+        },
+        {
+          "nl": "Het is een mooi huisje.",
+          "en": "It is a nice little house."
+        }
+      ],
+      "tip": "The diminutive is always het: het kopje, het biertje, het feestje."
+    },
+    {
+      "title": "Congratulations: Gefeliciteerd met...",
+      "explanation": "Say **Gefeliciteerd!** or **Van harte gefeliciteerd!** to congratulate someone. Add **met** + the person or event: **Gefeliciteerd met je verjaardag!** **Gefeliciteerd met je dochter!** Do not use voor. You can also say **Gefeliciteerd met je familie!**",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "Gefeliciteerd!",
+            "Congratulations!"
+          ],
+          [
+            "Gefeliciteerd met je verjaardag!",
+            "Happy birthday!"
+          ],
+          [
+            "Gefeliciteerd met je zoon!",
+            "Congratulations on your son!"
+          ],
+          [
+            "Van harte gefeliciteerd!",
+            "Warm congratulations!"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Gefeliciteerd met je verjaardag, Sanne!",
+          "en": "Happy birthday, Sanne!"
+        },
+        {
+          "nl": "Van harte gefeliciteerd met je nieuwe baan!",
+          "en": "Congratulations on your new job!"
+        }
+      ],
+      "tip": "In Dutch you congratulate the family too: Gefeliciteerd met je moeder!"
+    },
+    {
+      "title": "Holiday dates: op 27 april is het Koningsdag",
+      "explanation": "For a holiday on a date, say **op** + date + **is het** + holiday: **Op 27 april is het Koningsdag.** For many holiday periods use **met**: **Met Kerstmis**, **met Pasen**, **met Oud en Nieuw**. **Op 5 december is het Sinterklaas.**",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "Op 27 april is het Koningsdag.",
+            "27 April is King's Day."
+          ],
+          [
+            "Op 5 december is het Sinterklaas.",
+            "5 December is Sinterklaas."
+          ],
+          [
+            "Met Kerstmis ben ik vrij.",
+            "At Christmas I am off."
+          ],
+          [
+            "Met Pasen is de familie samen.",
+            "At Easter the family is together."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Op 27 april is het Koningsdag.",
+          "en": "27 April is King's Day."
+        },
+        {
+          "nl": "Op 5 december is het Sinterklaas.",
+          "en": "5 December is Sinterklaas."
+        },
+        {
+          "nl": "Met Oud en Nieuw is er een feest.",
+          "en": "At New Year there is a party."
+        }
+      ],
+      "tip": "Use op with a date, met with many holiday periods."
+    }
+  ],
+  "dialogue": {
+    "title": "Op de verjaardag van Mark",
+    "setting": "Sanne arrives at Mark's birthday party and gives him a present.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mark",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Mark! Gefeliciteerd met je verjaardag!",
+        "en": "Hi Mark! Happy birthday!"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Dank je wel, Sanne! Kom binnen.",
+        "en": "Thank you, Sanne! Come in."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dit is voor jou. Een klein cadeautje.",
+        "en": "This is for you. A little present."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Dank je! Wat leuk. Ga zitten.",
+        "en": "Thank you! How nice. Sit down."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Gefeliciteerd met je vrouw en je kinderen. En met je moeder, natuurlijk.",
+        "en": "Congratulations on your wife and children. And on your mother, of course."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Dank je wel! Ja, dat doen we in Nederland. Koffie of thee?",
+        "en": "Thank you! Yes, we do that in the Netherlands. Coffee or tea?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Een kopje koffie, graag.",
+        "en": "A cup of coffee, please."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "En een stukje taart? Er is ook een hapje en een drankje.",
+        "en": "And a piece of cake? There is also a snack and a drink."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, graag! Een stukje taart. De kaarsen op de taart zijn mooi.",
+        "en": "Yes, please! A piece of cake. The candles on the cake are beautiful."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Dank je. Mijn verjaardag is een klein feest, maar het is gezellig.",
+        "en": "Thank you. My birthday is a small party, but it is cosy."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Komt je familie ook? Je moeder en je broer?",
+        "en": "Is your family coming too? Your mother and your brother?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja, mijn moeder komt ook. Mijn broer komt om acht uur. Hij is nog op zijn werk.",
+        "en": "Yes, my mother is coming too. My brother is coming at eight. He is still at work."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wat leuk. En op Koningsdag is er ook een feest.",
+        "en": "How nice. And on King's Day there is a party too."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja! Op 27 april is het Koningsdag. Dan vieren we feest in de stad.",
+        "en": "Yes! 27 April is King's Day. Then we celebrate in the city."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de verjaardag",
+          "birthday"
+        ],
+        [
+          "het cadeau",
+          "present"
+        ],
+        [
+          "de taart",
+          "cake"
+        ],
+        [
+          "de gast",
+          "guest"
+        ],
+        [
+          "de kaars",
+          "candle"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "vieren",
+          "to celebrate"
+        ],
+        [
+          "feliciteren",
+          "to congratulate"
+        ],
+        [
+          "versieren",
+          "to decorate"
+        ],
+        [
+          "de vakantie",
+          "holiday"
+        ],
+        [
+          "het feest",
+          "party"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'congratulations'?",
+      "nl": null,
+      "options": [
+        "Gefeliciteerd",
+        "Verjaardag",
+        "Cadeau",
+        "Vakantie"
+      ],
+      "answer": 0,
+      "explain": "Gefeliciteerd is what you say when someone has a birthday."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Op 27 april is het Koningsdag.",
+        "Op 27 april het is Koningsdag.",
+        "Op 27 april is Koningsdag het.",
+        "Het op 27 april is Koningsdag."
+      ],
+      "answer": 0,
+      "explain": "In a Dutch sentence the verb is comes second: Op 27 april is het Koningsdag."
+    },
+    {
+      "type": "choice",
+      "prompt": "Your friend has a new baby. What do you say?",
+      "nl": null,
+      "options": [
+        "Gefeliciteerd met je zoon!",
+        "Gefeliciteerd met je taart!",
+        "Gefeliciteerd met je vakantie!",
+        "Gefeliciteerd met je kaars!"
+      ],
+      "answer": 0,
+      "explain": "You congratulate someone with the person or event: met je zoon."
+    },
+    {
+      "type": "article",
+      "word": "verjaardag",
+      "en": "birthday",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "kopje",
+      "en": "cup",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "Happy birthday!",
+      "answer": "Gefeliciteerd met je verjaardag",
+      "accept": [],
+      "extra": [
+        "voor",
+        "feest"
+      ],
+      "explain": "Use Gefeliciteerd met + the person/event: 'Gefeliciteerd met je verjaardag!'"
+    },
+    {
+      "type": "build",
+      "en": "We celebrate my birthday.",
+      "answer": "Wij vieren mijn verjaardag",
+      "accept": [
+        "Mijn verjaardag vieren wij"
+      ],
+      "extra": [
+        "feest",
+        "is"
+      ],
+      "explain": "The verb vieren comes second and takes the object mijn verjaardag: 'Wij vieren mijn verjaardag.'"
+    },
+    {
+      "type": "build",
+      "en": "27 April is King's Day.",
+      "answer": "Op 27 april is het Koningsdag",
+      "accept": [
+        "Het is Koningsdag op 27 april"
+      ],
+      "extra": [
+        "de",
+        "feest"
+      ],
+      "explain": "Start with the date: Op 27 april is het Koningsdag. The verb is comes second."
+    },
+    {
+      "type": "gap",
+      "text": "Gefeliciteerd ___ je verjaardag!",
+      "en": "Happy birthday!",
+      "answers": [
+        "met"
+      ],
+      "hint": "with",
+      "explain": "After Gefeliciteerd use met: 'Gefeliciteerd met je verjaardag!'"
+    },
+    {
+      "type": "gap",
+      "text": "Op 5 december is het ___.",
+      "en": "5 December is Sinterklaas.",
+      "answers": [
+        "Sinterklaas"
+      ],
+      "hint": "the Dutch holiday with presents",
+      "explain": "Sinterklaas is the Dutch celebration on 5 December: 'Op 5 december is het Sinterklaas.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik neem een ___ koffie.",
+      "en": "I'll have a cup of coffee.",
+      "answers": [
+        "kopje"
+      ],
+      "hint": "small cup",
+      "explain": "A cup of coffee is een kopje koffie; kopje is a diminutive and takes het."
+    },
+    {
+      "type": "translate",
+      "en": "Happy birthday!",
+      "answers": [
+        "Gefeliciteerd met je verjaardag",
+        "Gefeliciteerd met jouw verjaardag",
+        "Van harte gefeliciteerd met je verjaardag",
+        "Van harte gefeliciteerd met jouw verjaardag",
+        "Gefeliciteerd"
+      ],
+      "focus": "congratulating someone",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses voor instead of met after Gefeliciteerd (Gefeliciteerd voor je verjaardag).",
+          "explain": "Say 'Gefeliciteerd met je verjaardag!' Use met, not voor."
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out met (Gefeliciteerd je verjaardag).",
+          "explain": "The fixed phrase is 'Gefeliciteerd met je verjaardag!'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses jou instead of jouw/je before verjaardag (Gefeliciteerd met jou verjaardag).",
+          "explain": "Before a noun use je or jouw: 'Gefeliciteerd met je verjaardag!'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "We celebrate my birthday.",
+      "answers": [
+        "Wij vieren mijn verjaardag",
+        "We vieren mijn verjaardag",
+        "Mijn verjaardag vieren wij",
+        "Mijn verjaardag vieren we"
+      ],
+      "focus": "vieren in the present",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds feest after vieren (Wij vieren feest mijn verjaardag).",
+          "explain": "Vieren already means 'to celebrate'; say 'Wij vieren mijn verjaardag.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the wrong verb ending with wij (Wij viert mijn verjaardag).",
+          "explain": "With wij, use vieren without -t: 'Wij vieren mijn verjaardag.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the object in the wrong place (Wij vieren verjaardag mijn).",
+          "explain": "The possessive comes before the noun: 'mijn verjaardag'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Would you like a beer?",
+      "answers": [
+        "Wil je een biertje",
+        "Wil je een biertje?",
+        "Wil jij een biertje",
+        "Wil jij een biertje?",
+        "Wilt u een biertje",
+        "Wilt u een biertje?"
+      ],
+      "focus": "a polite offer + diminutive",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses wilt with je in a question (Wilt je een biertje?).",
+          "explain": "With je, use wil: 'Wil je een biertje?' Use wilt with u."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses wilt with jij in a question (Wilt jij een biertje?).",
+          "explain": "With jij after the verb, the -t drops: 'Wil jij een biertje?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the subject before the verb in a yes/no question (Je wil een biertje?).",
+          "explain": "A yes/no question starts with the verb: 'Wil je een biertje?'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Gefeliciteerd met je verjaardag.",
+      "en": "Happy birthday."
+    },
+    {
+      "type": "listen",
+      "nl": "Op 27 april is het Koningsdag.",
+      "en": "27 April is King's Day."
+    },
+    {
+      "type": "reply",
+      "context": "It is your friend's birthday. You arrive at the party and see your friend.",
+      "say": {
+        "nl": "Hoi! Gefeliciteerd met je verjaardag!",
+        "en": "Hi! Happy birthday!"
+      },
+      "task": "Congratulate your friend and give a small present.",
+      "examples": [
+        "Gefeliciteerd met je verjaardag! Dit is voor jou.",
+        "Van harte gefeliciteerd! Een klein cadeautje voor jou."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses voor instead of met after Gefeliciteerd (Gefeliciteerd voor je verjaardag!).",
+          "explain": "Say 'Gefeliciteerd met je verjaardag!' Use met, not voor."
+        },
+        {
+          "id": "m2",
+          "pattern": "Leaves out met (Gefeliciteerd je verjaardag!).",
+          "explain": "The fixed phrase is 'Gefeliciteerd met je verjaardag!'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses jou before verjaardag (Gefeliciteerd met jou verjaardag!).",
+          "explain": "Before the noun use je or jouw: 'Gefeliciteerd met je verjaardag!'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "At the party, the host asks you a question.",
+      "say": {
+        "nl": "Wil je een drankje?",
+        "en": "Would you like a drink?"
+      },
+      "task": "Say yes politely and ask for a cup of coffee.",
+      "examples": [
+        "Ja, graag een kopje koffie.",
+        "Ja, lekker! Een kopje koffie, graag."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds van after kopje (een kopje van koffie).",
+          "explain": "Say 'een kopje koffie' without van."
+        },
+        {
+          "id": "m2",
+          "pattern": "Forgets graag in a polite reply (Ja, ik wil een kopje koffie).",
+          "explain": "Add graag: 'Ja, graag een kopje koffie.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses het kopje instead of een kopje (Ja, graag het kopje koffie).",
+          "explain": "For one cup, use een: 'een kopje koffie.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op een verjaardag",
+    "setting": "You arrive at Sanne's birthday party. You give her a present and congratulate her and her family.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "the birthday host"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Kom binnen!",
+          "en": "Hi! Come in!"
+        },
+        "task": "Greet Sanne and congratulate her on her birthday.",
+        "examples": [
+          "Hoi Sanne! Gefeliciteerd met je verjaardag!",
+          "Hoi! Van harte gefeliciteerd!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses voor instead of met (Gefeliciteerd voor je verjaardag!).",
+            "explain": "Say 'Gefeliciteerd met je verjaardag!' Use met, not voor."
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves out met (Gefeliciteerd je verjaardag!).",
+            "explain": "The fixed phrase is 'Gefeliciteerd met je verjaardag!'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses jou before verjaardag (Gefeliciteerd met jou verjaardag!).",
+            "explain": "Before the noun use je or jouw: 'Gefeliciteerd met je verjaardag!'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dank je wel! Is dat een cadeautje voor mij?",
+          "en": "Thank you! Is that a present for me?"
+        },
+        "task": "Say yes, give the present, and congratulate her family.",
+        "examples": [
+          "Ja, dit is voor jou. Gefeliciteerd met je familie!",
+          "Ja, een klein cadeautje. Ook gefeliciteerd met je man en je kinderen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses voor instead of met with family (Gefeliciteerd voor je familie!).",
+            "explain": "Say 'Gefeliciteerd met je familie!' Use met, not voor."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses jij after voor (Dit is voor jij).",
+            "explain": "After a preposition use jou: 'Dit is voor jou.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses aan instead of voor when giving (Dit is een cadeautje aan jou).",
+            "explain": "Say 'Dit is een cadeautje voor jou.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat leuk! Dank je. Wil je koffie of thee?",
+          "en": "How nice! Thank you. Would you like coffee or tea?"
+        },
+        "task": "Choose coffee and ask for a piece of cake.",
+        "examples": [
+          "Een kopje koffie, graag. En een stukje taart?",
+          "Koffie, graag. Mag ik een stukje taart?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds van after stukje (En een stukje van taart?).",
+            "explain": "Say 'een stukje taart' without van."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses de with the diminutive kopje (de kopje koffie).",
+            "explain": "Diminutives are het-words: 'het kopje', so 'een kopje koffie'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses vraag ik instead of mag ik for a request (En vraag ik een stukje taart?).",
+            "explain": "Ask with 'Mag ik ...?': 'Mag ik een stukje taart?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Natuurlijk! Hier is je taart. En er is ook een hapje.",
+          "en": "Of course! Here is your cake. And there is also a snack."
+        },
+        "task": "Thank her and say the cake looks nice.",
+        "examples": [
+          "Dank je wel! De taart is mooi.",
+          "Dank je! Wat een mooie taart."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds -e after is (De taart is mooie).",
+            "explain": "After is, use mooi without -e: 'De taart is mooi.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses het with taart (Het taart is mooi).",
+            "explain": "It is de taart: 'De taart is mooi.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses lekker instead of mooi for how it looks (De taart is lekker).",
+            "explain": "For how it looks, say 'De taart is mooi.' Lekker is about taste."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Op 27 april is het Koningsdag. Vier je dan ook feest?",
+          "en": "On 27 April it is King's Day. Will you celebrate then too?"
+        },
+        "task": "Say yes, and that you celebrate with friends in the city.",
+        "examples": [
+          "Ja, ik vier feest met mijn vrienden in de stad.",
+          "Ja, op Koningsdag vier ik feest met mijn vrienden in de stad."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses op with de stad instead of in (Ik vier feest op de stad).",
+            "explain": "Use in for a place: 'in de stad'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves out de before stad (in stad).",
+            "explain": "Say 'in de stad' with the article de."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses viert with ik (Ik viert feest).",
+            "explain": "With ik, use vier without -t: 'Ik vier feest.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Gezellig! Tot ziens!",
+      "en": "Lovely! See you!"
+    }
+  },
+  "culture": {
+    "title": "Congratulations to everyone",
+    "text": "At a Dutch birthday party, guests often sit in a circle and congratulate not only the birthday person but also their family: 'Gefeliciteerd met je zoon!' Coffee and cake are served, often one piece at a time. That is why you hear 'Gefeliciteerd met je moeder!' as well as 'Gefeliciteerd met je verjaardag!'"
+  },
+  "summary": [
+    "Say Gefeliciteerd met je verjaardag! and Van harte gefeliciteerd!",
+    "At birthdays, congratulate the family too: Gefeliciteerd met je zoon!",
+    "Diminutives end in -je, -tje, -pje or -etje and are always het-words: het kopje, het biertje.",
+    "Use op + date for holidays: Op 27 april is het Koningsdag.",
+    "Use met for many holiday periods: met Kerstmis, met Pasen, met Oud en Nieuw."
+  ]
+}

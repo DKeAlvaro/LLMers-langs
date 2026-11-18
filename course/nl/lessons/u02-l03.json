@@ -1,0 +1,1007 @@
+{
+  "id": "u02-l03",
+  "title": "Wat doe je?",
+  "subtitle": "Work, study and spelling rules",
+  "level": "A1",
+  "intro": "In this lesson you will learn to talk about work and study. You can say what job you do, ask someone else about their job, and use the verb forms for ik, jij and hij/zij. You will also practise the spelling changes in the stem, such as woon, zit, leef and reis.",
+  "words": [
+    {
+      "nl": "werken",
+      "en": "to work",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik werk, jij werkt, hij werkt, wij werken",
+      "example": {
+        "nl": "Ik werk op een school.",
+        "en": "I work at a school."
+      },
+      "note": null
+    },
+    {
+      "nl": "studeren",
+      "en": "to study",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik studeer, jij studeert, hij studeert, wij studeren",
+      "example": {
+        "nl": "Zij studeert aan de universiteit.",
+        "en": "She studies at the university."
+      },
+      "note": null
+    },
+    {
+      "nl": "doen",
+      "en": "to do",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik doe, jij doet, hij doet, wij doen",
+      "example": {
+        "nl": "Wat doe je?",
+        "en": "What do you do?"
+      },
+      "note": "Irregular in the singular, but very common."
+    },
+    {
+      "nl": "werk",
+      "en": "work",
+      "pos": "noun",
+      "article": "het",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het werk is goed.",
+        "en": "The work is good."
+      },
+      "note": null
+    },
+    {
+      "nl": "baan",
+      "en": "job",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de banen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een baan.",
+        "en": "I have a job."
+      },
+      "note": "Here 'baan' means job; it can also mean lane."
+    },
+    {
+      "nl": "bedrijf",
+      "en": "company",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de bedrijven",
+      "forms": null,
+      "example": {
+        "nl": "Ik werk bij een bedrijf.",
+        "en": "I work at a company."
+      },
+      "note": null
+    },
+    {
+      "nl": "kantoor",
+      "en": "office",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de kantoren",
+      "forms": null,
+      "example": {
+        "nl": "Ik werk op kantoor.",
+        "en": "I work in an office."
+      },
+      "note": "op kantoor = at/in the office"
+    },
+    {
+      "nl": "student",
+      "en": "student",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de studenten",
+      "forms": null,
+      "example": {
+        "nl": "De student studeert.",
+        "en": "The student studies."
+      },
+      "note": null
+    },
+    {
+      "nl": "leraar",
+      "en": "teacher",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de leraren",
+      "forms": null,
+      "example": {
+        "nl": "De leraar werkt op school.",
+        "en": "The teacher works at school."
+      },
+      "note": "The feminine form is **de lerares**."
+    },
+    {
+      "nl": "dokter",
+      "en": "doctor",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de dokters",
+      "forms": null,
+      "example": {
+        "nl": "Mijn moeder is dokter.",
+        "en": "My mother is a doctor."
+      },
+      "note": "For professions, Dutch often leaves out een: zij is dokter."
+    },
+    {
+      "nl": "verpleegkundige",
+      "en": "nurse",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de verpleegkundigen",
+      "forms": null,
+      "example": {
+        "nl": "De verpleegkundige werkt met de dokter.",
+        "en": "The nurse works with the doctor."
+      },
+      "note": null
+    },
+    {
+      "nl": "ingenieur",
+      "en": "engineer",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de ingenieurs",
+      "forms": null,
+      "example": {
+        "nl": "Mijn vader is ingenieur.",
+        "en": "My father is an engineer."
+      },
+      "note": null
+    },
+    {
+      "nl": "kok",
+      "en": "cook, chef",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de koks",
+      "forms": null,
+      "example": {
+        "nl": "De kok is mijn broer.",
+        "en": "The cook is my brother."
+      },
+      "note": null
+    },
+    {
+      "nl": "programmeur",
+      "en": "programmer",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de programmeurs",
+      "forms": null,
+      "example": {
+        "nl": "De programmeur werkt op kantoor.",
+        "en": "The programmer works in an office."
+      },
+      "note": null
+    },
+    {
+      "nl": "winkel",
+      "en": "shop",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de winkels",
+      "forms": null,
+      "example": {
+        "nl": "Ik werk in een winkel.",
+        "en": "I work in a shop."
+      },
+      "note": null
+    },
+    {
+      "nl": "universiteit",
+      "en": "university",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de universiteiten",
+      "forms": null,
+      "example": {
+        "nl": "Zij studeert aan de universiteit.",
+        "en": "She studies at the university."
+      },
+      "note": null
+    },
+    {
+      "nl": "school",
+      "en": "school",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de scholen",
+      "forms": null,
+      "example": {
+        "nl": "Ik werk op school.",
+        "en": "I work at school."
+      },
+      "note": null
+    },
+    {
+      "nl": "als",
+      "en": "as",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik werk als kok.",
+        "en": "I work as a cook."
+      },
+      "note": "als = as (a role or job)"
+    },
+    {
+      "nl": "bij",
+      "en": "at, with",
+      "pos": "prep",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik werk bij een bedrijf.",
+        "en": "I work at a company."
+      },
+      "note": "bij = at/with a company or person"
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Wat doe je?",
+      "en": "What do you do?",
+      "note": "Informal; formal: **Wat doet u?**"
+    },
+    {
+      "nl": "Ik werk als leraar.",
+      "en": "I work as a teacher.",
+      "note": null
+    },
+    {
+      "nl": "Waar werk je?",
+      "en": "Where do you work?",
+      "note": null
+    },
+    {
+      "nl": "Ik werk bij een bedrijf.",
+      "en": "I work at a company.",
+      "note": null
+    },
+    {
+      "nl": "Ik studeer Nederlands.",
+      "en": "I study Dutch.",
+      "note": null
+    },
+    {
+      "nl": "Wat studeer je?",
+      "en": "What do you study?",
+      "note": null
+    },
+    {
+      "nl": "Ik werk op kantoor.",
+      "en": "I work in an office.",
+      "note": null
+    },
+    {
+      "nl": "Ik werk in een winkel.",
+      "en": "I work in a shop.",
+      "note": null
+    },
+    {
+      "nl": "Ik ben student.",
+      "en": "I am a student.",
+      "note": null
+    },
+    {
+      "nl": "Aan de universiteit.",
+      "en": "At the university.",
+      "note": "Use aan de with de-words like universiteit."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "De stam: spelling voor ik en hij/zij",
+      "explanation": "For regular verbs, take the infinitive, remove **-en**, and check the spelling. **wonen** becomes **ik woon** (double the vowel to keep the long sound), **zitten** becomes **ik zit** (drop one consonant), **leven** becomes **ik leef** (v -> f at the end), and **reizen** becomes **ik reis** (z -> s at the end).",
+      "table": {
+        "headers": [
+          "infinitief",
+          "ik",
+          "hij/zij"
+        ],
+        "rows": [
+          [
+            "wonen",
+            "ik woon",
+            "hij woont"
+          ],
+          [
+            "zitten",
+            "ik zit",
+            "hij zit"
+          ],
+          [
+            "leven",
+            "ik leef",
+            "hij leeft"
+          ],
+          [
+            "reizen",
+            "ik reis",
+            "hij reist"
+          ],
+          [
+            "werken",
+            "ik werk",
+            "hij werkt"
+          ],
+          [
+            "studeren",
+            "ik studeer",
+            "hij studeert"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik woon in Utrecht.",
+          "en": "I live in Utrecht."
+        },
+        {
+          "nl": "Ik werk als kok.",
+          "en": "I work as a cook."
+        },
+        {
+          "nl": "Hij reist.",
+          "en": "He travels."
+        }
+      ],
+      "tip": "The vowel sound stays long; at the end of the stem, v becomes f and z becomes s."
+    },
+    {
+      "title": "Geen dubbele -t: hij zit, hij werkt",
+      "explanation": "If the stem already ends in **-t**, you do not add another **-t** for **hij/zij/het**: **ik zit** -> **hij zit** (not *hij zitt*). With a stem that does not end in -t, you do add **-t**: **ik werk** -> **hij werkt**, **ik studeer** -> **hij studeert**.",
+      "table": {
+        "headers": [
+          "ik",
+          "hij/zij/het"
+        ],
+        "rows": [
+          [
+            "ik zit",
+            "hij zit"
+          ],
+          [
+            "ik werk",
+            "hij werkt"
+          ],
+          [
+            "ik studeer",
+            "hij studeert"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Hij zit.",
+          "en": "He sits."
+        },
+        {
+          "nl": "Zij werkt bij een bedrijf.",
+          "en": "She works at a company."
+        },
+        {
+          "nl": "Hij studeert Nederlands.",
+          "en": "He studies Dutch."
+        }
+      ],
+      "tip": "One -t is enough."
+    },
+    {
+      "title": "Werken als... / studeren aan...",
+      "explanation": "Use **werken als** + profession (**Ik werk als leraar.**), **studeren** + subject (**Ik studeer Nederlands.**), and **aan de** + university (**Zij studeert aan de universiteit.**). Use **bij** + company/person and **op** + kantoor/school: **Ik werk bij een bedrijf.** and **Ik werk op kantoor.**",
+      "table": {
+        "headers": [
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "job",
+            "Ik werk als kok."
+          ],
+          [
+            "company",
+            "Ik werk bij een bedrijf."
+          ],
+          [
+            "place",
+            "Ik werk op kantoor."
+          ],
+          [
+            "study",
+            "Ik studeer Nederlands."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik werk als programmeur.",
+          "en": "I work as a programmer."
+        },
+        {
+          "nl": "Zij studeert aan de universiteit.",
+          "en": "She studies at the university."
+        },
+        {
+          "nl": "Ik werk bij een bedrijf in Amsterdam.",
+          "en": "I work at a company in Amsterdam."
+        }
+      ],
+      "tip": "als = role, bij = company/person, op = kantoor/school."
+    }
+  ],
+  "dialogue": {
+    "title": "Wat doe jij?",
+    "setting": "At a neighbour's birthday party in Utrecht.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Mark",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Mark! Wat doe jij?",
+        "en": "Hi Mark! What do you do?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Hoi Sanne! Ik werk als programmeur. En jij?",
+        "en": "Hi Sanne! I work as a programmer. And you?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik werk als leraar. Ik werk op een school in Utrecht.",
+        "en": "I work as a teacher. I work at a school in Utrecht."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Leuk! Werk je bij een bedrijf?",
+        "en": "Nice! Do you work at a company?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, ik werk op een school. En jij? Werk je op kantoor?",
+        "en": "No, I work at a school. And you? Do you work in an office?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Ja, ik werk bij een bedrijf in Amsterdam. Ik werk op kantoor.",
+        "en": "Yes, I work at a company in Amsterdam. I work in an office."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Mijn zus studeert aan de universiteit.",
+        "en": "My sister studies at the university."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Wat studeert zij?",
+        "en": "What does she study?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Zij studeert Nederlands. Mijn broer is kok.",
+        "en": "She studies Dutch. My brother is a cook."
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Leuk! Mijn vader is dokter.",
+        "en": "Nice! My father is a doctor."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En je moeder? Wat doet zij?",
+        "en": "And your mother? What does she do?"
+      },
+      {
+        "speaker": "Mark",
+        "nl": "Zij is verpleegkundige. Zij werkt met de dokter.",
+        "en": "She is a nurse. She works with the doctor."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Mijn ouders werken ook.",
+        "en": "My parents work too."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het werk",
+          "work"
+        ],
+        [
+          "de baan",
+          "job"
+        ],
+        [
+          "het bedrijf",
+          "company"
+        ],
+        [
+          "de winkel",
+          "shop"
+        ],
+        [
+          "de leraar",
+          "teacher"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "studeren",
+          "to study"
+        ],
+        [
+          "werken",
+          "to work"
+        ],
+        [
+          "doen",
+          "to do"
+        ],
+        [
+          "de universiteit",
+          "university"
+        ],
+        [
+          "de kok",
+          "cook"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct form for 'ik'.",
+      "nl": "Ik ___ als dokter.",
+      "options": [
+        "werk",
+        "werkt",
+        "werken"
+      ],
+      "answer": 0,
+      "explain": "For ik, use the stem without -t: ik werk."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Hij studeert Nederlands.",
+        "Hij studeer Nederlands.",
+        "Hij studeren Nederlands.",
+        "Hij studeert Nederland."
+      ],
+      "answer": 0,
+      "explain": "The stem is studeer; hij gets -t: hij studeert. Nederlands is the language, not Nederland."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which question asks about someone's job?",
+      "nl": null,
+      "options": [
+        "Wat doe je?",
+        "Wat doen je?",
+        "Wat doet je?",
+        "Wat werk je?"
+      ],
+      "answer": 0,
+      "explain": "With je, use doe: 'Wat doe je?'; formal: 'Wat doet u?'"
+    },
+    {
+      "type": "article",
+      "word": "bedrijf",
+      "en": "company",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "universiteit",
+      "en": "university",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I work as a teacher.",
+      "answer": "Ik werk als leraar.",
+      "accept": [
+        "Als leraar werk ik."
+      ],
+      "extra": [
+        "werkt",
+        "op"
+      ],
+      "explain": "Use 'als' before a profession and the ik-form 'werk' after 'ik': 'Ik werk als leraar.'"
+    },
+    {
+      "type": "build",
+      "en": "She studies at the university.",
+      "answer": "Zij studeert aan de universiteit.",
+      "accept": [
+        "Aan de universiteit studeert zij."
+      ],
+      "extra": [
+        "studeer",
+        "het"
+      ],
+      "explain": "With 'zij', the verb takes -t ('studeert'); universiteit is a de-word: 'aan de universiteit.'"
+    },
+    {
+      "type": "build",
+      "en": "I work at a company in Amsterdam.",
+      "answer": "Ik werk bij een bedrijf in Amsterdam.",
+      "accept": [
+        "Ik werk in Amsterdam bij een bedrijf.",
+        "In Amsterdam werk ik bij een bedrijf."
+      ],
+      "extra": [
+        "werkt",
+        "de"
+      ],
+      "explain": "Use 'bij' with a company and 'in' with a city: 'Ik werk bij een bedrijf in Amsterdam.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ als kok.",
+      "en": "I work as a cook.",
+      "answers": [
+        "werk"
+      ],
+      "hint": "werken",
+      "explain": "With 'ik', use the stem without -t: 'Ik werk als kok.'"
+    },
+    {
+      "type": "gap",
+      "text": "Zij ___ Nederlands aan de universiteit.",
+      "en": "She studies Dutch at the university.",
+      "answers": [
+        "studeert"
+      ],
+      "hint": "studeren",
+      "explain": "With 'zij', add -t to the stem: 'Zij studeert...'."
+    },
+    {
+      "type": "gap",
+      "text": "Mijn broer ___ bij een bedrijf.",
+      "en": "My brother works at a company.",
+      "answers": [
+        "werkt"
+      ],
+      "hint": "werken",
+      "explain": "With 'mijn broer' (hij), add -t to the stem: 'Mijn broer werkt...'."
+    },
+    {
+      "type": "translate",
+      "en": "I work as a doctor.",
+      "answers": [
+        "Ik werk als dokter.",
+        "Ik werk als dokter",
+        "Als dokter werk ik.",
+        "Als dokter werk ik"
+      ],
+      "focus": "werken als + profession; no een before a profession",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds 'een' before the profession after 'als' (Ik werk als een dokter.)",
+          "explain": "Do not use 'een' before a profession after 'als'. Say: 'Ik werk als dokter.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the hij/zij form with 'ik' (Ik werkt als dokter.)",
+          "explain": "With 'ik', use the stem without -t: 'Ik werk als dokter.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'de' before the profession (Ik werk als de dokter.)",
+          "explain": "No article is used before a profession after 'als': 'Ik werk als dokter.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "What do you do?",
+      "answers": [
+        "Wat doe je?",
+        "Wat doe jij?",
+        "Wat doet u?",
+        "Wat doe je",
+        "Wat doe jij",
+        "Wat doet u"
+      ],
+      "focus": "doen with je/jij: doe, not doet",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'doet' with je/jij (Wat doet je?)",
+          "explain": "With je/jij, 'doen' becomes 'doe': 'Wat doe je?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the plural/infinitive 'doen' with one person (Wat doen je?)",
+          "explain": "For one person (je/jij), use 'doe', not 'doen': 'Wat doe je?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'werk' instead of 'doe' (Wat werk je?)",
+          "explain": "The question 'What do you do?' is 'Wat doe je?', not 'Wat werk je?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "She studies at the university.",
+      "answers": [
+        "Zij studeert aan de universiteit.",
+        "Ze studeert aan de universiteit.",
+        "Zij studeert aan de universiteit",
+        "Ze studeert aan de universiteit",
+        "Aan de universiteit studeert zij.",
+        "Aan de universiteit studeert ze.",
+        "Aan de universiteit studeert zij",
+        "Aan de universiteit studeert ze"
+      ],
+      "focus": "stam + t for zij; aan de universiteit",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Leaves off the -t with zij (Zij studeer aan de universiteit.)",
+          "explain": "With zij/ze, add -t to the stem: 'Zij studeert aan de universiteit.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'het' with universiteit (Zij studeert aan het universiteit.)",
+          "explain": "Universiteit is a de-word: 'aan de universiteit.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the plural form with one person (Zij studeren aan de universiteit.)",
+          "explain": "For one person (zij), use 'studeert', not 'studeren': 'Zij studeert aan de universiteit.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik werk bij een bedrijf.",
+      "en": "I work at a company."
+    },
+    {
+      "type": "listen",
+      "nl": "Zij studeert Nederlands.",
+      "en": "She studies Dutch."
+    },
+    {
+      "type": "reply",
+      "context": "At a birthday party, someone asks what you do.",
+      "say": {
+        "nl": "Wat doe je?",
+        "en": "What do you do?"
+      },
+      "task": "Say that you work as a teacher.",
+      "examples": [
+        "Ik werk als leraar.",
+        "Ik werk als lerares.",
+        "Ik werk als leraar op een school."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds 'een' before the profession (Ik werk als een leraar.)",
+          "explain": "No 'een' before a profession after 'als': 'Ik werk als leraar.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the hij-form with 'ik' (Ik werkt als leraar.)",
+          "explain": "With 'ik', use the stem without -t: 'Ik werk als leraar.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'bij' instead of 'als' before the profession (Ik werk bij leraar.)",
+          "explain": "Use 'als' before a profession: 'Ik werk als leraar.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Someone asks where you work.",
+      "say": {
+        "nl": "Waar werk je?",
+        "en": "Where do you work?"
+      },
+      "task": "Say that you work at a company in Amsterdam.",
+      "examples": [
+        "Ik werk bij een bedrijf in Amsterdam.",
+        "Ik werk in Amsterdam bij een bedrijf.",
+        "In Amsterdam werk ik bij een bedrijf."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'op' with a company (Ik werk op een bedrijf in Amsterdam.)",
+          "explain": "Use 'bij' with a company: 'Ik werk bij een bedrijf in Amsterdam.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'in' with a company (Ik werk in een bedrijf in Amsterdam.)",
+          "explain": "Use 'bij' with a company: 'Ik werk bij een bedrijf in Amsterdam.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the hij-form with 'ik' (Ik werkt bij een bedrijf in Amsterdam.)",
+          "explain": "With 'ik', use the stem without -t: 'Ik werk bij een bedrijf in Amsterdam.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Wat doe je?",
+    "setting": "At a neighbour's birthday party. Karin, your neighbour, makes small talk with you.",
+    "partner": {
+      "name": "Karin",
+      "gender": "f",
+      "role": "your neighbour"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! Wat doe je?",
+          "en": "Hi! What do you do?"
+        },
+        "task": "Say what you do: a job or study.",
+        "examples": [
+          "Ik werk als kok.",
+          "Ik studeer Nederlands.",
+          "Ik werk bij een bedrijf."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Adds 'een' before the profession (Ik werk als een kok.)",
+            "explain": "No 'een' before a profession after 'als': 'Ik werk als kok.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses the hij-form with 'ik' (Ik werkt als kok.)",
+            "explain": "With 'ik', use the stem without -t: 'Ik werk als kok.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'aan' before a language after studeren (Ik studeer aan Nederlands.)",
+            "explain": "Study a subject without a preposition: 'Ik studeer Nederlands.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Leuk! Waar is dat?",
+          "en": "Nice! Where is that?"
+        },
+        "task": "Say where you work or study.",
+        "examples": [
+          "Ik werk bij een bedrijf in Amsterdam.",
+          "Ik studeer aan de universiteit in Utrecht.",
+          "Ik werk op een school."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'op' with a company (Ik werk op een bedrijf in Amsterdam.)",
+            "explain": "Use 'bij' with a company: 'Ik werk bij een bedrijf in Amsterdam.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'het' with universiteit (Ik studeer aan het universiteit in Utrecht.)",
+            "explain": "Universiteit is a de-word: 'aan de universiteit.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the hij-form with 'ik' (Ik studeert aan de universiteit in Utrecht.)",
+            "explain": "With 'ik', use 'studeer', not 'studeert': 'Ik studeer aan de universiteit.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En je ouders? Wat doen zij?",
+          "en": "And your parents? What do they do?"
+        },
+        "task": "Say what your parents do, or what one parent does.",
+        "examples": [
+          "Mijn vader is dokter.",
+          "Mijn moeder werkt als lerares.",
+          "Mijn ouders werken bij een bedrijf."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses a singular verb with plural 'ouders' (Mijn ouders werkt bij een bedrijf.)",
+            "explain": "With plural 'ouders', use 'werken': 'Mijn ouders werken bij een bedrijf.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds 'een' before the profession after 'als' (Mijn moeder werkt als een lerares.)",
+            "explain": "No 'een' before a profession after 'als': 'Mijn moeder werkt als lerares.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Leaves off the -t with 'mijn moeder' (Mijn moeder werk als lerares.)",
+            "explain": "With zij/mijn moeder, add -t: 'Mijn moeder werkt als lerares.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Leuk! Mijn broer is kok.",
+          "en": "Nice! My brother is a cook."
+        },
+        "task": "Ask where her brother works.",
+        "examples": [
+          "Waar werkt hij?",
+          "Waar werkt hij? Bij een bedrijf?",
+          "Waar werkt hij? Op kantoor?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the subject before the verb after 'waar' (Waar hij werkt?)",
+            "explain": "In a question, the verb comes right after 'waar': 'Waar werkt hij?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Leaves off the -t with hij (Waar werk hij?)",
+            "explain": "With hij/zij, add -t to the stem: 'Waar werkt hij?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the plural form with hij (Waar werken hij?)",
+            "explain": "With one person (hij), use 'werkt', not 'werken': 'Waar werkt hij?'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Leuk! Tot ziens.",
+      "en": "Nice! See you."
+    }
+  },
+  "culture": {
+    "title": "Work and small talk",
+    "text": "In the Netherlands, 'Wat doe je?' is a normal small-talk question at parties and in cafés, especially when you meet someone new. It usually means 'What do you do for a living?' or 'What are you studying?' The context makes it clear. You can answer with 'Ik werk als...' or 'Ik studeer...'; you do not need to give a long explanation."
+  },
+  "summary": [
+    "Use **Wat doe je?** to ask about work or study.",
+    "Say **Ik werk als...** + profession, or **Ik studeer...** + subject.",
+    "Use **bij** with a company or person and **op** with kantoor or school.",
+    "Spelling changes in the stem: **woon, zit, leef, reis**.",
+    "If the stem already ends in **-t**, add no extra **-t**: **hij zit**; otherwise add **-t**: **hij werkt**."
+  ]
+}

@@ -1,0 +1,1143 @@
+{
+  "id": "u02-l05",
+  "title": "Wie, wat, waar?",
+  "subtitle": "Asking questions",
+  "level": "A1",
+  "intro": "In this lesson you will learn the main Dutch question words and how to build simple open questions. You can ask where someone lives, where they are from, why they study Dutch, and which question or answer they mean. You will also practise a short class interview.",
+  "words": [
+    {
+      "nl": "wie",
+      "en": "who",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wie is dat?",
+        "en": "Who is that?"
+      },
+      "note": null
+    },
+    {
+      "nl": "wat",
+      "en": "what",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wat doe je?",
+        "en": "What do you do?"
+      },
+      "note": null
+    },
+    {
+      "nl": "waar",
+      "en": "where",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Waar woon je?",
+        "en": "Where do you live?"
+      },
+      "note": null
+    },
+    {
+      "nl": "wanneer",
+      "en": "when",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wanneer begin je?",
+        "en": "When do you start?"
+      },
+      "note": null
+    },
+    {
+      "nl": "hoe",
+      "en": "how",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoe heet je?",
+        "en": "What is your name?"
+      },
+      "note": "Literally: how are you called?"
+    },
+    {
+      "nl": "waarom",
+      "en": "why",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Waarom leer je Nederlands?",
+        "en": "Why are you learning Dutch?"
+      },
+      "note": null
+    },
+    {
+      "nl": "hoeveel",
+      "en": "how much / how many",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoeveel koffie wil je?",
+        "en": "How much coffee do you want?"
+      },
+      "note": null
+    },
+    {
+      "nl": "welk",
+      "en": "which (with het-words)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Welk nummer is het?",
+        "en": "Which number is it?"
+      },
+      "note": "Use welk before het-words."
+    },
+    {
+      "nl": "welke",
+      "en": "which (with de-words and plurals)",
+      "pos": "pron",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Welke dag is het?",
+        "en": "Which day is it?"
+      },
+      "note": "Use welke before de-words and plural nouns."
+    },
+    {
+      "nl": "omdat",
+      "en": "because",
+      "pos": "conj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Omdat ik in Utrecht woon.",
+        "en": "Because I live in Utrecht."
+      },
+      "note": "After omdat the verb goes at the end."
+    },
+    {
+      "nl": "vraag",
+      "en": "the question",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vragen",
+      "forms": null,
+      "example": {
+        "nl": "De vraag is goed.",
+        "en": "The question is good."
+      },
+      "note": null
+    },
+    {
+      "nl": "antwoord",
+      "en": "the answer",
+      "pos": "noun",
+      "article": "het",
+      "plural": "antwoorden",
+      "forms": null,
+      "example": {
+        "nl": "Het antwoord is goed.",
+        "en": "The answer is good."
+      },
+      "note": null
+    },
+    {
+      "nl": "vragen",
+      "en": "to ask",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vraag, jij vraagt, wij vragen",
+      "example": {
+        "nl": "Ik vraag het.",
+        "en": "I ask it."
+      },
+      "note": "As a noun, de vraag has plural vragen."
+    },
+    {
+      "nl": "antwoorden",
+      "en": "to answer",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik antwoord, jij antwoordt, wij antwoorden",
+      "example": {
+        "nl": "Ik antwoord op de vraag.",
+        "en": "I answer the question."
+      },
+      "note": "As a noun, het antwoord has plural antwoorden."
+    },
+    {
+      "nl": "weten",
+      "en": "to know (facts)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik weet, jij weet, wij weten",
+      "example": {
+        "nl": "Ik weet het antwoord.",
+        "en": "I know the answer."
+      },
+      "note": "Use weten for facts."
+    },
+    {
+      "nl": "kennen",
+      "en": "to know (people and places)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ken, jij kent, wij kennen",
+      "example": {
+        "nl": "Ik ken de leraar.",
+        "en": "I know the teacher."
+      },
+      "note": "Use kennen for people and places."
+    },
+    {
+      "nl": "misschien",
+      "en": "maybe",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Misschien weet ik het antwoord.",
+        "en": "Maybe I know the answer."
+      },
+      "note": null
+    },
+    {
+      "nl": "natuurlijk",
+      "en": "of course",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Natuurlijk, ik heb het antwoord.",
+        "en": "Of course, I have the answer."
+      },
+      "note": null
+    },
+    {
+      "nl": "echt",
+      "en": "really",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Echt? Leuk!",
+        "en": "Really? Nice!"
+      },
+      "note": null
+    },
+    {
+      "nl": "interview",
+      "en": "the interview",
+      "pos": "noun",
+      "article": "het",
+      "plural": "interviews",
+      "forms": null,
+      "example": {
+        "nl": "Het interview is vandaag.",
+        "en": "The interview is today."
+      },
+      "note": null
+    },
+    {
+      "nl": "klasgenoot",
+      "en": "the classmate",
+      "pos": "noun",
+      "article": "de",
+      "plural": "klasgenoten",
+      "forms": null,
+      "example": {
+        "nl": "Mijn klasgenoot heet Sanne.",
+        "en": "My classmate is called Sanne."
+      },
+      "note": null
+    },
+    {
+      "nl": "presentatie",
+      "en": "the presentation",
+      "pos": "noun",
+      "article": "de",
+      "plural": "presentaties",
+      "forms": null,
+      "example": {
+        "nl": "De presentatie is morgen.",
+        "en": "The presentation is tomorrow."
+      },
+      "note": null
+    },
+    {
+      "nl": "klas",
+      "en": "the class",
+      "pos": "noun",
+      "article": "de",
+      "plural": "klassen",
+      "forms": null,
+      "example": {
+        "nl": "In de klas spreken we Nederlands.",
+        "en": "In class we speak Dutch."
+      },
+      "note": null
+    },
+    {
+      "nl": "waar...vandaan",
+      "en": "where ... from",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Waar kom je vandaan?",
+        "en": "Where are you from?"
+      },
+      "note": "Waar and vandaan go around the verb and subject."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Waar woon je?",
+      "en": "Where do you live?",
+      "note": null
+    },
+    {
+      "nl": "Waar kom je vandaan?",
+      "en": "Where are you from?",
+      "note": "Waar and vandaan split around the verb and subject."
+    },
+    {
+      "nl": "Hoe heet je?",
+      "en": "What is your name?",
+      "note": "Literally: how are you called?"
+    },
+    {
+      "nl": "Waarom leer je Nederlands?",
+      "en": "Why are you learning Dutch?",
+      "note": null
+    },
+    {
+      "nl": "Wat is het antwoord?",
+      "en": "What is the answer?",
+      "note": null
+    },
+    {
+      "nl": "Ik heb een vraag.",
+      "en": "I have a question.",
+      "note": "Useful in class."
+    },
+    {
+      "nl": "Natuurlijk weet ik het.",
+      "en": "Of course I know it.",
+      "note": null
+    },
+    {
+      "nl": "Misschien weet ik het.",
+      "en": "Maybe I know it.",
+      "note": null
+    },
+    {
+      "nl": "Omdat ik in Utrecht woon.",
+      "en": "Because I live in Utrecht.",
+      "note": "Fixed chunk: the verb goes at the end after omdat."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Question words",
+      "explanation": "Use a question word to ask for open information. The question word comes first, then the verb, then the subject: **Waar woon je?** **Waarom studeer je Nederlands?** For **waar ... vandaan**, the word **vandaan** goes at the end: **Waar kom je vandaan?**",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English",
+          "Example"
+        ],
+        "rows": [
+          [
+            "wie",
+            "who",
+            "Wie is dat?"
+          ],
+          [
+            "wat",
+            "what",
+            "Wat doe je?"
+          ],
+          [
+            "waar",
+            "where",
+            "Waar woon je?"
+          ],
+          [
+            "wanneer",
+            "when",
+            "Wanneer begin je?"
+          ],
+          [
+            "hoe",
+            "how",
+            "Hoe heet je?"
+          ],
+          [
+            "waarom",
+            "why",
+            "Waarom leer je Nederlands?"
+          ],
+          [
+            "hoeveel",
+            "how much / how many",
+            "Hoeveel koffie wil je?"
+          ],
+          [
+            "welk",
+            "which (het-words)",
+            "Welk nummer?"
+          ],
+          [
+            "welke",
+            "which (de-words, plurals)",
+            "Welke vraag?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Waar woon je?",
+          "en": "Where do you live?"
+        },
+        {
+          "nl": "Waarom studeer je Nederlands?",
+          "en": "Why do you study Dutch?"
+        },
+        {
+          "nl": "Waar kom je vandaan?",
+          "en": "Where are you from?"
+        }
+      ],
+      "tip": "Learn the question words as a set: wie, wat, waar, wanneer, hoe, waarom, hoeveel, welk, welke."
+    },
+    {
+      "title": "Open questions: question word + verb + subject",
+      "explanation": "In an open question the first word is the question word. Then comes the verb, then the subject: **Waar woon je?** **Wanneer is de presentatie?** With **jij/je** after the verb, the verb has no extra **-t**: **Waar woon je?**",
+      "table": {
+        "headers": [
+          "Question",
+          "Word order",
+          "English"
+        ],
+        "rows": [
+          [
+            "Waar woon je?",
+            "waar + woon + je",
+            "Where do you live?"
+          ],
+          [
+            "Wanneer is de presentatie?",
+            "wanneer + is + de presentatie",
+            "When is the presentation?"
+          ],
+          [
+            "Waarom studeer je Nederlands?",
+            "waarom + studeer + je + Nederlands",
+            "Why do you study Dutch?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Waar woon je?",
+          "en": "Where do you live?"
+        },
+        {
+          "nl": "Wanneer is het interview?",
+          "en": "When is the interview?"
+        },
+        {
+          "nl": "Hoeveel vragen heb je?",
+          "en": "How many questions do you have?"
+        }
+      ],
+      "tip": "In a simple open question, the verb is the second element."
+    },
+    {
+      "title": "welk or welke?",
+      "explanation": "**Welk** goes with het-words: **welk nummer**, **welk antwoord**. **Welke** goes with de-words and plurals: **welke vraag**, **welke dag**, **welke vragen**. If you know the article, you know the form.",
+      "table": {
+        "headers": [
+          "Noun",
+          "Article",
+          "Question word",
+          "Example"
+        ],
+        "rows": [
+          [
+            "het nummer",
+            "het",
+            "welk",
+            "Welk nummer?"
+          ],
+          [
+            "het antwoord",
+            "het",
+            "welk",
+            "Welk antwoord?"
+          ],
+          [
+            "de vraag",
+            "de",
+            "welke",
+            "Welke vraag?"
+          ],
+          [
+            "de dag",
+            "de",
+            "welke",
+            "Welke dag?"
+          ],
+          [
+            "de vragen",
+            "de (plural)",
+            "welke",
+            "Welke vragen?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Welk antwoord is goed?",
+          "en": "Which answer is good?"
+        },
+        {
+          "nl": "Welke vraag is goed?",
+          "en": "Which question is good?"
+        },
+        {
+          "nl": "Welke vragen heb je?",
+          "en": "Which questions do you have?"
+        }
+      ],
+      "tip": "het -> welk; de or plural -> welke."
+    }
+  ],
+  "dialogue": {
+    "title": "Een interview in de klas",
+    "setting": "In class, Sanne interviews her classmate Daan for a short presentation about him.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Daan, ik heb een vraag.",
+        "en": "Hi Daan, I have a question."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Natuurlijk! Welke vraag?",
+        "en": "Of course! Which question?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Waar woon je?",
+        "en": "Where do you live?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ik woon in Utrecht.",
+        "en": "I live in Utrecht."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Waar kom je vandaan?",
+        "en": "Where are you from?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ik kom uit Spanje.",
+        "en": "I am from Spain."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Waarom studeer je Nederlands?",
+        "en": "Why do you study Dutch?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Omdat ik in Nederland woon.",
+        "en": "Because I live in the Netherlands."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wanneer is de presentatie?",
+        "en": "When is the presentation?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "De presentatie is morgen.",
+        "en": "The presentation is tomorrow."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank je wel! Dat is een goed interview.",
+        "en": "Thank you! That is a good interview."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Tot morgen!",
+        "en": "See you tomorrow!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "wie",
+          "who"
+        ],
+        [
+          "wat",
+          "what"
+        ],
+        [
+          "waar",
+          "where"
+        ],
+        [
+          "wanneer",
+          "when"
+        ],
+        [
+          "waarom",
+          "why"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de vraag",
+          "the question"
+        ],
+        [
+          "het antwoord",
+          "the answer"
+        ],
+        [
+          "weten",
+          "to know (facts)"
+        ],
+        [
+          "kennen",
+          "to know (people and places)"
+        ],
+        [
+          "misschien",
+          "maybe"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "You want to know where someone lives. Choose the question word.",
+      "nl": "___ woon je?",
+      "options": [
+        "Waar",
+        "Wanneer",
+        "Waarom"
+      ],
+      "answer": 0,
+      "explain": "Use 'Waar' for a place: 'Waar woon je?'"
+    },
+    {
+      "type": "choice",
+      "prompt": "You want to ask someone's name. Choose the question word.",
+      "nl": "___ heet je?",
+      "options": [
+        "Hoe",
+        "Waar",
+        "Waarom"
+      ],
+      "answer": 0,
+      "explain": "Use 'Hoe' to ask a name: 'Hoe heet je?'"
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct word before 'antwoord'.",
+      "nl": "___ antwoord is goed?",
+      "options": [
+        "Welk",
+        "Welke",
+        "Waarom"
+      ],
+      "answer": 0,
+      "explain": "'Het antwoord' is a het-word, so use 'welk': 'Welk antwoord is goed?'"
+    },
+    {
+      "type": "choice",
+      "prompt": "You want to ask the price. Choose the question word.",
+      "nl": "___ kost het?",
+      "options": [
+        "Hoeveel",
+        "Welke",
+        "Waarom"
+      ],
+      "answer": 0,
+      "explain": "'Hoeveel' asks about an amount or price: 'Hoeveel kost het?'"
+    },
+    {
+      "type": "article",
+      "word": "vraag",
+      "en": "question",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "antwoord",
+      "en": "answer",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "Where do you live?",
+      "answer": "Waar woon je?",
+      "accept": [
+        "Waar woon je?"
+      ],
+      "extra": [
+        "woont",
+        "is",
+        "de"
+      ],
+      "explain": "In an open question, the question word comes first, then the verb, then the subject. With 'je' after the verb, 'woon' has no -t: 'Waar woon je?'"
+    },
+    {
+      "type": "build",
+      "en": "The answer is good.",
+      "answer": "Het antwoord is goed.",
+      "accept": [
+        "Het antwoord is goed."
+      ],
+      "extra": [
+        "heeft",
+        "de",
+        "jij"
+      ],
+      "explain": "'Het antwoord' is a het-word, so use 'het'. The verb 'is' comes after the subject: 'Het antwoord is goed.'"
+    },
+    {
+      "type": "build",
+      "en": "When is the presentation?",
+      "answer": "Wanneer is de presentatie?",
+      "accept": [
+        "Wanneer is de presentatie?"
+      ],
+      "extra": [
+        "heeft",
+        "jij"
+      ],
+      "explain": "The question word comes first, then the verb 'is', then the subject: 'Wanneer is de presentatie?'"
+    },
+    {
+      "type": "gap",
+      "text": "___ woon je?",
+      "en": "Where do you live?",
+      "answers": [
+        "Waar"
+      ],
+      "hint": "where",
+      "explain": "Use 'Waar' for a place: 'Waar woon je?'"
+    },
+    {
+      "type": "gap",
+      "text": "___ heet je?",
+      "en": "What is your name?",
+      "answers": [
+        "Hoe"
+      ],
+      "hint": "how",
+      "explain": "Dutch asks for a name with 'Hoe heet je?' (literally: how are you called?)."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ de leraar.",
+      "en": "I know the teacher.",
+      "answers": [
+        "ken"
+      ],
+      "hint": "know (people)",
+      "explain": "Use 'kennen' for people and places. After 'ik' the form is 'ken': 'Ik ken de leraar.'"
+    },
+    {
+      "type": "translate",
+      "en": "Where do you live?",
+      "answers": [
+        "Waar woon je?",
+        "Waar woon jij?",
+        "Waar woont u?"
+      ],
+      "focus": "Question word + verb + subject",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the verb before the question word (Woon waar je?)",
+          "explain": "Start with the question word: 'Waar woon je?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds -t after je (Waar woont je?)",
+          "explain": "With 'je' after the verb, the verb has no -t: 'Waar woon je?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out the question word (Woon je?)",
+          "explain": "An open question starts with a question word: 'Waar woon je?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Why do you study Dutch?",
+      "answers": [
+        "Waarom studeer je Nederlands?",
+        "Waarom studeer jij Nederlands?",
+        "Waarom studeert u Nederlands?",
+        "Waarom leer je Nederlands?",
+        "Waarom leer jij Nederlands?",
+        "Waarom leert u Nederlands?"
+      ],
+      "focus": "waarom and open question order",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the subject before the verb (Waarom je studeert Nederlands?)",
+          "explain": "After the question word comes the verb, then the subject: 'Waarom studeer je Nederlands?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'omdat' in the question (Omdat studeer je Nederlands?)",
+          "explain": "Use 'waarom' to ask why: 'Waarom studeer je Nederlands?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Adds -t after je (Waarom studeert je Nederlands?)",
+          "explain": "With 'je' after the verb, the verb has no -t: 'Waarom studeer je Nederlands?'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Puts 'Nederlands' before the verb (Waarom Nederlands studeer je?)",
+          "explain": "The verb comes second: 'Waarom studeer je Nederlands?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I know the answer.",
+      "answers": [
+        "Ik weet het antwoord.",
+        "Ik ken het antwoord."
+      ],
+      "focus": "weten for facts",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the verb at the end (Ik het antwoord weet.)",
+          "explain": "The verb comes second: 'Ik weet het antwoord.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'heb' instead of 'weet' (Ik heb het antwoord.)",
+          "explain": "Use 'weten' for knowing a fact: 'Ik weet het antwoord.' ('Ik heb het antwoord' means I have the answer.)"
+        },
+        {
+          "id": "m3",
+          "pattern": "Forgets 'het' (Ik weet antwoord.)",
+          "explain": "Use 'het antwoord': 'Ik weet het antwoord.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds -t after ik (Ik weett het antwoord.)",
+          "explain": "After 'ik' the form is 'weet', with no extra -t: 'Ik weet het antwoord.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Waar kom je vandaan?",
+      "en": "Where are you from?"
+    },
+    {
+      "type": "listen",
+      "nl": "Wanneer is het interview?",
+      "en": "When is the interview?"
+    },
+    {
+      "type": "reply",
+      "context": "You are in class. Your teacher asks: 'Heb je een vraag?'",
+      "say": {
+        "nl": "Heb je een vraag?",
+        "en": "Do you have a question?"
+      },
+      "task": "Say yes, you have a question.",
+      "examples": [
+        "Ja, ik heb een vraag.",
+        "Ja, natuurlijk. Ik heb een vraag."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Answers no instead of yes (Nee, ik heb geen vraag.)",
+          "explain": "The task asks you to say yes: 'Ja, ik heb een vraag.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'ben' instead of 'heb' (Ja, ik ben een vraag.)",
+          "explain": "Use 'hebben' for having a question: 'Ik heb een vraag.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Leaves out 'een' (Ja, ik heb vraag.)",
+          "explain": "Use 'een' before 'vraag': 'Ik heb een vraag.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "Your classmate asks: 'Waarom studeer je Nederlands?'",
+      "say": {
+        "nl": "Waarom studeer je Nederlands?",
+        "en": "Why are you studying Dutch?"
+      },
+      "task": "Give a simple reason: you live in the Netherlands.",
+      "examples": [
+        "Omdat ik in Nederland woon.",
+        "Omdat ik in Utrecht woon."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'waarom' instead of 'omdat' (Waarom ik woon in Nederland.)",
+          "explain": "Use 'omdat' to give a reason: 'Omdat ik in Nederland woon.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb before the end after omdat (Omdat ik woon in Nederland.)",
+          "explain": "After 'omdat' the verb goes at the end: 'Omdat ik in Nederland woon.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'ben' instead of 'woon' (Omdat ik in Nederland ben.)",
+          "explain": "Use 'wonen' for living: 'Omdat ik in Nederland woon.'"
+        },
+        {
+          "id": "m4",
+          "pattern": "Forgets 'in' (Omdat ik Nederland woon.)",
+          "explain": "Use 'in' before the country: 'Omdat ik in Nederland woon.'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Interview je klasgenoot",
+    "setting": "In class, you interview your classmate Daan for a short presentation about him.",
+    "partner": {
+      "name": "Daan",
+      "gender": "m",
+      "role": "your classmate"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoi! We beginnen.",
+          "en": "Hi! We are starting."
+        },
+        "task": "Greet Daan and say you have a question.",
+        "examples": [
+          "Hoi Daan, ik heb een vraag.",
+          "Hallo! Ik heb een vraag."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Skips the greeting and only says 'Ik heb een vraag.'",
+            "explain": "Start with a greeting: 'Hoi Daan, ik heb een vraag.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'ben' instead of 'heb' (Ik ben een vraag.)",
+            "explain": "Use 'hebben' for having a question: 'Ik heb een vraag.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Leaves out 'een' (Ik heb vraag.)",
+            "explain": "Use 'een' before 'vraag': 'Ik heb een vraag.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Natuurlijk! Welke vraag?",
+          "en": "Of course! Which question?"
+        },
+        "task": "Ask where he lives.",
+        "examples": [
+          "Waar woon je?",
+          "Waar woon jij?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the verb before the question word (Woon waar je?)",
+            "explain": "Start with the question word: 'Waar woon je?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds -t after je (Waar woont je?)",
+            "explain": "With 'je' after the verb, the verb has no -t: 'Waar woon je?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'is' instead of 'woon' (Waar is je?)",
+            "explain": "Use 'wonen' for where you live: 'Waar woon je?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik woon in Rotterdam.",
+          "en": "I live in Rotterdam."
+        },
+        "task": "Ask where he is from.",
+        "examples": [
+          "Waar kom je vandaan?",
+          "En waar kom je vandaan?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Leaves out 'vandaan' (Waar kom je?)",
+            "explain": "'Where are you from?' is 'Waar kom je vandaan?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts 'vandaan' before the verb (Waar vandaan kom je?)",
+            "explain": "Put 'vandaan' at the end: 'Waar kom je vandaan?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Adds -t after je (Waar komt je vandaan?)",
+            "explain": "With 'je' after the verb, the verb has no -t: 'Waar kom je vandaan?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ik kom uit Spanje.",
+          "en": "I am from Spain."
+        },
+        "task": "Ask why he studies Dutch.",
+        "examples": [
+          "Waarom studeer je Nederlands?",
+          "Waarom studeer jij Nederlands?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'omdat' in the question (Omdat studeer je Nederlands?)",
+            "explain": "Use 'waarom' to ask why: 'Waarom studeer je Nederlands?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts the subject before the verb (Waarom je studeert Nederlands?)",
+            "explain": "Question word + verb + subject: 'Waarom studeer je Nederlands?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Adds -t after je (Waarom studeert je Nederlands?)",
+            "explain": "With 'je' after the verb, the verb has no -t: 'Waarom studeer je Nederlands?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Omdat ik in Nederland woon.",
+          "en": "Because I live in the Netherlands."
+        },
+        "task": "Thank him and say the presentation is tomorrow.",
+        "examples": [
+          "Dank je wel! De presentatie is morgen.",
+          "Dank je! De presentatie is morgen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Forgets to thank (De presentatie is morgen.)",
+            "explain": "Start with 'Dank je wel' or 'Dank je'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'ben' instead of 'is' (De presentatie ben morgen.)",
+            "explain": "Use 'is' with 'de presentatie': 'De presentatie is morgen.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts 'morgen' before 'is' (De presentatie morgen is.)",
+            "explain": "The verb comes second: 'De presentatie is morgen.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses 'het presentatie' (Het presentatie is morgen.)",
+            "explain": "'Presentatie' is a de-word: 'de presentatie'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot morgen!",
+      "en": "See you tomorrow!"
+    }
+  },
+  "culture": {
+    "title": "Direct questions are normal",
+    "text": "In the Netherlands, people often ask several short questions in a row: where do you live, where are you from, what do you do? This is usually friendly interest, not a police interview. A short answer is normal, and you can ask the same question back. Dutch directness can feel rude to some learners, but it is rarely meant that way."
+  },
+  "summary": [
+    "Use question words like wie, wat, waar, wanneer, hoe, waarom, hoeveel, welk and welke.",
+    "Open questions start with question word + verb + subject: Waar woon je?",
+    "Use welk with het-words and welke with de-words and plurals.",
+    "Use weten for facts and kennen for people and places.",
+    "Use omdat to give a reason; the verb goes at the end: Omdat ik in Utrecht woon."
+  ]
+}

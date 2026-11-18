@@ -1,0 +1,1110 @@
+{
+  "id": "u06-l05",
+  "title": "Gezond leven",
+  "subtitle": "Healthy habits and comparisons",
+  "level": "A1",
+  "intro": "In this lesson you will learn to talk about healthy habits: sleep, sport, food and stress. You will also learn to compare things, for example 'gezonder dan' (healthier than) and 'het gezondst' (the healthiest).",
+  "words": [
+    {
+      "nl": "gezond",
+      "en": "healthy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Groente is gezond.",
+        "en": "Vegetables are healthy."
+      },
+      "note": "The opposite is ongezond."
+    },
+    {
+      "nl": "ongezond",
+      "en": "unhealthy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Te veel suiker is ongezond.",
+        "en": "Too much sugar is unhealthy."
+      },
+      "note": null
+    },
+    {
+      "nl": "sport",
+      "en": "sport",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de sporten",
+      "forms": null,
+      "example": {
+        "nl": "Welke sport vind je leuk?",
+        "en": "Which sport do you like?"
+      },
+      "note": null
+    },
+    {
+      "nl": "bewegen",
+      "en": "to move, to exercise",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik beweeg, jij beweegt, wij bewegen",
+      "example": {
+        "nl": "Ik beweeg elke dag een uur.",
+        "en": "I exercise for an hour every day."
+      },
+      "note": "Also 'to move' in general: Ik kan niet bewegen."
+    },
+    {
+      "nl": "slapen",
+      "en": "to sleep",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik slaap, jij slaapt, wij slapen",
+      "example": {
+        "nl": "Zij slaapt acht uur per dag.",
+        "en": "She sleeps eight hours a day."
+      },
+      "note": null
+    },
+    {
+      "nl": "slaap",
+      "en": "sleep",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb geen slaap.",
+        "en": "I'm not sleepy."
+      },
+      "note": "'geen slaap hebben' means 'not feel sleepy'."
+    },
+    {
+      "nl": "gewicht",
+      "en": "weight",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de gewichten",
+      "forms": null,
+      "example": {
+        "nl": "Mijn gewicht is zeventig kilo.",
+        "en": "My weight is seventy kilos."
+      },
+      "note": null
+    },
+    {
+      "nl": "afvallen",
+      "en": "to lose weight",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik val af, jij valt af, wij vallen af",
+      "example": {
+        "nl": "Ik wil drie kilo afvallen.",
+        "en": "I want to lose three kilos."
+      },
+      "note": "Separable verb: ik val af."
+    },
+    {
+      "nl": "aankomen",
+      "en": "to gain weight",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom aan, jij komt aan, wij komen aan",
+      "example": {
+        "nl": "Ik wil niet aankomen.",
+        "en": "I don't want to gain weight."
+      },
+      "note": "Also 'to arrive': De trein komt aan."
+    },
+    {
+      "nl": "groente",
+      "en": "vegetables",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de groenten",
+      "forms": null,
+      "example": {
+        "nl": "Ik eet elke dag groente.",
+        "en": "I eat vegetables every day."
+      },
+      "note": "Dutch often uses the singular for 'vegetables' in general."
+    },
+    {
+      "nl": "suiker",
+      "en": "sugar",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik neem geen suiker in mijn koffie.",
+        "en": "I don't take sugar in my coffee."
+      },
+      "note": "You know de suiker from the coffee lesson; here it is about healthy eating."
+    },
+    {
+      "nl": "vet",
+      "en": "fat",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de vetten",
+      "forms": null,
+      "example": {
+        "nl": "In friet zit veel vet.",
+        "en": "There is a lot of fat in fries."
+      },
+      "note": "A het-word: het vet."
+    },
+    {
+      "nl": "alcohol",
+      "en": "alcohol",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik drink geen alcohol.",
+        "en": "I don't drink alcohol."
+      },
+      "note": null
+    },
+    {
+      "nl": "roken",
+      "en": "to smoke",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik rook, jij rookt, wij roken",
+      "example": {
+        "nl": "Mijn vader rookt niet meer.",
+        "en": "My father doesn't smoke anymore."
+      },
+      "note": null
+    },
+    {
+      "nl": "stoppen",
+      "en": "to stop",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik stop, jij stopt, wij stoppen",
+      "example": {
+        "nl": "Ik wil stoppen met roken.",
+        "en": "I want to stop smoking."
+      },
+      "note": "stoppen met + verb: stoppen met roken."
+    },
+    {
+      "nl": "stress",
+      "en": "stress",
+      "pos": "noun",
+      "article": "de",
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik heb veel stress op mijn werk.",
+        "en": "I have a lot of stress at work."
+      },
+      "note": "No plural in this meaning."
+    },
+    {
+      "nl": "ontspannen",
+      "en": "to relax",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ontspan, jij ontspant, wij ontspannen",
+      "example": {
+        "nl": "Ik ontspan graag met muziek.",
+        "en": "I like to relax with music."
+      },
+      "note": "Also an adjective: Ik ben ontspannen."
+    },
+    {
+      "nl": "voornemen",
+      "en": "intention, resolution",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de voornemens",
+      "forms": null,
+      "example": {
+        "nl": "Mijn voornemen is om minder suiker te eten.",
+        "en": "My resolution is to eat less sugar."
+      },
+      "note": null
+    },
+    {
+      "nl": "meer",
+      "en": "more",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik moet meer bewegen.",
+        "en": "I need to exercise more."
+      },
+      "note": "Irregular: veel – meer – meest."
+    },
+    {
+      "nl": "minder",
+      "en": "less",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik eet minder vlees.",
+        "en": "I eat less meat."
+      },
+      "note": "Irregular: weinig – minder – minst."
+    },
+    {
+      "nl": "beter",
+      "en": "better",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik voel me veel beter.",
+        "en": "I feel much better."
+      },
+      "note": "goed – beter – best."
+    },
+    {
+      "nl": "best",
+      "en": "best",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik voel me het best in de zomer.",
+        "en": "I feel best in the summer."
+      },
+      "note": "Superlative of goed; usually het best."
+    },
+    {
+      "nl": "slechter",
+      "en": "worse",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Mijn oude fiets is slechter dan mijn nieuwe fiets.",
+        "en": "My old bike is worse than my new bike."
+      },
+      "note": "Comparative of slecht."
+    },
+    {
+      "nl": "genoeg",
+      "en": "enough",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik beweeg niet genoeg.",
+        "en": "I don't exercise enough."
+      },
+      "note": null
+    },
+    {
+      "nl": "te veel",
+      "en": "too much",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik drink te veel koffie.",
+        "en": "I drink too much coffee."
+      },
+      "note": "Goes before the noun: te veel suiker."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik wil gezonder eten.",
+      "en": "I want to eat more healthily.",
+      "note": null
+    },
+    {
+      "nl": "Ik moet meer bewegen.",
+      "en": "I need to exercise more.",
+      "note": null
+    },
+    {
+      "nl": "Ik eet te veel suiker.",
+      "en": "I eat too much sugar.",
+      "note": null
+    },
+    {
+      "nl": "Ik stop met roken.",
+      "en": "I'm quitting smoking.",
+      "note": "stoppen met + verb."
+    },
+    {
+      "nl": "Fietsen is even gezond als zwemmen.",
+      "en": "Cycling is just as healthy as swimming.",
+      "note": null
+    },
+    {
+      "nl": "Ik voel me veel beter.",
+      "en": "I feel much better.",
+      "note": null
+    },
+    {
+      "nl": "Dat is een goed voornemen!",
+      "en": "That's a good resolution!",
+      "note": null
+    },
+    {
+      "nl": "Groente is gezonder dan friet.",
+      "en": "Vegetables are healthier than fries.",
+      "note": null
+    },
+    {
+      "nl": "Ik heb geen stress meer.",
+      "en": "I don't have stress anymore.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Vergelijken: -er en -st",
+      "explanation": "To compare two things, add **-er** to the adjective: **gezond – gezonder**. To say what is the most, use **het** + adjective + **-st**: **het gezondst**. After a comparison you use **dan** (than): **Groente is gezonder dan friet**.",
+      "table": {
+        "headers": [
+          "adjectief",
+          "vergelijkend (-er)",
+          "superlatief (het ... -st)"
+        ],
+        "rows": [
+          [
+            "gezond",
+            "gezonder",
+            "het gezondst"
+          ],
+          [
+            "ongezond",
+            "ongezonder",
+            "het ongezondst"
+          ],
+          [
+            "duur",
+            "duurder",
+            "het duurst"
+          ],
+          [
+            "mooi",
+            "mooier",
+            "het mooist"
+          ],
+          [
+            "groot",
+            "groter",
+            "het grootst"
+          ],
+          [
+            "lekker",
+            "lekkerder",
+            "het lekkerst"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Groente is gezonder dan friet.",
+          "en": "Vegetables are healthier than fries."
+        },
+        {
+          "nl": "Mijn fiets is duurder dan jouw fiets.",
+          "en": "My bike is more expensive than your bike."
+        },
+        {
+          "nl": "Fietsen is het gezondst.",
+          "en": "Cycling is the healthiest."
+        }
+      ],
+      "tip": "Watch the spelling: **groot – groter** (one o), but **duur – duurder** and **mooi – mooier** keep the long vowel."
+    },
+    {
+      "title": "Onregelmatige vormen",
+      "explanation": "Some very common words do not take **-er** and **-st**: **goed – beter – best**, **veel – meer – meest**, **graag – liever – het liefst**, **weinig – minder – minst**. You already know **graag – liever – het liefst** from unit 5.",
+      "table": {
+        "headers": [
+          "basis",
+          "vergelijkend",
+          "superlatief"
+        ],
+        "rows": [
+          [
+            "goed",
+            "beter",
+            "best"
+          ],
+          [
+            "veel",
+            "meer",
+            "meest"
+          ],
+          [
+            "graag",
+            "liever",
+            "het liefst"
+          ],
+          [
+            "weinig",
+            "minder",
+            "minst"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik voel me beter.",
+          "en": "I feel better."
+        },
+        {
+          "nl": "Ik drink minder koffie.",
+          "en": "I drink less coffee."
+        },
+        {
+          "nl": "Zij sport het meest.",
+          "en": "She exercises the most."
+        }
+      ],
+      "tip": "Ik ben beter can also mean 'I have recovered'."
+    },
+    {
+      "title": "even ... als: as ... as",
+      "explanation": "To say two things are equal, use **even** + adjective + **als**: **Fietsen is even gezond als zwemmen**. In a negative sentence you often use **niet zo ... als**: **Roken is niet zo gezond als fietsen**.",
+      "table": null,
+      "examples": [
+        {
+          "nl": "Fietsen is even gezond als zwemmen.",
+          "en": "Cycling is just as healthy as swimming."
+        },
+        {
+          "nl": "Ik ben even moe als jij.",
+          "en": "I am just as tired as you."
+        },
+        {
+          "nl": "Roken is niet zo gezond als fietsen.",
+          "en": "Smoking is not as healthy as cycling."
+        }
+      ],
+      "tip": "dan = than (difference), als = as (equality): gezonder dan, even gezond als."
+    }
+  ],
+  "dialogue": {
+    "title": "Gezonde voornemens",
+    "setting": "Sanne and Daan talk after work about sleep, stress and Daan's plan to start running.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Hoi Daan, ben je moe?",
+        "en": "Hi Daan, are you tired?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Ja, ik slaap slecht. Ik heb veel stress op mijn werk.",
+        "en": "Yes, I sleep badly. I have a lot of stress at work."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is niet gezond. Beweeg je genoeg?",
+        "en": "That's not healthy. Do you exercise enough?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Nee, ik zit veel. Ik wil graag hardlopen.",
+        "en": "No, I sit a lot. I would like to run."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Goed idee! Hardlopen is gezonder dan zitten.",
+        "en": "Good idea! Running is healthier than sitting."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Maar ik eet te veel suiker en ik drink te veel alcohol.",
+        "en": "But I eat too much sugar and I drink too much alcohol."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is een goed voornemen: minder suiker, meer bewegen.",
+        "en": "That's a good resolution: less sugar, more exercise."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "En ik wil stoppen met roken.",
+        "en": "And I want to stop smoking."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Heel goed! En fiets je naar je werk?",
+        "en": "Very good! And do you cycle to work?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Nee, ik ga met de auto. Maar morgen ga ik fietsen.",
+        "en": "No, I go by car. But tomorrow I'm going to cycle."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik fiets elke dag. Dat is even gezond als zwemmen. En ik vind het leuk.",
+        "en": "I cycle every day. That's just as healthy as swimming. And I enjoy it."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Jij beweegt het meest! Ik ga het ook doen.",
+        "en": "You exercise the most! I'm going to do it too."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "gezond",
+          "healthy"
+        ],
+        [
+          "ongezond",
+          "unhealthy"
+        ],
+        [
+          "de sport",
+          "sport"
+        ],
+        [
+          "het gewicht",
+          "weight"
+        ],
+        [
+          "de stress",
+          "stress"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "meer",
+          "more"
+        ],
+        [
+          "minder",
+          "less"
+        ],
+        [
+          "beter",
+          "better"
+        ],
+        [
+          "genoeg",
+          "enough"
+        ],
+        [
+          "te veel",
+          "too much"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Groente is gezonder dan friet.",
+        "Groente is gezonder als friet.",
+        "Groente is meer gezond dan friet."
+      ],
+      "answer": 0,
+      "explain": "You compare with -er + dan: gezonder dan."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete the sentence:",
+      "nl": "Ik eet ___ vlees dan mijn broer.",
+      "options": [
+        "minder",
+        "weinig",
+        "minst"
+      ],
+      "answer": 0,
+      "explain": "For a difference you use the comparative minder, not the base weinig or the superlative minst."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the superlative of goed?",
+      "nl": null,
+      "options": [
+        "goedst",
+        "best",
+        "beter"
+      ],
+      "answer": 1,
+      "explain": "goed – beter – best is irregular."
+    },
+    {
+      "type": "article",
+      "word": "sport",
+      "en": "sport",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "gewicht",
+      "en": "weight",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "Vegetables are healthier than fries.",
+      "answer": "Groente is gezonder dan friet.",
+      "accept": [],
+      "extra": [
+        "als",
+        "meer"
+      ],
+      "explain": "Use -er + dan for a difference: 'gezonder dan'."
+    },
+    {
+      "type": "build",
+      "en": "I want to stop smoking.",
+      "answer": "Ik wil stoppen met roken.",
+      "accept": [
+        "Ik wil met roken stoppen."
+      ],
+      "extra": [
+        "stop"
+      ],
+      "explain": "After wil the infinitive goes at the end; stoppen takes met + infinitive: 'stoppen met roken'."
+    },
+    {
+      "type": "build",
+      "en": "Cycling is just as healthy as swimming.",
+      "answer": "Fietsen is even gezond als zwemmen.",
+      "accept": [],
+      "extra": [
+        "dan",
+        "meer"
+      ],
+      "explain": "For equality use even + adjective + als: 'even gezond als'."
+    },
+    {
+      "type": "gap",
+      "text": "Ik voel me veel ___ dan mijn zus.",
+      "en": "I feel much better than my sister.",
+      "answers": [
+        "beter"
+      ],
+      "hint": "goed → ...",
+      "explain": "The comparative of goed is beter: 'veel beter dan'."
+    },
+    {
+      "type": "gap",
+      "text": "Zij eet ___ suiker dan ik.",
+      "en": "She eats less sugar than I do.",
+      "answers": [
+        "minder"
+      ],
+      "hint": "weinig → ...",
+      "explain": "The comparative of weinig is minder; it comes before the noun: 'minder suiker dan'."
+    },
+    {
+      "type": "gap",
+      "text": "Ik beweeg niet ___.",
+      "en": "I don't exercise enough.",
+      "answers": [
+        "genoeg"
+      ],
+      "hint": "enough",
+      "explain": "genoeg comes after the verb: 'niet genoeg'."
+    },
+    {
+      "type": "translate",
+      "en": "I sleep better than my sister.",
+      "answers": [
+        "Ik slaap beter dan mijn zus.",
+        "Ik slaap beter dan mijn zus"
+      ],
+      "focus": "beter (irregular comparative) + dan",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'als' instead of 'dan' after a comparative: 'Ik slaap beter als mijn zus.'",
+          "explain": "After a comparative you use dan (than), not als: 'Ik slaap beter dan mijn zus.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Places 'dan' before the adjective: 'Ik slaap dan beter mijn zus.'",
+          "explain": "The comparison is beter dan + person: 'beter dan mijn zus'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'mij' instead of the possessive 'mijn': 'Ik slaap beter dan mij zus.'",
+          "explain": "Before a noun you need the possessive mijn: 'mijn zus'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses the third-person verb form with 'ik': 'Ik slaapt beter dan mijn zus.'",
+          "explain": "With ik the verb is slaap: 'Ik slaap'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Vegetables are healthier than meat.",
+      "answers": [
+        "Groente is gezonder dan vlees.",
+        "Groenten zijn gezonder dan vlees.",
+        "Groente is gezonder dan vlees",
+        "Groenten zijn gezonder dan vlees"
+      ],
+      "focus": "comparative -er + dan",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'als' instead of 'dan' after a comparative: 'Groente is gezonder als vlees.'",
+          "explain": "After a comparative you use dan: 'Groente is gezonder dan vlees.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'meer gezond' instead of the comparative form: 'Groente is meer gezond dan vlees.'",
+          "explain": "Use -er: 'gezonder', not 'meer gezond'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the verb: 'Groente gezonder dan vlees.'",
+          "explain": "A Dutch sentence needs a verb: 'Groente is gezonder dan vlees'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses plural 'Groenten' with singular 'is': 'Groenten is gezonder dan vlees.'",
+          "explain": "With plural groenten use zijn: 'Groenten zijn gezonder dan vlees.' With singular groente use is."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I want to exercise more.",
+      "answers": [
+        "Ik wil meer bewegen.",
+        "Ik wil graag meer bewegen.",
+        "Ik wil meer bewegen",
+        "Ik wil graag meer bewegen",
+        "Ik wil meer sporten.",
+        "Ik wil graag meer sporten."
+      ],
+      "focus": "meer (irregular comparative) and modal + infinitive",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses a finite verb after 'wil': 'Ik wil meer beweeg.'",
+          "explain": "After wil use the infinitive: 'Ik wil meer bewegen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Places 'meer' after the infinitive: 'Ik wil bewegen meer.'",
+          "explain": "meer comes before the infinitive: 'Ik wil meer bewegen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'veel' instead of the comparative 'meer': 'Ik wil veel bewegen.'",
+          "explain": "For 'more than now' use meer: 'Ik wil meer bewegen'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Adds 'te' after a modal: 'Ik wil meer te bewegen.'",
+          "explain": "After wil use the bare infinitive: 'Ik wil meer bewegen', not 'te bewegen'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik moet meer bewegen.",
+      "en": "I need to exercise more."
+    },
+    {
+      "type": "listen",
+      "nl": "Mijn gewicht is zeventig kilo.",
+      "en": "My weight is seventy kilos."
+    },
+    {
+      "type": "reply",
+      "context": "Your friend tells you he sleeps badly and has a lot of stress.",
+      "say": {
+        "nl": "Ik slaap slecht en ik heb veel stress.",
+        "en": "I sleep badly and I have a lot of stress."
+      },
+      "task": "Give him one piece of advice about moving more.",
+      "examples": [
+        "Je moet meer bewegen.",
+        "Ga elke dag fietsen.",
+        "Fiets elke dag."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses a finite verb after a modal: 'Je moet meer beweegt.'",
+          "explain": "After moet use the infinitive: 'Je moet meer bewegen'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Places 'meer' after the infinitive: 'Je moet bewegen meer.'",
+          "explain": "meer comes before the infinitive: 'Je moet meer bewegen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses 'mogen' instead of 'moeten' for strong advice: 'Je mag meer bewegen.'",
+          "explain": "For 'you should' use moeten: 'Je moet meer bewegen'. Mogen means 'may'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Uses 'niet meer' and gives the opposite advice: 'Je moet niet meer bewegen.'",
+          "explain": "For positive advice use 'Je moet meer bewegen', without niet."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "A friend asks about your good intentions for this year.",
+      "say": {
+        "nl": "Wat is jouw voornemen?",
+        "en": "What is your resolution?"
+      },
+      "task": "Say one thing you want to do less and one thing you want to do more.",
+      "examples": [
+        "Ik eet minder suiker en ik beweeg meer.",
+        "Ik wil stoppen met roken en meer slapen."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Places 'minder' after the noun: 'Ik eet suiker minder en ik beweeg meer.'",
+          "explain": "minder comes before the noun: 'minder suiker'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'weinig' instead of the comparative 'minder': 'Ik eet weinig suiker en ik beweeg meer.'",
+          "explain": "For 'less than before' use minder: 'Ik eet minder suiker'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the infinitive before its object: 'Ik wil eten minder suiker en meer bewegen.'",
+          "explain": "With a modal, the infinitive comes at the end of its clause: 'Ik wil minder suiker eten en meer bewegen'."
+        },
+        {
+          "id": "m4",
+          "pattern": "Omits the subject and verb in the second clause: 'Ik eet minder suiker en meer bewegen.'",
+          "explain": "Use a full clause: 'Ik eet minder suiker en ik beweeg meer'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Gezonde voornemens",
+    "setting": "You are talking to your friend Sanne about healthy habits. She wants to start running.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "friend"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoe voel je je?",
+          "en": "How do you feel?"
+        },
+        "task": "Say that you are tired and that you sleep badly.",
+        "examples": [
+          "Ik ben moe. Ik slaap slecht.",
+          "Ik voel me niet zo goed. Ik slaap niet genoeg."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'hebben' with 'moe': 'Ik heb moe.'",
+            "explain": "Tired is moe with zijn: 'Ik ben moe'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses the third-person verb form with 'ik': 'Ik slaapt slecht.'",
+            "explain": "With ik the verb is slaap: 'Ik slaap slecht'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits the reflexive pronoun: 'Ik voel niet zo goed.'",
+            "explain": "voelen is reflexive: 'Ik voel me niet zo goed'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Places 'niet' after 'genoeg': 'Ik slaap genoeg niet.'",
+            "explain": "niet comes before genoeg: 'Ik slaap niet genoeg'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Beweeg je genoeg?",
+          "en": "Do you exercise enough?"
+        },
+        "task": "Say no, that you sit a lot, and that you would like to run.",
+        "examples": [
+          "Nee, ik zit veel. Ik wil graag hardlopen.",
+          "Nee, ik beweeg niet genoeg. Ik wil hardlopen."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses a finite form after 'wil': 'Ik wil graag hardloopt.'",
+            "explain": "After wil use the infinitive: 'Ik wil graag hardlopen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Places 'graag' after the infinitive: 'Ik wil hardlopen graag.'",
+            "explain": "graag comes after wil and before the infinitive: 'Ik wil graag hardlopen'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the third-person verb form with 'ik': 'Ik beweegt niet genoeg.'",
+            "explain": "With ik the verb is beweeg: 'Ik beweeg niet genoeg'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is je voornemen?",
+          "en": "What is your resolution?"
+        },
+        "task": "Say that you want to eat less sugar and stop smoking.",
+        "examples": [
+          "Ik wil minder suiker eten en stoppen met roken.",
+          "Ik eet minder suiker en ik stop met roken."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses finite verbs after 'wil': 'Ik wil minder suiker eet en stop met roken.'",
+            "explain": "After wil use infinitives: 'Ik wil minder suiker eten en stoppen met roken'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Places 'minder' after the noun: 'Ik wil suiker minder eten en stoppen met roken.'",
+            "explain": "minder comes before the noun: 'minder suiker'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits 'met' before the infinitive: 'Ik wil minder suiker eten en stoppen roken.'",
+            "explain": "stoppen takes met + infinitive: 'stoppen met roken'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Adds 'te' after 'wil': 'Ik wil minder suiker eten en te stoppen met roken.'",
+            "explain": "After wil use the bare infinitive: 'stoppen met roken', not 'te stoppen'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En wat ga je morgen doen?",
+          "en": "And what are you going to do tomorrow?"
+        },
+        "task": "Say that you are going to cycle to work.",
+        "examples": [
+          "Ik ga morgen fietsen.",
+          "Ik ga met de fiets naar mijn werk."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the finite form after 'ga': 'Ik ga fiets naar mijn werk.'",
+            "explain": "After ga use the infinitive fietsen: 'Ik ga fietsen'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Omits 'naar' before 'mijn werk': 'Ik ga met de fiets mijn werk.'",
+            "explain": "Use naar mijn werk: 'Ik ga met de fiets naar mijn werk'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits 'de' before 'fiets': 'Ik ga met fiets naar mijn werk.'",
+            "explain": "Use met de fiets: 'Ik ga met de fiets naar mijn werk'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dat is even gezond als zwemmen!",
+          "en": "That's just as healthy as swimming!"
+        },
+        "task": "Say that you already feel better.",
+        "examples": [
+          "Ik voel me al beter.",
+          "Ja, ik voel me al beter!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits the reflexive pronoun: 'Ik voel al beter.'",
+            "explain": "voelen is reflexive: 'Ik voel me al beter'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'best' instead of the comparative 'beter': 'Ik voel me al best.'",
+            "explain": "For 'better than before' use beter: 'Ik voel me al beter'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Places 'al' after 'beter': 'Ik voel me beter al.'",
+            "explain": "al comes before beter: 'Ik voel me al beter'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Uses normal word order after 'Dan': 'Dan ik voel me beter.'",
+            "explain": "After Dan the verb comes before the subject: 'Dan voel ik me beter'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Goed! Ik ga morgen ook fietsen.",
+      "en": "Good! I'm going to cycle tomorrow too."
+    }
+  },
+  "culture": {
+    "title": "Fietsen naar je werk",
+    "text": "In the Netherlands, most people cycle to work or school, in normal clothes, without a helmet, and in almost any weather. For many Dutch people this daily ride is their main exercise. Children cycle to school from primary school age, and most cities have separate cycle paths (fietspaden)."
+  },
+  "summary": [
+    "Compare with -er + dan: gezonder dan, duurder dan.",
+    "Use het + adjective + -st for the highest degree: het gezondst.",
+    "Learn the irregulars: goed – beter – best, veel – meer – meest.",
+    "even ... als means 'as ... as'; niet zo ... als means 'not as ... as'.",
+    "Talk about habits with meer, minder, genoeg and te veel."
+  ]
+}

@@ -1,0 +1,1155 @@
+{
+  "id": "u07-l04",
+  "title": "Mijn weekend",
+  "subtitle": "Telling a story in the perfect",
+  "level": "A2",
+  "intro": "In this lesson you learn to tell a short story about the past. You will use the perfect with separable verbs like opgestaan and opgebeld, and with verbs like betaald and vergeten. You will also put a story in order with eerst, daarna, toen, later and uiteindelijk.",
+  "words": [
+    {
+      "nl": "opstaan",
+      "en": "to get up",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik sta op, jij staat op, wij staan op (is opgestaan)",
+      "example": {
+        "nl": "Ik ben om zeven uur opgestaan.",
+        "en": "I got up at seven."
+      },
+      "note": "Separable: ge- goes inside the verb: op-ge-staan."
+    },
+    {
+      "nl": "opbellen",
+      "en": "to call, to phone",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bel op, jij belt op, wij bellen op (heeft opgebeld)",
+      "example": {
+        "nl": "Hij heeft me gisteren opgebeld.",
+        "en": "He called me yesterday."
+      },
+      "note": "Also bellen; opbellen often means to call someone."
+    },
+    {
+      "nl": "meenemen",
+      "en": "to take along",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik neem mee, jij neemt mee, wij nemen mee (heeft meegenomen)",
+      "example": {
+        "nl": "Ik heb mijn jas meegenomen.",
+        "en": "I took my coat along."
+      },
+      "note": "Separable: mee + ge + nemen = meegenomen."
+    },
+    {
+      "nl": "aankomen",
+      "en": "to arrive",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom aan, jij komt aan, wij komen aan (is aangekomen)",
+      "example": {
+        "nl": "De trein is om tien uur aangekomen.",
+        "en": "The train arrived at ten o'clock."
+      },
+      "note": "Use zijn in the perfect: is aangekomen."
+    },
+    {
+      "nl": "uitgaan",
+      "en": "to go out",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ga uit, jij gaat uit, wij gaan uit (is uitgegaan)",
+      "example": {
+        "nl": "We zijn op zaterdag uitgegaan.",
+        "en": "We went out on Saturday."
+      },
+      "note": "Use zijn in the perfect: is uitgegaan."
+    },
+    {
+      "nl": "ophalen",
+      "en": "to pick up, to collect",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik haal op, jij haalt op, wij halen op (heeft opgehaald)",
+      "example": {
+        "nl": "Ik heb mijn vriendin opgehaald.",
+        "en": "I picked up my friend."
+      },
+      "note": "Separable: op + ge + haald = opgehaald."
+    },
+    {
+      "nl": "betalen",
+      "en": "to pay",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik betaal, jij betaalt, wij betalen (heeft betaald)",
+      "example": {
+        "nl": "Ik heb de rekening betaald.",
+        "en": "I paid the bill."
+      },
+      "note": "No ge- with be-: betaald, not gebetaald."
+    },
+    {
+      "nl": "bezoeken",
+      "en": "to visit",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik bezoek, jij bezoekt, wij bezoeken (heeft bezocht)",
+      "example": {
+        "nl": "We hebben mijn ouders bezocht.",
+        "en": "We visited my parents."
+      },
+      "note": "No ge- with be-; the perfect is bezocht."
+    },
+    {
+      "nl": "vergeten",
+      "en": "to forget",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vergeet, jij vergeet, wij vergeten (heeft/is vergeten)",
+      "example": {
+        "nl": "Ik ben mijn tas vergeten.",
+        "en": "I forgot my bag."
+      },
+      "note": "No ge- with ver-; often with zijn when something is left behind."
+    },
+    {
+      "nl": "verliezen",
+      "en": "to lose",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik verlies, jij verliest, wij verliezen (heeft verloren)",
+      "example": {
+        "nl": "Hij heeft zijn kaartje verloren.",
+        "en": "He lost his ticket."
+      },
+      "note": "No ge- with ver-; the perfect is verloren."
+    },
+    {
+      "nl": "ontmoeten",
+      "en": "to meet",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik ontmoet, jij ontmoet, wij ontmoeten (heeft ontmoet)",
+      "example": {
+        "nl": "Ik heb haar in de stad ontmoet.",
+        "en": "I met her in the city."
+      },
+      "note": "No ge- with ont-; the perfect is the same as the infinitive: ontmoet."
+    },
+    {
+      "nl": "vertellen",
+      "en": "to tell",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vertel, jij vertelt, wij vertellen (heeft verteld)",
+      "example": {
+        "nl": "Ze heeft alles verteld.",
+        "en": "She told everything."
+      },
+      "note": "No ge- with ver-."
+    },
+    {
+      "nl": "herhalen",
+      "en": "to repeat",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik herhaal, jij herhaalt, wij herhalen (heeft herhaald)",
+      "example": {
+        "nl": "Kun je dat herhalen?",
+        "en": "Can you repeat that?"
+      },
+      "note": "No ge- with her-."
+    },
+    {
+      "nl": "eerst",
+      "en": "first",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Eerst heb ik mijn zus opgehaald.",
+        "en": "First I picked up my sister."
+      },
+      "note": "Use it to start a story in order."
+    },
+    {
+      "nl": "daarna",
+      "en": "after that",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Daarna zijn we naar een etentje gegaan.",
+        "en": "After that we went to a dinner."
+      },
+      "note": "Very common for the next step in a story."
+    },
+    {
+      "nl": "toen",
+      "en": "then (in the past)",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Toen hebben we een vriend ontmoet.",
+        "en": "Then we met a friend."
+      },
+      "note": "Use toen for the past and dan for the present or future."
+    },
+    {
+      "nl": "later",
+      "en": "later",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Later zijn we naar huis gegaan.",
+        "en": "Later we went home."
+      },
+      "note": null
+    },
+    {
+      "nl": "uiteindelijk",
+      "en": "eventually, in the end",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Uiteindelijk hebben we de trein genomen.",
+        "en": "In the end we took the train."
+      },
+      "note": "Use it for the last step in a story."
+    },
+    {
+      "nl": "plotseling",
+      "en": "suddenly",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Plotseling heeft het heel hard geregend.",
+        "en": "Suddenly it rained very hard."
+      },
+      "note": "Often at the start of a sentence."
+    },
+    {
+      "nl": "gelukkig",
+      "en": "luckily, fortunately; happy",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Gelukkig heb ik mijn jas meegenomen.",
+        "en": "Luckily I took my coat along."
+      },
+      "note": "Also means happy: Ik ben gelukkig."
+    },
+    {
+      "nl": "jammer",
+      "en": "a pity, too bad",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Wat jammer!",
+        "en": "What a pity!"
+      },
+      "note": "Often in Wat jammer! = What a pity!"
+    },
+    {
+      "nl": "zaterdag",
+      "en": "Saturday",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de zaterdagen",
+      "forms": null,
+      "example": {
+        "nl": "Op zaterdag zijn we uitgegaan.",
+        "en": "On Saturday we went out."
+      },
+      "note": "You already know the days; use op zaterdag for 'on Saturday'."
+    },
+    {
+      "nl": "avond",
+      "en": "evening",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de avonden",
+      "forms": null,
+      "example": {
+        "nl": "Het is een leuke avond geweest.",
+        "en": "It was a nice evening."
+      },
+      "note": "'s avonds = in the evening."
+    },
+    {
+      "nl": "etentje",
+      "en": "dinner with friends, informal dinner",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de etentjes",
+      "forms": null,
+      "example": {
+        "nl": "We hebben gisteren een etentje met vrienden gehad.",
+        "en": "We had a dinner with friends yesterday."
+      },
+      "note": "Diminutive of het eten; an informal dinner, often with friends."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Hoe is je weekend geweest?",
+      "en": "How was your weekend?",
+      "note": "Literally: how has your weekend been?"
+    },
+    {
+      "nl": "Wat is er gebeurd?",
+      "en": "What happened?",
+      "note": "gebeuren = to happen."
+    },
+    {
+      "nl": "Eerst..., daarna...",
+      "en": "First..., after that...",
+      "note": "Use these to order a story."
+    },
+    {
+      "nl": "Ik ben mijn tas vergeten.",
+      "en": "I forgot my bag.",
+      "note": "Use zijn with vergeten when something is left behind."
+    },
+    {
+      "nl": "Wat jammer!",
+      "en": "What a pity!",
+      "note": "A common reaction to bad news."
+    },
+    {
+      "nl": "Gelukkig wel!",
+      "en": "Luckily yes!",
+      "note": "Use it to say that something ended well."
+    },
+    {
+      "nl": "Volgende keer beter.",
+      "en": "Better next time.",
+      "note": "A friendly way to close a story about a mistake."
+    },
+    {
+      "nl": "Heb je de tas nog?",
+      "en": "Do you still have the bag?",
+      "note": "nog = still."
+    },
+    {
+      "nl": "We hebben een etentje gehad.",
+      "en": "We had a dinner with friends.",
+      "note": "het etentje = an informal dinner with friends."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Separable verbs in the perfect: ge- goes inside",
+      "explanation": "With a separable verb, **ge-** goes between the prefix and the verb: **op** + **ge** + **staan** = **opgestaan**. The prefix stays at the start of the participle, and the participle goes at the end of the sentence. Most separable verbs take **hebben**, but verbs of movement or change take **zijn**: **is opgestaan**, **is aangekomen**.",
+      "table": {
+        "headers": [
+          "Infinitive",
+          "Perfect",
+          "English"
+        ],
+        "rows": [
+          [
+            "opstaan",
+            "is opgestaan",
+            "got up"
+          ],
+          [
+            "opbellen",
+            "heeft opgebeld",
+            "called"
+          ],
+          [
+            "meenemen",
+            "heeft meegenomen",
+            "took along"
+          ],
+          [
+            "aankomen",
+            "is aangekomen",
+            "arrived"
+          ],
+          [
+            "uitgaan",
+            "is uitgegaan",
+            "went out"
+          ],
+          [
+            "ophalen",
+            "heeft opgehaald",
+            "picked up"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik ben om zeven uur opgestaan.",
+          "en": "I got up at seven."
+        },
+        {
+          "nl": "Hij heeft me gisteren opgebeld.",
+          "en": "He called me yesterday."
+        },
+        {
+          "nl": "We zijn op zaterdag uitgegaan.",
+          "en": "We went out on Saturday."
+        }
+      ],
+      "tip": "Say it like a sandwich: op-ge-staan, op-ge-beld."
+    },
+    {
+      "title": "No extra ge- with be-, ge-, her-, ont-, er-, ver-",
+      "explanation": "Verbs with the prefixes **be-**, **ge-**, **her-**, **ont-**, **er-** and **ver-** do not get an extra **ge-** in the perfect. The participle is often the stem plus **-t** or **-d**: **betaald**, **herhaald**. Some are irregular: **vergeten**, **ontmoet**, **bezocht**, **verloren**.",
+      "table": {
+        "headers": [
+          "Prefix",
+          "Infinitive",
+          "Perfect"
+        ],
+        "rows": [
+          [
+            "be-",
+            "betalen",
+            "heeft betaald"
+          ],
+          [
+            "ge-",
+            "gebeuren",
+            "is gebeurd"
+          ],
+          [
+            "her-",
+            "herhalen",
+            "heeft herhaald"
+          ],
+          [
+            "ont-",
+            "ontmoeten",
+            "heeft ontmoet"
+          ],
+          [
+            "er-",
+            "ervaren",
+            "heeft ervaren"
+          ],
+          [
+            "ver-",
+            "vergeten",
+            "heeft/is vergeten"
+          ],
+          [
+            "be-",
+            "bezoeken",
+            "heeft bezocht"
+          ],
+          [
+            "ver-",
+            "verliezen",
+            "heeft verloren"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb de rekening betaald.",
+          "en": "I paid the bill."
+        },
+        {
+          "nl": "Ik ben mijn tas vergeten.",
+          "en": "I forgot my bag."
+        },
+        {
+          "nl": "Ik heb haar in de stad ontmoet.",
+          "en": "I met her in the city."
+        }
+      ],
+      "tip": "No extra ge- after be-, ge-, her-, ont-, er-, ver-."
+    },
+    {
+      "title": "Story order: eerst, daarna, toen, later, uiteindelijk",
+      "explanation": "Use **eerst**, **daarna**, **toen**, **later** and **uiteindelijk** to put a story in order. When the sentence starts with one of these words, the verb comes second and the subject comes after it: **Daarna zijn we naar huis gegaan.** Use **toen** for the past and **dan** for the present or future.",
+      "table": {
+        "headers": [
+          "Time word",
+          "Example",
+          "English"
+        ],
+        "rows": [
+          [
+            "eerst",
+            "Eerst heb ik mijn zus opgehaald.",
+            "First I picked up my sister."
+          ],
+          [
+            "daarna",
+            "Daarna zijn we naar een etentje gegaan.",
+            "After that we went to a dinner."
+          ],
+          [
+            "toen",
+            "Toen hebben we een vriend ontmoet.",
+            "Then we met a friend."
+          ],
+          [
+            "later",
+            "Later zijn we naar huis gegaan.",
+            "Later we went home."
+          ],
+          [
+            "uiteindelijk",
+            "Uiteindelijk heb ik mijn vriend opgebeld.",
+            "In the end I called my friend."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Eerst heb ik mijn zus opgehaald.",
+          "en": "First I picked up my sister."
+        },
+        {
+          "nl": "Daarna zijn we naar huis gegaan.",
+          "en": "After that we went home."
+        },
+        {
+          "nl": "Uiteindelijk hebben we de trein genomen.",
+          "en": "In the end we took the train."
+        }
+      ],
+      "tip": "Time word first, then verb, then subject."
+    }
+  ],
+  "dialogue": {
+    "title": "Een weekend met een verrassing",
+    "setting": "Monday morning at the language school. Omar asks Sanne about her weekend.",
+    "speakers": [
+      {
+        "name": "Omar",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Omar",
+        "nl": "Hoi Sanne! Hoe is je weekend geweest?",
+        "en": "Hi Sanne! How was your weekend?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Het is een beetje druk geweest, maar wel leuk.",
+        "en": "It was a bit busy, but fun."
+      },
+      {
+        "speaker": "Omar",
+        "nl": "Wat is er gebeurd?",
+        "en": "What happened?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Eerst heb ik mijn zus opgehaald, daarna zijn we naar een etentje gegaan.",
+        "en": "First I picked up my sister, after that we went to a dinner."
+      },
+      {
+        "speaker": "Omar",
+        "nl": "Gezellig! En daarna?",
+        "en": "Nice! And after that?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Toen hebben we een vriend ontmoet. Maar ik ben mijn tas vergeten!",
+        "en": "Then we met a friend. But I forgot my bag!"
+      },
+      {
+        "speaker": "Omar",
+        "nl": "Wat jammer. Heb je de tas nog?",
+        "en": "What a pity. Do you still have the bag?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, uiteindelijk heb ik mijn vriend opgebeld.",
+        "en": "No, in the end I called my friend."
+      },
+      {
+        "speaker": "Omar",
+        "nl": "En heeft hij de tas gevonden?",
+        "en": "And did he find the bag?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Gelukkig wel! Hij heeft de tas in het restaurant gevonden.",
+        "en": "Luckily yes! He found the bag in the restaurant."
+      },
+      {
+        "speaker": "Omar",
+        "nl": "Wat een weekend! Ben je nog uitgegaan?",
+        "en": "What a weekend! Did you still go out?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Nee, ik ben vroeg naar huis gegaan.",
+        "en": "No, I went home early."
+      },
+      {
+        "speaker": "Omar",
+        "nl": "Jammer! Volgende keer beter.",
+        "en": "A pity! Better next time."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, en volgende keer betaal ik de rekening!",
+        "en": "Yes, and next time I will pay the bill!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "opstaan",
+          "to get up"
+        ],
+        [
+          "opbellen",
+          "to call"
+        ],
+        [
+          "meenemen",
+          "to take along"
+        ],
+        [
+          "aankomen",
+          "to arrive"
+        ],
+        [
+          "uitgaan",
+          "to go out"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "eerst",
+          "first"
+        ],
+        [
+          "daarna",
+          "after that"
+        ],
+        [
+          "toen",
+          "then (in the past)"
+        ],
+        [
+          "uiteindelijk",
+          "eventually"
+        ],
+        [
+          "plotseling",
+          "suddenly"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which perfect form is correct?",
+      "nl": "opstaan",
+      "options": [
+        "opgestaan",
+        "gestaan op",
+        "geopstaan"
+      ],
+      "answer": 0,
+      "explain": "ge- goes between prefix and verb: op-ge-staan."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which perfect form is correct?",
+      "nl": "betalen",
+      "options": [
+        "betaald",
+        "gebetaald",
+        "gebetalen"
+      ],
+      "answer": 0,
+      "explain": "Verbs with be- take no ge-: betaald."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct sentence.",
+      "nl": null,
+      "options": [
+        "Daarna zijn we naar huis gegaan.",
+        "Daarna we zijn naar huis gegaan.",
+        "Daarna naar huis we zijn gegaan."
+      ],
+      "answer": 0,
+      "explain": "After a time word the verb comes second."
+    },
+    {
+      "type": "article",
+      "word": "zaterdag",
+      "en": "Saturday",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "etentje",
+      "en": "informal dinner with friends",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "First I called my sister.",
+      "answer": "Eerst heb ik mijn zus opgebeld.",
+      "accept": [
+        "Ik heb eerst mijn zus opgebeld.",
+        "Ik heb mijn zus eerst opgebeld."
+      ],
+      "extra": [
+        "opbelt",
+        "bellen"
+      ],
+      "explain": "After 'Eerst' the verb comes second, and the separable participle is 'opgebeld' (op + ge + beld)."
+    },
+    {
+      "type": "build",
+      "en": "After that we went out.",
+      "answer": "Daarna zijn we uitgegaan.",
+      "accept": [
+        "We zijn daarna uitgegaan."
+      ],
+      "extra": [
+        "uit",
+        "gegaan"
+      ],
+      "explain": "After 'Daarna' the verb 'zijn' comes second, and 'uitgaan' takes zijn: 'Daarna zijn we uitgegaan.'"
+    },
+    {
+      "type": "build",
+      "en": "I have paid the bill.",
+      "answer": "Ik heb de rekening betaald.",
+      "accept": [
+        "De rekening heb ik betaald."
+      ],
+      "extra": [
+        "betaalt",
+        "betalen"
+      ],
+      "explain": "Use 'heb' plus the participle 'betaald'; verbs with be- take no ge-: 'Ik heb de rekening betaald.'"
+    },
+    {
+      "type": "gap",
+      "text": "Eerst ___ ik mijn zus opgehaald.",
+      "en": "First I picked up my sister.",
+      "answers": [
+        "heb"
+      ],
+      "hint": "hebben",
+      "explain": "Opgehaald uses hebben, so the auxiliary is 'heb': 'Eerst heb ik mijn zus opgehaald.'"
+    },
+    {
+      "type": "gap",
+      "text": "Daarna ___ we naar een etentje gegaan.",
+      "en": "After that we went to a dinner.",
+      "answers": [
+        "zijn"
+      ],
+      "hint": "zijn",
+      "explain": "Gegaan uses zijn, so the auxiliary is 'zijn': 'Daarna zijn we naar een etentje gegaan.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ben mijn tas ___.",
+      "en": "I forgot my bag.",
+      "answers": [
+        "vergeten"
+      ],
+      "hint": "vergeten (to forget)",
+      "explain": "With a thing you left behind, use zijn and the participle 'vergeten': 'Ik ben mijn tas vergeten.'"
+    },
+    {
+      "type": "gap",
+      "text": "We zijn op zaterdag ___.",
+      "en": "We went out on Saturday.",
+      "answers": [
+        "uitgegaan"
+      ],
+      "hint": "uitgaan (to go out)",
+      "explain": "Uitgaan takes zijn and keeps ge- inside: uit + ge + gaan = 'uitgegaan'."
+    },
+    {
+      "type": "translate",
+      "en": "First I got up at seven.",
+      "answers": [
+        "Eerst ben ik om zeven uur opgestaan.",
+        "Ik ben eerst om zeven uur opgestaan.",
+        "Eerst ben ik om zeven uur opgestaan",
+        "Ik ben eerst om zeven uur opgestaan"
+      ],
+      "focus": "eerst + perfect of opstaan",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'heb' with opstaan (wrong auxiliary): 'Eerst heb ik om zeven uur opgestaan.'",
+          "explain": "Opstaan takes zijn in the perfect because it is a movement or change: 'Ik ben opgestaan.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Writes the participle as 'gestaan op' or 'geopstaan' instead of 'opgestaan': 'Eerst ben ik om zeven uur gestaan op.'",
+          "explain": "Ge- goes inside the separable verb: op + ge + staan = 'opgestaan'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the subject before the verb after 'Eerst': 'Eerst ik ben om zeven uur opgestaan.'",
+          "explain": "After a time word like eerst, the verb comes second: 'Eerst ben ik ...'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "After that we met a friend.",
+      "answers": [
+        "Daarna hebben we een vriend ontmoet.",
+        "Daarna hebben we een vriend ontmoet",
+        "We hebben daarna een vriend ontmoet.",
+        "We hebben daarna een vriend ontmoet"
+      ],
+      "focus": "daarna + perfect of ontmoeten",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'zijn' with ontmoeten: 'Daarna zijn we een vriend ontmoet.'",
+          "explain": "Ontmoeten takes hebben: 'We hebben een vriend ontmoet.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Adds ge- to ontmoeten: 'Daarna hebben we een vriend geontmoet.'",
+          "explain": "Verbs with ont- take no extra ge-: the participle is 'ontmoet'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the subject before the verb after 'Daarna': 'Daarna we hebben een vriend ontmoet.'",
+          "explain": "After daarna, the verb comes second: 'Daarna hebben we ...'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "In the end I paid the bill.",
+      "answers": [
+        "Uiteindelijk heb ik de rekening betaald.",
+        "Uiteindelijk heb ik de rekening betaald",
+        "Ik heb uiteindelijk de rekening betaald.",
+        "Ik heb uiteindelijk de rekening betaald",
+        "Ik heb de rekening uiteindelijk betaald.",
+        "De rekening heb ik uiteindelijk betaald."
+      ],
+      "focus": "uiteindelijk + betaald",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Adds ge- to betalen: 'Uiteindelijk heb ik de rekening gebetaald.'",
+          "explain": "Betalen has be-, so it takes no ge-: the participle is 'betaald'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the present form 'betaalt' after heb: 'Uiteindelijk heb ik de rekening betaalt.'",
+          "explain": "After heb, use the participle 'betaald', not 'betaalt'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the subject before the verb after 'Uiteindelijk': 'Uiteindelijk ik heb de rekening betaald.'",
+          "explain": "After uiteindelijk, the verb comes second: 'Uiteindelijk heb ik ...'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik ben om zeven uur opgestaan.",
+      "en": "I got up at seven."
+    },
+    {
+      "type": "listen",
+      "nl": "Daarna zijn we uitgegaan.",
+      "en": "After that we went out."
+    },
+    {
+      "type": "reply",
+      "context": "Your language buddy asks about your weekend.",
+      "say": {
+        "nl": "Hoe is je weekend geweest?",
+        "en": "How was your weekend?"
+      },
+      "task": "Say that it was busy but fun.",
+      "examples": [
+        "Het is druk geweest, maar wel leuk.",
+        "Druk, maar wel leuk.",
+        "Het is druk geweest, maar leuk."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses the present without 'geweest': 'Het is druk, maar wel leuk.'",
+          "explain": "To talk about the past, use the perfect: 'Het is druk geweest.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses 'heeft' with an adjective: 'Het heeft druk geweest, maar wel leuk.'",
+          "explain": "Use zijn with an adjective: 'Het is druk geweest.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the simple past 'was' instead of the perfect: 'Het was druk, maar wel leuk.'",
+          "explain": "In this lesson use the perfect: 'Het is druk geweest.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You are telling your language buddy about a forgotten bag.",
+      "say": {
+        "nl": "En wat is er daarna gebeurd?",
+        "en": "And what happened after that?"
+      },
+      "task": "Say that in the end you called your friend.",
+      "examples": [
+        "Uiteindelijk heb ik mijn vriend opgebeld.",
+        "Uiteindelijk heb ik mijn vriend gebeld.",
+        "Ik heb uiteindelijk mijn vriend opgebeld."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses 'ben' with opbellen: 'Uiteindelijk ben ik mijn vriend opgebeld.'",
+          "explain": "Opbellen takes hebben: 'Ik heb mijn vriend opgebeld.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Writes the participle as 'op gebeld' or 'geopbeld': 'Uiteindelijk heb ik mijn vriend op gebeld.'",
+          "explain": "Ge- goes inside the separable verb: opbellen becomes 'opgebeld'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts the subject before the verb after 'Uiteindelijk': 'Uiteindelijk ik heb mijn vriend opgebeld.'",
+          "explain": "After uiteindelijk, the verb comes second: 'Uiteindelijk heb ik ...'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Een weekend dat een beetje misging",
+    "setting": "Monday at the language school. You tell your language buddy about a weekend that went slightly wrong.",
+    "partner": {
+      "name": "Sanne",
+      "gender": "f",
+      "role": "your language buddy"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Hoe is je weekend geweest?",
+          "en": "How was your weekend?"
+        },
+        "task": "Say that it was busy, but fun.",
+        "examples": [
+          "Het is druk geweest, maar wel leuk.",
+          "Druk, maar wel leuk.",
+          "Het is druk geweest, maar leuk."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses the present without 'geweest': 'Het is druk, maar wel leuk.'",
+            "explain": "To talk about the past, use the perfect: 'Het is druk geweest.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'heeft' with an adjective: 'Het heeft druk geweest, maar wel leuk.'",
+            "explain": "Use zijn with an adjective: 'Het is druk geweest.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the simple past 'was' instead of the perfect: 'Het was druk, maar wel leuk.'",
+            "explain": "In this lesson use the perfect: 'Het is druk geweest.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat is er gebeurd?",
+          "en": "What happened?"
+        },
+        "task": "Say that first you picked up your sister, then you went to a dinner.",
+        "examples": [
+          "Eerst heb ik mijn zus opgehaald, daarna zijn we naar een etentje gegaan.",
+          "Eerst heb ik mijn zus opgehaald. Daarna zijn we naar een etentje gegaan."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'ben' with ophalen: 'Eerst ben ik mijn zus opgehaald.'",
+            "explain": "Ophalen takes hebben: 'Ik heb mijn zus opgehaald.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Writes the participle as 'opgehaalt' or 'geophaald': 'Eerst heb ik mijn zus opgehaalt.'",
+            "explain": "Ophalen becomes 'opgehaald' (op + ge + haal + d)."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'hebben' with gaan: 'Daarna hebben we naar een etentje gegaan.'",
+            "explain": "Gaan takes zijn: 'We zijn naar een etentje gegaan.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Puts the subject before the verb after 'Eerst' or 'Daarna': 'Eerst ik heb mijn zus opgehaald.'",
+            "explain": "After eerst or daarna, the verb comes second: 'Eerst heb ik ...' / 'Daarna zijn we ...'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En daarna?",
+          "en": "And after that?"
+        },
+        "task": "Say that you met a friend, but that you forgot your bag.",
+        "examples": [
+          "Toen hebben we een vriend ontmoet, maar ik ben mijn tas vergeten.",
+          "Daarna hebben we een vriend ontmoet. Maar ik ben mijn tas vergeten."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'zijn' with ontmoeten: 'Toen zijn we een vriend ontmoet.'",
+            "explain": "Ontmoeten takes hebben: 'We hebben een vriend ontmoet.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Adds ge- to ontmoeten: 'Toen hebben we een vriend geontmoet.'",
+            "explain": "Verbs with ont- take no extra ge-: the participle is 'ontmoet'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses the present 'vergeet' after ben: 'Ik ben mijn tas vergeet.'",
+            "explain": "Use the participle 'vergeten': 'Ik ben mijn tas vergeten.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Puts the subject before the verb after 'Toen': 'Toen we hebben een vriend ontmoet.'",
+            "explain": "After toen, the verb comes second: 'Toen hebben we ...'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat jammer. Heb je de tas nog?",
+          "en": "What a pity. Do you still have the bag?"
+        },
+        "task": "Say that in the end you called your friend and that he found the bag.",
+        "examples": [
+          "Uiteindelijk heb ik mijn vriend opgebeld en hij heeft de tas gevonden.",
+          "Uiteindelijk heb ik mijn vriend opgebeld. Hij heeft de tas gevonden."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'ben' with opbellen: 'Uiteindelijk ben ik mijn vriend opgebeld.'",
+            "explain": "Opbellen takes hebben: 'Ik heb mijn vriend opgebeld.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Writes the participle as 'opgebelt' or 'geopbeld': 'Uiteindelijk heb ik mijn vriend opgebelt.'",
+            "explain": "Opbellen becomes 'opgebeld'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses 'is' with vinden: 'En hij is de tas gevonden.'",
+            "explain": "Vinden takes hebben: 'Hij heeft de tas gevonden.'"
+          },
+          {
+            "id": "m4",
+            "pattern": "Puts the subject before the verb after 'Uiteindelijk': 'Uiteindelijk ik heb mijn vriend opgebeld.'",
+            "explain": "After uiteindelijk, the verb comes second: 'Uiteindelijk heb ik ...'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Gelukkig! Ben je nog uitgegaan?",
+          "en": "Luckily! Did you still go out?"
+        },
+        "task": "Say that you went home early and that you paid the bill.",
+        "examples": [
+          "Nee, ik ben vroeg naar huis gegaan. En ik heb de rekening betaald.",
+          "Nee, ik ben vroeg naar huis gegaan en heb de rekening betaald."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses 'heb' with gaan: 'Nee, ik heb vroeg naar huis gegaan.'",
+            "explain": "Gaan takes zijn: 'Ik ben naar huis gegaan.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses 'ben' with betalen: 'Ik ben de rekening betaald.'",
+            "explain": "Betalen takes hebben: 'Ik heb de rekening betaald.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Adds ge- to betalen: 'Ik heb de rekening gebetaald.'",
+            "explain": "Betalen has be-, so it takes no ge-: 'betaald'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Volgende keer beter!",
+      "en": "Better next time!"
+    }
+  },
+  "culture": {
+    "title": "De borrel",
+    "text": "A borrel is an informal drink with friends or colleagues, often on Friday at the end of the work week. People usually stand, have a beer, wine or soft drink, and share small snacks such as cheese or bitterballen. You might hear 'Zullen we een borrel doen?' It is casual, not a full meal."
+  },
+  "summary": [
+    "Use the perfect to tell a story: Ik heb ... / Ik ben ...",
+    "Separable verbs put ge- inside: opgestaan, opgebeld, meegenomen.",
+    "Verbs with be-, ver-, ont-, her- take no ge-: betaald, vergeten, ontmoet.",
+    "Order a story with eerst, daarna, toen, later, uiteindelijk; after these words the verb comes second.",
+    "Use zijn with verbs of movement or change: is opgestaan, is aangekomen, is uitgegaan."
+  ]
+}

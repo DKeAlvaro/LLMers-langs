@@ -1,0 +1,1136 @@
+{
+  "id": "u04-l05",
+  "title": "Met de trein",
+  "subtitle": "Transport and separable verbs",
+  "level": "A1",
+  "intro": "In this lesson you learn to buy a train ticket and talk about transport. You also learn how separable verbs work: **instappen** becomes **Ik stap in.**",
+  "words": [
+    {
+      "nl": "trein",
+      "en": "the train",
+      "pos": "noun",
+      "article": "de",
+      "plural": "treinen",
+      "forms": null,
+      "example": {
+        "nl": "De trein naar Utrecht vertrekt om negen uur.",
+        "en": "The train to Utrecht leaves at nine o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "bus",
+      "en": "the bus",
+      "pos": "noun",
+      "article": "de",
+      "plural": "bussen",
+      "forms": null,
+      "example": {
+        "nl": "Ik ga met de bus naar de stad.",
+        "en": "I go to the city by bus."
+      },
+      "note": null
+    },
+    {
+      "nl": "tram",
+      "en": "the tram",
+      "pos": "noun",
+      "article": "de",
+      "plural": "trams",
+      "forms": null,
+      "example": {
+        "nl": "De tram stopt bij de halte.",
+        "en": "The tram stops at the stop."
+      },
+      "note": null
+    },
+    {
+      "nl": "metro",
+      "en": "the metro",
+      "pos": "noun",
+      "article": "de",
+      "plural": "metro's",
+      "forms": null,
+      "example": {
+        "nl": "De metro is snel.",
+        "en": "The metro is fast."
+      },
+      "note": null
+    },
+    {
+      "nl": "fiets",
+      "en": "the bicycle",
+      "pos": "noun",
+      "article": "de",
+      "plural": "fietsen",
+      "forms": null,
+      "example": {
+        "nl": "Ik ga op de fiets.",
+        "en": "I go by bicycle."
+      },
+      "note": "You already know this word; here it is transport."
+    },
+    {
+      "nl": "auto",
+      "en": "the car",
+      "pos": "noun",
+      "article": "de",
+      "plural": "auto's",
+      "forms": null,
+      "example": {
+        "nl": "Wij gaan met de auto.",
+        "en": "We go by car."
+      },
+      "note": "You already know this word; here it is transport."
+    },
+    {
+      "nl": "perron",
+      "en": "the platform",
+      "pos": "noun",
+      "article": "het",
+      "plural": "perrons",
+      "forms": null,
+      "example": {
+        "nl": "Wij wachten op het perron.",
+        "en": "We wait on the platform."
+      },
+      "note": null
+    },
+    {
+      "nl": "spoor",
+      "en": "the track, the platform number",
+      "pos": "noun",
+      "article": "het",
+      "plural": "sporen",
+      "forms": null,
+      "example": {
+        "nl": "De trein vertrekt van spoor 5.",
+        "en": "The train leaves from track 5."
+      },
+      "note": "In Dutch, spoor is often used for the platform number."
+    },
+    {
+      "nl": "halte",
+      "en": "the stop",
+      "pos": "noun",
+      "article": "de",
+      "plural": "haltes",
+      "forms": null,
+      "example": {
+        "nl": "De halte is daar.",
+        "en": "The stop is there."
+      },
+      "note": "For bus and tram stops; a train station is a station."
+    },
+    {
+      "nl": "kaartje",
+      "en": "the ticket",
+      "pos": "noun",
+      "article": "het",
+      "plural": "kaartjes",
+      "forms": null,
+      "example": {
+        "nl": "Ik koop een kaartje.",
+        "en": "I buy a ticket."
+      },
+      "note": null
+    },
+    {
+      "nl": "ov-chipkaart",
+      "en": "the public transport smart card",
+      "pos": "noun",
+      "article": "de",
+      "plural": "ov-chipkaarten",
+      "forms": null,
+      "example": {
+        "nl": "Mijn ov-chipkaart is in mijn tas.",
+        "en": "My ov-chipkaart is in my bag."
+      },
+      "note": "OV = openbaar vervoer (public transport)."
+    },
+    {
+      "nl": "inchecken",
+      "en": "to check in",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik check in, jij checkt in, wij checken in",
+      "example": {
+        "nl": "Ik check in.",
+        "en": "I check in."
+      },
+      "note": "Separable: the prefix in goes to the end: Ik check in."
+    },
+    {
+      "nl": "uitchecken",
+      "en": "to check out",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik check uit, jij checkt uit, wij checken uit",
+      "example": {
+        "nl": "Ik check uit.",
+        "en": "I check out."
+      },
+      "note": "Separable: the prefix uit goes to the end: Ik check uit."
+    },
+    {
+      "nl": "instappen",
+      "en": "to get in, to board",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik stap in, jij stapt in, wij stappen in",
+      "example": {
+        "nl": "Ik stap in.",
+        "en": "I get in."
+      },
+      "note": "Separable: the prefix in goes to the end: Ik stap in."
+    },
+    {
+      "nl": "uitstappen",
+      "en": "to get off",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik stap uit, jij stapt uit, wij stappen uit",
+      "example": {
+        "nl": "Ik stap uit.",
+        "en": "I get off."
+      },
+      "note": "Separable: the prefix uit goes to the end: Ik stap uit."
+    },
+    {
+      "nl": "overstappen",
+      "en": "to change (trains)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik stap over, jij stapt over, wij stappen over",
+      "example": {
+        "nl": "Je moet in Utrecht overstappen.",
+        "en": "You have to change in Utrecht."
+      },
+      "note": "Separable: the prefix over goes to the end: Ik stap over."
+    },
+    {
+      "nl": "aankomen",
+      "en": "to arrive",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom aan, jij komt aan, wij komen aan",
+      "example": {
+        "nl": "De trein komt om tien uur aan.",
+        "en": "The train arrives at ten o'clock."
+      },
+      "note": "Separable: the prefix aan goes to the end: De trein komt aan."
+    },
+    {
+      "nl": "vertrekken",
+      "en": "to leave, to depart",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vertrek, jij vertrekt, wij vertrekken",
+      "example": {
+        "nl": "De trein vertrekt van spoor 5.",
+        "en": "The train leaves from track 5."
+      },
+      "note": "Not separable: vertrekken stays together."
+    },
+    {
+      "nl": "stoppen",
+      "en": "to stop",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik stop, jij stopt, wij stoppen",
+      "example": {
+        "nl": "De tram stopt bij de halte.",
+        "en": "The tram stops at the stop."
+      },
+      "note": "Not separable: stoppen stays together."
+    },
+    {
+      "nl": "wachten",
+      "en": "to wait",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik wacht, jij wacht, wij wachten",
+      "example": {
+        "nl": "Wij wachten op het perron.",
+        "en": "We wait on the platform."
+      },
+      "note": "wachten op = to wait for."
+    },
+    {
+      "nl": "vertraging",
+      "en": "the delay",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vertragingen",
+      "forms": null,
+      "example": {
+        "nl": "De trein heeft tien minuten vertraging.",
+        "en": "The train is ten minutes late."
+      },
+      "note": null
+    },
+    {
+      "nl": "enkele reis",
+      "en": "single ticket, one way",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Een enkele reis naar Utrecht, alstublieft.",
+        "en": "A single ticket to Utrecht, please."
+      },
+      "note": "One way; the opposite is retour."
+    },
+    {
+      "nl": "retour",
+      "en": "return ticket",
+      "pos": "noun",
+      "article": "de",
+      "plural": "retours",
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag een retour.",
+        "en": "I would like a return ticket."
+      },
+      "note": "A return ticket."
+    },
+    {
+      "nl": "conducteur",
+      "en": "the conductor",
+      "pos": "noun",
+      "article": "de",
+      "plural": "conducteurs",
+      "forms": null,
+      "example": {
+        "nl": "De conducteur vraagt om mijn kaartje.",
+        "en": "The conductor asks for my ticket."
+      },
+      "note": null
+    },
+    {
+      "nl": "op tijd",
+      "en": "on time",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben op tijd.",
+        "en": "I am on time."
+      },
+      "note": null
+    },
+    {
+      "nl": "te laat",
+      "en": "late, too late",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De trein is te laat.",
+        "en": "The train is late."
+      },
+      "note": "Often with zijn: Ik ben te laat."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Een kaartje naar Utrecht, alstublieft.",
+      "en": "A ticket to Utrecht, please.",
+      "note": null
+    },
+    {
+      "nl": "Enkele reis of retour?",
+      "en": "Single or return?",
+      "note": null
+    },
+    {
+      "nl": "Waar moet ik overstappen?",
+      "en": "Where do I have to change?",
+      "note": "overstappen = to change trains."
+    },
+    {
+      "nl": "Van welk spoor vertrekt de trein?",
+      "en": "Which platform does the train leave from?",
+      "note": "Dutch often uses spoor for the platform number."
+    },
+    {
+      "nl": "De trein heeft tien minuten vertraging.",
+      "en": "The train is ten minutes late.",
+      "note": null
+    },
+    {
+      "nl": "Ik moet nog inchecken.",
+      "en": "I still have to check in.",
+      "note": "With a modal verb, inchecken stays together."
+    },
+    {
+      "nl": "Stapt u hier over?",
+      "en": "Are you changing here?",
+      "note": "Polite form with u."
+    },
+    {
+      "nl": "Hoe laat komt de trein aan?",
+      "en": "What time does the train arrive?",
+      "note": null
+    },
+    {
+      "nl": "Ik ben op tijd.",
+      "en": "I am on time.",
+      "note": null
+    },
+    {
+      "nl": "Wij zijn te laat.",
+      "en": "We are late.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Separable verbs: the prefix goes to the end",
+      "explanation": "Many Dutch verbs have a prefix: **in**, **uit**, **over**, **aan**. In the present tense the prefix leaves the verb and goes to the end of the sentence. The verb part gets the normal present endings: **ik stap**, **jij stapt**, **wij stappen**.",
+      "table": {
+        "headers": [
+          "Infinitive",
+          "Ik ...",
+          "Sentence"
+        ],
+        "rows": [
+          [
+            "instappen",
+            "ik stap in",
+            "Ik stap in."
+          ],
+          [
+            "uitstappen",
+            "ik stap uit",
+            "Ik stap uit."
+          ],
+          [
+            "overstappen",
+            "ik stap over",
+            "Ik stap in Utrecht over."
+          ],
+          [
+            "aankomen",
+            "ik kom aan",
+            "Ik kom om tien uur aan."
+          ],
+          [
+            "inchecken",
+            "ik check in",
+            "Ik check in."
+          ],
+          [
+            "uitchecken",
+            "ik check uit",
+            "Ik check uit."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik stap in.",
+          "en": "I get in."
+        },
+        {
+          "nl": "De trein komt om tien uur aan.",
+          "en": "The train arrives at ten o'clock."
+        },
+        {
+          "nl": "Ik check in.",
+          "en": "I check in."
+        }
+      ],
+      "tip": "Ask: what is the prefix? Send it to the end: **in**, **uit**, **over**, **aan**."
+    },
+    {
+      "title": "The prefix usually comes at the very end",
+      "explanation": "The prefix usually comes at the very end of the sentence, after the place and the time. In **Ik stap in Utrecht over**, the place **in Utrecht** comes before the prefix **over**. In a question the prefix also stays at the end: **Waar stap je over?**",
+      "table": {
+        "headers": [
+          "Sentence",
+          "Question"
+        ],
+        "rows": [
+          [
+            "Ik stap in Utrecht over.",
+            "Waar stap je over?"
+          ],
+          [
+            "De trein komt om tien uur aan.",
+            "Hoe laat komt de trein aan?"
+          ],
+          [
+            "Wij stappen uit in Utrecht.",
+            "Waar stappen jullie uit?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik stap in Utrecht over.",
+          "en": "I change in Utrecht."
+        },
+        {
+          "nl": "Hoe laat komt de trein aan?",
+          "en": "What time does the train arrive?"
+        },
+        {
+          "nl": "Waar stap je uit?",
+          "en": "Where do you get off?"
+        }
+      ],
+      "tip": "After the question word, the verb comes second, then the place, then the prefix at the end."
+    },
+    {
+      "title": "With a modal verb: keep the verb together",
+      "explanation": "After **moeten**, **willen**, **kunnen** and **mogen**, the separable verb stays together as an infinitive at the end of the sentence. **Je moet in Utrecht overstappen.** Do not split it: not *Je moet in Utrecht over stappen.*",
+      "table": {
+        "headers": [
+          "Modal",
+          "Sentence"
+        ],
+        "rows": [
+          [
+            "moeten",
+            "Je moet in Utrecht overstappen."
+          ],
+          [
+            "willen",
+            "Ik wil uitchecken."
+          ],
+          [
+            "kunnen",
+            "U kunt met uw ov-chipkaart inchecken."
+          ],
+          [
+            "moeten",
+            "De trein moet op tijd aankomen."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Je moet in Utrecht overstappen.",
+          "en": "You have to change in Utrecht."
+        },
+        {
+          "nl": "Ik wil uitchecken.",
+          "en": "I want to check out."
+        },
+        {
+          "nl": "U kunt met uw ov-chipkaart inchecken.",
+          "en": "You can check in with your ov-chipkaart."
+        }
+      ],
+      "tip": "Modal in second position, whole separable verb at the end."
+    }
+  ],
+  "dialogue": {
+    "title": "Op het station",
+    "setting": "At the ticket machine and then on the platform at Utrecht Centraal.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Daan",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemorgen, ik wil graag een kaartje naar Utrecht Centraal.",
+        "en": "Good morning, I would like a ticket to Utrecht Central."
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Enkele reis of retour?",
+        "en": "Single or return?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Enkele reis, alstublieft. Hoeveel kost het?",
+        "en": "Single, please. How much does it cost?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Dat is negen euro vijftig. U kunt pinnen.",
+        "en": "That is nine euros fifty. You can pay by card."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Waar moet ik inchecken?",
+        "en": "Thank you. Where do I have to check in?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Daar. U kunt met uw ov-chipkaart inchecken.",
+        "en": "There. You can check in with your ov-chipkaart."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En waar is het perron?",
+        "en": "And where is the platform?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "De trein naar Utrecht vertrekt van spoor 5.",
+        "en": "The train to Utrecht leaves from platform 5."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Hoe laat komt de trein in Utrecht aan?",
+        "en": "What time does the train arrive in Utrecht?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Om tien uur. U moet in Utrecht overstappen.",
+        "en": "At ten o'clock. You have to change in Utrecht."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Van welk spoor?",
+        "en": "From which platform?"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Van spoor 8. De trein heeft geen vertraging.",
+        "en": "From platform 8. The train has no delay."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Mooi, dan ben ik op tijd. Dank u wel!",
+        "en": "Great, then I am on time. Thank you!"
+      },
+      {
+        "speaker": "Daan",
+        "nl": "Graag gedaan. Tot ziens!",
+        "en": "You're welcome. Goodbye!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de trein",
+          "the train"
+        ],
+        [
+          "het perron",
+          "the platform"
+        ],
+        [
+          "de halte",
+          "the stop"
+        ],
+        [
+          "het kaartje",
+          "the ticket"
+        ],
+        [
+          "de vertraging",
+          "the delay"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "inchecken",
+          "to check in"
+        ],
+        [
+          "uitstappen",
+          "to get off"
+        ],
+        [
+          "overstappen",
+          "to change trains"
+        ],
+        [
+          "aankomen",
+          "to arrive"
+        ],
+        [
+          "vertrekken",
+          "to leave"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "Ik stap in Utrecht over.",
+        "Ik overstap in Utrecht.",
+        "Ik in Utrecht overstap."
+      ],
+      "answer": 0,
+      "explain": "The prefix over goes to the end of the sentence."
+    },
+    {
+      "type": "choice",
+      "prompt": "You want a one-way ticket. What do you say?",
+      "nl": null,
+      "options": [
+        "Een enkele reis, alstublieft.",
+        "Een retour, alstublieft.",
+        "Twee kaartjes, alstublieft."
+      ],
+      "answer": 0,
+      "explain": "Enkele reis = one way; retour = return."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "nl": null,
+      "options": [
+        "De trein komt om tien uur aan.",
+        "De trein aankomt om tien uur.",
+        "De trein komt aan om tien uur."
+      ],
+      "answer": 0,
+      "explain": "The prefix aan goes to the end, after the time: ... om tien uur aan."
+    },
+    {
+      "type": "choice",
+      "prompt": "You are at the station with your ov-chipkaart before your trip. What do you do?",
+      "nl": null,
+      "options": [
+        "Ik check in.",
+        "Ik check uit.",
+        "Ik stap over."
+      ],
+      "answer": 0,
+      "explain": "Inchecken at the start of the trip; uitchecken at the end."
+    },
+    {
+      "type": "article",
+      "word": "perron",
+      "en": "platform",
+      "answer": "het"
+    },
+    {
+      "type": "article",
+      "word": "halte",
+      "en": "stop",
+      "answer": "de"
+    },
+    {
+      "type": "build",
+      "en": "I get off at Utrecht Central.",
+      "answer": "Ik stap uit bij Utrecht Centraal.",
+      "accept": [
+        "Ik stap bij Utrecht Centraal uit."
+      ],
+      "extra": [
+        "overstap",
+        "uitstap"
+      ],
+      "explain": "Separable verb: put the prefix uit at the end: Ik stap ... uit."
+    },
+    {
+      "type": "build",
+      "en": "The train leaves from platform 5.",
+      "answer": "De trein vertrekt van spoor 5.",
+      "accept": [],
+      "extra": [
+        "vertrek",
+        "aankomt"
+      ],
+      "explain": "Vertrekken is not separable; keep it together: De trein vertrekt ..."
+    },
+    {
+      "type": "build",
+      "en": "You have to change in Utrecht.",
+      "answer": "Je moet in Utrecht overstappen.",
+      "accept": [
+        "U moet in Utrecht overstappen.",
+        "Je moet overstappen in Utrecht.",
+        "U moet overstappen in Utrecht."
+      ],
+      "extra": [
+        "overstapt",
+        "stappen",
+        "U"
+      ],
+      "explain": "After a modal verb, the separable verb stays together as an infinitive at the end: moet ... overstappen."
+    },
+    {
+      "type": "gap",
+      "text": "De trein ___ om tien uur aan.",
+      "en": "The train arrives at ten o'clock.",
+      "answers": [
+        "komt"
+      ],
+      "hint": "komen",
+      "explain": "Use komt with de trein; the prefix aan is already at the end."
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ in.",
+      "en": "I check in.",
+      "answers": [
+        "check"
+      ],
+      "hint": "inchecken",
+      "explain": "With ik use check and put the prefix in at the end."
+    },
+    {
+      "type": "gap",
+      "text": "De trein heeft tien minuten ___.",
+      "en": "The train is ten minutes late.",
+      "answers": [
+        "vertraging"
+      ],
+      "hint": "delay",
+      "explain": "The noun is de vertraging: heeft ... vertraging."
+    },
+    {
+      "type": "translate",
+      "en": "Where do I have to change?",
+      "answers": [
+        "Waar moet ik overstappen?",
+        "Waar moet ik overstappen"
+      ],
+      "focus": "overstappen with a modal verb",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Splits the separable verb after moet: 'Waar moet ik over stappen?'",
+          "explain": "After a modal verb the separable verb stays together: 'overstappen'. Say 'Waar moet ik overstappen?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the finite form after moet: 'Waar moet ik overstap?'",
+          "explain": "After 'moet' use the infinitive 'overstappen', not 'overstap'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses statement order: 'Waar ik moet overstappen?'",
+          "explain": "In a question the verb comes second: 'Waar moet ik overstappen?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "The train arrives at ten o'clock.",
+      "answers": [
+        "De trein komt om tien uur aan.",
+        "De trein komt om tien uur aan",
+        "Om tien uur komt de trein aan.",
+        "Om tien uur komt de trein aan"
+      ],
+      "focus": "aankomen: prefix aan at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the prefix with the finite verb: 'De trein aankomt om tien uur.'",
+          "explain": "Separable verb: the prefix goes to the end. Say 'De trein komt om tien uur aan.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Omits the prefix aan: 'De trein komt om tien uur.'",
+          "explain": "Without 'aan' it means 'comes', not 'arrives'. Say 'De trein komt om tien uur aan.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses is for arrival: 'De trein is om tien uur aan.'",
+          "explain": "Use 'komt ... aan' for arriving: 'De trein komt om tien uur aan.'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I check out at Utrecht Central.",
+      "answers": [
+        "Ik check uit bij Utrecht Centraal.",
+        "Ik check uit bij Utrecht Centraal",
+        "Ik check bij Utrecht Centraal uit.",
+        "Ik check bij Utrecht Centraal uit"
+      ],
+      "focus": "uitchecken: prefix uit at the end",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the prefix with the verb: 'Ik uitcheck bij Utrecht Centraal.'",
+          "explain": "Separable verb: 'check' comes after 'ik' and 'uit' at the end: 'Ik check uit bij Utrecht Centraal.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the infinitive as the finite verb: 'Ik uitchecken bij Utrecht Centraal.'",
+          "explain": "Use the present form 'check' + 'uit': 'Ik check uit bij Utrecht Centraal.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the prefix: 'Ik check bij Utrecht Centraal.'",
+          "explain": "Without 'uit' it is not 'check out'. Say 'Ik check uit bij Utrecht Centraal.'"
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "De trein naar Utrecht vertrekt van spoor 5.",
+      "en": "The train to Utrecht leaves from platform 5."
+    },
+    {
+      "type": "listen",
+      "nl": "U moet in Utrecht overstappen.",
+      "en": "You have to change in Utrecht."
+    },
+    {
+      "type": "reply",
+      "context": "You are at the ticket machine. You want a ticket to Utrecht.",
+      "say": {
+        "nl": "Goedemorgen, wat kan ik voor u doen?",
+        "en": "Good morning, what can I do for you?"
+      },
+      "task": "Ask for a one-way ticket to Utrecht.",
+      "examples": [
+        "Een enkele reis naar Utrecht, alstublieft.",
+        "Ik wil graag een enkele reis naar Utrecht.",
+        "Mag ik een enkele reis naar Utrecht?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses retour for a one-way ticket: 'Een retour naar Utrecht, alstublieft.'",
+          "explain": "'Enkele reis' is one way; 'retour' is a return ticket."
+        },
+        {
+          "id": "m2",
+          "pattern": "Asks only for een kaartje without enkele reis: 'Een kaartje naar Utrecht, alstublieft.'",
+          "explain": "To ask for one way, say 'een enkele reis': 'Een enkele reis naar Utrecht, alstublieft.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts graag in the wrong place: 'Ik wil een enkele reis graag naar Utrecht.'",
+          "explain": "Put 'graag' right after 'wil': 'Ik wil graag een enkele reis naar Utrecht.'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "A man on the platform asks if you are changing in Utrecht.",
+      "say": {
+        "nl": "Stapt u in Utrecht over?",
+        "en": "Are you changing in Utrecht?"
+      },
+      "task": "Say yes, you have to change there.",
+      "examples": [
+        "Ja, ik moet in Utrecht overstappen.",
+        "Ja, ik stap in Utrecht over.",
+        "Ja, ik moet daar overstappen."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Splits the separable verb after moet: 'Ja, ik moet in Utrecht over stappen.'",
+          "explain": "After a modal verb keep 'overstappen' together: 'Ja, ik moet in Utrecht overstappen.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the finite form after moet: 'Ja, ik moet in Utrecht overstap.'",
+          "explain": "After 'moet' use the infinitive 'overstappen'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits the prefix: 'Ja, ik moet in Utrecht stappen.'",
+          "explain": "'Stappen' alone is not 'change trains'; use 'overstappen'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The conductor asks for your ticket. The train is on time.",
+      "say": {
+        "nl": "Uw kaartje, alstublieft. De trein is op tijd.",
+        "en": "Your ticket, please. The train is on time."
+      },
+      "task": "Give your ticket and ask which platform the train leaves from.",
+      "examples": [
+        "Hier is mijn kaartje. Van welk spoor vertrekt de trein?",
+        "Alstublieft. Van welk spoor gaat de trein?",
+        "Hier is mijn kaartje. Van welk spoor gaat de trein?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses welke with the het-word spoor: 'Van welke spoor vertrekt de trein?'",
+          "explain": "'Spoor' is a het-word: 'welk spoor', not 'welke spoor'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses statement order: 'Van welk spoor de trein vertrekt?'",
+          "explain": "In a question the verb comes before the subject: 'Van welk spoor vertrekt de trein?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Omits van: 'Welk spoor vertrekt de trein?'",
+          "explain": "Say 'van welk spoor' for the platform the train leaves from."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Op de trein naar Utrecht",
+    "setting": "You are on the train to Utrecht. The conductor checks your ticket and you ask about your transfer.",
+    "partner": {
+      "name": "Meneer De Vries",
+      "gender": "m",
+      "role": "conducteur"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemorgen, uw kaartje, alstublieft.",
+          "en": "Good morning, your ticket, please."
+        },
+        "task": "Give your ticket and say you are going to Utrecht.",
+        "examples": [
+          "Alstublieft. Ik ga naar Utrecht.",
+          "Hier is mijn kaartje. Ik ga naar Utrecht.",
+          "Alstublieft. Ik moet naar Utrecht."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits naar before the place: 'Ik ga Utrecht.'",
+            "explain": "Use 'naar' before a destination: 'Ik ga naar Utrecht.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses in for direction: 'Ik ga in Utrecht.'",
+            "explain": "For direction use 'naar': 'Ik ga naar Utrecht.'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Forgets to give the ticket: only says 'Ik ga naar Utrecht.'",
+            "explain": "Start with 'Alstublieft' or 'Hier is mijn kaartje' when you give the ticket."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Dank u wel. U moet in Utrecht overstappen.",
+          "en": "Thank you. You have to change in Utrecht."
+        },
+        "task": "Ask from which platform the next train leaves.",
+        "examples": [
+          "Van welk spoor vertrekt de trein?",
+          "Van welk spoor gaat de trein?",
+          "Waar is het perron?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses welke with the het-word spoor: 'Van welke spoor vertrekt de trein?'",
+            "explain": "'Spoor' is a het-word: 'welk spoor'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses statement order in the question: 'Van welk spoor de trein vertrekt?'",
+            "explain": "The verb comes before the subject: 'Van welk spoor vertrekt de trein?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits van: 'Welk spoor vertrekt de trein?'",
+            "explain": "Say 'van welk spoor' for the platform the train leaves from."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Van spoor 8. De trein vertrekt om tien over tien.",
+          "en": "From platform 8. The train leaves at ten past ten."
+        },
+        "task": "Say thank you and ask if the train is on time.",
+        "examples": [
+          "Dank u wel. Is de trein op tijd?",
+          "Dank u. Heeft de trein vertraging?",
+          "Dank u wel. Komt de trein op tijd aan?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses in tijd instead of op tijd: 'Is de trein in tijd?'",
+            "explain": "The phrase is 'op tijd': 'Is de trein op tijd?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses hebben with op tijd: 'Heeft de trein op tijd?'",
+            "explain": "Use 'zijn' with 'op tijd': 'Is de trein op tijd?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits op: 'Is de trein tijd?'",
+            "explain": "Say 'op tijd'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja, de trein is op tijd.",
+          "en": "Yes, the train is on time."
+        },
+        "task": "Say thank you and goodbye.",
+        "examples": [
+          "Dank u wel. Tot ziens!",
+          "Dank u. Tot ziens!",
+          "Dank u wel!"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses informal dank je wel to the conductor: 'Dank je wel. Tot ziens!'",
+            "explain": "With the conductor use 'dank u wel': 'Dank u wel. Tot ziens!'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets to say goodbye: 'Dank u wel.'",
+            "explain": "Task asks for thank you and goodbye: 'Dank u wel. Tot ziens!'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses informal doei to the conductor: 'Dank u wel. Doei!'",
+            "explain": "'Doei' is informal; say 'Tot ziens' to the conductor."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Tot ziens!",
+      "en": "Goodbye!"
+    }
+  },
+  "culture": {
+    "title": "Checking in and out",
+    "text": "In the Netherlands you check in at the start of your trip and check out at the end. You can use your ov-chipkaart or your bank card. If you forget to check out, you pay more. On the train, the conductor may ask for your ticket."
+  },
+  "summary": [
+    "Use **inchecken** at the start and **uitchecken** at the end of your trip.",
+    "Separable verbs split in the present: **Ik stap in.** **De trein komt aan.**",
+    "The prefix usually goes at the very end: **Ik stap in Utrecht over.**",
+    "With a modal verb the separable verb stays together at the end: **Je moet overstappen.**",
+    "**Enkele reis** = one way; **retour** = return."
+  ]
+}

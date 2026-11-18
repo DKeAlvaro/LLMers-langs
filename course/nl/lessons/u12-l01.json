@@ -1,0 +1,1139 @@
+{
+  "id": "u12-l01",
+  "title": "Schrijven",
+  "subtitle": "Notes, messages and emails",
+  "level": "A2+",
+  "intro": "In this lesson you learn to write the three texts you need most: a short note, a message to a friend and a formal email. You revise Dutch word order and choose the right tone for the reader. By the end you can open and close a message correctly and link your sentences with omdat, want, dus and daarom.",
+  "words": [
+    {
+      "nl": "briefje",
+      "en": "short note",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de briefjes",
+      "forms": null,
+      "example": {
+        "nl": "Ik schrijf een briefje voor de buurman.",
+        "en": "I am writing a note for the neighbour."
+      },
+      "note": "A diminutive, so it takes het: het briefje."
+    },
+    {
+      "nl": "kaartje",
+      "en": "card, small card",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de kaartjes",
+      "forms": null,
+      "example": {
+        "nl": "Ik stuur je een kaartje uit Nederland.",
+        "en": "I am sending you a card from the Netherlands."
+      },
+      "note": "Also a diminutive: het kaartje."
+    },
+    {
+      "nl": "uitnodiging",
+      "en": "invitation",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de uitnodigingen",
+      "forms": null,
+      "example": {
+        "nl": "Bedankt voor de uitnodiging!",
+        "en": "Thanks for the invitation!"
+      },
+      "note": null
+    },
+    {
+      "nl": "afmelding",
+      "en": "cancellation, notice that you cannot come",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de afmeldingen",
+      "forms": null,
+      "example": {
+        "nl": "Ik stuur een afmelding naar de school.",
+        "en": "I am sending a cancellation to the school."
+      },
+      "note": "Used for lessons, appointments and meetings."
+    },
+    {
+      "nl": "reactie",
+      "en": "reaction, reply",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de reacties",
+      "forms": null,
+      "example": {
+        "nl": "Ik wacht nog op een reactie.",
+        "en": "I am still waiting for a reply."
+      },
+      "note": null
+    },
+    {
+      "nl": "vraag",
+      "en": "question",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de vragen",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een vraag voor u.",
+        "en": "I have a question for you."
+      },
+      "note": null
+    },
+    {
+      "nl": "verzoek",
+      "en": "request",
+      "pos": "noun",
+      "article": "het",
+      "plural": "de verzoeken",
+      "forms": null,
+      "example": {
+        "nl": "Ik heb een verzoek: kan ik maandag komen?",
+        "en": "I have a request: can I come on Monday?"
+      },
+      "note": "More formal than de vraag."
+    },
+    {
+      "nl": "uitnodigen",
+      "en": "to invite",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik nodig uit, jij nodigt uit, wij nodigen uit (heeft uitgenodigd)",
+      "example": {
+        "nl": "Ik nodig je uit voor het feest.",
+        "en": "I am inviting you to the party."
+      },
+      "note": "Separable: ik nodig ... uit."
+    },
+    {
+      "nl": "afmelden",
+      "en": "to cancel, to report that you cannot come",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik meld af, jij meldt af, wij melden af (heeft afgemeld)",
+      "example": {
+        "nl": "Ik meld me af voor vrijdag.",
+        "en": "I am cancelling for Friday."
+      },
+      "note": "Usually with me/je: ik meld me af."
+    },
+    {
+      "nl": "melden",
+      "en": "to report, to notify",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik meld, jij meldt, wij melden (heeft gemeld)",
+      "example": {
+        "nl": "U moet het probleem melden.",
+        "en": "You must report the problem."
+      },
+      "note": null
+    },
+    {
+      "nl": "informeren",
+      "en": "to inform; to ask about",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik informeer, jij informeert, wij informeren (heeft geïnformeerd)",
+      "example": {
+        "nl": "Ik informeer naar de openingstijden.",
+        "en": "I am asking about the opening hours."
+      },
+      "note": "informeren naar = to ask about."
+    },
+    {
+      "nl": "laten weten",
+      "en": "to let (someone) know",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": "ik laat weten, jij laat weten, wij laten weten (heeft laten weten)",
+      "example": {
+        "nl": "Ik laat je weten of ik kom.",
+        "en": "I will let you know if I am coming."
+      },
+      "note": "A fixed combination: laat ... weten stays together."
+    },
+    {
+      "nl": "daarom",
+      "en": "that is why, therefore",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik ben ziek, daarom kom ik niet.",
+        "en": "I am ill, that is why I am not coming."
+      },
+      "note": "After daarom the verb comes before the subject."
+    },
+    {
+      "nl": "dus",
+      "en": "so, therefore",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Het regent, dus ik neem de bus.",
+        "en": "It is raining, so I am taking the bus."
+      },
+      "note": "Often after a comma, with normal word order."
+    },
+    {
+      "nl": "alvast",
+      "en": "in advance",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Alvast bedankt voor je bericht.",
+        "en": "Thanks in advance for your message."
+      },
+      "note": "Very common in emails: Alvast bedankt!"
+    },
+    {
+      "nl": "graag",
+      "en": "gladly, please",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Ik wil graag langskomen.",
+        "en": "I would like to come by."
+      },
+      "note": "graag makes a request sound friendly."
+    },
+    {
+      "nl": "hoi",
+      "en": "hi",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hoi Sanne, hoe gaat het?",
+        "en": "Hi Sanne, how are you?"
+      },
+      "note": "Use hoi with friends, family and people you know well."
+    },
+    {
+      "nl": "beste",
+      "en": "dear (neutral)",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Beste mevrouw De Vries,",
+        "en": "Dear Mrs De Vries,"
+      },
+      "note": "Neutral and safe; also fine for colleagues."
+    },
+    {
+      "nl": "geachte",
+      "en": "dear (very formal)",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Geachte mevrouw De Vries,",
+        "en": "Dear Mrs De Vries,"
+      },
+      "note": "Only in very formal letters and emails."
+    },
+    {
+      "nl": "formeel",
+      "en": "formal",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": "formeel, formele, formeler, formeelst",
+      "example": {
+        "nl": "Een bericht aan de school is formeel.",
+        "en": "A message to the school is formal."
+      },
+      "note": "Use this for schools, companies and strangers."
+    },
+    {
+      "nl": "aanhef",
+      "en": "salutation, opening of a letter",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de aanheffen",
+      "forms": null,
+      "example": {
+        "nl": "De aanhef van de e-mail is: Geachte mevrouw De Vries.",
+        "en": "The opening of the email is: Dear Mrs De Vries."
+      },
+      "note": null
+    },
+    {
+      "nl": "afsluiting",
+      "en": "closing",
+      "pos": "noun",
+      "article": "de",
+      "plural": "de afsluitingen",
+      "forms": null,
+      "example": {
+        "nl": "Vergeet de afsluiting niet: met vriendelijke groet.",
+        "en": "Do not forget the closing: with kind regards."
+      },
+      "note": null
+    },
+    {
+      "nl": "groetjes",
+      "en": "greetings (informal closing)",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Groetjes, Sanne",
+        "en": "Greetings, Sanne"
+      },
+      "note": "Informal: friends and family."
+    },
+    {
+      "nl": "liefs",
+      "en": "love (informal closing)",
+      "pos": "interj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Liefs, Sanne",
+        "en": "Love, Sanne"
+      },
+      "note": "Warmer than groetjes; for people you know well."
+    },
+    {
+      "nl": "hartelijke groet",
+      "en": "kind regards",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Hartelijke groet, Sanne en Tim",
+        "en": "Kind regards, Sanne and Tim"
+      },
+      "note": "Friendly and correct; good for neighbours and colleagues."
+    },
+    {
+      "nl": "met vriendelijke groet",
+      "en": "with kind regards (formal closing)",
+      "pos": "phrase",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Met vriendelijke groet, Sanne de Boer",
+        "en": "With kind regards, Sanne de Boer"
+      },
+      "note": "The standard formal closing."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Ik wil graag ...",
+      "en": "I would like to ...",
+      "note": "Friendly and polite, in almost every email."
+    },
+    {
+      "nl": "Ik laat je weten of ik kan komen.",
+      "en": "I will let you know if I can come.",
+      "note": null
+    },
+    {
+      "nl": "Kan ik me voor vrijdag afmelden?",
+      "en": "Can I cancel for Friday?",
+      "note": "Handy for lessons and appointments."
+    },
+    {
+      "nl": "Alvast bedankt!",
+      "en": "Thanks in advance!",
+      "note": "Very common in Dutch emails."
+    },
+    {
+      "nl": "Met vriendelijke groet,",
+      "en": "With kind regards,",
+      "note": "Formal closing."
+    },
+    {
+      "nl": "Zou u mij kunnen laten weten ...?",
+      "en": "Could you let me know ...?",
+      "note": "Polite and formal."
+    },
+    {
+      "nl": "Sorry dat ik zo laat reageer.",
+      "en": "Sorry for replying so late.",
+      "note": null
+    },
+    {
+      "nl": "Bedankt voor de uitnodiging.",
+      "en": "Thanks for the invitation.",
+      "note": null
+    },
+    {
+      "nl": "Ik stuur je even een berichtje.",
+      "en": "I will send you a quick message.",
+      "note": "even makes it sound light and friendly."
+    },
+    {
+      "nl": "Ik hoop dat het goed met je gaat.",
+      "en": "I hope you are doing well.",
+      "note": null
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Word order in writing",
+      "explanation": "In a main clause the verb is always the second element: **Ik kom morgen niet.** If the sentence starts with something else, the subject moves behind the verb: **Morgen kom ik niet.** After **omdat**, **dat** or **als** all verbs go to the end of the sentence: **Ik kom niet, omdat ik ziek ben.**",
+      "table": {
+        "headers": [
+          "Type of sentence",
+          "Example",
+          "Where is the verb?"
+        ],
+        "rows": [
+          [
+            "Main clause",
+            "Ik stuur je morgen een berichtje.",
+            "second element"
+          ],
+          [
+            "Inversion",
+            "Morgen stuur ik je een berichtje.",
+            "before the subject"
+          ],
+          [
+            "Subordinate clause",
+            "Ik bel je, omdat ik morgen weg ben.",
+            "at the end"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik kan niet komen, want ik ben ziek.",
+          "en": "I cannot come, because I am ill."
+        },
+        {
+          "nl": "Ik kan niet komen, omdat ik ziek ben.",
+          "en": "I cannot come, because I am ill."
+        },
+        {
+          "nl": "Morgen stuur ik de brief.",
+          "en": "Tomorrow I will send the letter."
+        }
+      ],
+      "tip": "want keeps normal word order, omdat sends the verb to the end. Same meaning, different structure."
+    },
+    {
+      "title": "Formal or informal: u or je",
+      "explanation": "To a stranger, a school, a landlord or a company you write **u** and **uw**: **Zou u mij kunnen laten weten of ...?** To friends and family you use **je/jij** and **jouw**. The whole message changes tone, from the opening to the closing.",
+      "table": {
+        "headers": [
+          "Informeel (je)",
+          "Formeel (u)"
+        ],
+        "rows": [
+          [
+            "Hoi Sanne,",
+            "Geachte mevrouw De Vries,"
+          ],
+          [
+            "Beste Sanne,",
+            "Beste mevrouw De Vries,"
+          ],
+          [
+            "Kun je ...?",
+            "Zou u ... kunnen?"
+          ],
+          [
+            "Ik wil graag ...",
+            "Ik zou graag ... willen"
+          ],
+          [
+            "Groetjes, / Liefs,",
+            "Met vriendelijke groet,"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Kun je mij laten weten of je komt?",
+          "en": "Can you let me know if you are coming?"
+        },
+        {
+          "nl": "Zou u mij kunnen laten weten of u komt?",
+          "en": "Could you let me know if you are coming?"
+        },
+        {
+          "nl": "Alvast bedankt voor uw antwoord.",
+          "en": "Thanks in advance for your reply."
+        }
+      ],
+      "tip": "Not sure? Choose u. Being too formal is never rude; being too informal can be."
+    },
+    {
+      "title": "Linking your sentences",
+      "explanation": "Short linking words make a message flow: **want**, **omdat**, **dus**, **daarom**, **maar** and **ook**. Watch the word order: **want** and **maar** keep normal order, **omdat** sends the verb to the end, and **daarom** at the start causes inversion. **Dus** keeps normal order after a comma but causes inversion when it starts a new sentence.",
+      "table": {
+        "headers": [
+          "Word",
+          "What it does",
+          "Example"
+        ],
+        "rows": [
+          [
+            "want",
+            "reason, normal word order",
+            "Ik kom niet, want ik ben ziek."
+          ],
+          [
+            "omdat",
+            "reason, verb at the end",
+            "Ik kom niet, omdat ik ziek ben."
+          ],
+          [
+            "dus",
+            "result, normal order after a comma",
+            "Het regent, dus ik neem de bus."
+          ],
+          [
+            "daarom",
+            "reason + inversion",
+            "Ik ben ziek. Daarom kom ik niet."
+          ],
+          [
+            "maar",
+            "contrast, normal order",
+            "Ik ben ziek, maar ik kom toch."
+          ],
+          [
+            "ook",
+            "also, after the verb",
+            "Ik kom ook niet."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Ik heb geen tijd, daarom bel ik je morgen.",
+          "en": "I have no time, that is why I will call you tomorrow."
+        },
+        {
+          "nl": "Ik ben moe, maar ik werk toch.",
+          "en": "I am tired, but I am working anyway."
+        },
+        {
+          "nl": "Ik stuur je een berichtje, dan weet je het.",
+          "en": "I will send you a message, then you know."
+        }
+      ],
+      "tip": "Do not use want and omdat in the same sentence; pick one."
+    }
+  ],
+  "dialogue": {
+    "title": "Drie berichten",
+    "setting": "Sanne has to write a note to her neighbour, a message to a friend and an email to her child's school. Her friend Tim helps her choose the right words.",
+    "speakers": [
+      {
+        "name": "Tim",
+        "gender": "m"
+      },
+      {
+        "name": "Sanne",
+        "gender": "f"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Tim",
+        "nl": "Drie berichten vandaag? Dat is veel.",
+        "en": "Three messages today? That is a lot."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja, en ze zijn anders. Eerst de buurman.",
+        "en": "Yes, and they are different. First the neighbour."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Wat wil je tegen hem zeggen?",
+        "en": "What do you want to say to him?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ik schrijf een briefje: ik ben morgen niet thuis.",
+        "en": "I am writing a note: I am not home tomorrow."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Waarom ben je niet thuis?",
+        "en": "Why are you not home?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Omdat de monteur komt. De verwarming is kapot.",
+        "en": "Because the mechanic is coming. The heating is broken."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Na omdat staat het werkwoord achter in de zin.",
+        "en": "After omdat the verb goes at the end of the sentence."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja. En dan het berichtje aan Lisa.",
+        "en": "Yes. And then the message to Lisa."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Lisa is je vriendin. Je gebruikt je, niet u.",
+        "en": "Lisa is your friend. You use je, not u."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Ja. Hoi Lisa, ik kan vrijdag niet komen. Liefs, Sanne.",
+        "en": "Yes. Hi Lisa, I cannot come on Friday. Love, Sanne."
+      },
+      {
+        "speaker": "Tim",
+        "nl": "En de school?",
+        "en": "And the school?"
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dat is formeel: Geachte mevrouw De Vries, zou u mij kunnen laten weten of het vrijdag kan?",
+        "en": "That is formal: Dear Mrs De Vries, could you let me know whether Friday is possible?"
+      },
+      {
+        "speaker": "Tim",
+        "nl": "Vergeet de afsluiting niet: met vriendelijke groet.",
+        "en": "Do not forget the closing: with kind regards."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En ik zet er ook nog bij: alvast bedankt.",
+        "en": "And I also add: thanks in advance."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "het briefje",
+          "the short note"
+        ],
+        [
+          "de uitnodiging",
+          "the invitation"
+        ],
+        [
+          "het verzoek",
+          "the request"
+        ],
+        [
+          "zich afmelden",
+          "to cancel, to report absent"
+        ],
+        [
+          "alvast",
+          "in advance"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "geachte",
+          "dear (very formal)"
+        ],
+        [
+          "de aanhef",
+          "the salutation"
+        ],
+        [
+          "de afsluiting",
+          "the closing"
+        ],
+        [
+          "laten weten",
+          "to let someone know"
+        ],
+        [
+          "hartelijke groet",
+          "kind regards"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "You are writing an email to your child's school. Which opening fits best?",
+      "nl": null,
+      "options": [
+        "Hoi mevrouw,",
+        "Geachte mevrouw De Vries,",
+        "Liefs,"
+      ],
+      "answer": 1,
+      "explain": "A school is formal, so you use Geachte plus the name."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence has the correct word order?",
+      "nl": null,
+      "options": [
+        "Ik kom niet, omdat ik ben ziek.",
+        "Ik kom niet, omdat ik ziek ben.",
+        "Ik kom niet, omdat ben ik ziek."
+      ],
+      "answer": 1,
+      "explain": "After omdat all verbs go to the end of the sentence."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence has the correct word order?",
+      "nl": null,
+      "options": [
+        "Daarom ik kom morgen niet.",
+        "Daarom kom ik morgen niet.",
+        "Daarom kom morgen ik niet."
+      ],
+      "answer": 1,
+      "explain": "Daarom at the start causes inversion: first the verb, then the subject."
+    },
+    {
+      "type": "article",
+      "word": "uitnodiging",
+      "en": "invitation",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "briefje",
+      "en": "short note",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "I will let you know if I can come.",
+      "answer": "Ik laat je weten of ik kan komen",
+      "accept": [],
+      "extra": [
+        "weet",
+        "gelaten"
+      ],
+      "explain": "Use laat ... weten as a fixed combination; after of the verbs go to the end: 'of ik kan komen'."
+    },
+    {
+      "type": "build",
+      "en": "That is why I am sending you a message.",
+      "answer": "Daarom stuur ik je een berichtje",
+      "accept": [],
+      "extra": [
+        "sturen",
+        "gestuurd"
+      ],
+      "explain": "After daarom at the start, the verb comes before the subject: 'Daarom stuur ik...'."
+    },
+    {
+      "type": "build",
+      "en": "Could you let me know whether you are coming?",
+      "answer": "Zou u mij kunnen laten weten of u komt",
+      "accept": [
+        "Zou u mij laten weten of u komt"
+      ],
+      "extra": [
+        "zouden",
+        "geweten"
+      ],
+      "explain": "Use the polite form 'Zou u ... kunnen?' and put the of-clause at the end: '... of u komt'."
+    },
+    {
+      "type": "gap",
+      "text": "___ ik ziek ben, kan ik niet komen.",
+      "en": "Because I am ill, I cannot come.",
+      "answers": [
+        "Omdat",
+        "omdat"
+      ],
+      "hint": "because (at the start of the sentence)",
+      "explain": "Omdat starts a subordinate clause and sends the verb to the end: 'Omdat ik ziek ben, kan ik niet komen.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ben morgen niet thuis, ___ de monteur komt.",
+      "en": "I am not home tomorrow, because the mechanic is coming.",
+      "answers": [
+        "want",
+        "omdat"
+      ],
+      "hint": "because",
+      "explain": "Want keeps normal word order; omdat sends the verb to the end. Both fit here: 'want de monteur komt' / 'omdat de monteur komt'."
+    },
+    {
+      "type": "gap",
+      "text": "Ik heb geen tijd. ___ kan ik niet komen.",
+      "en": "I have no time. That is why I cannot come.",
+      "answers": [
+        "Daarom",
+        "daarom",
+        "Dus",
+        "dus"
+      ],
+      "hint": "that is why / so",
+      "explain": "Daarom and dus at the start cause inversion: 'Daarom/Dus kan ik niet komen.'"
+    },
+    {
+      "type": "translate",
+      "en": "Thanks in advance!",
+      "answers": [
+        "Alvast bedankt",
+        "Alvast bedankt!",
+        "Alvast heel erg bedankt",
+        "Dank je alvast",
+        "Dank je alvast!",
+        "Dank u alvast",
+        "Dank u alvast!",
+        "Alvast dank"
+      ],
+      "focus": "alvast in a friendly closing",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts alvast after bedankt (Bedankt alvast!)",
+          "explain": "In this fixed phrase alvast comes first: 'Alvast bedankt'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses vooraf instead of alvast (Vooraf bedankt!)",
+          "explain": "Use 'alvast', not 'vooraf', in this friendly closing."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses the infinitive bedanken (Alvast bedanken!)",
+          "explain": "Use the fixed expression 'Alvast bedankt', not 'bedanken'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "I cannot come, because I am ill.",
+      "answers": [
+        "Ik kan niet komen, omdat ik ziek ben",
+        "Ik kan niet komen omdat ik ziek ben",
+        "Ik kan niet komen, want ik ben ziek",
+        "Ik kan niet komen want ik ben ziek"
+      ],
+      "focus": "because: omdat + verb at the end, or want + normal order",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the subject before the verb after omdat (omdat ik ben ziek)",
+          "explain": "After omdat the verb goes to the end: 'omdat ik ziek ben'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses want with subordinate word order (want ik ziek ben)",
+          "explain": "After want you keep normal order: 'want ik ben ziek'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses hebben instead of zijn with ziek (omdat ik ziek heb)",
+          "explain": "With ziek you use zijn: 'ik ben ziek'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Could you let me know?",
+      "answers": [
+        "Zou u het mij kunnen laten weten",
+        "Zou u mij kunnen laten weten",
+        "Kunt u het mij laten weten",
+        "Kunt u mij laten weten",
+        "Zou u het me kunnen laten weten",
+        "Zou u me kunnen laten weten",
+        "Kunt u het me laten weten",
+        "Kunt u me laten weten"
+      ],
+      "focus": "formal u and a polite request with kunnen",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts kunnen after laten (Zou u mij laten kunnen weten?)",
+          "explain": "The order is 'Zou u mij kunnen laten weten?': kunnen comes before laten."
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the object after kunnen (Zou u kunnen mij laten weten?)",
+          "explain": "The object comes before the verbs: 'Zou u mij kunnen laten weten?'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Mixes u with je (Zou u het je kunnen laten weten?)",
+          "explain": "With u, use mij or me, not je: 'Zou u het mij kunnen laten weten?'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "Ik meld me af voor vrijdag.",
+      "en": "I am cancelling for Friday."
+    },
+    {
+      "type": "listen",
+      "nl": "Ik laat het u morgen weten.",
+      "en": "I will let you know tomorrow."
+    },
+    {
+      "type": "reply",
+      "context": "Your neighbour asks you to water her plants this weekend, but you are away.",
+      "say": {
+        "nl": "Kun je dit weekend mijn planten water geven?",
+        "en": "Can you water my plants this weekend?"
+      },
+      "task": "Say no politely, explain why, and suggest another day.",
+      "examples": [
+        "Hoi buurvrouw, helaas kan ik niet. Ik ben dit weekend weg. Kan het volgende week?",
+        "Sorry, ik ben er niet dit weekend. Volgende week graag!",
+        "Helaas, ik ben weg. Ik kan het zondag wel doen."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Puts the time phrase after weg (Ik ben weg dit weekend.)",
+          "explain": "Place the time before weg: 'Ik ben dit weekend weg'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses no inversion after helaas at the start (Helaas ik kan niet.)",
+          "explain": "After helaas at the start, the verb comes before the subject: 'Helaas kan ik niet'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Suggests another day with doen instead of komen (Kan ik volgende week doen?)",
+          "explain": "For an appointment use 'Kan het volgende week?' or 'Kan ik volgende week komen?'."
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "You want to cancel your Dutch lesson on Friday. You write a short formal email to your teacher.",
+      "say": {
+        "nl": "Tot vrijdag!",
+        "en": "See you Friday!"
+      },
+      "task": "Write a short formal email: say you cannot come on Friday, ask if Monday is possible, and close formally.",
+      "examples": [
+        "Geachte mevrouw De Vries, helaas kan ik vrijdag niet komen. Zou ik maandag kunnen komen? Met vriendelijke groet, Sanne de Boer.",
+        "Beste mevrouw, ik moet me voor vrijdag afmelden. Kan ik de les verzetten? Alvast bedankt. Met vriendelijke groet, Sanne de Boer."
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses an informal opening in a formal email (Hoi mevrouw De Vries,)",
+          "explain": "For a school use a formal opening: 'Geachte mevrouw De Vries,'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses an informal closing in a formal email (Groetjes, Sanne)",
+          "explain": "Close a formal email with 'Met vriendelijke groet,'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts mij after kunnen (Zou u kunnen mij laten weten of vrijdag kan?)",
+          "explain": "The object comes before the verbs: 'Zou u mij kunnen laten weten of vrijdag kan?'."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Drie berichten schrijven",
+    "setting": "Your friend Tim is at the kitchen table with you. You are writing a note to your neighbour, a message to a friend and an email to your child's school, and Tim asks you about each one.",
+    "partner": {
+      "name": "Tim",
+      "gender": "m",
+      "role": "your friend, helping you choose the right words"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goed, eerst de buurman. Wat schrijf je?",
+          "en": "OK, first the neighbour. What are you writing?"
+        },
+        "task": "Say that you are writing a short note and that you are not home tomorrow.",
+        "examples": [
+          "Ik schrijf een briefje: ik ben morgen niet thuis.",
+          "Ik ben morgen niet thuis, dus ik schrijf een briefje voor de buurman."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits the article before briefje (Ik schrijf briefje...)",
+            "explain": "Briefje is a het-word: 'een briefje'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts morgen after niet (ik ben niet morgen thuis)",
+            "explain": "Place morgen before niet: 'ik ben morgen niet thuis'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts the subject before the verb after omdat (omdat ik ben morgen niet thuis)",
+            "explain": "After omdat the verb goes to the end: 'omdat ik morgen niet thuis ben'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Waarom ben je niet thuis?",
+          "en": "Why are you not home?"
+        },
+        "task": "Explain with omdat: the mechanic is coming; the heating is broken.",
+        "examples": [
+          "Ik ben niet thuis, omdat de monteur komt. De verwarming is kapot.",
+          "Omdat de monteur komt, ben ik niet thuis. De verwarming is kapot."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Puts the subject before the verb after omdat at the start (Omdat de monteur komt, ik ben niet thuis.)",
+            "explain": "After an omdat-clause first, the main clause starts with the verb: '... ben ik niet thuis'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses want and omdat together (Want de monteur komt, omdat de verwarming kapot is.)",
+            "explain": "Use one linking word: 'omdat de monteur komt' or 'want de monteur komt'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Omits the verb in the omdat-clause (omdat de verwarming kapot)",
+            "explain": "The subordinate clause needs a verb at the end: 'omdat de verwarming kapot is'."
+          },
+          {
+            "id": "m4",
+            "pattern": "Gives the reason with daarom but no omdat (De verwarming is kapot, daarom komt de monteur.)",
+            "explain": "The task asks for omdat: '... omdat de monteur komt.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "En het berichtje aan Lisa?",
+          "en": "And the message to Lisa?"
+        },
+        "task": "Cancel for Friday in an informal way and close with liefs or groetjes.",
+        "examples": [
+          "Hoi Lisa, ik kan vrijdag niet komen. Liefs, Sanne.",
+          "Hoi Lisa, helaas kan ik vrijdag niet. Groetjes, Sanne."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses a formal opening for a friend (Geachte Lisa,)",
+            "explain": "Lisa is a friend, so write 'Hoi Lisa,' or 'Beste Lisa,'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses a formal closing for a friend (Met vriendelijke groet, Sanne)",
+            "explain": "For a friend use 'Liefs, Sanne' or 'Groetjes, Sanne'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts niet before the time (Ik kan niet vrijdag komen.)",
+            "explain": "Place the time before niet: 'Ik kan vrijdag niet komen'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Nu de school. Dat is formeel, toch?",
+          "en": "Now the school. That is formal, right?"
+        },
+        "task": "Say that you use u, start with Geachte and ask politely whether Friday is possible.",
+        "examples": [
+          "Geachte mevrouw De Vries, zou u mij kunnen laten weten of het vrijdag kan?",
+          "Ik schrijf formeel: Geachte mevrouw De Vries, zou u mij kunnen laten weten of vrijdag mogelijk is?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses an informal opening for the school (Hoi mevrouw De Vries,)",
+            "explain": "For a school use 'Geachte mevrouw De Vries,'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Puts mij after kunnen (Zou u kunnen mij laten weten of vrijdag kan?)",
+            "explain": "The object comes before the verbs: 'Zou u mij kunnen laten weten...'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses a direct demand instead of a polite question (Ik wil weten of vrijdag kan.)",
+            "explain": "Ask politely with 'Zou u mij kunnen laten weten of ...?'."
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Wat zet je aan het eind?",
+          "en": "What do you put at the end?"
+        },
+        "task": "Give the formal closing and thank the reader in advance.",
+        "examples": [
+          "Met vriendelijke groet. Alvast bedankt!",
+          "Alvast bedankt voor uw antwoord. Met vriendelijke groet, Sanne de Boer."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Uses an informal closing in a formal email (Groetjes, Sanne)",
+            "explain": "Close with 'Met vriendelijke groet,'."
+          },
+          {
+            "id": "m2",
+            "pattern": "Mixes met vriendelijke groet with groetjes (Met vriendelijke groetjes)",
+            "explain": "Use the fixed closing 'Met vriendelijke groet'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts alvast after bedankt (Bedankt alvast!)",
+            "explain": "The fixed phrase is 'Alvast bedankt'."
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Zo, drie berichten klaar. Goed gedaan!",
+      "en": "There, three messages done. Well done!"
+    }
+  },
+  "culture": {
+    "title": "Het inburgeringsexamen Schrijven",
+    "text": "In the inburgering writing exam (Schrijven) you write exactly these short practical texts: a note for a neighbour, a message to a friend, an email to a school or a company. You get a handful of short assignments and not much time, so keep your sentences simple. Examiners look at whether the message is clear and whether the tone fits: u and uw for official organisations, je and jouw for friends and family. A correct opening and closing counts, so learn them by heart."
+  },
+  "summary": [
+    "A short message has a fixed shape: opening, one or two clear sentences, closing.",
+    "Use je/jouw and groetjes or liefs for friends; use u/uw and met vriendelijke groet for schools, companies and strangers.",
+    "In a main clause the verb is second; after omdat, dat or als the verbs go to the end.",
+    "Want and maar keep normal word order; daarom, and dus at the start of a sentence, cause inversion.",
+    "Alvast bedankt, graag and Zou u ... kunnen? make a message friendly and polite."
+  ]
+}

@@ -1,0 +1,1032 @@
+{
+  "id": "u10-l03",
+  "title": "Vertraging!",
+  "subtitle": "Delays and indirect questions",
+  "level": "A2",
+  "intro": "In this lesson you will learn to understand station announcements and to ask for help when your plans change. You will practise polite indirect questions with Weet u ...? and Kunt u mij vertellen ...?, and useful words for delays, cancellations and replacement buses.",
+  "words": [
+    {
+      "nl": "vertraging",
+      "en": "the delay",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vertragingen",
+      "forms": null,
+      "example": {
+        "nl": "De trein heeft tien minuten vertraging.",
+        "en": "The train has a ten-minute delay."
+      },
+      "note": null
+    },
+    {
+      "nl": "storing",
+      "en": "the disruption, breakdown",
+      "pos": "noun",
+      "article": "de",
+      "plural": "storingen",
+      "forms": null,
+      "example": {
+        "nl": "Er is een storing bij Utrecht.",
+        "en": "There is a disruption near Utrecht."
+      },
+      "note": "A storing can be a technical fault or a closed route."
+    },
+    {
+      "nl": "omleiding",
+      "en": "the diversion, detour",
+      "pos": "noun",
+      "article": "de",
+      "plural": "omleidingen",
+      "forms": null,
+      "example": {
+        "nl": "Er is een omleiding bij het station.",
+        "en": "There is a diversion near the station."
+      },
+      "note": null
+    },
+    {
+      "nl": "spoorwijziging",
+      "en": "the platform change",
+      "pos": "noun",
+      "article": "de",
+      "plural": "spoorwijzigingen",
+      "forms": null,
+      "example": {
+        "nl": "Er is een spoorwijziging: de trein vertrekt van spoor 7.",
+        "en": "There is a platform change: the train departs from platform 7."
+      },
+      "note": null
+    },
+    {
+      "nl": "spoor",
+      "en": "the platform, track",
+      "pos": "noun",
+      "article": "het",
+      "plural": "sporen",
+      "forms": null,
+      "example": {
+        "nl": "De trein vertrekt van spoor 5.",
+        "en": "The train departs from platform 5."
+      },
+      "note": "Spoor can mean track or platform in station announcements."
+    },
+    {
+      "nl": "aansluiting",
+      "en": "the connection",
+      "pos": "noun",
+      "article": "de",
+      "plural": "aansluitingen",
+      "forms": null,
+      "example": {
+        "nl": "Ik mis mijn aansluiting in Leiden.",
+        "en": "I miss my connection in Leiden."
+      },
+      "note": null
+    },
+    {
+      "nl": "vervangende bus",
+      "en": "the replacement bus",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vervangende bussen",
+      "forms": null,
+      "example": {
+        "nl": "Er rijdt een vervangende bus.",
+        "en": "There is a replacement bus running."
+      },
+      "note": null
+    },
+    {
+      "nl": "omroep",
+      "en": "the broadcaster, broadcast",
+      "pos": "noun",
+      "article": "de",
+      "plural": "omroepen",
+      "forms": null,
+      "example": {
+        "nl": "De omroep geeft vandaag informatie over de trein.",
+        "en": "The broadcaster gives information about the train today."
+      },
+      "note": "Usually 'broadcaster/broadcast'; for a single station announcement, de mededeling is more common."
+    },
+    {
+      "nl": "mededeling",
+      "en": "the announcement, notice",
+      "pos": "noun",
+      "article": "de",
+      "plural": "mededelingen",
+      "forms": null,
+      "example": {
+        "nl": "Er is een mededeling voor reizigers naar Leiden.",
+        "en": "There is an announcement for passengers travelling to Leiden."
+      },
+      "note": null
+    },
+    {
+      "nl": "reiziger",
+      "en": "the traveller, passenger",
+      "pos": "noun",
+      "article": "de",
+      "plural": "reizigers",
+      "forms": null,
+      "example": {
+        "nl": "De reizigers wachten op spoor 3.",
+        "en": "The passengers are waiting on platform 3."
+      },
+      "note": null
+    },
+    {
+      "nl": "loket",
+      "en": "the ticket window, counter",
+      "pos": "noun",
+      "article": "het",
+      "plural": "loketten",
+      "forms": null,
+      "example": {
+        "nl": "U kunt een kaartje kopen aan het loket.",
+        "en": "You can buy a ticket at the ticket window."
+      },
+      "note": null
+    },
+    {
+      "nl": "informatiebalie",
+      "en": "the information desk",
+      "pos": "noun",
+      "article": "de",
+      "plural": "informatiebalies",
+      "forms": null,
+      "example": {
+        "nl": "Vraag het bij de informatiebalie.",
+        "en": "Ask at the information desk."
+      },
+      "note": null
+    },
+    {
+      "nl": "reisplanner",
+      "en": "the journey planner",
+      "pos": "noun",
+      "article": "de",
+      "plural": "reisplanners",
+      "forms": null,
+      "example": {
+        "nl": "De reisplanner geeft informatie over de trein.",
+        "en": "The journey planner gives information about the train."
+      },
+      "note": null
+    },
+    {
+      "nl": "vertrektijd",
+      "en": "the departure time",
+      "pos": "noun",
+      "article": "de",
+      "plural": "vertrektijden",
+      "forms": null,
+      "example": {
+        "nl": "De vertrektijd is negen uur.",
+        "en": "The departure time is nine o'clock."
+      },
+      "note": null
+    },
+    {
+      "nl": "uitvallen",
+      "en": "to be cancelled, to fail",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik val uit, jij valt uit, wij vallen uit (is uitgevallen)",
+      "example": {
+        "nl": "De trein valt vandaag uit.",
+        "en": "The train is cancelled today."
+      },
+      "note": "Separable verb: uit + vallen."
+    },
+    {
+      "nl": "rijden",
+      "en": "to ride, to run (train, bus, car)",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik rijd, jij rijdt, wij rijden (heeft gereden)",
+      "example": {
+        "nl": "De bus rijdt elke tien minuten.",
+        "en": "The bus runs every ten minutes."
+      },
+      "note": "Used for trains, buses and cars."
+    },
+    {
+      "nl": "vertrekken",
+      "en": "to depart",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vertrek, jij vertrekt, wij vertrekken (is vertrokken)",
+      "example": {
+        "nl": "De trein vertrekt om negen uur.",
+        "en": "The train departs at nine o'clock."
+      },
+      "note": "Perfect: is vertrokken."
+    },
+    {
+      "nl": "aankomen",
+      "en": "to arrive",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik kom aan, jij komt aan, wij komen aan (is aangekomen)",
+      "example": {
+        "nl": "De trein komt om tien uur aan.",
+        "en": "The train arrives at ten o'clock."
+      },
+      "note": "Separable verb: aan + komen."
+    },
+    {
+      "nl": "missen",
+      "en": "to miss",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik mis, jij mist, wij missen (heeft gemist)",
+      "example": {
+        "nl": "Ik mis mijn aansluiting.",
+        "en": "I miss my connection."
+      },
+      "note": null
+    },
+    {
+      "nl": "verwacht",
+      "en": "expected",
+      "pos": "adj",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De trein wordt om tien uur verwacht.",
+        "en": "The train is expected at ten o'clock."
+      },
+      "note": "In announcements: wordt verwacht = is expected."
+    },
+    {
+      "nl": "ongeveer",
+      "en": "approximately, about",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "De vertraging is ongeveer tien minuten.",
+        "en": "The delay is about ten minutes."
+      },
+      "note": null
+    },
+    {
+      "nl": "helaas",
+      "en": "unfortunately",
+      "pos": "adv",
+      "article": null,
+      "plural": null,
+      "forms": null,
+      "example": {
+        "nl": "Helaas rijdt de trein vandaag niet.",
+        "en": "Unfortunately, the train is not running today."
+      },
+      "note": "Often at the start of bad news: Helaas, ..."
+    },
+    {
+      "nl": "weten",
+      "en": "to know",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik weet, jij weet, wij weten (heeft geweten)",
+      "example": {
+        "nl": "Weet u wanneer de trein vertrekt?",
+        "en": "Do you know when the train departs?"
+      },
+      "note": "Very useful in polite questions: Weet u ...?"
+    },
+    {
+      "nl": "vertellen",
+      "en": "to tell",
+      "pos": "verb",
+      "article": null,
+      "plural": null,
+      "forms": "ik vertel, jij vertelt, wij vertellen (heeft verteld)",
+      "example": {
+        "nl": "Kunt u mij vertellen of de trein rijdt?",
+        "en": "Can you tell me if the train is running?"
+      },
+      "note": "Kunt u mij vertellen ...? is a very useful polite opening."
+    }
+  ],
+  "phrases": [
+    {
+      "nl": "Heeft de trein vertraging?",
+      "en": "Is the train delayed?",
+      "note": null
+    },
+    {
+      "nl": "Van welk spoor vertrekt de trein?",
+      "en": "From which platform does the train depart?",
+      "note": "Welk with het-words: het spoor."
+    },
+    {
+      "nl": "De trein rijdt vandaag niet.",
+      "en": "The train is not running today.",
+      "note": null
+    },
+    {
+      "nl": "Er rijdt een vervangende bus.",
+      "en": "There is a replacement bus running.",
+      "note": null
+    },
+    {
+      "nl": "Ik mis mijn aansluiting.",
+      "en": "I'm missing my connection.",
+      "note": null
+    },
+    {
+      "nl": "Weet u of de trein naar Leiden gaat?",
+      "en": "Do you know if the train goes to Leiden?",
+      "note": "of = if/whether in indirect questions."
+    },
+    {
+      "nl": "Kunt u mij vertellen hoe laat de volgende trein vertrekt?",
+      "en": "Can you tell me what time the next train leaves?",
+      "note": "After vertellen, the indirect question has the verb at the end."
+    },
+    {
+      "nl": "De trein wordt over ongeveer tien minuten verwacht.",
+      "en": "The train is expected in about ten minutes.",
+      "note": "Fixed announcement style: wordt verwacht."
+    },
+    {
+      "nl": "Helaas, er is een storing.",
+      "en": "Unfortunately, there is a disruption.",
+      "note": null
+    },
+    {
+      "nl": "Dan neem ik de bus.",
+      "en": "Then I'll take the bus.",
+      "note": "After dan, the verb comes second: neem ik."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Indirect questions: Weet u ...? / Kunt u mij vertellen ...?",
+      "explanation": "Direct questions have two shapes. A yes/no question starts with the verb: **Vertrekt de trein om negen uur?** A question with a question word starts with that word and then the verb: **Hoe laat vertrekt de trein?** A polite indirect question starts with **Weet u ...?** or **Kunt u mij vertellen ...?** Then the question word stays, but the verb goes to the end: **Weet u hoe laat de trein vertrekt?** For a yes/no question, use **of** (if/whether) and put the verb at the end: **Weet u of de trein naar Leiden gaat?**",
+      "table": {
+        "headers": [
+          "Direct question",
+          "Indirect question"
+        ],
+        "rows": [
+          [
+            "Hoe laat vertrekt de trein?",
+            "Weet u hoe laat de trein vertrekt?"
+          ],
+          [
+            "Gaat de trein naar Leiden?",
+            "Weet u of de trein naar Leiden gaat?"
+          ],
+          [
+            "Rijdt de bus vandaag?",
+            "Kunt u mij vertellen of de bus vandaag rijdt?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "Weet u hoe laat de volgende bus vertrekt?",
+          "en": "Do you know what time the next bus leaves?"
+        },
+        {
+          "nl": "Kunt u mij vertellen of ik moet overstappen?",
+          "en": "Can you tell me if I have to change trains?"
+        },
+        {
+          "nl": "Weet u of er een vervangende bus rijdt?",
+          "en": "Do you know if there is a replacement bus running?"
+        }
+      ],
+      "tip": "In an indirect question, do not keep the direct question order. The verb goes last."
+    },
+    {
+      "title": "Station announcements: short and verb second",
+      "explanation": "Announcements are short. The subject can be long, but the verb comes right after it: **De trein naar Leiden vertrekt van spoor 5.** To say that a train is not running, use **rijdt niet**: **De trein naar Utrecht rijdt vandaag niet.** You will also hear **wordt verwacht** (is expected): **De trein wordt over tien minuten verwacht.**",
+      "table": {
+        "headers": [
+          "Announcement",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "De trein naar Leiden vertrekt van spoor 5.",
+            "The train to Leiden departs from platform 5."
+          ],
+          [
+            "De trein naar Utrecht rijdt vandaag niet.",
+            "The train to Utrecht is not running today."
+          ],
+          [
+            "De trein naar Eindhoven wordt om tien uur verwacht.",
+            "The train to Eindhoven is expected at ten o'clock."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De trein naar Utrecht vertrekt van spoor 3.",
+          "en": "The train to Utrecht departs from platform 3."
+        },
+        {
+          "nl": "De trein naar Leiden rijdt vandaag niet.",
+          "en": "The train to Leiden is not running today."
+        },
+        {
+          "nl": "De bus wordt over ongeveer tien minuten verwacht.",
+          "en": "The bus is expected in about ten minutes."
+        }
+      ],
+      "tip": "Listen for the destination first, then the verb, then the platform or time."
+    },
+    {
+      "title": "Te laat komen, missen en de aansluiting",
+      "explanation": "**Te laat komen** means to arrive too late: **Ik kom te laat.** **Missen** means to miss something you wanted to take: **Ik mis de bus.** With trains, the useful combination is **de aansluiting missen**: **Ik mis mijn aansluiting in Utrecht.**",
+      "table": {
+        "headers": [
+          "Dutch",
+          "English"
+        ],
+        "rows": [
+          [
+            "Ik kom te laat.",
+            "I am late."
+          ],
+          [
+            "Ik mis de bus.",
+            "I miss the bus."
+          ],
+          [
+            "Ik mis mijn aansluiting.",
+            "I miss my connection."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "nl": "De trein komt te laat.",
+          "en": "The train is late."
+        },
+        {
+          "nl": "Ik mis mijn aansluiting in Utrecht.",
+          "en": "I miss my connection in Utrecht."
+        },
+        {
+          "nl": "Als ik de bus mis, neem ik de trein.",
+          "en": "If I miss the bus, I take the train."
+        }
+      ],
+      "tip": "Missen is a weak verb: ik mis, jij mist, wij missen, heb gemist."
+    }
+  ],
+  "dialogue": {
+    "title": "Aan de informatiebalie",
+    "setting": "Sanne's train to Leiden is cancelled; she asks for help at the information desk at Utrecht station.",
+    "speakers": [
+      {
+        "name": "Sanne",
+        "gender": "f"
+      },
+      {
+        "name": "Meneer De Vries",
+        "gender": "m"
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Sanne",
+        "nl": "Goedemiddag, ik heb een vraag. Mijn trein naar Leiden rijdt niet.",
+        "en": "Good afternoon, I have a question. My train to Leiden is not running."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Goedemiddag. Ja, helaas. Er is een storing bij Utrecht. De trein rijdt vandaag niet.",
+        "en": "Good afternoon. Yes, unfortunately. There is a disruption near Utrecht. The train is not running today."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Wat jammer. Weet u hoe ik in Leiden kom?",
+        "en": "What a shame. Do you know how I can get to Leiden?"
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "U kunt met de trein naar Utrecht gaan en daar overstappen. Dan heeft u ongeveer tien minuten vertraging.",
+        "en": "You can take the train to Utrecht and change there. Then you have about ten minutes' delay."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "En als ik mijn aansluiting mis?",
+        "en": "And if I miss my connection?"
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Dan rijdt er een vervangende bus. Die vertrekt van spoor 5.",
+        "en": "Then there is a replacement bus running. It departs from platform 5."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Kunt u mij vertellen hoe laat de bus vertrekt?",
+        "en": "Can you tell me what time the bus departs?"
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "De bus wordt over ongeveer tien minuten verwacht. Kijk ook in de reisplanner.",
+        "en": "The bus is expected in about ten minutes. Check the journey planner too."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dank u wel. Is er ook een omleiding voor de bus?",
+        "en": "Thank you. Is there also a diversion for the bus?"
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Ja, er is een omleiding bij het station. De bus stopt ook bij het ziekenhuis.",
+        "en": "Yes, there is a diversion near the station. The bus also stops at the hospital."
+      },
+      {
+        "speaker": "Sanne",
+        "nl": "Dan ga ik naar spoor 5. Bedankt voor de informatie.",
+        "en": "Then I'll go to platform 5. Thanks for the information."
+      },
+      {
+        "speaker": "Meneer De Vries",
+        "nl": "Graag gedaan. Fijne reis!",
+        "en": "You're welcome. Have a good trip!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "de vertraging",
+          "the delay"
+        ],
+        [
+          "het spoor",
+          "the platform, track"
+        ],
+        [
+          "de aansluiting",
+          "the connection"
+        ],
+        [
+          "de vervangende bus",
+          "the replacement bus"
+        ],
+        [
+          "de omleiding",
+          "the diversion"
+        ]
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        [
+          "uitvallen",
+          "to be cancelled"
+        ],
+        [
+          "missen",
+          "to miss"
+        ],
+        [
+          "vertrekken",
+          "to depart"
+        ],
+        [
+          "aankomen",
+          "to arrive"
+        ],
+        [
+          "ongeveer",
+          "approximately"
+        ]
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word means 'the announcement, notice'?",
+      "nl": null,
+      "options": [
+        "de mededeling",
+        "de omleiding",
+        "de aansluiting"
+      ],
+      "answer": 0,
+      "explain": "De mededeling is a notice or announcement. De omroep usually means the broadcaster or the broadcast."
+    },
+    {
+      "type": "choice",
+      "prompt": "Your train is not running today. What do you say?",
+      "nl": null,
+      "options": [
+        "De trein rijdt vandaag niet.",
+        "De trein komt vandaag aan.",
+        "De trein heeft een aansluiting."
+      ],
+      "answer": 0,
+      "explain": "Rijdt niet means it is not running."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which question is polite and indirect?",
+      "nl": null,
+      "options": [
+        "Weet u hoe laat de trein vertrekt?",
+        "Hoe laat vertrekt de trein?",
+        "De trein vertrekt om negen uur."
+      ],
+      "answer": 0,
+      "explain": "Weet u ...? makes the question indirect and polite; the verb goes to the end."
+    },
+    {
+      "type": "article",
+      "word": "vertraging",
+      "en": "delay",
+      "answer": "de"
+    },
+    {
+      "type": "article",
+      "word": "spoor",
+      "en": "platform, track",
+      "answer": "het"
+    },
+    {
+      "type": "build",
+      "en": "The train to Leiden departs from platform 5.",
+      "answer": "De trein naar Leiden vertrekt van spoor 5.",
+      "accept": [
+        "Van spoor 5 vertrekt de trein naar Leiden."
+      ],
+      "extra": [
+        "rijdt",
+        "om"
+      ],
+      "explain": "In a statement the verb comes second: 'De trein naar Leiden vertrekt ...'. Use 'van spoor' for the platform."
+    },
+    {
+      "type": "build",
+      "en": "Do you know if this train goes to Leiden?",
+      "answer": "Weet u of deze trein naar Leiden gaat?",
+      "accept": [],
+      "extra": [
+        "vertelt",
+        "om"
+      ],
+      "explain": "After 'Weet u of', the verb goes to the end: '... deze trein naar Leiden gaat'. Use 'of' for 'if/whether'."
+    },
+    {
+      "type": "build",
+      "en": "The train is expected in about ten minutes.",
+      "answer": "De trein wordt over ongeveer tien minuten verwacht.",
+      "accept": [
+        "Over ongeveer tien minuten wordt de trein verwacht."
+      ],
+      "extra": [
+        "is",
+        "rijdt"
+      ],
+      "explain": "Use 'wordt ... verwacht' for 'is expected'; 'verwacht' goes at the end. 'Over ongeveer tien minuten' means 'in about ten minutes'."
+    },
+    {
+      "type": "gap",
+      "text": "De trein naar Utrecht ___ vandaag niet.",
+      "en": "The train to Utrecht is not running today.",
+      "answers": [
+        "rijdt"
+      ],
+      "hint": "rijden",
+      "explain": "Use 'rijdt' for 'de trein' (third person singular): 'De trein rijdt vandaag niet.'"
+    },
+    {
+      "type": "gap",
+      "text": "Ik ___ mijn aansluiting in Utrecht.",
+      "en": "I miss my connection in Utrecht.",
+      "answers": [
+        "mis"
+      ],
+      "hint": "missen",
+      "explain": "Use 'mis' for 'ik': 'Ik mis mijn aansluiting.'"
+    },
+    {
+      "type": "gap",
+      "text": "Kunt u mij ___ hoe laat de bus vertrekt?",
+      "en": "Can you tell me what time the bus departs?",
+      "answers": [
+        "vertellen",
+        "zeggen"
+      ],
+      "hint": "vertellen",
+      "explain": "After 'Kunt u mij', use the infinitive 'vertellen' (or 'zeggen'); the indirect question follows."
+    },
+    {
+      "type": "translate",
+      "en": "The train is ten minutes late.",
+      "answers": [
+        "De trein heeft tien minuten vertraging.",
+        "De trein heeft een vertraging van tien minuten.",
+        "De trein is tien minuten vertraagd."
+      ],
+      "focus": "vertraging with hebben",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses zijn instead of hebben with vertraging (De trein is tien minuten vertraging).",
+          "explain": "Use hebben with the noun vertraging: 'De trein heeft tien minuten vertraging.'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses the participle vertraagd instead of the noun vertraging (De trein heeft tien minuten vertraagd).",
+          "explain": "After hebben + time, use the noun: 'tien minuten vertraging'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Puts minuten before the number (De trein heeft minuten tien vertraging).",
+          "explain": "The number comes first: 'tien minuten'."
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Do you know if the train to Leiden is running today?",
+      "answers": [
+        "Weet u of de trein naar Leiden vandaag gaat?",
+        "Weet u of de trein vandaag naar Leiden gaat?",
+        "Weet u of de trein naar Leiden vandaag rijdt?",
+        "Weet u of de trein vandaag naar Leiden rijdt?",
+        "Kunt u mij vertellen of de trein naar Leiden vandaag gaat?",
+        "Kunt u mij vertellen of de trein vandaag naar Leiden gaat?"
+      ],
+      "focus": "indirect question with of",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps the direct question order after of (Weet u of gaat de trein naar Leiden vandaag?).",
+          "explain": "After of, the verb goes to the end: 'Weet u of de trein naar Leiden vandaag gaat?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Puts the verb before vandaag in the indirect question (Weet u of de trein naar Leiden gaat vandaag?).",
+          "explain": "In an indirect question the verb comes at the end: '... de trein naar Leiden vandaag gaat.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses dat instead of of for 'if/whether' (Weet u dat de trein naar Leiden vandaag gaat?).",
+          "explain": "Use of for an indirect yes/no question: 'Weet u of ...?'"
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "en": "Unfortunately, there is a disruption.",
+      "answers": [
+        "Helaas, er is een storing.",
+        "Er is helaas een storing.",
+        "Helaas is er een storing.",
+        "Er is een storing, helaas."
+      ],
+      "focus": "helaas and storing",
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Uses hebben with storing (Helaas, er heeft een storing).",
+          "explain": "Use zijn with er: 'er is een storing'."
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses het instead of er for 'there is' (Helaas, het is een storing).",
+          "explain": "For 'there is', use er is: 'Er is een storing.'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses geen and reverses the meaning (Helaas, er is geen storing).",
+          "explain": "The English says there is a disruption, so use positive 'er is een storing'."
+        }
+      ]
+    },
+    {
+      "type": "listen",
+      "nl": "De trein rijdt vandaag niet.",
+      "en": "The train is not running today."
+    },
+    {
+      "type": "listen",
+      "nl": "U heeft ongeveer tien minuten vertraging.",
+      "en": "You are delayed by about ten minutes."
+    },
+    {
+      "type": "reply",
+      "context": "You are at the information desk. Your train to Leiden is cancelled.",
+      "say": {
+        "nl": "Goedemiddag, mijn trein naar Leiden rijdt niet. Weet u hoe ik in Leiden kom?",
+        "en": "Good afternoon, my train to Leiden is not running. Do you know how I can get to Leiden?"
+      },
+      "task": "Ask politely how to get to Leiden.",
+      "examples": [
+        "Weet u hoe ik in Leiden kom?",
+        "Kunt u mij vertellen hoe ik in Leiden kom?",
+        "Kunt u mij zeggen hoe ik in Leiden kom?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps direct question order after Weet u (Weet u hoe kom ik in Leiden?).",
+          "explain": "After Weet u, the verb goes to the end: 'Weet u hoe ik in Leiden kom?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Uses dat instead of of for 'if/whether' (Weet u dat ik in Leiden kom?).",
+          "explain": "Use of for a yes/no indirect question: 'Weet u of ik in Leiden kom?'"
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a direct question instead of a polite indirect question (Hoe kom ik in Leiden?).",
+          "explain": "Add Weet u or Kunt u mij vertellen and put the verb at the end: 'Weet u hoe ik in Leiden kom?'"
+        }
+      ]
+    },
+    {
+      "type": "reply",
+      "context": "The staff member says there is a replacement bus from platform 5. You want to know what time it leaves.",
+      "say": {
+        "nl": "Kunt u mij vertellen hoe laat de bus vertrekt?",
+        "en": "Can you tell me what time the bus departs?"
+      },
+      "task": "Ask politely what time the replacement bus leaves.",
+      "examples": [
+        "Kunt u mij vertellen hoe laat de bus vertrekt?",
+        "Weet u hoe laat de vervangende bus vertrekt?",
+        "Kunt u mij zeggen hoe laat de bus van spoor 5 vertrekt?"
+      ],
+      "mistakes": [
+        {
+          "id": "m1",
+          "pattern": "Keeps direct question order after Kunt u mij vertellen (Kunt u mij vertellen hoe laat vertrekt de bus?).",
+          "explain": "After Kunt u mij vertellen, the verb goes to the end: '... hoe laat de bus vertrekt?'"
+        },
+        {
+          "id": "m2",
+          "pattern": "Forgets the -t in the third person singular (Weet u hoe laat de bus vertrek?).",
+          "explain": "De bus vertrekt takes -t: 'de bus vertrekt'."
+        },
+        {
+          "id": "m3",
+          "pattern": "Uses a direct question instead of a polite indirect question (Hoe laat vertrekt de bus?).",
+          "explain": "Make it polite with Kunt u mij vertellen and put the verb at the end: 'Kunt u mij vertellen hoe laat de bus vertrekt?'"
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "title": "Bij de informatiebalie",
+    "setting": "You are at the information desk at Utrecht station. Your train to Leiden is cancelled and you need to find another way to Leiden.",
+    "partner": {
+      "name": "Mevrouw De Vries",
+      "gender": "f",
+      "role": "medewerkster aan de informatiebalie"
+    },
+    "turns": [
+      {
+        "say": {
+          "nl": "Goedemiddag, kan ik u helpen?",
+          "en": "Good afternoon, can I help you?"
+        },
+        "task": "Say that your train to Leiden is not running and ask politely how to get to Leiden.",
+        "examples": [
+          "Goedemiddag, mijn trein naar Leiden rijdt niet. Weet u hoe ik in Leiden kom?",
+          "Goedemiddag, mijn trein naar Leiden rijdt niet. Kunt u mij vertellen hoe ik in Leiden kom?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps direct question order after Weet u (Weet u hoe kom ik in Leiden?).",
+            "explain": "After Weet u, the verb goes to the end: 'Weet u hoe ik in Leiden kom?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses dat instead of of for 'if/whether' (Weet u dat ik in Leiden kom?).",
+            "explain": "Use of for a yes/no indirect question: 'Weet u of ik in Leiden kom?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Puts vandaag before the verb (Mijn trein vandaag rijdt niet).",
+            "explain": "Keep the verb second: 'Mijn trein rijdt vandaag niet.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "Ja, helaas. De trein rijdt vandaag niet. U kunt met de bus naar Utrecht gaan.",
+          "en": "Yes, unfortunately. The train is not running today. You can take the bus to Utrecht."
+        },
+        "task": "Ask if you will miss your connection in Utrecht.",
+        "examples": [
+          "Mis ik mijn aansluiting in Utrecht?",
+          "Kan ik in Utrecht nog overstappen?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Forgets inversion in a yes/no question (Ik mis mijn aansluiting in Utrecht?).",
+            "explain": "Start with the verb: 'Mis ik mijn aansluiting in Utrecht?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses hebben + participle instead of the present (Heb ik mijn aansluiting in Utrecht gemist?).",
+            "explain": "Ask about now with the present: 'Mis ik mijn aansluiting in Utrecht?'"
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses verlies instead of mis for missing a connection (Verlies ik mijn aansluiting in Utrecht?).",
+            "explain": "Use missen for transport: 'Ik mis mijn aansluiting.'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "U heeft ongeveer tien minuten vertraging, dus u haalt de aansluiting waarschijnlijk wel. Er rijdt ook een vervangende bus van spoor 5.",
+          "en": "You have about ten minutes' delay, so you will probably make the connection. There is also a replacement bus from platform 5."
+        },
+        "task": "Ask politely what time the replacement bus leaves.",
+        "examples": [
+          "Kunt u mij vertellen hoe laat de vervangende bus vertrekt?",
+          "Weet u hoe laat de bus van spoor 5 vertrekt?",
+          "Kunt u mij zeggen hoe laat de bus vertrekt?"
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Keeps direct question order after Kunt u mij vertellen (Kunt u mij vertellen hoe laat vertrekt de bus?).",
+            "explain": "After Kunt u mij vertellen, the verb goes to the end: '... hoe laat de bus vertrekt?'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Forgets the -t in the third person singular (Weet u hoe laat de bus vertrek?).",
+            "explain": "De bus vertrekt takes -t: 'de bus vertrekt'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Uses a direct question instead of a polite indirect question (Hoe laat vertrekt de bus?).",
+            "explain": "Make it polite with Kunt u mij vertellen and put the verb at the end: 'Kunt u mij vertellen hoe laat de bus vertrekt?'"
+          }
+        ]
+      },
+      {
+        "say": {
+          "nl": "De bus wordt over ongeveer tien minuten verwacht. Kijk ook in de reisplanner.",
+          "en": "The bus is expected in about ten minutes. Check the journey planner too."
+        },
+        "task": "Thank the staff member and say you will go to platform 5.",
+        "examples": [
+          "Dank u wel. Dan ga ik naar spoor 5.",
+          "Bedankt voor de informatie. Ik ga naar spoor 5."
+        ],
+        "mistakes": [
+          {
+            "id": "m1",
+            "pattern": "Omits naar before spoor 5 (Ik ga spoor 5).",
+            "explain": "Use naar for direction: 'Ik ga naar spoor 5.'"
+          },
+          {
+            "id": "m2",
+            "pattern": "Uses de with the het-word spoor (Ik ga naar de spoor 5).",
+            "explain": "In this fixed phrase spoor takes no article: 'naar spoor 5'."
+          },
+          {
+            "id": "m3",
+            "pattern": "Keeps the subject before the verb after dan (Dan ik ga naar spoor 5).",
+            "explain": "After dan, invert: 'Dan ga ik naar spoor 5.'"
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "nl": "Graag gedaan. Fijne reis!",
+      "en": "You're welcome. Have a good trip!"
+    }
+  },
+  "culture": {
+    "title": "Live travel information",
+    "text": "In the Netherlands, the NS app and the NS website show live information about delays and disruptions. A storing can be a technical problem, but it can also mean that part of the route is closed and buses replace the train. At large stations, staff at the informatiebalie can help you plan another route. Station announcements are often short: listen for the destination, the platform and the time."
+  },
+  "summary": [
+    "Ask indirectly with Weet u ...? or Kunt u mij vertellen ...? and put the verb at the end.",
+    "Use of in yes/no indirect questions: Weet u of de trein naar Leiden gaat?",
+    "Station announcements are short and verb-second: De trein naar Leiden vertrekt van spoor 5.",
+    "For delays, use De trein rijdt niet, Ik mis mijn aansluiting and Er rijdt een vervangende bus.",
+    "Helaas and ongeveer help you give bad news clearly and politely."
+  ]
+}
