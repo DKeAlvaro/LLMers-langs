@@ -62,6 +62,9 @@ def core_items(lesson):
     return {(t, "F") for t in out if t}
 
 
+APP_CLIPS = [("Hallo! Welkom.", "F")]  # spoken by the app itself (onboarding)
+
+
 def items(lesson):
     out = []
     add = lambda t, v: t and t.strip() and out.append((t.strip(), v))  # noqa: E731
@@ -179,6 +182,8 @@ async def main():
         core |= core_items(lesson)
         for t, v in items(lesson):
             todo[(t, v)] = True
+    for k in APP_CLIPS:
+        todo[k] = True
     el_todo = set() if no_el else ({k for k in todo} if el_all else {k for k in todo if k in core})
     el_todo = {k for k in el_todo if sources.get(clip(*k)) != "el"}
     need = sum(len(t) for t, _ in el_todo) // 2  # flash = 0.5 credits/char
